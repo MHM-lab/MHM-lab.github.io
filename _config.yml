@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "FINN Lab"
+title                    : "MH&ML-Lab"
 title_separator          : "-"
-name                     : &name "FINN Lab"
-description              : &description "Functional Imaging & Naturalistic Neuroscience lab at Dartmouth"
-url                      : https://thefinnlab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "MH&ML-Lab"
+description              : &description "Mental Health & Machine Learning lab at Tübingen"
+url                      : https://nhml.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "thefinnlab.github.io"
+repository               : "mhml.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "<b>F</b>unctional <br> <b>I</b>maging & <br> <b>N</b>aturalistic <br> <b>N</b>euroscience"
   avatar           : "brain_fingerprint.png"
-  bio              : "Psychological & Brain Sciences, Dartmouth College"
-  location         : "Hanover, NH"
+  bio              : "Mental Health & Machine learning"
+  location         : "Tübingen, GER"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "https://scholar.google.com/citations?user=95oJGacAAAAJ&hl=en&oi=ao"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "thefinnlab"
+  github           : "RindKind"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "FINNLab_neuro"
+  twitter          : "thomaswolfers"
   vine             :
   weibo            :
   xing             :
