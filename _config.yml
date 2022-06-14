@@ -11,7 +11,7 @@ title                    : "MH&ML-Lab"
 title_separator          : "-"
 name                     : &name "MH&ML-Lab"
 description              : &description "Mental Health & Machine Learning lab at Tübingen"
-url                      : https://rindkind.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://rindkind.github.io/mhml.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mhml.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "<b>F</b>unctional <br> <b>I</b>maging & <br> <b>N</b>aturalistic <br> <b>N</b>euroscience"
+  name             : "Dr. Thomas Wolfers"
   avatar           : "brain_fingerprint.png"
   bio              : "Mental Health & Machine learning"
   location         : "Tübingen, GER"
   employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "https://scholar.google.com/citations?user=95oJGacAAAAJ&hl=en&oi=ao"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=KJaA3sEAAAAJ&hl=nl"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "thomaswolfers"
