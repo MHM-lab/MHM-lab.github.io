@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MH&ML-Lab"
+title                    : "MH&ML"
 title_separator          : "-"
-name                     : &name "MH&ML-Lab"
-description              : &description "Mental Health & Machine Learning lab at Tübingen"
+name                     : &name "MH&ML"
+description              : &description "Laboratory for Mental Health & Machine Learning Tübingen"
 url                      : https://rindkind.github.io/mhml.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mhml.github.io"
