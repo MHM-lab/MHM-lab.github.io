@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Functional Imaging and Naturalistic Neuroscience Lab"
+title: "Mental Health & Machine Learning Lab"
 excerpt: "About us"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-What makes us unique? How do our intrinsic traits bias our perceptions and judgments, and how is this reflected in patterns of brain activity? Why might different people arrive at different interpretations of the same experience? My lab’s research combines behavioral, neuroimaging and computational techniques to study individual differences in cognition, especially under rich, dynamic, “naturalistic” stimulation such as watching movies or listening to stories. We are particularly interested in how individuals resolve ambiguity in narratives, and how this process varies with trait- and state-level factors.
+Science is more than my profession, I want to bring tangible progress to the life of people with a mental disorder. Through a focus on individuals as opposed to the disorder as a category, I hope to reduce stigmatization and in the long run improve our capacity to treat mechanisms causing suffering. In doing so I apply and develop machine learning methods.
