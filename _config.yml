@@ -11,7 +11,7 @@ title                    : "MH&ML"
 title_separator          : "-"
 name                     : &name "MH&ML"
 description              : &description "Laboratory for Mental Health & Machine Learning Tübingen"
-url                      : https://mhml-lab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://mhml-lab.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mhml.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Thomas Wolfers"
-  avatar           : "brain_fingerprint.png"
+  avatar           : "painting_tuebingen.png"
   bio              : "Mental Health & Machine learning"
   location         : "Tübingen, GER"
   employer         :
