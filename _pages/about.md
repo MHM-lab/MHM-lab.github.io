@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mental Health & Machine Learning Lab"
+title: "Laboratory for Mental Health & Machine Learning"
 excerpt: "About us"
 author_profile: true
 redirect_from: 
