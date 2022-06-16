@@ -7,13 +7,13 @@ author_profile: true
 
 **Postdocs**: 
 
-One Postdoc position in Tübingen - get in touch! 
-* Germany (TV-L 13, 100%, 3-5 years)
-* Background in machine learning, computer-science, neuroscience, physics, or related field
-* Expertise in python, R, and/or another programming language(s).
-* Experience with brain imaging technology (MRI, EEG, etc.)
-* Send your CV, letter of motivation and contacts of two mentors.
-Don't hesitate to get in touch if you have any questions - dr.thomas.wolfers@gmail.com
+One Postdoc position in Tübingen, Germany. Don't hesitate to get in touch if you have any questions - dr.thomas.wolfers@gmail.com
+-Germany (TV-L 13, 100%, 3-5 years)
+-Background in machine learning, computer-science, neuroscience, physics, or related field
+-Expertise in python, R, and/or another programming language(s).
+-Experience with brain imaging technology (MRI, EEG, etc.)
+-Send your CV, letter of motivation and contacts of two mentors.
+
 
 **PhD students**: 
 
