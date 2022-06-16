@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MH&ML"
+title                    : "PM&ML"
 title_separator          : "-"
-name                     : &name "MH&ML"
-description              : &description "Laboratory for Mental Health & Machine Learning in Tübingen"
-url                      : "https://mhml-lab.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "PM&ML"
+description              : &description "Laboratory for Personalized Medicine & Machine Learning in Tübingen"
+url                      : "https://pmml-lab.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mhml.github.io"
+repository               : "pmml.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : 
   avatar           : "painting_tuebingen.png"
-  bio              : "Mental Health & Machine Learning"
+  bio              : " Personalized Medicine & Machine Learning"
   location         : "Tübingen, GER"
   employer         :
   pubmed           : 
