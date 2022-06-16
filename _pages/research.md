@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
   
-## Mental Health Branch
+## Personalized Medicine Branch
 <img align="right" src="" width="400 px" style="padding: 10px">
 <br>
 <br>
