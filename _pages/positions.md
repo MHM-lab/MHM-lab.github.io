@@ -28,4 +28,4 @@ If you like to write a research proposal for your individual funding, don't hesi
 
 ## Internship opportunities:
 
-If you are a student in medicine, psychology, biology, computer-science, neuroscience, physics, or a like and you like to learn more about mental health and the brain and how to analyse it, don't hesitate to get in touch - dr.thomas.wolfers@gmail.com
+If you are a student in medicine, psychology, biology, computer-science, neuroscience, physics, or a like and you like to learn more about mental health, the brain and how to analyse it, don't hesitate to get in touch - dr.thomas.wolfers@gmail.com
