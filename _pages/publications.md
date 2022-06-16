@@ -19,7 +19,7 @@ author_profile: true
 * SUMMARY: We showed that clustering approaches used to parse the heterogeneity of Autism(s) require more external replications and validations.
 6.	***Llera; Alberto; Wolfers, Thomas; …; Beckmann, Christian F; (2019) Inter-individual differences in human brain structure and morphometry link to population variation in demographics and behavior. Elife.*** https://doi.org/10.7554/eLife.44443.001
 * SUMMARY: We could show that brain structure explained a large proportion of functional interactions between different regions in the healthy human brain.
-7.	***Wolfers, Thomas; (2019). Towards precision medicine in psychiatry. Dissertation http://hdl.handle.net/2066/201200*** 
+7.	***Wolfers, Thomas; (2019). Towards precision medicine in psychiatry. Dissertation***  (link)[http://hdl.handle.net/2066/201200]
 * SUMMARY: In my PhD thesis, we developed a precision medicine approach for psychiatry and discussed necessary next steps and introduced a roadmap towards this goal.
 8.	***Wolfers, Thomas; …; Westlye, Lars T; (2021). Replicating extensive brain structural heterogeneity in individuals with schizophrenia and bipolar disorder. Human Brain Mapping.*** https://doi.org/10.1101/2020.05.08.20095091
 * SUMMARY: We replicated our earlier finding that patients with schizophrenia and bipolar disorder and showed an individualized profile of normative deviations.
