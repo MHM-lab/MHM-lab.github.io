@@ -5,10 +5,19 @@ permalink: /positions/
 author_profile: true
 ---
 
-**Postdocs**: We are not actively recruiting postdocs at this time, but we are always happy to hear from interested individuals who might be a good fit. Please email Emily with your CV and brief cover letter describing your research background, interests, and funding (if available) to ask about opportunities.
+**Postdocs**: 
+One Postdoc position in Tübingen - get in touch! 
+* Germany (TV-L 13, 100%, 3-5 years)
+* Background in machine learning, computer-science, neuroscience, physics, or related field
+* Expertise in python, R, and/or another programming language(s).
+* Experience with brain imaging technology (MRI, EEG, etc.)
+* Send your CV, letter of motivation and contacts of two mentors.
+Don't hesitate to get in touch if you have any questions - dr.thomas.wolfers@gmail.com
 
-**PhD students**: Applications are to the [Graduate Program in Psychological and Brain Sciences](https://pbs.dartmouth.edu/graduate-program-psychological-and-brain-sciences) through the [Guarini School of Graduate and Advanced Studies](https://graduate.dartmouth.edu/), and the deadline is expected to be on or around December 1, 2021. While you are welcome to email Emily to express your interest or ask any questions prior to submitting your application, please note that to maintain fairness for all applicants, all video conversations will be scheduled for *after* the written application deadline. 
+**PhD students**: 
+Currently no position available. As soon as we have a position open it will be advertised here. 
+If you like to write a research proposal for a foundinground you get in touch - dr.thomas.wolfers@gmail.com .
 
-**Full-time research assistants**: We are not actively recruiting full-time RAs/lab managers at this time, but please watch this space for potential opportunities.
 
-**Undergraduate part-time research assistants**: Interested undergrads may download and fill out this [application form](https://docs.google.com/document/d/1wlPxIw6OAbRHHOJvx1yPzkhXAGOu-2bjb6JHo-aTsBE/edit?usp=sharing) and email it to Josie ([josefa.m.equita@dartmouth.edu](mailto:josefa.m.equita@dartmouth.edu)).
+**Internship opportunities**:
+If you are a student in medicine, psychology, biology, computer-science, neuroscience, physics, or a like and you like to learn more about mental health and the brain and how to analyse it, don't hesitate to get in touch - dr.thomas.wolfers@gmail.com
