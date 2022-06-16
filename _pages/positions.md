@@ -16,10 +16,14 @@ One Postdoc position in Tübingen, Germany. Don't hesitate to get in touch if yo
 - Send your CV, letter of motivation and contacts of two mentors.
 
 
+
+
 **PhD students**: 
 
 Currently no position available. As soon as we have a position open it will be advertised here. 
 If you like to write a research proposal for a foundinground you get in touch - dr.thomas.wolfers@gmail.com .
+
+
 
 
 **Internship opportunities**:
