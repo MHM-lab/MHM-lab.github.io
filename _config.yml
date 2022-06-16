@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Laboratory for Mental Health & Machine Learning"
+  name             : 
   avatar           : "painting_tuebingen.png"
-  bio              : 
+  bio              : "Mental Health & Machine Learning"
   location         : "Tübingen, GER"
   employer         :
   pubmed           : 
