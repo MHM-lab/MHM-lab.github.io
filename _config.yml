@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Thomas Wolfers"
+  name             : "Laboratory for Mental Health & Machine Learning"
   avatar           : "painting_tuebingen.png"
-  bio              : "Mental Health & Machine Learning"
+  bio              : 
   location         : "Tübingen, GER"
   employer         :
   pubmed           : 
