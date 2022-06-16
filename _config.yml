@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "MH&ML"
 title_separator          : "-"
 name                     : &name "MH&ML"
-description              : &description "Laboratory for Mental Health & Machine Learning Tübingen"
+description              : &description "Laboratory for Mental Health & Machine Learning in Tübingen"
 url                      : "https://mhml-lab.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mhml.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Thomas Wolfers"
   avatar           : "painting_tuebingen.png"
-  bio              : "Mental Health & Machine learning"
+  bio              : "Mental Health & Machine Learning"
   location         : "Tübingen, GER"
   employer         :
   pubmed           : 
