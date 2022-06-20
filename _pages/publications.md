@@ -18,14 +18,14 @@ author_profile: true
 5.	***Wolfers, Thomas; …; Beckmann, Christian F; (2019). From pattern classification to stratification: towards conceptualizing the heterogeneity of Autism Spectrum Disorder. Neuroscience & Biobehavioral Reviews.*** [link](https://doi.org/10.1016/j.neubiorev.2019.07.010)
 * SUMMARY: We showed that clustering approaches used to parse the heterogeneity of Autism(s) require more external replications and validations.
 6.	***Llera; Alberto; Wolfers, Thomas; …; Beckmann, Christian F; (2019) Inter-individual differences in human brain structure and morphometry link to population variation in demographics and behavior. Elife.*** [link](https://doi.org/10.7554/eLife.44443.001)
-* SUMMARY: We could show that brain structure explained a large proportion of functional interactions between different regions in the healthy human brain.
+* SUMMARY: We could show that brain structure explaines a large proportion of functional interactions between different regions in the healthy human brain.
 7.	***Wolfers, Thomas; (2019). Towards precision medicine in psychiatry. Dissertation***  [link](http://hdl.handle.net/2066/201200)
-* SUMMARY: In my PhD thesis, we developed a precision medicine approach for psychiatry and discussed necessary next steps and introduced a roadmap towards this goal.
+* SUMMARY: We developed a precision medicine approach for psychiatry and discussed necessary next steps and introduced a roadmap towards this goal.
 8.	***Wolfers, Thomas; …; Westlye, Lars T; (2021). Replicating extensive brain structural heterogeneity in individuals with schizophrenia and bipolar disorder. Human Brain Mapping.*** [link](https://doi.org/10.1101/2020.05.08.20095091)
-* SUMMARY: We replicated our earlier finding that patients with schizophrenia and bipolar disorder and showed an individualized profile of normative deviations.
+* SUMMARY: We replicated our earlier finding that patients in schizophrenia and bipolar disorder and showed an individualized profile of normative deviations.
 9.	***Rutherford, Saige; …; Wolfers, Thomas; …; Marquand, Andre F; (2022). Charting brain growth and aging at high spatial precision. Elife.*** [link](https://doi.org/10.7554/eLife.72904)
 * SUMMARY: We charted normative models at high spatial precision for samples that are larger than 50k individuals. This is the first massive population scale neuroimaging based normative modelling approach that can be translated to new samples and is freely available online for other scientists to use. 
 10.	***Leonardsen, Esten; …; Westlye, Lars T #; Wolfers, Thomas #; Yunpeng, Wang # (2022). Deep neural networks learn general and clinically relevant representations of the ageing brain. NeuroImage. # shared last author*** [link](https://doi.org/10.1101/2021.10.29.21265645)
-* SUMMARY: We trained a deep neural network on one of the largest data resources assembled today (N > 50k) to predict the aging brain. We transferred this model to make clinical predictions and share our model and the resource for others to use. This is a brain age-based approach which we currently extend for deep covariate embedding as a basis for normative modelling.
+* SUMMARY: We trained a deep neural network on one of the largest data resources assembled today (N > 50k) to predict the aging brain. We transferred this model to make clinical predictions and share our model and the resource for others to use.
 
 ### All publications can be found on [Google Scholar](https://scholar.google.com/citations?user=KJaA3sEAAAAJ&hl=nl)
