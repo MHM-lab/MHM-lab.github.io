@@ -8,7 +8,7 @@ In this section you find ways in which our lab contributes to a thriving science
 We are a part of the [Department of Psychiatry at the University of Tübingen](https://www.medizin.uni-tuebingen.de/en-de/das-klinikum/einrichtungen/kliniken/psychiatrie-und-psychotherapie), which is one of the locations of the German Centre for Mental Health. Our group is an associated member of the [Cluster of Excellence: Machine Learning in Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/).
 
 ## Talks, courses, and workshops
-Talks, courses, and workshops are an important aspect for a thriving scientific environment. For instance, we contribute to the organization of [The 5th international Workshop on Machine Learning in Clinical Neuroimaging](https://mlcnws.com) at MICCAI and teach at the [Computational Psychiatry Course in Zürich](https://www.translationalneuromodeling.org/cpcourse/). We contribute to other events as well and are happy to answer your questions or requests by [email](mailto:dr.thomas.wolfers@gmail.com).
+Talks, courses, and workshops are an important aspect for a thriving scientific environment. For instance, we contribute to the organization of [The 5th international Workshop on Machine Learning in Clinical Neuroimaging](https://mlcnws.com) at MICCAI and teach at the [Computational Psychiatry Course in Zürich](https://www.translationalneuromodeling.org/cpcourse/) and the course for [machine learning for neuroimaging in Stanford](https://web.stanford.edu/class/psyc221/). We contribute to other events as well and are happy to answer your questions or requests by [email](mailto:dr.thomas.wolfers@gmail.com).
 
 ## Education 
 
