@@ -15,4 +15,4 @@ Welcome! If you have a background (PhD) in machine learning, computer-science, n
 All currently available PhD positions are listed here.
 
 ## Internship opportunities
-We always welcome motivated and interested students.
+We always welcome motivated and interested students. Just get in touch!
