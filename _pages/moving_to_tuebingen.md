@@ -54,7 +54,7 @@ Useful links:<br>
 2) [German language courses at the University](https://uni-tuebingen.de/en/international/welcome-center/guide-for-international-researchers/german-language-courses/)
 <br>
 <br>
-Tübingen is a beautiful German town which is visible everywhere. Sometimes you have to fill in more forms than you would want to and some shops prefer your payment in paper. However, these inconveniences are paid back through a very relaxing attitude and a very good vibe in town. People smile a lot and seem generally to be very content. Some bureaucratic processes in Germany can be a pain. Many Germans call it their collective national sport, which is only second to football/soccer. Yes, there is also a reason why Germany is the second best counted from the last place with respect to digitalization in Europe, expect a lot of printed forms when you arrive.
+Tübingen is a beautiful German town which is visible everywhere. Sometimes you have to fill in more forms than you would want to and some shops prefer your payment in paper. However, these inconveniences are paid back through a very relaxing attitude and a very good vibe in town. People smile a lot and seem generally to be very content. Some bureaucratic processes in Germany can be a pain. Many Germans call it their collective national sport, which is only second to football/soccer. Yes, there is also a reason why Germany is the second best counted from the last place with respect to digitalization in Europe, you can thus expect a lot of printed forms upon arrival.
 <br>
 <br>
 When you work in science, German is not a requirement. However, some of the social life happens in German. Thus, it is good to learn it a bit, but many people like it a lot in Tübingen although they are not fluent in German.
