@@ -6,7 +6,7 @@ Here you find information about moving to Tübingen and Germany. You find some t
 
 ### 1) How is the research environment in Tübingen?<br>
 Useful links:<br>
-1) [Video on the university of Tübingen and the IMPRS-IS](https://www.youtube.com/watch?v=FCJsNGT2diw) <br>
+1) [Video about the university of Tübingen and the IMPRS-IS](https://www.youtube.com/watch?v=FCJsNGT2diw) <br>
 2) [The University of Tübingen has excellence status](http://uni-tuebingen.de) <br>
 3) [Clinic with many outstanding research institues](https://de.wikipedia.org/wiki/Universitätsklinikum_Tübingen)<br>
 4) [One of the locations for the German Center for Mental Health](https://dzhk.de/en/news/latest-news/article/germany-establishes-two-new-centres-for-health-research/) <br>
@@ -54,7 +54,7 @@ Useful links:<br>
 2) [German language courses at the University](https://uni-tuebingen.de/en/international/welcome-center/guide-for-international-researchers/german-language-courses/)
 <br>
 <br>
-Tübingen is a beautiful German town which is visible everywhere. Sometimes you have to fill in more forms than you would want to and some shops prefer your payment in paper. However, these inconveniences are paid back through a very relaxing attitude and a very good vibe in town. People smile a lot and seem generally to be very content.
+Tübingen is a beautiful German town which is visible everywhere. Sometimes you have to fill in more forms than you would want to and some shops prefer your payment in paper. I would have to lie and I don't like that, the bureaucratic processes in German can be a pain. Many Germans call it their collective national sport, which is only second to football. However, these inconveniences are paid back through a very relaxing attitude and a very good vibe in town. People smile a lot and seem generally to be very content.
 <br>
 <br>
 When you work in science, German is not a requirement. However, some of the social life happens in German. Thus, it is good to learn it a bit, but many people like it a lot in Tübingen although they are not fluent in German.
@@ -78,7 +78,7 @@ Useful links:<br>
 1) [Family center for employees at the University](https://uni-tuebingen.de/en/international/welcome-center/guide-for-international-researchers/family-and-children/)
 <br>
 <br>
-Generally, family support in Germany is fabulous. You get extra financial support and have the right to take up to 14 months of paid parental leave at 60% of your last salary after you/or your partner gave birth. As a family you can decide how you share this time. In addition, there is maternity leave to recover and prepare for giving birth (14 weeks) also the father gets some time. Day-care in Germany has a great quality. If you come with your family, your children are entitled to a place. Usually it is for free, sometimes you pay about ~150-250 Euros per months. Food is provided to the children. There are international schools as well but not needed as public schools are of great quality in general. Schools are for free.
+Generally, family support in Germany is fabulous. You get extra financial support and have the right to take up to 14 months of paid parental leave at 60% of your last salary after you/or your partner gave birth. As a family you can decide how you share this time. In addition, there is maternity leave to recover and prepare for giving birth (14 weeks) also the father gets some time. Day-care in Germany has a great quality. If you come with your family, your children are entitled to a place. However, at the moment it is very hard to find a place, given the lack of emplyees for kindergardes and so called kitas. Thus you will have to apply early and quickly for your child. Usually it is for free, sometimes you pay about ~150-250 Euros per months. Food is provided to the children. There are international schools as well but not needed as public schools are of great quality in general. Schools are for free.
 
 ### 9) How many vacation days do you have?<br>
 Useful links:<br>
