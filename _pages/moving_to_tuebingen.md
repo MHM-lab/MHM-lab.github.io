@@ -57,7 +57,7 @@ Useful links:<br>
 Tübingen is a beautiful German town which is visible everywhere. Sometimes you have to fill in more forms than you would want to and some shops prefer your payment in paper. However, these inconveniences are paid back through a very relaxing attitude and a very good vibe in town. People smile a lot and seem generally to be very content. Some bureaucratic processes in Germany can be a pain. Many Germans call it their collective national sport, which is only second to football/soccer. Yes, there is also a reason why Germany is the second best counted from the last place with respect to digitalization in Europe, you can thus expect a lot of printed forms upon arrival.
 <br>
 <br>
-When you work in science, German is not a requirement. However, some of the social life happens in German. Thus, it is good to learn it a bit, but many people like it a lot in Tübingen although they are not fluent in German.
+When you work in science, German is not a requirement. However, some of the social life happens in German. Thus, it is good to learn it a bit, but many people like it a lot in Tübingen although they are not fluent.
 <br>
 <br>
 Depending on your residence status, you may be entitled to attend a so-called integration course which includes German language.
