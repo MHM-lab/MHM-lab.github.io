@@ -46,7 +46,7 @@ My research interests are on the continuous development of deep learning techniq
 <br>
 ## Thomas Wolfers, PI, Tübingen
 <img align="left" src="https://mhm-lab.github.io/images/thomas_pic.png" width="150 px" style="padding: 10px"> <br>
-In my research I develop machine learning methods to understand factors that contribute to (mental) health problems in individuals. I hold a PhD in neuroscience from the Radboud University and have been working as a Postdoc in Netherlands (Radboud University), researcher in Norway (University of Oslo), and visiting scholar in the United Kingdom (University of Oxford) before starting my research group in Tübingen (Germany). In the long run, I aim to implement technological developments into clinical practice working together with clinicians and researchers. Outside of the lab, I study yoga, meditation and enjoy reading but also like social activities and music. [Thomas's email](mailto:dr.thomas.wolfers@gmail.com)
+In my research I develop machine learning methods to understand factors that contribute to (mental) health problems in individuals. I hold a PhD in neuroscience from the Radboud University and have been working as a Postdoc in Netherlands (Radboud University), researcher in Norway (University of Oslo), and visiting scholar in the United Kingdom (University of Oxford) before starting my research group in Tübingen (Germany). In the long run, I aim to implement technological developments into clinical practice working together with clinicians and researchers. Outside of the lab, I study yoga, meditation and enjoy reading but also like social activities and music. [Thomas's email](mailto:dr.thomas.wolfers@gmail.com) & [HomePage](www.thomaswolfers.com)
 <br>
 <br>
 <br>
