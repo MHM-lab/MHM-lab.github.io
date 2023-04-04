@@ -27,7 +27,7 @@ I am interested in the development of the cerebellum over the lifespan and its r
 <br>
 <br>
 ##  Rikka Kjelkenes, PhD candidate, Oslo
-<img align="left" src="https://mhm-lab.github.io/images/rikka_pic.png" width="150 px" style="padding: 10px"> <br>
+<img align="left" src="https://mhm-lab.github.io/images/rikka_pic.jpg" width="150 px" style="padding: 10px"> <br>
 In my research I try to understand the development of the adolescent brain. To this end, I utilize machine learning methods, in particular normative models to chart individual level deviations from a growth chart. In this way I hope to better capture individual deviations from an estimated norm that can be linked to early indicators of mental health and disorder. Outside the lab, I enjoy meeting with friends, travelling and reading. [Rikka's email](mailto:)
 <br>
 <br>
@@ -61,8 +61,6 @@ I'm a PostDoc with a keen interest in the intersection of machine learning and h
 We are interested in welcoming new members to our team! You can check out if any positions are advertised or drop an email for inquiries for internships, joint grant proposals or if you’d simply like to know more about the lab.
 <br>
 [Join us](mailto:dr.thomas.wolfers@gmail.com)
-<br>
-<br>
 <br>
 <br>
 <br>
