@@ -14,6 +14,12 @@ I am interested in psychology and medical research questions pertaining the biol
 <br>
 <br>
 <br>
+## Minh-hieu Nguyen, MSc Student, Tübingen
+<img align="left" src="https://mhm-lab.github.io/images/mh_pic.png" width="150 px" style="padding: 10px"> <br>
+I am interested in the development of computational models to understand the mechanisms behind learning and decision-making processes, and how those change in individuals with mental disorders. Previously, I studied chemistry at the National University of Singapore before starting my master in neural information processing at the University of Tuebingen. Outside of the lab, I enjoy cooking, music and reading. [Mahmudul's email](mailto:)
+<br>
+<br>
+<br>
 ## Mahmudul Huq, PhD candicate, Nijmegen
 <img align="left" src="https://mhm-lab.github.io/images/mah_pic.png" width="150 px" style="padding: 10px"> <br>
 I have completed his BSc on computing and information systems at London Metropolitan University and afterwards completed a computational science and engineering master from Technical University of Braunschweig, Germany. Since completing my studies, I have published more than 25 international journal articles and conference papers and have worked at various companies on data science projects. Currently, I am pursuing a PhD on brain imaging and machine learning to understand the brain's ability to process (sensory) information in health and disorder. [Mahmudul's email](mailto:)
