@@ -14,9 +14,9 @@ I am interested in psychology and medical research questions pertaining the biol
 <br>
 <br>
 <br>
-## Minh-hieu Nguyen, MSc Student, Tübingen
+## Minh-Hieu Nguyen, MSc Student, Tübingen
 <img align="left" src="https://mhm-lab.github.io/images/mh_pic.png" width="150 px" style="padding: 10px"> <br>
-I am interested in the development of computational models to understand the mechanisms behind learning and decision-making processes, and how those change in individuals with mental disorders. Previously, I studied chemistry at the National University of Singapore before starting my master in neural information processing at the University of Tuebingen. Outside of the lab, I enjoy cooking, music and reading. [Mahmudul's email](mailto:)
+I am interested in the development of computational models to understand the mechanisms behind learning and decision-making processes, and how those change in individuals with mental disorders. Previously, I studied chemistry at the National University of Singapore before starting my master in neural information processing at the University of Tuebingen. Outside of the lab, I enjoy cooking, music and reading. [Minh-Hieu's email](mailto:)
 <br>
 <br>
 <br>
