@@ -33,8 +33,8 @@ My research interests are on the continuous development of deep learning techniq
 <br>
 <br>
 ## Sarah Sabotta, MSc student, Tübingen
-<img align="left" src="https://mhm-lab.github.io/images/yang_pic.png" width="150 px" style="padding: 10px"> <br>
-I'm a PostDoc with a keen interest in the intersection of machine learning and health applications. My particular interests lie in developing robust and reliable ML techniques, including Large-scale Self-Supervised Learning, Adversarial Attacks/Privacy, and Continuous Learning methods. I specialize in developing ML models from Multi-Modality signals, such as Electrical Physiologies (ECG/EDA/EEG), Medical Images (MRI), and Speech Processing. Before joining the MHM-Lab, I received my PhD in Electrical Engineering from National Tsing Hua University, Taiwan, with a research focus on Affective Computing. In my free time, I enjoy exploring outdoor activities, studying exotic meals, and traveling.[Sarah's email](mailto:chadyang.hc@gmail.com)
+<img align="left" src="https://mhm-lab.github.io/images/.png" width="150 px" style="padding: 10px"> <br>
+.[Sarah's email](mailto:chadyang.hc@gmail.com)
 <br>
 <br>
 <br>
