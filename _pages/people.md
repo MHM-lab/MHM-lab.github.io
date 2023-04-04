@@ -22,7 +22,7 @@ I have completed his BSc on computing and information systems at London Metropol
 <br>
 ##  Milin Kim, PhD candidate, Oslo
 <img align="left" src="https://mhm-lab.github.io/images/milin_pic.png" width="150 px" style="padding: 10px"> <br>
-I am interested in the development of the cerebellum over the lifespan and its role in neurological and mental disorders. In my PhD, I am mapping the trajectory of the cerebellum using machine learning methods and brain imaging of large populations. Before starting my PhD at Oslo University Hospital, I studied psychology at Seoul National University and continued with cognitive neuroscience at University of Oslo. Outside the lab I spend my time exploring Norwegian forests and fjords, baking macarons, and readingr. [Milin's email](mailto:milink@student.sv.uio.no)
+I am interested in the development of the cerebellum over the lifespan and its role in neurological and mental disorders. In my PhD, I am mapping the trajectory of the cerebellum using machine learning methods and brain imaging of large populations. Before starting my PhD at Oslo University Hospital, I studied psychology at Seoul National University and continued with cognitive neuroscience at University of Oslo. Outside the lab I spend my time exploring Norwegian forests and fjords, baking macarons, and reading. [Milin's email](mailto:milink@student.sv.uio.no)
 <br>
 <br>
 <br>
@@ -34,7 +34,7 @@ My research interests are on the continuous development of deep learning techniq
 <br>
 ## Sarah Sabotta, MSc student, Tübingen
 <img align="left" src="https://mhm-lab.github.io/images/.png" width="150 px" style="padding: 10px"> <br>
-.[Sarah's email](mailto:chadyang.hc@gmail.com)
+[Sarah's email](mailto:chadyang.hc@gmail.com)
 <br>
 <br>
 <br>
@@ -46,13 +46,15 @@ In my research I develop machine learning methods to understand factors that con
 <br>
 ## Hao-Chun (Chad) Yang, PostDoc, Tübingen
 <img align="left" src="https://mhm-lab.github.io/images/yang_pic.png" width="150 px" style="padding: 10px"> <br>
-I'm a PostDoc with a keen interest in the intersection of machine learning and health applications. My particular interests lie in developing robust and reliable ML techniques, including Large-scale Self-Supervised Learning, Adversarial Attacks/Privacy, and Continuous Learning methods. I specialize in developing ML models from Multi-Modality signals, such as Electrical Physiologies (ECG/EDA/EEG), Medical Images (MRI), and Speech Processing. Before joining the MHM-Lab, I received my PhD in Electrical Engineering from National Tsing Hua University, Taiwan, with a research focus on Affective Computing. In my free time, I enjoy exploring outdoor activities, studying exotic meals, and traveling.[Chad's email](mailto:chadyang.hc@gmail.com)
+I'm a PostDoc with a keen interest in the intersection of machine learning and health applications. My particular interests lie in developing robust and reliable ML techniques, including Large-scale Self-Supervised Learning, Adversarial Attacks/Privacy, and Continuous Learning methods. I specialize in developing ML models from Multi-Modality signals, such as Electrical Physiologies (ECG/EDA/EEG), Medical Images (MRI), and Speech Processing. Before joining the MHM-Lab, I received my PhD in Electrical Engineering from National Tsing Hua University, Taiwan, with a research focus on Affective Computing. In my free time, I enjoy exploring outdoor activities, studying exotic meals, and traveling. [Chad's email](mailto:chadyang.hc@gmail.com)
 <br>
 <br>
 <br>
 ## Join Us
 <img align="left" src="https://mhm-lab.github.io/images/joinus_pic.jpg" width="150 px" style="padding: 10px"> <br>
-We are interested in welcoming new members to our team! You can check out if any positions are advertised or drop an email for inquiries for internships, joint grant proposals or if you’d simply like to know more about the lab.[Join us](mailto:dr.thomas.wolfers@gmail.com)
+We are interested in welcoming new members to our team! You can check out if any positions are advertised or drop an email for inquiries for internships, joint grant proposals or if you’d simply like to know more about the lab.
+<br>
+[Join us](mailto:dr.thomas.wolfers@gmail.com)
 <br>
 <br>
 <br>
