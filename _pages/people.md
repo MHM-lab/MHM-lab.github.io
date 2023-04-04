@@ -26,6 +26,12 @@ I am interested in the development of the cerebellum over the lifespan and its r
 <br>
 <br>
 <br>
+##  Rikka Kjelkenes, PhD candidate, Oslo
+<img align="left" src="https://mhm-lab.github.io/images/rikka_pic.png" width="150 px" style="padding: 10px"> <br>
+. [Esten's email](mailto:esten.leonardsen@psykologi.uio.no)
+<br>
+<br>
+<br>
 ##  Esten Leonardsen, PhD candidate, Oslo
 <img align="left" src="https://mhm-lab.github.io/images/esten_pic.png" width="150 px" style="padding: 10px"> <br>
 My research interests are on the continuous development of deep learning techniques, especially applied to neuroimaging data. I want to employ these methods to learn more about variation occurring in our brains, both in healthy individuals and those affected by mental as well as neurological disorders. I am also interests in the philosophical intersection of deep learning and neuroscience, philosophy of mind, and about gaining a formal understanding of learning, intelligence, and other cognitive phenomena. Outside of the lab I have cofounded start-up companies and enjoy reading. [Esten's email](mailto:esten.leonardsen@psykologi.uio.no)
