@@ -50,6 +50,13 @@ My research interests are on the continuous development of deep learning techniq
 <br>
 <br>
 <br>
+## Nitin Sharma, MSc student, Tübingen
+<img align="left" src="https://mhm-lab.github.io/images/nit_pic.jpg" width="150 px" style="padding: 10px"> <br>
+I am currently pursuing my master's in Neural Information Processing. My research interest lies in understanding the underlying mechanisms of mental disorders with the help of deep learning models. During my internship and bachelor's thesis, I worked on EEG and MRI/fMRI datasets, exploring the deep learning-based domain adaptation methods on multi-site datasets from mental disorders such as depression. I am working with Dr. Wolfers to understand psychiatric disorders by employing Normative modeling and machine-learning techniques. Outside of the lab, I enjoy spending time with friends, go for hiking, and listening to music.
+[Nitin's email](mailto:)
+<br>
+<br>
+<br>
 ## Thomas Wolfers, PI, Tübingen
 <img align="left" src="https://mhm-lab.github.io/images/thomas_pic.png" width="150 px" style="padding: 10px"> <br>
 In my research I develop machine learning methods to understand factors that contribute to (mental) health problems in individuals. I hold a PhD in neuroscience from the Radboud University and have been working as a Postdoc in Netherlands (Radboud University), researcher in Norway (University of Oslo), and visiting scholar in the United Kingdom (University of Oxford) before starting my research group in Tübingen (Germany). In the long run, I aim to implement technological developments into clinical practice working together with clinicians and researchers. Outside of the lab, I study yoga, meditation and enjoy reading but also like social activities and music. [Thomas's email](mailto:dr.thomas.wolfers@gmail.com) & [Homepage](https://www.thomaswolfers.com)
