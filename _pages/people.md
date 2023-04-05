@@ -71,7 +71,7 @@ I'm a PostDoc with a keen interest in the intersection of machine learning and h
 <br>
 ## Join Us
 <img align="left" src="https://mhm-lab.github.io/images/joinus_pic.jpg" width="150 px" style="padding: 10px"> <br>
-We are interested in welcoming new members to our team! You can check out if any positions are advertised or drop an email for inquiries for internships, joint grant proposals or if you’d simply like to know more about the lab.
+We are interested in welcoming new members to our team! You can check out if any positions are advertised or drop an email for internships, joint grant proposals or if you’d simply like to know more about the lab.
 <br>
 [Join us](mailto:dr.thomas.wolfers@gmail.com)
 <br>
