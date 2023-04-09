@@ -21,7 +21,7 @@ I am interested in the development of computational models to understand the mec
 <br>
 ## Mahmudul Huq, PhD candidate, Nijmegen
 <img align="left" src="https://mhm-lab.github.io/images/mah_pic.png" width="150 px" style="padding: 10px"> <br>
-I have completed his BSc on computing and information systems at London Metropolitan University and afterwards completed a computational science and engineering master from Technical University of Braunschweig, Germany. Since completing my studies, I have published more than 25 international journal articles and conference papers and have worked at various companies on data science projects. Currently, I am pursuing a PhD on brain imaging and machine learning to understand the brain's ability to process (sensory) information in health and disorder. [Mahmudul's email](mailto:)
+I have completed my BSc on computing and information systems at London Metropolitan University and afterwards completed a computational science and engineering master from Technical University of Braunschweig, Germany. Since completing my studies, I have published more than 25 international journal articles and conference papers and have worked at various companies on data science projects. Currently, I am pursuing a PhD on brain imaging and machine learning to understand the brain's ability to process (sensory) information in health and disorder. [Mahmudul's email](mailto:)
 <br>
 <br>
 <br>
@@ -91,7 +91,7 @@ Christina Isakoglou (2023) -> Works in industry <br>
 Mai Han Hoang (2022) > Works in industry <br>
 Milin Kim (2021) > Continued with PhD @ University of Oslo with Thomas <br>
 Victória Trindade (2019) > Continued with PhD @ University Medical Center Groningen <br>
-Christina Isakoglou (2017) ->  Continued with PhD @ Radboud University of Nijmegen with Thomas <br>
+Christina Isakoglou (2017) ->  Continued with PhD @ Radboud University of Nijmegen <br>
 Maria Paraskevopoulou (2016) -> Continued with PhD @ Radboud University of Nijmegen <br>
 
 ***Completed a Labrotation***
