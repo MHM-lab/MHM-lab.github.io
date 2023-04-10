@@ -45,7 +45,7 @@ My research interests are on the continuous development of deep learning techniq
 <br>
 ## Sarah Sabotta, MSc student, Tübingen
 <img align="left" src="https://mhm-lab.github.io/images/sarah_pic.png" width="300 px" style="padding: 10px"> <br>
-I am a master’s student in Neural and Behavioral Sciences and have an interdisciplinary background. My neuroscientific research interests are in human cognitive and psychiatric research. In my master’s thesis, I incorporate kinship information into a normative modeling framework. Outside of academia,I am passionate about education, art, the environment, and kind people.
+I am a master’s student in Neural and Behavioral Sciences and have an interdisciplinary background. My neuroscientific research interests are in human cognitive and psychiatric research. In my master’s thesis, I incorporate kinship information into a normative modeling framework. Outside of academia, I am passionate about education, art, the environment, and kind people.
 [Sarah's email](mailto:)
 <br>
 <br>
