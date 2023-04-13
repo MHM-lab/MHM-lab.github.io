@@ -21,7 +21,7 @@ I am interested in the development of computational models to understand the mec
 <br>
 ## Mahmudul Huq, PhD candidate, Nijmegen
 <img align="left" src="https://mhm-lab.github.io/images/mah_pic.png" width="150 px" style="padding: 10px"> <br>
-I have completed my BSc on computing and information systems at London Metropolitan University and afterwards completed a computational science and engineering master from Technical University of Braunschweig, Germany. Since completing my studies, I have worked at various companies on data science projects. Currently, I am pursuing a RA position im addition to my work at a company on brain imaging and machine learning to understand the brain's ability to process (sensory) information in health and disorder. [Mahmudul's email](mailto:)
+I have completed my BSc on computing and information systems at London Metropolitan University and afterwards completed a computational science and engineering master from Technical University of Braunschweig, Germany. Since completing my studies, I have worked at various companies on data science projects. Currently, I am pursuing a RA position in addition to my work at a company on brain imaging and machine learning to understand the brain's ability to process (sensory) information in health and disorder. [Mahmudul's email](mailto:)
 <br>
 <br>
 <br>
