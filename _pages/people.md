@@ -83,7 +83,7 @@ We are interested in welcoming new members to our team! You can check out if any
 
 ***Completed a PhD***
 <br>
-Rikka Kjelkenes (2023) -> Continued with Postdoc @ University of Oslo <br>
+Rikka Kjelkenes (2023) -> DefenseInPrep<br>
 
 ***Completed a MSc***
 <br>
