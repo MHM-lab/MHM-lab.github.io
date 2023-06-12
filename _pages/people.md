@@ -25,12 +25,6 @@ I am interested in the development of the cerebellum over the lifespan and its r
 <br>
 <br>
 <br>
-##  Rikka Kjelkenes, PhD candidate, Oslo
-<img align="left" src="https://mhm-lab.github.io/images/rikka_pic.jpg" width="150 px" style="padding: 10px"> <br>
-In my research I try to understand the development of the adolescent brain. To this end, I utilize machine learning methods, in particular normative models to chart individual level deviations from a growth chart. In this way I hope to better capture individual deviations from an estimated norm that can be linked to early indicators of mental health and disorder. Outside the lab, I enjoy meeting with friends, travelling and reading. [Rikka's email](mailto:)
-<br>
-<br>
-<br>
 ##  Esten Leonardsen, PhD candidate, Oslo
 <img align="left" src="https://mhm-lab.github.io/images/esten_pic.png" width="150 px" style="padding: 10px"> <br>
 My research interests are on the continuous development of deep learning techniques, especially applied to neuroimaging data. I want to employ these methods to learn more about variation occurring in our brains, both in healthy individuals and those affected by mental as well as neurological disorders. I am also interests in the philosophical intersection of deep learning and neuroscience, philosophy of mind, and about gaining a formal understanding of learning, intelligence, and other cognitive phenomena. Outside of the lab I have cofounded start-up companies and enjoy reading. [Esten's email](mailto:esten.leonardsen@psykologi.uio.no)
@@ -77,7 +71,7 @@ We are interested in welcoming new members to our team! You can check out if any
 
 ***Completed a PhD***
 <br>
-Rikka Kjelkenes (2023) -> DefenseInPrep<br>
+Rikka Kjelkenes (2023) -> Continued with Postdoc @ University of Oslo <br>
 
 ***Completed a MSc***
 <br>
