@@ -75,14 +75,14 @@ Rikka Kjelkenes (2023) -> Continued with Postdoc @ University of Oslo <br>
 
 ***Completed a MSc***
 <br>
-Mai Han Hoang (2022) > Works in industry <br>
-Milin Kim (2021) > Continued with PhD @ University of Oslo with Thomas <br>
-Victória Trindade (2019) > Continued with PhD @ University Medical Center Groningen <br>
+Mai Han Hoang (2022) -> Works in industry <br>
+Milin Kim (2021) -> Continued with PhD @ University of Oslo with Thomas <br>
+Victória Trindade (2019) -> Continued with PhD @ University Medical Center Groningen <br>
 Christina Isakoglou (2017) ->  Continued with PhD @ Radboud University of Nijmegen <br>
 Maria Paraskevopoulou (2016) -> Continued with PhD @ Radboud University of Nijmegen <br>
 
 ***Completed a Labrotation***
 <br>
-Shun-chin Wu (Jim) (2023) > Continued with MSc @ University College London<br>
-Can Demircan (2023) > Continued with MSc @ University of Tübingen <br>
-María Berjano (2022) > Continued with LabRotation @ Univeristy of Duisburg-Essen <br>
+Shun-chin Wu (Jim) (2023) -> Continued with MSc @ University College London<br>
+Can Demircan (2023) -> Continued with MSc @ University of Tübingen <br>
+María Berjano (2022) -> Continued with LabRotation @ Univeristy of Duisburg-Essen <br>
