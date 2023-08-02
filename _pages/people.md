@@ -80,6 +80,7 @@ Christina Isakoglou (2017) ->  Continued with PhD @ Radboud University of Nijmeg
 Maria Paraskevopoulou (2016) -> Continued with PhD @ Radboud University of Nijmegen <br>
 
 ***Completed a BSc/Honors***
+<br>
 Sacha ten Broeke (2023) -> Continued with MSc @ Radboud University
 
 ***Completed a Labrotation***
