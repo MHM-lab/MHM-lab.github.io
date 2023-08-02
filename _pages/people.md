@@ -33,7 +33,7 @@ I am a master’s student in Neural and Behavioral Sciences and have an interdis
 <br>
 <br>
 ## Philipp Seidel, PostDoc, Tübingen
-<img align="left" src="https://mhm-lab.github.io/images/philipp_pic.jpeg" width="150 px" style="padding: 10px"> <br>
+<img align="left" src="https://mhm-lab.github.io/images/philipp_pic1.jpeg" width="150 px" style="padding: 10px"> <br>
 I obtained my doctoral degree at the Regensburg University and since July 2023 I am a Postdoctoral Researcher in the Laboratory for Mental Health Mapping in Tübingen. In my research I focus on using computational models to find differences in brain measures (structural/functional) between healthy- and patient populations to potentially better understand how, e.g., psychiatric diseases develop and potentially be detected at an early stage. 
 
 ## Nitin Sharma, MSc student, Tübingen
