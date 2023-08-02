@@ -6,12 +6,6 @@ title: "People"
 All lab members are presented in alphabetical order.
 <br>
 <br>
-## Sacha ten Broeke, BSc(honors) student, Nijmegen
-<img align="left" src="https://mhm-lab.github.io/images/sasha_pic.jpg" width="150 px" style="padding: 10px"> <br>
-I am currently a third-year bachelor (honors) student of psychology at the Radboud University in the Netherlands.
-For my honors program I write a critical review about withdrawl symptoms from SSRIs and SNRIs. I am interested in psychology and medical research questions pertaining the biology underlying mental illness in particular depression. [Sacha's email](mailto:sacha.tenbroeke@ru.nl)
-<br>
-<br>
 <br>
 ## Minh-Hieu Nguyen, MSc student, Tübingen
 <img align="left" src="https://mhm-lab.github.io/images/mh_pic.png" width="150 px" style="padding: 10px"> <br>
@@ -38,6 +32,10 @@ I am a master’s student in Neural and Behavioral Sciences and have an interdis
 <br>
 <br>
 <br>
+## Philipp Seidel, PostDoc, Tübingen
+<img align="left" src="https://mhm-lab.github.io/images/philipp_pic.png" width="150 px" style="padding: 10px"> <br>
+I obtained my doctoral degree at the Regensburg University and since July 2023 I am a Postdoctoral Researcher in the Laboratory for Mental Health Mapping in Tübingen. In my research I focus on using computational models to find differences in brain measures (structural/functional) between healthy- and patient populations to potentially better understand how, e.g., psychiatric diseases develop and potentially be detected at an early stage. 
+
 ## Nitin Sharma, MSc student, Tübingen
 <img align="left" src="https://mhm-lab.github.io/images/nit_pic.jpg" width="150 px" style="padding: 10px"> <br>
 I am currently pursuing my master's in Neural Information Processing. My research interest lies in understanding the underlying mechanisms of mental disorders with the help of deep learning models. During my internship and bachelor's thesis, I worked on EEG and MRI/fMRI datasets, exploring the deep learning-based domain adaptation methods on multi-site datasets from mental disorders such as depression. I am working with Dr. Wolfers to understand psychiatric disorders by employing Normative modeling and machine-learning techniques. Outside of the lab, I enjoy spending time with friends, go for hiking, and listening to music.
@@ -80,6 +78,9 @@ Milin Kim (2021) -> Continued with PhD @ University of Oslo with Thomas <br>
 Victória Trindade (2019) -> Continued with PhD @ University Medical Center Groningen <br>
 Christina Isakoglou (2017) ->  Continued with PhD @ Radboud University of Nijmegen <br>
 Maria Paraskevopoulou (2016) -> Continued with PhD @ Radboud University of Nijmegen <br>
+
+***Completed a BSc/Honors***
+Sacha ten Broeke (2023) -> Continued with MSc @ Radboud University
 
 ***Completed a Labrotation***
 <br>
