@@ -33,15 +33,13 @@ My research interests are on the continuous development of deep learning techniq
 <br>
 ## Sarah Sabotta, MSc student, Tübingen
 <img align="left" src="https://mhm-lab.github.io/images/sarah_pic.png" width="150 px" style="padding: 10px"> <br>
-I am a master’s student in Neural and Behavioral Sciences and have an interdisciplinary background. My neuroscientific research interests are in human cognitive and psychiatric research. In my master’s thesis, I incorporate kinship information into a normative modeling framework. Outside of academia, I am passionate about education, art, the environment, and kind people.
-[Sarah's email](mailto:)
+I am a master’s student in Neural and Behavioral Sciences and have an interdisciplinary background. My neuroscientific research interests are in human cognitive and psychiatric research. In my master’s thesis, I incorporate kinship information into a normative modeling framework. Outside of academia, I am passionate about education, art, the environment, and kind people. [Sarah's email](mailto:)
 <br>
 <br>
 <br>
 ## Elias Schreiner, Data Scientist & IT-Infrastructure, Tübingen
 <img align="left" src="https://mhm-lab.github.io/images/elias.png" width="150 px" style="padding: 10px"> <br>
-I am a bioinformatics enthusiast working in IT infrastructure and science. I leverage the potential of deep learning to unlock insights from complex biological data. I am passionate about using technology to enhance our understanding of the biological world, particularly in the context of improving the lives of those affected by neurodegenerative conditions and it’s often comorbid mental disorders.
-[Elias' email](mailto:)
+I am a bioinformatics enthusiast working in IT infrastructure and science. I leverage the potential of deep learning to unlock insights from complex biological data. I am passionate about using technology to enhance our understanding of the biological world, particularly in the context of improving the lives of those affected by neurodegenerative conditions and it’s often comorbid mental disorders. [Elias' email](mailto:)
 <br>
 <br>
 <br>
@@ -71,7 +69,7 @@ I'm a PostDoc with a keen interest in the intersection of machine learning and h
 <br>
 ## Mariam Zabihi, PostDoc, London & Tübingen
 <img align="left" src="https://mhm-lab.github.io/images/mariam.png" width="150 px" style="padding: 10px"> <br>
-I received my Ph.D. in statistical neuroimaging from the Predictive Clinical Neuroscience Lab at Radboud University Medical Center in Nijmegen, The Netherlands, in 2022. My doctoral research focused on addressing the heterogeneity in psychiatric disorders using normative modeling. Currently, I am a research fellow at the Department of Computer Science at the University College London (UCL), UK, where I am engaged in the method development of generative models as well as small-object detection models for neuroimaging data. In Tubingen, I work on multi-modal deep normative modeling.[Mariam's email](mailto:)
+I received my Ph.D. in statistical neuroimaging from the Predictive Clinical Neuroscience Lab at Radboud University Medical Center in Nijmegen, The Netherlands, in 2022. My doctoral research focused on addressing the heterogeneity in psychiatric disorders using normative modeling. Currently, I am a research fellow at the Department of Computer Science at the University College London (UCL), UK, where I am engaged in the method development of generative models as well as small-object detection models for neuroimaging data. In Tubingen, I work on multi-modal deep normative modeling. [Mariam's email](mailto:)
 
 ## Join Us
 <img align="left" src="https://mhm-lab.github.io/images/joinus_pic.jpg" width="150 px" style="padding: 10px"> <br>
