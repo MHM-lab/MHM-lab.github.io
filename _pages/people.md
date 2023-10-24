@@ -12,7 +12,7 @@ All lab members are presented in alphabetical order.
 I'm a postdoc curious about the connectomes and its potential to provide profound insights into mental health challenges. My interests centered around the modeling and analysis of brain networks with the fusion of two fields: Network Science (network dynamics, multilayer networks etc.), and Machine Learning (neuroimaging processing, graph neural networks). Prior to the postdoc, I received my PhD in computer science from ENS Lyon, where I studied the dynamic patterns of human interaction with a large-scale temporal social networks. Outside research, I'm a passionate nature enthusiast and animal lover.
 <br>
 <br>
-<br>
+<br> 
 ## Minh-Hieu Nguyen, MSc student, Tübingen
 <img align="left" src="https://mhm-lab.github.io/images/mh_pic.png" width="150 px" style="padding: 10px"> <br>
 I am interested in the development of computational models to understand the mechanisms behind learning and decision-making processes, and how those change in individuals with mental disorders. Previously, I studied chemistry at the National University of Singapore before starting my master in neural information processing at the University of Tübingen. Outside of the lab, I enjoy cooking, music and reading. [Minh-Hieu's email](mailto:)
