@@ -9,7 +9,7 @@ All lab members are presented in alphabetical order.
 <br>
 ## Sicheng Dai, PostDoc, Tübingen
 <img align="left" src="https://mhm-lab.github.io/images/dai.png" width="150 px" style="padding: 10px"> <br>
-I'm a postdoc curious about connectomes and its potential to provide profound insights into mental health challenges. My interests centered around the modeling and analysis of brain networks with the fusion of two fields: Network Science (network dynamics, multilayer networks etc.), and Machine Learning (neuroimaging processing, graph neural networks). Prior to the postdoc, I received my PhD in computer science from ENS Lyon, where I studied the dynamic patterns of human interaction with a large-scale temporal social networks. Outside research, I'm a passionate nature enthusiast and animal lover.
+I'm a postdoc curious about connectomes and its potential to provide profound insights into mental health challenges. My interests centered around the modeling and analysis of brain networks with the fusion of two fields: Network Science (network dynamics, multilayer networks etc.), and Machine Learning (neuroimaging processing, graph neural networks). Prior to the postdoc, I received my PhD in computer science from ENS Lyon, where I studied the dynamic patterns of human interaction with a large-scale temporal social networks. Outside research, I'm a passionate nature enthusiast and animal lover. [Sicheng's email](mailto:)
 <br>
 <br>
 <br> 
@@ -40,14 +40,13 @@ I am a master’s student in Neural and Behavioral Sciences and have an interdis
 <br>
 ## Philipp Seidel, PostDoc, Tübingen
 <img align="left" src="https://mhm-lab.github.io/images/philipp_pic1.jpg" width="150 px" style="padding: 10px"> <br>
-I obtained my doctoral degree at the Regensburg University. Since July 2023, I am a Postdoctoral Researcher in the Laboratory for Mental Health Mapping in Tübingen. I focus on using computational models to find differences in brain measures (structural/functional) between healthy- and patient populations to potentially better understand how, e.g., psychiatric diseases develop and potentially be detected at an early stage. 
+I obtained my doctoral degree at the Regensburg University. Since July 2023, I am a Postdoctoral Researcher in the Laboratory for Mental Health Mapping in Tübingen. I focus on using computational models to find differences in brain measures (structural/functional) between healthy- and patient populations to potentially better understand how, e.g., psychiatric diseases develop and potentially be detected at an early stage. [Philipp's email](mailto:)
 <br>
 <br>
 <br>
 ## Nitin Sharma, MSc student, Tübingen
 <img align="left" src="https://mhm-lab.github.io/images/nit_pic.jpg" width="150 px" style="padding: 10px"> <br>
-I am currently pursuing my master's in Neural Information Processing. My research interest lies in understanding the underlying mechanisms of mental disorders with the help of machine learning. During my internship and bachelor's thesis, I worked on EEG and MRI/fMRI datasets, exploring deep learning-based domain adaptation methods on multi-site datasets for mental disorders such as depression. I am working with Dr. Wolfers to chart individual differences employing Normative modeling and machine-learning techniques. Outside of the lab, I enjoy spending time with friends, go for hiking, and listening to music.
-[Nitin's email](mailto:)
+I am currently pursuing my master's in Neural Information Processing. My research interest lies in understanding the underlying mechanisms of mental disorders with the help of machine learning. During my internship and bachelor's thesis, I worked on EEG and MRI/fMRI datasets, exploring deep learning-based domain adaptation methods on multi-site datasets for mental disorders such as depression. I am working with Dr. Wolfers to chart individual differences employing Normative modeling and machine-learning techniques. Outside of the lab, I enjoy spending time with friends, go for hiking, and listening to music. [Nitin's email](mailto:)
 <br>
 <br>
 <br>
@@ -65,7 +64,7 @@ I'm a PostDoc with a keen interest in the intersection of machine learning and h
 <br>
 ## Mariam Zabihi, PostDoc, London & Tübingen
 <img align="left" src="https://mhm-lab.github.io/images/mariam.png" width="150 px" style="padding: 10px"> <br>
-I received my Ph.D. in statistical neuroimaging from the Predictive Clinical Neuroscience Lab at Radboud University Medical Center in Nijmegen, The Netherlands, in 2022. My doctoral research focused on addressing the heterogeneity in psychiatric disorders using normative modeling. Currently, I am a research fellow at the Department of Computer Science at the University College London (UCL), UK, where I am engaged in the method development of generative models as well as small-object detection models for neuroimaging data. In Tubingen, I work on multi-modal deep normative modeling.
+I received my Ph.D. in statistical neuroimaging from the Predictive Clinical Neuroscience Lab at Radboud University Medical Center in Nijmegen, The Netherlands, in 2022. My doctoral research focused on addressing the heterogeneity in psychiatric disorders using normative modeling. Currently, I am a research fellow at the Department of Computer Science at the University College London (UCL), UK, where I am engaged in the method development of generative models as well as small-object detection models for neuroimaging data. In Tubingen, I work on multi-modal deep normative modeling.[Mariam's email](mailto:)
 
 ## Join Us
 <img align="left" src="https://mhm-lab.github.io/images/joinus_pic.jpg" width="150 px" style="padding: 10px"> <br>
