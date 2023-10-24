@@ -38,6 +38,13 @@ I am a master’s student in Neural and Behavioral Sciences and have an interdis
 <br>
 <br>
 <br>
+## Elias Schreiner, Data Scientist & IT-Infrastructure, Tübingen
+<img align="left" src="https://mhm-lab.github.io/images/elias.png" width="150 px" style="padding: 10px"> <br>
+I am a bioinformatics enthusiast working in IT infrastructure and science. I leverage the potential of deep learning to unlock insights from complex biological data. I am passionate about using technology to enhance our understanding of the biological world, particularly in the context of improving the lives of those affected byneurodegenerative conditions and it’s often comorbid mental disorders.
+[Elias' email](mailto:)
+<br>
+<br>
+<br>
 ## Philipp Seidel, PostDoc, Tübingen
 <img align="left" src="https://mhm-lab.github.io/images/philipp_pic1.jpg" width="150 px" style="padding: 10px"> <br>
 I obtained my doctoral degree at the Regensburg University. Since July 2023, I am a Postdoctoral Researcher in the Laboratory for Mental Health Mapping in Tübingen. I focus on using computational models to find differences in brain measures (structural/functional) between healthy- and patient populations to potentially better understand how, e.g., psychiatric diseases develop and potentially be detected at an early stage. [Philipp's email](mailto:)
