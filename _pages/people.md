@@ -40,7 +40,7 @@ I am a master’s student in Neural and Behavioral Sciences and have an interdis
 <br>
 ## Elias Schreiner, Data Scientist & IT-Infrastructure, Tübingen
 <img align="left" src="https://mhm-lab.github.io/images/elias.png" width="150 px" style="padding: 10px"> <br>
-I am a bioinformatics enthusiast working in IT infrastructure and science. I leverage the potential of deep learning to unlock insights from complex biological data. I am passionate about using technology to enhance our understanding of the biological world, particularly in the context of improving the lives of those affected byneurodegenerative conditions and it’s often comorbid mental disorders.
+I am a bioinformatics enthusiast working in IT infrastructure and science. I leverage the potential of deep learning to unlock insights from complex biological data. I am passionate about using technology to enhance our understanding of the biological world, particularly in the context of improving the lives of those affected by neurodegenerative conditions and it’s often comorbid mental disorders.
 [Elias' email](mailto:)
 <br>
 <br>
