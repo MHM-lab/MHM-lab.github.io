@@ -9,7 +9,7 @@ All lab members are presented in alphabetical order.
 <br>
 ## Sicheng Dai, PostDoc, Tübingen
 <img align="left" src="https://mhm-lab.github.io/images/dai.png" width="150 px" style="padding: 10px"> <br>
-I'm a postdoc curious about connectomes and its potential to provide profound insights into mental health challenges. My interests centered around the modeling and analysis of brain networks with the fusion of two fields: Network Science (network dynamics, multilayer networks etc.), and Machine Learning (neuroimaging processing, graph neural networks). Prior to the postdoc, I received my PhD in computer science from ENS Lyon, where I studied the dynamic patterns of human interaction with a large-scale temporal social networks. Outside research, I'm a passionate nature enthusiast and animal lover. [Sicheng's email](mailto:)
+I'm a postdoc curious about connectomes and its potential to provide profound insights into mental health challenges. I am interested in modeling and the analysis of brain networks through the fusion of two fields: Network Science (network dynamics, multilayer networks etc.), and Machine Learning (neuroimaging processing, graph neural networks). Prior to this postdoc, I received my PhD in computer science from ENS Lyon, where I studied the dynamic patterns of human interaction with large-scale temporal (social) networks. Outside research, I'm a passionate nature enthusiast and animal lover. [Sicheng's email](mailto:)
 <br>
 <br>
 <br> 
@@ -39,7 +39,7 @@ I am a master’s student in Neural and Behavioral Sciences and have an interdis
 <br>
 ## Elias Schreiner, Data Scientist & IT-Infrastructure, Tübingen
 <img align="left" src="https://mhm-lab.github.io/images/elias.png" width="150 px" style="padding: 10px"> <br>
-I am a bioinformatics enthusiast working in IT infrastructure and science. I leverage the potential of deep learning to unlock insights from complex biological data. I am passionate about using technology to enhance our understanding of the biological world, particularly in the context of improving the lives of those affected by neurodegenerative conditions and it’s often comorbid mental disorders. [Elias' email](mailto:)
+I am a bioinformatics enthusiast working in IT infrastructure and science. I leverage the potential of deep learning to unlock insights from complex biological data. I belief that using this technology can enhance our understanding of the biological world, particularly in the context of improving the lives of those affected by neurodegenerative conditions and it’s often comorbid mental disorders. [Elias' email](mailto:)
 <br>
 <br>
 <br>
