@@ -37,7 +37,11 @@ Research priorities are presented here.
 * SUMMARY: We replicated our earlier finding that patients in schizophrenia and bipolar disorder and showed an individualized profile of normative deviations.
 9.	Charting brain growth and aging at high spatial precision. Elife. [link](https://doi.org/10.7554/eLife.72904)
 * SUMMARY: We charted normative models at high spatial precision for samples that are larger than 50k individuals. This is the first massive population scale neuroimaging based normative modelling approach that can be translated to new samples and is freely available online for other scientists to use. 
-10.	Deep neural networks learn general and clinically relevant representations of the ageing brain. NeuroImage. # shared last author [link](https://doi.org/10.1101/2021.10.29.21265645)
+10.	Deep neural networks learn general and clinically relevant representations of the ageing brain. NeuroImage. [link](https://doi.org/10.1101/2021.10.29.21265645)
 * SUMMARY: We trained a deep neural network on one of the largest data resources assembled today (N > 50k) to predict the aging brain. We transferred this model to make clinical predictions and share our model and the resource for others to use.
+11. Characterising the normative development of the cerebellum and its link to mental disorders and neurological diseases. Submitted.
+*	SUMMARY: We trained normative models on one of the largest data resources assembled today (N > 50k) to chart the development of the cerebellum. We tease apart individual differences in patients with mental and neurological illness.
+12. Characterizing personalized neuropathology in dementia and mild cognitive impairment with explainable artificial intelligence. Submitted. [link](https://doi.org/10.1101/2023.06.22.23291592)
+*	SUMMARY: We trained a deep neural network on one of the largest data resources assembled today to predict dementias. We use explainable AI to tease apart individual differences.
 
 ### All publications can be found on [Google Scholar](https://scholar.google.com/citations?user=KJaA3sEAAAAJ&hl=nl)
