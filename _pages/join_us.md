@@ -13,4 +13,4 @@ All currently available PhD positions are listed here.
 
 ## HIWI positions and Master Internships
 We always welcome motivated and interested students. Just get in touch!
-**Download** this [document for interesting opportunities by clicking here.](https://MHM-lab.github.io/files/Master_HIWI_Projects.pdf)
+**Download** this [document for interesting opportunities by clicking here.](https://github.com/MHM-lab/MHM-lab.github.io/blob/master/files/Master_HIWI_Projects.pdf)
