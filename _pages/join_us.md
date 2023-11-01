@@ -11,5 +11,6 @@ All currently available postdoc positions are listed here.
 ## PhD positions
 All currently available PhD positions are listed here.
 
-## Internship opportunities
+## HIWI positions and Master Internships
 We always welcome motivated and interested students. Just get in touch!
+**Download** this [document for interesting opportunities by clicking here.]()
