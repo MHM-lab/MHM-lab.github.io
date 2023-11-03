@@ -21,8 +21,7 @@ Research priorities are presented here.
 
 **2015** - From estimating activation locality to predicting disorder: a review of pattern recognition for neuroimaging-based psychiatric diagnostics. Neuroscience & Biobehavioural Reviews. [link](https://doi.org/10.1016/j.neubiorev.2015.08.001)
 * SUMMARY: In this seminal paper, we showed that with increasing sample size the accuracy of pattern classification approaches for the prediction of mental disorders decreased. This is counterintuitive and in conflict with evidence in other fields that use pattern recognition approaches to predict e.g., image classes, likes cats and dogs. Generally, machine learning algorithms perform better with more training data. Therefore, this finding was very surprising. We could attribute it in parts to the high heterogeneity of mental disorders and a publication bias for better performing but not representative models. This work contributed to a debate on cross-validation failures and provides important evidence for the development of methods to map heterogeneity of mental disorders.
-<br>
-<br>
+
 **2016** - Beyond lumping and splitting: a review of computational approaches for stratifying psychiatric disorders. Biological psychiatry: cognitive neuroscience and neuroimaging. [link](https://doi.org/10.1016/j.bpsc.2016.04.002)
 * SUMMARY: We showed the problems of stratification approaches in psychiatry and developed a strategy based on normative modelling that can improve these problems.
 <br>
