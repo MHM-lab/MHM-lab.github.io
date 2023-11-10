@@ -49,10 +49,13 @@ Research priorities are presented here.
 **2022** - Deep neural networks learn general and clinically relevant representations of the ageing brain. NeuroImage. [link](https://doi.org/10.1101/2021.10.29.21265645)
 * SUMMARY: We trained a deep neural network on one of the largest data resources assembled today (N > 50k) to predict the aging brain. We transferred this model to make clinical predictions and share our model and the resource for others to use.
 
-**2023** - Characterising the normative development of the cerebellum and its link to mental disorders and neurological diseases. Submitted.
-*	SUMMARY: We trained normative models on one of the largest data resources assembled today (N > 50k) to chart the development of the cerebellum. We tease apart individual differences in patients with mental and neurological illness.
+**2023** - Characterising the normative development of the cerebellum and its link to mental disorders and neurological diseases. Submitted. [link]()
+*	SUMMARY: We trained normative models on more than 50k individuals, charting the development of the cerebellum over the lifespan. We tease apart individual differences in patients with mental and neurological illness.
 
-**2023** - Characterizing personalized neuropathology in dementia and mild cognitive impairment with explainable artificial intelligence. Submitted. [link](https://doi.org/10.1101/2023.06.22.23291592)
-*	SUMMARY: We trained a deep neural network on one of the largest data resources assembled today to predict dementias. We use explainable AI to tease apart individual differences.
+**2023** - Characterising personalized neuropathology in dementia and mild cognitive impairment with explainable artificial intelligence. Submitted. [link](https://doi.org/10.1101/2023.06.22.23291592)
+*	SUMMARY: We trained a deep neural network to predict dementias. We use explainable AI to tease apart individual differences and make predictions (over time) on whether a specific individual develops dementia. We can do that up to 7 years early with good reliability.
+
+**2023** - Learning cortical anomaly through masked encoding for unsupervised heterogeneity mapping. Submitted. [link]()
+* SUMMARY: We developed a novel method, CAM (Cortical Anomaly Detection through Masked Image Modeling),for anomlily detection in the cortex using a vison transformer architecture which we valided against disoerders on the psychotic spectrum. 
 
 ### All publications can be found on [Google Scholar](https://scholar.google.com/citations?user=KJaA3sEAAAAJ&hl=nl)
