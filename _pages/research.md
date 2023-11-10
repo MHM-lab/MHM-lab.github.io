@@ -56,6 +56,6 @@ Research priorities are presented here.
 *	SUMMARY: We trained a deep neural network to predict dementias. We use explainable AI to tease apart individual differences and make predictions (over time) on whether a specific individual develops dementia. We can do that up to 7 years early with good reliability.
 
 **2023** - Learning cortical anomaly through masked encoding for unsupervised heterogeneity mapping. Submitted. [link]()
-* SUMMARY: We developed a novel method, CAM (Cortical Anomaly Detection through Masked Image Modeling), for cortical anomily detetection using a vison transformer architecture which we valided against disoerders on the psychotic spectrum. 
+* SUMMARY: We developed a novel method, CAM (Cortical Anomaly Detection through Masked Image Modeling), for cortical anomily detetection using a vison transformer architecture which we valided against disorders on the psychotic spectrum. 
 
 ### All publications can be found on [Google Scholar](https://scholar.google.com/citations?user=KJaA3sEAAAAJ&hl=nl)
