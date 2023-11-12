@@ -12,12 +12,6 @@ All lab members are presented in alphabetical order.
 I am interested in modeling and the analysis of brain networks in health and disease through the fusion of two fields: Network Science (e.g. network dynamics, multilayer networks), and Machine Learning (e.g. graph neural networks). Prior to this postdoc, I received my PhD in computer science from ENS Lyon, where I studied the dynamic patterns of human interaction within large-scale temporal (social) networks. Outside of research, I'm a passionate nature enthusiast and animal lover. [Sicheng's email](mailto:)
 <br>
 <br>
-<br> 
-## Minh-Hieu Nguyen, MSc student
-<img align="left" src="https://mhm-lab.github.io/images/mh_pic.png" width="150 px" style="padding: 10px"> <br>
-I am interested in the development of computational models to understand the mechanisms behind learning and decision-making processes, and how those change in individuals with mental disorders. Previously, I studied chemistry at the National University of Singapore before starting my master in neural information processing at the University of Tübingen. Outside of the lab, I enjoy cooking, music and reading. [Minh-Hieu's email](mailto:)
-<br>
-<br>
 <br>
 ##  Milin Kim, PhD candidate
 <img align="left" src="https://mhm-lab.github.io/images/milin_pic.png" width="150 px" style="padding: 10px"> <br>
@@ -28,6 +22,12 @@ I am interested in the development of the cerebellum over the lifespan and its r
 ##  Esten Leonardsen, PhD candidate
 <img align="left" src="https://mhm-lab.github.io/images/esten_pic.png" width="150 px" style="padding: 10px"> <br>
 My research interests are on the continuous development of deep learning techniques, especially applied to neuroimaging data. I want to employ these methods to learn more about variation occurring in our brains, both in healthy individuals and those affected by mental as well as neurological disorders. I am also interests in the philosophical intersection of deep learning and neuroscience, philosophy of mind, and about gaining a formal understanding of learning, intelligence, and other cognitive phenomena. Outside of the lab I have cofounded start-up companies and enjoy reading. [Esten's email](mailto:esten.leonardsen@psykologi.uio.no)
+<br>
+<br>
+<br>
+## Minh-Hieu Nguyen, MSc student
+<img align="left" src="https://mhm-lab.github.io/images/mh_pic.png" width="150 px" style="padding: 10px"> <br>
+I am interested in the development of computational models to understand the mechanisms behind learning and decision-making processes, and how those change in individuals with mental disorders. Previously, I studied chemistry at the National University of Singapore before starting my master in neural information processing at the University of Tübingen. Outside of the lab, I enjoy cooking, music and reading. [Minh-Hieu's email](mailto:)
 <br>
 <br>
 <br>
