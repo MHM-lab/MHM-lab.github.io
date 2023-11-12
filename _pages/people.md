@@ -9,7 +9,7 @@ All lab members are presented in alphabetical order.
 <br>
 ## Sicheng Dai, PostDoc
 <img align="left" src="https://mhm-lab.github.io/images/dai.png" width="150 px" style="padding: 10px"> <br>
-I'm a postdoc curious about connectomes and its potential to provide profound insights into mental health challenges. I am interested in modeling and the analysis of brain networks through the fusion of two fields: Network Science (e.g. network dynamics, multilayer networks), and Machine Learning (e.g. graph neural networks). Prior to this postdoc, I received my PhD in computer science from ENS Lyon, where I studied the dynamic patterns of human interaction within large-scale temporal (social) networks. Outside of research, I'm a passionate nature enthusiast and animal lover. [Sicheng's email](mailto:)
+I am interested in modeling and the analysis of brain networks in health and disease through the fusion of two fields: Network Science (e.g. network dynamics, multilayer networks), and Machine Learning (e.g. graph neural networks). Prior to this postdoc, I received my PhD in computer science from ENS Lyon, where I studied the dynamic patterns of human interaction within large-scale temporal (social) networks. Outside of research, I'm a passionate nature enthusiast and animal lover. [Sicheng's email](mailto:)
 <br>
 <br>
 <br> 
