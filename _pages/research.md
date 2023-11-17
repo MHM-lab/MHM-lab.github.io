@@ -23,7 +23,7 @@ Research priorities are presented here.
 * SUMMARY: In this seminal paper, we showed that with increasing sample size the accuracy of pattern classification approaches for the prediction of mental disorders decreased. This is counterintuitive and in conflict with evidence in other fields that use pattern recognition approaches to predict e.g., image classes, likes cats and dogs. Generally, machine learning algorithms perform better with more training data. Therefore, this finding was very surprising. We could attribute it in parts to the high heterogeneity of mental disorders and a publication bias for better performing but not representative models. This work contributed to a debate on cross-validation failures and provides important evidence for the development of methods to map heterogeneity of mental disorders.
 
 **2016** - Beyond lumping and splitting: a review of computational approaches for stratifying psychiatric disorders. Biological psychiatry: cognitive neuroscience and neuroimaging. [link](https://doi.org/10.1016/j.bpsc.2016.04.002)
-* SUMMARY: We showed the problems of stratification approaches in psychiatry and developed a strategy based on normative modelling that can improve these problems.
+* SUMMARY: We showed the problems of stratification approaches in psychiatry and developed a strategy based on normative modeling that can improve these problems.
 
 **2018** - Mapping the heterogeneous phenotype of schizophrenia and bipolar disorder using normative models. JAMA psychiatry. [link](https://doi.org/10.1001/jamapsychiatry.2018.2467)
 * SUMMARY: We mapped the heterogeneity of schizophrenia and bipolar disorder showing an individualized profile of deviations from the norm. These results were very surprising and framed by the media as "Who is the average patient in psychiatry?". The results have been frequently replicated by us and other groups using various algorithms and samples.
@@ -38,17 +38,17 @@ Research priorities are presented here.
 * SUMMARY: We could show that brain structure explaines a large proportion of functional interactions between different regions in the healthy human brain.
 
 **2019** - Towards precision medicine in psychiatry. Dissertation [link](http://hdl.handle.net/2066/201200)
-* SUMMARY: We developed a precision medicine approach for psychiatry and discussed necessary next steps and introduced a roadmap towards this goal.
+* SUMMARY: We developed a precision medicine approach for psychiatry and discuss necessary next steps and introduced a roadmap towards this goal.
 
 **2021** - Replicating extensive brain structural heterogeneity in individuals with schizophrenia and bipolar disorder. Human Brain Mapping. [link](https://doi.org/10.1101/2020.05.08.20095091)
 * SUMMARY: We replicated our earlier finding that patients in schizophrenia and bipolar disorder and showed an individualized profile of normative deviations.
 
 **2022** - Charting brain growth and aging at high spatial precision. Elife. [link](https://doi.org/10.7554/eLife.72904)
-* SUMMARY: We charted normative models at high spatial precision for samples that are larger than 50k individuals. This is the first massive population scale neuroimaging based normative modelling approach that can be translated to new samples and is freely available online for other scientists to use.
+* SUMMARY: We charted normative models at high spatial precision for a sample larger than 50k individuals. This is a massive population scale neuroimaging based normative modeling approach that can be translated to new samples and is freely available online for other scientists to use.
 
 **2022** - Deep neural networks learn general and clinically relevant representations of the ageing brain. NeuroImage. [link](https://doi.org/10.1101/2021.10.29.21265645)
-* SUMMARY: We trained a deep neural network on one of the largest data resources assembled today (N > 50k) to predict the aging brain. We transferred this model to make clinical predictions and share our model and the resource for others to use.
-
+* SUMMARY: We trained a deep neural network on N > 50k individuals to predict the aging brain. We transferred this model to make clinical predictions and share our model.
+  
 **2023** - Characterising the normative development of the cerebellum and its link to mental disorders and neurological diseases. Submitted. [link]()
 *	SUMMARY: We trained normative models on more than 50k individuals, charting the development of the cerebellum over the lifespan. We tease apart individual differences in patients with mental and neurological illness.
 
