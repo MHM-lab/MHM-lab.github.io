@@ -8,7 +8,7 @@ All lab members are presented in alphabetical order.
 <br>
 <br>
 ## Sacha ten Broeke, MSc
-<img align="left" src="https://mhm-lab.github.io/images/sacha_pic.jpg" width="150 px" style="padding: 10px"> <br>
+<img align="left" src="https://mhm-lab.github.io/images/sasha_pic.jpg" width="150 px" style="padding: 10px"> <br>
 I am currently pursuing a Master's degree in Cognitive Neuroscience at Radboud University in the Netherlands, where I am actively engaged in a collaborative effort with Dr. Thomas Wolfers on a comprehensive review article addressing the SSRI discontinuation syndrome. My academic focus extends to the realms of neural prosthetics and clinical neuropsychology, reflecting my keen interest in advancing understanding and applications at the intersection of neuroscience and clinical practice. [Sacha's email](mailto:)
 <br>
 <br>
