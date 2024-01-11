@@ -7,6 +7,12 @@ All lab members are presented in alphabetical order.
 <br>
 <br>
 <br>
+## Sacha ten Broeke, MSc
+<img align="left" src="https://mhm-lab.github.io/images/sacha_1.png" width="150 px" style="padding: 10px"> <br>
+I am currently pursuing a Master's degree in Cognitive Neuroscience at Radboud University in the Netherlands, where I am actively engaged in a collaborative effort with Dr. Thomas Wolfers on a comprehensive review article addressing the SSRI discontinuation syndrome. My academic focus extends to the realms of neural prosthetics and clinical neuropsychology, reflecting my keen interest in advancing understanding and applications at the intersection of neuroscience and clinical practice. [Sacha's email](mailto:)
+<br>
+<br>
+<br>
 ## Sicheng Dai, PostDoc
 <img align="left" src="https://mhm-lab.github.io/images/dai.png" width="150 px" style="padding: 10px"> <br>
 I am interested in modeling and the analysis of brain networks in health and disease through the fusion of two fields: Network Science (e.g. network dynamics, multilayer networks), and Machine Learning (e.g. graph neural networks). Prior to this postdoc, I received my PhD in computer science from ENS Lyon, where I studied the dynamic patterns of human interaction within large-scale temporal (social) networks. Outside of research, I'm a passionate nature enthusiast and animal lover. [Sicheng's email](mailto:)
