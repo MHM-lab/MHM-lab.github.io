@@ -52,7 +52,7 @@ Research priorities are presented here.
 **2024, TW - Last Author**(shared) - Characterising personalized neuropathology in dementia and mild cognitive impairment with explainable artificial intelligence. ***Nature Digital Medicine***. [link](https://doi.org/10.1101/2023.06.22.23291592)
 *	SUMMARY: We trained a deep neural network to predict dementias. We use explainable AI to tease apart individual differences and make predictions (over time) on whether a specific individual develops dementia. We can do that up to 7 years early with good reliability.
 
-**2024TW - Last Author** - Learning cortical anomaly through masked encoding for unsupervised heterogeneity mapping. ***IEEE:ISBI***. [link](https://arxiv.org/abs/2312.02762)
+**2024, TW - Last Author** - Learning cortical anomaly through masked encoding for unsupervised heterogeneity mapping. ***IEEE:ISBI***. [link](https://arxiv.org/abs/2312.02762)
 * SUMMARY: We developed a method, CAM (Cortical Anomaly Detection through Masked Image Modeling), for cortical anomily detetection using a vison transformer architecture which we validated against disorders on the psychotic spectrum. 
 
 ### All publications can be found on [Google Scholar](https://scholar.google.com/citations?user=KJaA3sEAAAAJ&hl=nl)
