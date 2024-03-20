@@ -43,7 +43,7 @@ Research priorities are presented here.
 **2022, TW - Last Author**(shared) - Deep neural networks learn general and clinically relevant representations of the ageing brain. ***NeuroImage***. [link](https://doi.org/10.1101/2021.10.29.21265645)
 * SUMMARY: We trained a deep neural network on N > 50k individuals to predict the aging brain. We transferred this model to make clinical predictions and share our model.
 
-**2023, TW - CoAuthor**(shared) - Regional, circuit and network heterogeneity of brain abnormalities in psychiatric disorders. ***Nature Neuroscience***. [link](https://www.nature.com/articles/s41593-023-01404-6) 
+**2023, TW - CoAuthor** - Regional, circuit and network heterogeneity of brain abnormalities in psychiatric disorders. ***Nature Neuroscience***. [link](https://www.nature.com/articles/s41593-023-01404-6) 
 *	SUMMARY: We developed normative models and applied them to analyze various mental disorders. Our study meticulously characterized the resulting deviations at the voxel, regional, and network levels. Notably, our findings revealed a higher degree of overlap across individuals at the network level.
 
 **2024, TW - Last Author**(shared) - Mapping Cerebellar Anatomical Heterogeneity in Mental and Neurological Illnesses. UnderRevision. [link](https://doi.org/10.1101/2023.11.18.567647)
