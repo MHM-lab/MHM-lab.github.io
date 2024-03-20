@@ -28,7 +28,7 @@ Research priorities are presented here.
 **2019, TW - First Author** - Individual differences v. the average patient: mapping the heterogeneity in ADHD using normative models. ***Psychological medicine***. [link](https://doi.org/10.1017/S0033291719000084)
 * SUMMARY: We mapped the heterogeneity of ADHD at the level of the individual patient, showing that each patient had a distinct profile of deviations from the norm.
 
-**201, TW - CoAuthor** - Inter-individual differences in human brain structure and morphometry link to population variation in demographics and behavior. ***Elife***. [link](https://doi.org/10.7554/eLife.44443.001)
+**2019, TW - CoAuthor** - Inter-individual differences in human brain structure and morphometry link to population variation in demographics and behavior. ***Elife***. [link](https://doi.org/10.7554/eLife.44443.001)
 * SUMMARY: We could show that brain structure explaines a large proportion of functional interactions between different regions in the healthy human brain.
 
 **2019, TW - First Author** - Towards precision medicine in psychiatry. ***Dissertation*** [link](http://hdl.handle.net/2066/201200)
