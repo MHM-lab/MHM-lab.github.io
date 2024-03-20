@@ -56,7 +56,7 @@ I am a bioinformatics enthusiast working in IT infrastructure and science. I lev
 <br>
 <br>
 ## Philipp Seidel, PostDoc
-<img align="left" src="https://mhm-lab.github.io/images/philipp_pic1.jpg" width="150 px" style="padding: 10px"> <br>
+<img align="left" src="https://mhm-lab.github.io/images/philipp_pic.jpg" width="150 px" style="padding: 10px"> <br>
 I am harnessing modelling techniques to discern variations in brain metrics, encompassing currently structural but eventually functional aspects, across diverse populations. I am particularly dedicated to unraveling the intricate dynamics of longitudinal changes within brain images, employing a diverse set of modeling methodologies. By delving into the nuanced alterations occurring over time, my research endeavors aim to illuminate critical insights into the progression of neurological and mental health conditions. [Philipp's email](mailto:)
 <br>
 <br>
