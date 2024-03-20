@@ -31,6 +31,12 @@ My research interests are on the continuous development of deep learning techniq
 <br>
 <br>
 <br>
+## Marc Lemnitzer, BSc student
+<img align="left" src="https://mhm-lab.github.io/images/marc.png" width="150 px" style="padding: 10px"> <br>
+At the University of Tübingen, I am currently pursuing a Bachelor's degree in Bioinformatics while actively engaged in the development of a machine learning package targeting the mapping of the normative predictome. This undertaking entails meticulous validation against an array of diverse biomarker configurations. My profound interest lies at the intersection of machine learning and neuroscience. While the prospect remains aspirational, I am deeply committed to exploring potential strategies for extending human lifespan. Within the laboratory setting, I am eager to deepen my understanding of the intricacies involved in modeling processes related to the human brain, including the complexities associated with aging. Given my dedication to academic and research pursuits, I allocate the majority of my time to these endeavors, leaving limited room for leisure activities, which I don't enjoy much anyways [Marc's email](mailto:).
+<br>
+<br>
+<br>
 ## Minh-Hieu Nguyen, PhD candidate
 <img align="left" src="https://mhm-lab.github.io/images/mh_pic.png" width="150 px" style="padding: 10px"> <br>
 I am interested in the development of computational models to understand the mechanisms behind learning and decision-making processes, and how those change in individuals with mental disorders. Previously, I studied chemistry at the National University of Singapore before starting my master in neural information processing at the University of Tübingen and recently started my PhD trajectory. Outside of the lab, I enjoy cooking, music and reading. [Minh-Hieu's email](mailto:)
