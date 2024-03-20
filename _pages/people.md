@@ -33,7 +33,7 @@ My research interests are on the continuous development of deep learning techniq
 <br>
 ## Marc Lemnitzer, BSc student
 <img align="left" src="https://mhm-lab.github.io/images/marc.png" width="150 px" style="padding: 10px"> <br>
-Currently, I am pursuing a Bachelor's degree in Bioinformatics while engaged in the development of a machine learning package targeting the mapping of the normative predictome. This undertaking entails meticulous validation against an array of diverse biomarker configurations. My interest lies at the intersection of machine learning and neuroscience. In the laboratory setting, I am eager to deepen my understanding of the intricacies involved in modeling processes related to the human brain and aging. Given my dedication to academic and research pursuits, I allocate the majority of my time to these endeavors, leaving limited room for leisure activities. [Marc's email](mailto:)
+Currently, I am pursuing a Bachelor's degree in Bioinformatics while engaged in the development of a machine learning package targeting the mapping of the normative predictome. This undertaking entails meticulous validation against an array of diverse biomarker configurations. My interest lies at the intersection of machine learning and neuroscience. In the laboratory setting, I am eager to deepen my understanding of the intricacies involved in modeling processes related to the human brain. Given my dedication to study, academic and research pursuits, I allocate the majority of my time to these endeavors, leaving limited room for leisure activities. [Marc's email](mailto:)
 <br>
 <br>
 <br>
