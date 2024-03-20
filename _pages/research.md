@@ -40,16 +40,16 @@ Research priorities are presented here.
 **2022, TW - CoAuthor** - Charting brain growth and aging at high spatial precision. ***Elife***. [link](https://doi.org/10.7554/eLife.72904)
 * SUMMARY: We charted normative models at high spatial precision for a sample larger than 50k individuals. This is a massive population scale neuroimaging based normative modeling approach that can be translated to new samples and is freely available online for other scientists to use.
 
-**2022, TW - Last Author**(shared) - Deep neural networks learn general and clinically relevant representations of the ageing brain. ***NeuroImage***. [link](https://doi.org/10.1101/2021.10.29.21265645)
+**2022, TW - Last Author** (shared) - Deep neural networks learn general and clinically relevant representations of the ageing brain. ***NeuroImage***. [link](https://doi.org/10.1101/2021.10.29.21265645)
 * SUMMARY: We trained a deep neural network on N > 50k individuals to predict the aging brain. We transferred this model to make clinical predictions and share our model.
 
 **2023, TW - CoAuthor** - Regional, circuit and network heterogeneity of brain abnormalities in psychiatric disorders. ***Nature Neuroscience***. [link](https://www.nature.com/articles/s41593-023-01404-6) 
 *	SUMMARY: We developed normative models and applied them to analyze various mental disorders. Our study meticulously characterized the resulting deviations at the voxel, regional, and network levels. Notably, our findings revealed a higher degree of overlap across individuals at the network level.
 
-**2024, TW - Last Author**(shared) - Mapping Cerebellar Anatomical Heterogeneity in Mental and Neurological Illnesses. UnderRevision. [link](https://doi.org/10.1101/2023.11.18.567647)
+**2024, TW - Last Author** (shared) - Mapping Cerebellar Anatomical Heterogeneity in Mental and Neurological Illnesses. UnderRevision. [link](https://doi.org/10.1101/2023.11.18.567647)
 *	SUMMARY: We trained normative models on more than 50k individuals, charting the development of the cerebellum over the lifespan. We tease apart individual differences in patients with mental and neurological illness.
 
-**2024, TW - Last Author**(shared) - Characterising personalized neuropathology in dementia and mild cognitive impairment with explainable artificial intelligence. ***Nature Digital Medicine***. [link](https://doi.org/10.1101/2023.06.22.23291592)
+**2024, TW - Last Author** (shared) - Characterising personalized neuropathology in dementia and mild cognitive impairment with explainable artificial intelligence. ***Nature Digital Medicine***. [link](https://doi.org/10.1101/2023.06.22.23291592)
 *	SUMMARY: We trained a deep neural network to predict dementias. We use explainable AI to tease apart individual differences and make predictions (over time) on whether a specific individual develops dementia. We can do that up to 7 years early with good reliability.
 
 **2024, TW - Last Author** - Learning cortical anomaly through masked encoding for unsupervised heterogeneity mapping. ***IEEE:ISBI***. [link](https://arxiv.org/abs/2312.02762)
