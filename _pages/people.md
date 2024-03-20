@@ -57,7 +57,7 @@ I am a bioinformatics enthusiast working in IT infrastructure and science. I lev
 <br>
 ## Philipp Seidel, PostDoc
 <img align="left" src="https://mhm-lab.github.io/images/philipp_pic1.jpg" width="150 px" style="padding: 10px"> <br>
-I obtained my doctoral degree at the Regensburg University. Since July 2023, I am a Postdoctoral Researcher in the Laboratory for Mental Health Mapping in Tübingen. I focus on using computational models to find differences in brain measures (structural/functional) between healthy- and patient populations to potentially better understand how, e.g., psychiatric diseases develop and potentially be detected at an early stage. [Philipp's email](mailto:)
+I am harnessing modelling techniques to discern variations in brain metrics, encompassing currently structural but eventually functional aspects, across diverse populations. I am particularly dedicated to unraveling the intricate dynamics of longitudinal changes within brain images, employing a diverse set of modeling methodologies. By delving into the nuanced alterations occurring over time, my research endeavors aim to illuminate critical insights into the progression of neurological and mental health conditions. [Philipp's email](mailto:)
 <br>
 <br>
 <br>
@@ -81,7 +81,7 @@ I'm a PostDoc with a keen interest in the intersection of machine learning and h
 <br>
 ## Mariam Zabihi, PostDoc
 <img align="left" src="https://mhm-lab.github.io/images/mariam.png" width="150 px" style="padding: 10px"> <br>
-I received my Ph.D. in statistical neuroimaging from the Predictive Clinical Neuroscience Lab at Radboud University Medical Center in Nijmegen, The Netherlands, in 2022. My doctoral research focused on addressing the heterogeneity in psychiatric disorders using normative modeling. Currently, I am a research fellow at the Department of Computer Science at the University College London (UCL), UK, where I am engaged in the method development of generative models as well as small-object detection models for neuroimaging data. In Tubingen, I work on multi-modal deep normative modeling. [Mariam's email](mailto:)
+I received my Ph.D. in statistical neuroimaging at Radboud University Medical Center in Nijmegen. My doctoral research focused on addressing the heterogeneity in psychiatric disorders using normative modeling. Currently, I am a research fellow at the Department of Computer Science at the University College London (UCL), UK, where I am engaged in the method development of generative models for neuroimaging data. In my part time PostDoc position in Tübingen, I work on deep normative modeling techniques for parsing individual differences. [Mariam's email](mailto:)
 
 ## Join Us
 <img align="left" src="https://mhm-lab.github.io/images/joinus_pic.jpg" width="150 px" style="padding: 10px"> <br>
