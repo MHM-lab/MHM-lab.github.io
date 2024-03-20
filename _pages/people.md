@@ -9,7 +9,7 @@ All lab members are presented in alphabetical order.
 <br>
 ## Sacha ten Broeke, MSc student
 <img align="left" src="https://mhm-lab.github.io/images/sacha.png" width="150 px" style="padding: 10px"> <br>
-Currently pursuing a Master's degree in Cognitive Neuroscience at Radboud University in the Netherlands. In the lab, I am working on a comprehensive review article on the SSRI discontinuation syndrome. This endeavor not only encompasses summarizing the current state of knowledge but also delves into how prediction tools can be harnessed to assess the risk associated with this syndrome. My academic pursuits extend beyond this project, with a keen focus on neural prosthetics and clinical neuropsychology. These areas of interest reflect my dedication to advancing understanding and practical applications within the intersection of neuroscience and clinical practice. [Sacha's email](mailto:)
+Currently pursuing a Master's degree in Cognitive Neuroscience. In the lab, I am working on a comprehensive review article on the SSRI discontinuation syndrome. This endeavor not only encompasses summarizing the current state of knowledge but also delves into how prediction tools can be harnessed to assess the risk associated with this syndrome. My academic pursuits extend beyond this project, with a keen focus on neural prosthetics and clinical neuropsychology. These areas of interest reflect my dedication to advancing understanding and practical applications within the intersection of neuroscience and clinical practice. [Sacha's email](mailto:)
 <br>
 <br>
 <br>
@@ -43,9 +43,9 @@ I am interested in the development of computational models to understand the mec
 <br>
 <br>
 <br>
-## Sarah Sabotta, MSc student
+## Sarah Sabotta, HiWi
 <img align="left" src="https://mhm-lab.github.io/images/sarah_pic.png" width="150 px" style="padding: 10px"> <br>
-I am a master’s student in Neural and Behavioral Sciences and have an interdisciplinary background. My neuroscientific research interests are in human cognitive and psychiatric research. In my master’s thesis, I incorporate kinship information into a normative modeling framework. Outside of academia, I am passionate about education, art, the environment, and kind people. [Sarah's email](mailto:)
+I have finished my master’s study in Neural and Behavioral Sciences and have an interdisciplinary background. My neuroscientific research interests are in human cognitive and psychiatric research. In my master’s thesis, I incorporated kinship information into a normative modeling framework, which we are currently in the process of preparing for publication. Outside of academia, I am passionate about education, art, the environment, and kind people. [Sarah's email](mailto:)
 <br>
 <br>
 <br>
