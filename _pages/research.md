@@ -22,37 +22,37 @@ Research priorities are presented here.
 **2015, TW - First Author** - From estimating activation locality to predicting disorder: a review of pattern recognition for neuroimaging-based psychiatric diagnostics. **Neuroscience & Biobehavioural Reviews**. [link](https://doi.org/10.1016/j.neubiorev.2015.08.001) 
 * SUMMARY: In this seminal paper, we showed that with increasing sample size the accuracy of pattern classification approaches for the prediction of mental disorders decreased. This is counterintuitive and in conflict with evidence in other fields that use pattern recognition approaches to predict e.g., image classes, likes cats and dogs. Generally, machine learning algorithms perform better with more training data. Therefore, this finding was very surprising. We could attribute it in parts to the high heterogeneity of mental disorders and a publication bias for better performing but not representative models. This work contributed to a debate on cross-validation failures and provides important evidence for the development of methods to map heterogeneity of mental disorders.
 
-**2018** - Mapping the heterogeneous phenotype of schizophrenia and bipolar disorder using normative models. ***JAMA psychiatry***. [link](https://doi.org/10.1001/jamapsychiatry.2018.2467) <span>TW - First Author</span>
+**2018, TW - First Author** - Mapping the heterogeneous phenotype of schizophrenia and bipolar disorder using normative models. ***JAMA psychiatry***. [link](https://doi.org/10.1001/jamapsychiatry.2018.2467)
 * SUMMARY: We mapped the heterogeneity of schizophrenia and bipolar disorder showing an individualized profile of deviations from the norm. These results were very surprising and framed by the media as "Who is the average patient in psychiatry?". The results have been frequently replicated by us and other groups using various algorithms and samples.
 
-**2019** - Individual differences v. the average patient: mapping the heterogeneity in ADHD using normative models. ***Psychological medicine***. [link](https://doi.org/10.1017/S0033291719000084) <span>TW - First Author</span>
+**2019, TW - First Author** - Individual differences v. the average patient: mapping the heterogeneity in ADHD using normative models. ***Psychological medicine***. [link](https://doi.org/10.1017/S0033291719000084)
 * SUMMARY: We mapped the heterogeneity of ADHD at the level of the individual patient, showing that each patient had a distinct profile of deviations from the norm.
 
-**2019** - Inter-individual differences in human brain structure and morphometry link to population variation in demographics and behavior. ***Elife***. [link](https://doi.org/10.7554/eLife.44443.001)
+**201, TW - CoAuthor** - Inter-individual differences in human brain structure and morphometry link to population variation in demographics and behavior. ***Elife***. [link](https://doi.org/10.7554/eLife.44443.001)
 * SUMMARY: We could show that brain structure explaines a large proportion of functional interactions between different regions in the healthy human brain.
 
-**2019** - Towards precision medicine in psychiatry. ***Dissertation*** [link](http://hdl.handle.net/2066/201200) <span>TW - First Author</span>
+**2019, TW - First Author** - Towards precision medicine in psychiatry. ***Dissertation*** [link](http://hdl.handle.net/2066/201200)
 * SUMMARY: We developed a precision medicine approach for psychiatry and discuss necessary next steps and introduced a roadmap towards this goal.
 
-**2021** - Replicating extensive brain structural heterogeneity in individuals with schizophrenia and bipolar disorder. ***Human Brain Mapping***. [link](https://doi.org/10.1101/2020.05.08.20095091)
+**2021, TW - First Author** - Replicating extensive brain structural heterogeneity in individuals with schizophrenia and bipolar disorder. ***Human Brain Mapping***. [link](https://doi.org/10.1101/2020.05.08.20095091)
 * SUMMARY: We replicated our earlier finding that patients in schizophrenia and bipolar disorder and showed an individualized profile of normative deviations.
 
-**2022** - Charting brain growth and aging at high spatial precision. ***Elife***. [link](https://doi.org/10.7554/eLife.72904)
+**2022, TW - CoAuthor** - Charting brain growth and aging at high spatial precision. ***Elife***. [link](https://doi.org/10.7554/eLife.72904)
 * SUMMARY: We charted normative models at high spatial precision for a sample larger than 50k individuals. This is a massive population scale neuroimaging based normative modeling approach that can be translated to new samples and is freely available online for other scientists to use.
 
-**2022** - Deep neural networks learn general and clinically relevant representations of the ageing brain. ***NeuroImage***. [link](https://doi.org/10.1101/2021.10.29.21265645) <span>TW - Last Author(shared)</span>
+**2022, TW - Last Author**(shared) - Deep neural networks learn general and clinically relevant representations of the ageing brain. ***NeuroImage***. [link](https://doi.org/10.1101/2021.10.29.21265645)
 * SUMMARY: We trained a deep neural network on N > 50k individuals to predict the aging brain. We transferred this model to make clinical predictions and share our model.
 
-**2023** - Regional, circuit and network heterogeneity of brain abnormalities in psychiatric disorders. ***Nature Neuroscience***. [link](https://www.nature.com/articles/s41593-023-01404-6) 
+**2023, TW - CoAuthor**(shared)** - Regional, circuit and network heterogeneity of brain abnormalities in psychiatric disorders. ***Nature Neuroscience***. [link](https://www.nature.com/articles/s41593-023-01404-6) 
 *	SUMMARY: We developed normative models and applied them to analyze various mental disorders. Our study meticulously characterized the resulting deviations at the voxel, regional, and network levels. Notably, our findings revealed a higher degree of overlap across individuals at the network level.
 
-**2024** - Mapping Cerebellar Anatomical Heterogeneity in Mental and Neurological Illnesses. UnderRevision. [link](https://doi.org/10.1101/2023.11.18.567647) <span>TW - Last Author(shared)</span>
+**2024, TW - Last Author**(shared) - Mapping Cerebellar Anatomical Heterogeneity in Mental and Neurological Illnesses. UnderRevision. [link](https://doi.org/10.1101/2023.11.18.567647)
 *	SUMMARY: We trained normative models on more than 50k individuals, charting the development of the cerebellum over the lifespan. We tease apart individual differences in patients with mental and neurological illness.
 
-**2024** - Characterising personalized neuropathology in dementia and mild cognitive impairment with explainable artificial intelligence. ***Nature Digital Medicine***. [link](https://doi.org/10.1101/2023.06.22.23291592) <span>TW - Last Author(shared)</span>
+**2024, TW - Last Author**(shared) - Characterising personalized neuropathology in dementia and mild cognitive impairment with explainable artificial intelligence. ***Nature Digital Medicine***. [link](https://doi.org/10.1101/2023.06.22.23291592)
 *	SUMMARY: We trained a deep neural network to predict dementias. We use explainable AI to tease apart individual differences and make predictions (over time) on whether a specific individual develops dementia. We can do that up to 7 years early with good reliability.
 
-**2024** - Learning cortical anomaly through masked encoding for unsupervised heterogeneity mapping. ***IEEE:ISBI***. [link](https://arxiv.org/abs/2312.02762) <span>TW - Last Author</span>
+**2024TW - Last Author** - Learning cortical anomaly through masked encoding for unsupervised heterogeneity mapping. ***IEEE:ISBI***. [link](https://arxiv.org/abs/2312.02762)
 * SUMMARY: We developed a method, CAM (Cortical Anomaly Detection through Masked Image Modeling), for cortical anomily detetection using a vison transformer architecture which we validated against disorders on the psychotic spectrum. 
 
 ### All publications can be found on [Google Scholar](https://scholar.google.com/citations?user=KJaA3sEAAAAJ&hl=nl)
