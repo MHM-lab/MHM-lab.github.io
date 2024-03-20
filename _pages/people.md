@@ -43,7 +43,13 @@ I am interested in the development of computational models to understand the mec
 <br>
 <br>
 <br>
-## Sarah Sabotta, HiWi
+## Melis Oktayoglu, HiWi
+<img align="left" src="https://mhm-lab.github.io/images/melis.png" width="150 px" style="padding: 10px"> <br>
+Pursuing a Master's degree in machine learning at the University of Tübingen, my focus lies in leveraging predictive models, particularly those centered around language, to delve into the intricacies of individual differences in schizophrenia and prognostic predictions in psychosis. Within my role as a HiWi, I contribute to a diverse array of tasks, including the handling of extensive datasets, cluster computing, and system maintenance. Moreover, I am actively immersing myself in the literature pertaining to machine learning applications in mental health mapping, with a specific emphasis on utilizing language-based feature sets. [Melis's email](mailto:)
+<br>
+<br>
+<br>
+## Sarah Sabotta, HiWi // MSc Student
 <img align="left" src="https://mhm-lab.github.io/images/sarah_pic.png" width="150 px" style="padding: 10px"> <br>
 I have finished my master’s study in Neural and Behavioral Sciences and have an interdisciplinary background. My neuroscientific research interests are in human cognitive and psychiatric research. In my master’s thesis, I incorporated kinship information into a normative modeling framework, which we are currently in the process of preparing for publication. Outside of academia, I am passionate about education, art, the environment, and kind people. [Sarah's email](mailto:)
 <br>
