@@ -20,7 +20,7 @@ I am interested in modeling and the analysis of brain networks in health and dis
 <br>
 <br>
 ##  Milin Kim, PhD candidate
-<img align="left" src="https://mhm-lab.github.io/images/milin_pic.png" width="150 px" style="padding: 10px"> <br>
+<img align="left" src="https://mhm-lab.github.io/images/milin.png" width="150 px" style="padding: 10px"> <br>
 I am interested in the development of the cerebellum over the lifespan and its role in neurological and mental disorders. In my PhD, I am mapping the trajectory of the cerebellum using machine learning methods and brain imaging of large populations. Before starting my PhD at Oslo University Hospital, I studied psychology at Seoul National University and continued with cognitive neuroscience at University of Oslo. Outside the lab I spend my time exploring Norwegian forests and fjords, baking macarons, and reading. [Milin's email](mailto:milink@student.sv.uio.no)
 <br>
 <br>
