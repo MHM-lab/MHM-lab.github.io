@@ -67,7 +67,7 @@ I am harnessing modelling techniques to discern variations in brain metrics, enc
 <br>
 <br>
 <br>
-## Nitin Sharma, MSc student
+## Nitin Sharma, HiWi
 <img align="left" src="https://mhm-lab.github.io/images/nit_pic.jpg" width="150 px" style="padding: 10px"> <br>
 I am currently pursuing my master's in Neural Information Processing. My research interest lies in understanding the underlying mechanisms of mental disorders with the help of machine learning. During my internship and bachelor's thesis, I worked on EEG and MRI/fMRI datasets, exploring deep learning-based domain adaptation methods on multi-site datasets for mental disorders such as depression. I am working with Dr. Wolfers to chart individual differences employing Normative modeling and machine-learning techniques. Outside of the lab, I enjoy spending time with friends, go for hiking, and listening to music. [Nitin's email](mailto:)
 <br>
