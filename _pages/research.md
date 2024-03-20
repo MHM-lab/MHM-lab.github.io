@@ -19,7 +19,7 @@ Research priorities are presented here.
 
 ## Selected Publications in Chronological Order
 
-**2015** <span>TW - First Author</span> - From estimating activation locality to predicting disorder: a review of pattern recognition for neuroimaging-based psychiatric diagnostics. **Neuroscience & Biobehavioural Reviews**. [link](https://doi.org/10.1016/j.neubiorev.2015.08.001) 
+**2015, TW, First Author*** - From estimating activation locality to predicting disorder: a review of pattern recognition for neuroimaging-based psychiatric diagnostics. **Neuroscience & Biobehavioural Reviews**. [link](https://doi.org/10.1016/j.neubiorev.2015.08.001) 
 * SUMMARY: In this seminal paper, we showed that with increasing sample size the accuracy of pattern classification approaches for the prediction of mental disorders decreased. This is counterintuitive and in conflict with evidence in other fields that use pattern recognition approaches to predict e.g., image classes, likes cats and dogs. Generally, machine learning algorithms perform better with more training data. Therefore, this finding was very surprising. We could attribute it in parts to the high heterogeneity of mental disorders and a publication bias for better performing but not representative models. This work contributed to a debate on cross-validation failures and provides important evidence for the development of methods to map heterogeneity of mental disorders.
 
 **2018** - Mapping the heterogeneous phenotype of schizophrenia and bipolar disorder using normative models. ***JAMA psychiatry***. [link](https://doi.org/10.1001/jamapsychiatry.2018.2467) <span>TW - First Author</span>
