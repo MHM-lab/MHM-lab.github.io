@@ -43,7 +43,7 @@ Research priorities are presented here.
 **2021** - Replicating extensive brain structural heterogeneity in individuals with schizophrenia and bipolar disorder. Human Brain Mapping. [link](https://doi.org/10.1101/2020.05.08.20095091)
 * SUMMARY: We replicated our earlier finding that patients in schizophrenia and bipolar disorder and showed an individualized profile of normative deviations.
 
-**2022** - Charting brain growth and aging at high spatial precision. Elife. [link](https://doi.org/10.7554/eLife.72904)
+**2022** - Charting brain growth and aging at high spatial precision. <b>Elife<b>. [link](https://doi.org/10.7554/eLife.72904)
 * SUMMARY: We charted normative models at high spatial precision for a sample larger than 50k individuals. This is a massive population scale neuroimaging based normative modeling approach that can be translated to new samples and is freely available online for other scientists to use.
 
 **2022** - Deep neural networks learn general and clinically relevant representations of the ageing brain. NeuroImage. [link](https://doi.org/10.1101/2021.10.29.21265645)
