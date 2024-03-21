@@ -31,9 +31,6 @@ Research priorities are presented here.
 **2019, TW - CoAuthor** - Inter-individual differences in human brain structure and morphometry link to population variation in demographics and behavior. ***Elife***. [link](https://doi.org/10.7554/eLife.44443.001)
 * SUMMARY: We could show that brain structure explaines a large proportion of functional interactions between different regions in the healthy human brain.
 
-**2019, TW - First Author** - Towards precision medicine in psychiatry. ***Dissertation*** [link](http://hdl.handle.net/2066/201200)
-* SUMMARY: We developed a precision medicine approach for psychiatry and discuss necessary next steps and introduced a roadmap towards this goal.
-
 **2021, TW - First Author** - Replicating extensive brain structural heterogeneity in individuals with schizophrenia and bipolar disorder. ***Human Brain Mapping***. [link](https://doi.org/10.1101/2020.05.08.20095091)
 * SUMMARY: We replicated our earlier finding that patients in schizophrenia and bipolar disorder and showed an individualized profile of normative deviations.
 
