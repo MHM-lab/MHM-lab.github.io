@@ -69,7 +69,7 @@ I am harnessing modelling techniques to discern variations in brain metrics, enc
 <br>
 ## Nitin Sharma, HiWi
 <img align="left" src="https://mhm-lab.github.io/images/nit_pic.jpg" width="150 px" style="padding: 10px"> <br>
-I am currently pursuing my master's in Neural Information Processing. My research interest lies in understanding the underlying mechanisms of mental disorders with the help of machine learning. During my internship and bachelor's thesis, I worked on EEG and MRI/fMRI datasets, exploring deep learning-based domain adaptation methods on multi-site datasets for mental disorders such as depression. I am working with Dr. Wolfers to chart individual differences employing Normative modeling and machine-learning techniques. Outside of the lab, I enjoy spending time with friends, go for hiking, and listening to music. [Nitin's email](mailto:)
+I'm currently pursuing my master's in Neural Information Processing, focusing on unraveling the mechanisms of mental disorders using machine learning. My past work involved analyzing EEG and MRI/fMRI data, employing deep learning for domain adaptation in multi-site datasets related to conditions like depression. In the lab, I'm delving into individual differences through Normative modeling and machine-learning methods. Beyond research, I cherish spending time with friends, hiking, and immersing myself in music. [Nitin's email](mailto:)
 <br>
 <br>
 <br>
@@ -81,13 +81,13 @@ In my research I develop machine learning methods to understand factors that con
 <br>
 ## Hao-Chun (Chad) Yang, PostDoc
 <img align="left" src="https://mhm-lab.github.io/images/yang_pic.png" width="150 px" style="padding: 10px"> <br>
-I'm a PostDoc with a keen interest in the intersection of machine learning and health applications. My particular interests lie in developing robust and reliable ML techniques, including Large-scale Self-Supervised Learning, Adversarial Attacks/Privacy, and Continuous Learning methods. I specialize in developing ML models from Multi-Modality signals, such as Electrical Physiologies (ECG/EDA/EEG), Medical Images (MRI), and Speech Processing. Before joining the MHM-Lab, I received my PhD in Electrical Engineering from National Tsing Hua University, Taiwan, with a research focus on Affective Computing. In my free time, I enjoy exploring outdoor activities, studying exotic meals, and traveling. [Chad's email](mailto:chadyang.hc@gmail.com)
+As a PostDoc, I'm deeply engaged in the convergence of machine learning and healthcare. My expertise centers on crafting resilient ML techniques, spanning Large-scale Self-Supervised Learning, Adversarial Attacks/Privacy, and Continuous Learning methodologies. I specialize in leveraging Multi-Modality signals like ECG/EDA/EEG, MRI, and Speech Processing for developing robust ML models. Prior to my role at the MHM-Lab, I earned my PhD in Electrical Engineering from National Tsing Hua University, Taiwan, focusing on Affective Computing. Outside of research, I indulge in outdoor pursuits, culinary exploration, and globetrotting adventures. [Chad's email](mailto:chadyang.hc@gmail.com)
 <br>
 <br>
 <br>
 ## Mariam Zabihi, PostDoc
 <img align="left" src="https://mhm-lab.github.io/images/mariam.png" width="150 px" style="padding: 10px"> <br>
-I received my Ph.D. in statistical neuroimaging at Radboud University Medical Center in Nijmegen. My doctoral research focused on addressing the heterogeneity in psychiatric disorders using normative modeling. Currently, I am a research fellow at the Department of Computer Science at the University College London (UCL), UK, where I am engaged in the method development of generative models for neuroimaging data. In my part time PostDoc position in Tübingen, I work on deep normative modeling techniques for parsing individual differences. [Mariam's email](mailto:)
+With a Ph.D. in statistical neuroimaging from Radboud University Medical Center, my expertise centers on addressing psychiatric disorder heterogeneity through normative modeling. Currently, as a research fellow at UCL's Department of Computer Science, I focus on advancing generative models for neuroimaging data analysis. Concurrently, in a part-time PostDoc role in Tübingen, I delve into deep normative modeling techniques to discern individual differences within neuroimaging datasets. This dual engagement allows me to contribute significantly to both methodological advancements and the broader understanding of neurological diversity in psychiatric research. [Mariam's email](mailto:)
 
 ## Join Us
 <img align="left" src="https://mhm-lab.github.io/images/joinus_pic.jpg" width="150 px" style="padding: 10px"> <br>
