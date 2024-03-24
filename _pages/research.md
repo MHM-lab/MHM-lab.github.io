@@ -32,13 +32,13 @@ Research priorities are presented here.
 * SUMMARY: We could show that brain structure explaines a large proportion of functional interactions between different regions in the healthy human brain.
 
 **2021** Replicating extensive brain structural heterogeneity in individuals with schizophrenia and bipolar disorder. ***Human Brain Mapping***. [link](https://doi.org/10.1101/2020.05.08.20095091)
-* SUMMARY: We replicated our earlier finding that patients in schizophrenia and bipolar disorder and showed an individualized profile of normative deviations.
+* SUMMARY: We replicated our earlier finding that patients in schizophrenia and bipolar disorder and showed an individualized profile of normative deviations. This has now been replicated by various groups and extends to different mental and neurological conditions. 
 
 **2022** Charting brain growth and aging at high spatial precision. ***eLife***. [link](https://doi.org/10.7554/eLife.72904)
 * SUMMARY: We charted normative models at high spatial precision for a sample larger than 50k individuals. This is a massive population scale neuroimaging based normative modeling approach that can be translated to new samples and is freely available online for other scientists to use.
 
 **2022** Deep neural networks learn general and clinically relevant representations of the ageing brain. ***NeuroImage***. [link](https://doi.org/10.1101/2021.10.29.21265645)
-* SUMMARY: We trained a deep neural network on N > 50k individuals to predict the aging brain. We transferred this model to make clinical predictions and share our model.
+* SUMMARY: We trained a deep neural network on N > 50k individuals to predict the aging brain. We transferred this model to make clinical predictions. We show that scale matters also in deep ML based imaging.
 
 **2023** Regional, circuit and network heterogeneity of brain abnormalities in psychiatric disorders. ***Nature Neuroscience***. [link](https://www.nature.com/articles/s41593-023-01404-6) 
 *	SUMMARY: We developed normative models and applied them to analyze various mental disorders. Our study meticulously characterized the resulting deviations at the voxel, regional, and network levels. Notably, our findings revealed a higher degree of overlap across individuals at the network level.
