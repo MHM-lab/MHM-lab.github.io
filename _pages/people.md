@@ -13,6 +13,12 @@ Currently pursuing a Master's degree in Cognitive Neuroscience. In the lab, I am
 <br>
 <br>
 <br>
+## Alexander Frotscher, PhD candidate
+<img align="left" src="https://mhm-lab.github.io/images/alex.png" width="150 px" style="padding: 10px"> <br>
+My research interests comprise machine learning and unsupervised anomaly detection for neuroimaging data. My goal is to contribute to methodological development, ultimately affecting clinical practice. The developed models aim to progress the understanding of biological variation and diseases. Outside of science, I enjoy doing sports. [Alexanders' email](mailto:)
+<br>
+<br>
+<br>
 ## Sicheng Dai, PostDoc
 <img align="left" src="https://mhm-lab.github.io/images/dai.png" width="150 px" style="padding: 10px"> <br>
 I am interested in modeling and the analysis of brain networks in health and disease through the fusion of two fields: Network Science (e.g. network dynamics, multilayer networks), and Machine Learning (e.g. graph neural networks). Prior to this postdoc, I received my PhD in computer science from ENS Lyon, where I studied the dynamic patterns of human interaction within large-scale temporal (social) networks. Outside of research, I'm a passionate nature enthusiast and animal lover. [Sicheng's email](mailto:)
