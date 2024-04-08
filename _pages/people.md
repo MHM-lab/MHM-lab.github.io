@@ -20,7 +20,7 @@ I am interested in modeling and the analysis of brain networks in health and dis
 <br>
 <br>
 ## Alexander Frotscher, PhD candidate
-<img align="left" src="https://mhm-lab.github.io/images/alex.png" width="150 px" style="padding: 10px"> <br>
+<img align="left" src="https://mhm-lab.github.io/images/alex.jpg" width="150 px" style="padding: 10px"> <br>
 My research interests comprise machine learning and unsupervised anomaly detection for neuroimaging data. My goal is to contribute to methodological development, ultimately affecting clinical practice. The developed models aim to progress the understanding of biological variation and diseases. Outside of science, I enjoy doing sports. [Alexanders' email](mailto:)
 <br>
 <br>
