@@ -8,7 +8,7 @@ We are located in the Department of Psychiatry (Calwerstraße 14; Room 2.327) @ 
 ## Postdoc positions
 All currently available postdoc positions are listed here.
 
-### !!! We are currently in search of an outstanding PostDoc researcher with a strong technical background. If you're passionate about our research and eager to contribute, please don't hesitate to contact me at [email](mailto:dr.thomas.wolfers@gmail.com). This position offers flexibility and is available for a duration of 1 to 3 years (salary at E13 - 100%). You'll have the autonomy to drive your own research agenda. Values such as teamwork, and a strong work ethic are expected. You'll play a crucial role in the team, driving various collaborations gaining experience in leading projects.
+### !!! We are currently in search of an outstanding PostDoc researcher with a strong technical background. If you're passionate about our research and eager to contribute, please don't hesitate to contact me at [email](mailto:dr.thomas.wolfers@gmail.com). This position offers flexibility and is available for a duration of 1 to 3 years (salary at E13 - 100%). You'll have the autonomy to drive your own research agenda. Values such as teamwork, and a strong work ethic are expected. You'll play a crucial role, driving various collaborations gaining experience in leading innovative projects.
 
 ## PhD positions
 All currently available PhD positions are listed here.
