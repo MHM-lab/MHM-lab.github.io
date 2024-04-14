@@ -38,7 +38,7 @@ Research priorities are presented here.
 * SUMMARY: We charted normative models of the human brain at high spatial precision for a sample larger than 50k individuals. This is a massive population scale neuroimaging based normative modeling approach that can be translated to new samples and is freely available online for other scientists to use.
 
 **2022** Deep neural networks learn general and clinically relevant representations of the ageing brain. ***NeuroImage***. [link](https://doi.org/10.1101/2021.10.29.21265645)
-* SUMMARY: We trained a deep neural network on N > 50k individuals to predict the aging brain. We transferred this model to make clinical predictions. We show that scale matters also in deep machine learning based imaging. Our models has been benchmarked to be the state-of-art brain age model by other groups.
+* SUMMARY: We trained a deep neural network on N > 50k individuals to predict the aging brain. We transferred this model to make clinical predictions. We show that scale matters also in deep machine learning based imaging. Our model has been benchmarked by another group to be the state-of-art brain age model.
 
 **2023** Regional, circuit and network heterogeneity of brain abnormalities in psychiatric disorders. ***Nature Neuroscience***. [link](https://www.nature.com/articles/s41593-023-01404-6) 
 *	SUMMARY: We developed normative models and applied them to analyze various mental disorders. Our study meticulously characterized the resulting deviations at the voxel, regional, and network levels of the human brain. Notably, our findings reveal a higher degree of overlap across individuals at the network level.
