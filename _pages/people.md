@@ -55,12 +55,6 @@ Pursuing a Master's degree in machine learning at the University of Tübingen, m
 <br>
 <br>
 <br>
-## Sarah Sabotta, HiWi // MSc Student
-<img align="left" src="https://mhm-lab.github.io/images/sarah_pic.png" width="150 px" style="padding: 10px"> <br>
-I have finished my master’s study in Neural and Behavioral Sciences and have an interdisciplinary background. My neuroscientific research interests are in human cognitive and psychiatric research. In my master’s thesis, I incorporated kinship information into a normative modeling framework, which we are currently in the process of preparing for publication. Outside of academia, I am passionate about education, art, the environment, and kind people. [Sarah's email](mailto:)
-<br>
-<br>
-<br>
 ## Elias Schreiner, Data Scientist & IT-Infrastructure
 <img align="left" src="https://mhm-lab.github.io/images/elias.png" width="150 px" style="padding: 10px"> <br>
 I am a bioinformatics enthusiast working in IT infrastructure and science. I leverage the potential of deep learning to unlock insights from complex biological data. I belief that using this technology can enhance our understanding of the biological world, particularly in the context of improving the lives of those affected by neurodegenerative conditions and it’s often comorbid mental disorders. [Elias' email](mailto:)
@@ -113,6 +107,7 @@ Rikka Kjelkenes (2023) -> Continued with Postdoc @ University of Oslo <br>
 
 ***Completed a MSc***
 <br>
+Sara Sobotta (2024) -> Continued with a PhD @ IMPRS Leipzig 
 Mai Han Hoang (2022) -> Works in industry <br>
 Milin Kim (2021) -> Continued with PhD @ University of Oslo with Thomas <br>
 Victória Trindade (2019) -> Continued with PhD @ University Medical Center Groningen <br>
