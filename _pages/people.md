@@ -107,7 +107,8 @@ Rikka Kjelkenes (2023) -> Continued with Postdoc @ University of Oslo <br>
 
 ***Completed a MSc***
 <br>
-Sarah Sobotta (2024) -> Continued with a PhD @ IMPRS Leipzig <br>
+Minh-Hieu Nguyen (2023) -> Continued with a PhD @ University of Tübingen with Thomas <br>
+Sarah Sobotta (2023) -> Continued with a PhD @ IMPRS Leipzig <br>
 Mai Han Hoang (2022) -> Works in industry <br>
 Milin Kim (2021) -> Continued with PhD @ University of Oslo with Thomas <br>
 Victória Trindade (2019) -> Continued with PhD @ University Medical Center Groningen <br>
