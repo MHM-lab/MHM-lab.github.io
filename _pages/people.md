@@ -124,4 +124,4 @@ Sacha ten Broeke (2023) -> Continued with MSc @ Radboud University
 Mylla Marsiglia (2024) -> Continued with PhD @ IMPRS Leipzig <br>
 Shun-chin Wu (Jim) (2023) -> Continued with MSc @ University College London<br>
 Can Demircan (2023) -> Continued with MSc @ University of Tübingen <br>
-María Berjano (2022) -> Continued with LabRotation @ Univeristy of Duisburg-Essen <br>
+María Berjano (2022) -> Continued with Labrotation @ Univeristy of Duisburg-Essen <br>
