@@ -106,10 +106,10 @@ We are interested in welcoming new members to our team! You can check out if any
 Rikka Kjelkenes (2023) -> Continued with Postdoc @ University of Oslo <br>
 
 ***Completed a MSc***
-<br>
+<br
 Alexander Frotscher (2023) -> Continued with PhD @ Univerity of Tübingen with Thomas <br>
 Minh-Hieu Nguyen (2023) -> Continued with PhD @ University of Tübingen with Thomas <br>
-Sarah Sobotta (2023) -> Continued with a PhD @ IMPRS Leipzig <br>
+Sarah Sobotta (2023) -> Continued with a PhD @ Max Planck Institute Leipzig <br>
 Mai Han Hoang (2022) -> Works in industry <br>
 Milin Kim (2021) -> Continued with PhD @ University of Oslo with Thomas <br>
 Victória Trindade (2019) -> Continued with PhD @ University Medical Center Groningen <br>
@@ -122,7 +122,8 @@ Sacha ten Broeke (2023) -> Continued with MSc @ Radboud University
 
 ***Completed a Labrotation***
 <br>
-Mylla Marsiglia (2024) -> Continued with PhD @ IMPRS Leipzig <br>
+
+Mylla Marsiglia (2024) -> Continued with PhD @ Max Planck Institute Leipzig <br>
 Shun-chin Wu (Jim) (2023) -> Continued with MSc @ University College London<br>
 Can Demircan (2023) -> Continued with MSc @ University of Tübingen <br>
 María Berjano (2022) -> Continued with Labrotation @ Univeristy of Duisburg-Essen <br>
