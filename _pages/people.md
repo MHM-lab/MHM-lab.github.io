@@ -101,14 +101,14 @@ We are interested in welcoming new members to our team! You can check out if any
 
 ## Alumni
 
-***Completed a PostDoc/Data-Scientist***
+***Completed PostDoc/Data-Scientist***
 <br>
 
-***Completed a PhD***
+***Completed PhD***
 <br>
 Rikka Kjelkenes (2023) -> Continued with Postdoc @ University Oslo <br>
 
-***Completed a MSc/HiWi***
+***Completed MSc/HiWi***
 <br>
 Alexander Frotscher (2023) -> Continued with PhD @ University Tübingen with Thomas <br>
 Minh-Hieu Nguyen (2023) -> Continued with PhD @ University Tübingen with Thomas <br>
@@ -119,11 +119,11 @@ Victória Trindade (2019) -> Continued with PhD @ University Medical Center Gron
 Christina Isakoglou (2017) ->  Continued with PhD @ Radboud University Nijmegen <br>
 Maria Paraskevopoulou (2016) -> Continued with PhD @ Radboud University Nijmegen <br>
 
-***Completed a BSc/Honors***
+***Completed BSc/Honors***
 <br>
 Sacha ten Broeke (2023) -> Continued with MSc @ Radboud University Nijmegen <br>
 
-***Completed a Labrotation***
+***Completed Labrotation***
 <br>
 Mylla Marsiglia (2024) -> Continued with PhD @ Max Planck Institute Leipzig <br>
 Shun-chin Wu (Jim) (2023) -> Continued with MSc @ University College London<br>
