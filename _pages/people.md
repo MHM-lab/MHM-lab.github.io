@@ -110,7 +110,7 @@ Rikka Kjelkenes (2023) -> Continued with Postdoc @ University Oslo <br>
 
 ***Completed a MSc/HiWi***
 <br>
-Alexander Frotscher (2023) -> Continued with PhD @ Univerity Tübingen with Thomas <br>
+Alexander Frotscher (2023) -> Continued with PhD @ University Tübingen with Thomas <br>
 Minh-Hieu Nguyen (2023) -> Continued with PhD @ University Tübingen with Thomas <br>
 Sarah Sobotta (2023) -> Continued with a PhD @ Max Planck Institute Leipzig <br>
 Mai Han Hoang (2022) -> Works in industry <br>
@@ -128,4 +128,4 @@ Sacha ten Broeke (2023) -> Continued with MSc @ Radboud University Nijmegen <br>
 Mylla Marsiglia (2024) -> Continued with PhD @ Max Planck Institute Leipzig <br>
 Shun-chin Wu (Jim) (2023) -> Continued with MSc @ University College London<br>
 Can Demircan (2023) -> Continued with MSc @ University Tübingen <br>
-María Berjano (2022) -> Continued with Labrotation @ Univeristy Duisburg-Essen <br>
+María Berjano (2022) -> Continued with Labrotation @ University Duisburg-Essen <br>
