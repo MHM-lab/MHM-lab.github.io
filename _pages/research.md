@@ -32,7 +32,10 @@ Research priorities are presented here.
 * SUMMARY: We could show that brain structure explaines a large proportion of functional interactions between different regions in the healthy human brain.
 
 **2021** Replicating extensive brain structural heterogeneity in individuals with schizophrenia and bipolar disorder. ***Human Brain Mapping***. [link](https://doi.org/10.1101/2020.05.08.20095091)
-* SUMMARY: We replicated our earlier finding that patients in schizophrenia and bipolar disorder and showed an individualized profile of normative brain deviations. This has been replicated by various groups and extends to different mental and neurological conditions. 
+* SUMMARY: We replicated our earlier finding that patients in schizophrenia and bipolar disorder and showed an individualized profile of normative brain deviations. This has been replicated by various groups and extends to different mental and neurological conditions.
+
+**2022** The normative modeling framework for computational psychiatry. ***Nature Protocols*** [link](https://pubmed.ncbi.nlm.nih.gov/35650452/)
+* SUMMARY: We describe the normative modeling framework for computational psychiatry, providing a comprehensive exploration of its principles and significance within the discipline, while also offering accessible tools for analyzing data within this framework.
 
 **2022** Charting brain growth and aging at high spatial precision. ***eLife***. [link](https://doi.org/10.7554/eLife.72904)
 * SUMMARY: We charted normative models of the human brain at high spatial precision for a sample larger than 50k individuals. This is a massive population scale neuroimaging based normative modeling approach that can be translated to new samples and is freely available online for other scientists to use.
