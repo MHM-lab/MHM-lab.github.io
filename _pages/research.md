@@ -43,7 +43,7 @@ Research priorities are presented here.
 **2023** Regional, circuit and network heterogeneity of brain abnormalities in psychiatric disorders. ***Nature Neuroscience***. [link](https://www.nature.com/articles/s41593-023-01404-6) 
 *	SUMMARY: We developed normative models and applied them to analyze various mental disorders. Our study meticulously characterized the resulting deviations at the voxel, regional, and network levels of the human brain. Notably, our findings reveal a higher degree of overlap across individuals at the network level.
 
-**2024** Mapping Cerebellar Anatomical Heterogeneity in Mental and Neurological Illnesses. UnderRevision. [link](https://doi.org/10.1101/2023.11.18.567647)
+**2024** Mapping Cerebellar Anatomical Heterogeneity in Mental and Neurological Illnesses. ***Nature Mental Health***. [link](https://doi.org/10.1101/2023.11.18.567647)
 *	SUMMARY: We trained normative models on more than 50k individuals, charting the development of the cerebellum over the lifespan. We tease apart individual differences in patients with mental and neurological illness.
 
 **2024** Characterising personalized neuropathology in dementia and mild cognitive impairment with explainable artificial intelligence. ***Nature Digital Medicine***. [link](https://doi.org/10.1101/2023.06.22.23291592)
