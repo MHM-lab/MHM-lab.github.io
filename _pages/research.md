@@ -49,7 +49,7 @@ Research priorities are presented here.
 **2024** Mapping Cerebellar Anatomical Heterogeneity in Mental and Neurological Illnesses. ***Nature Mental Health***. [link](https://doi.org/10.1101/2023.11.18.567647)
 *	SUMMARY: We trained normative models on more than 50k individuals, charting the development of the cerebellum over the lifespan. We tease apart individual differences in patients with mental and neurological illness.
 
-**2024** Characterising personalized neuropathology in dementia and mild cognitive impairment with explainable artificial intelligence. ***Nature Digital Medicine***. [link](https://doi.org/10.1101/2023.06.22.23291592)
+**2024** Characterising personalized neuropathology in dementia and mild cognitive impairment with explainable artificial intelligence. ***Nature Partner Journals Digital Medicine***. [link](https://doi.org/10.1101/2023.06.22.23291592)
 *	SUMMARY: We trained a deep neural network to predict dementias. We use explainable machine learning to tease apart individual differences and make predictions (over time) on whether a specific individual develops dementia. We can do that up to 7 years early with good reliability.
 
 **2024** Learning cortical anomaly through masked encoding for unsupervised heterogeneity mapping. ***IEEE:ISBI***. [link](https://arxiv.org/abs/2312.02762)
