@@ -7,12 +7,6 @@ All lab members are presented in alphabetical order.
 <br>
 <br>
 <br>
-## Sacha ten Broeke, MSc Student
-<img align="left" src="https://mhm-lab.github.io/images/sacha.png" width="150 px" style="padding: 10px"> <br>
-Currently pursuing a Master's degree in Cognitive Neuroscience. In the lab, I am working on a comprehensive review article on the SSRI discontinuation syndrome. This endeavor not only encompasses summarizing the current state of knowledge but also delves into how prediction tools can be harnessed to assess the risk associated with this syndrome. My academic pursuits extend beyond this project, with a keen focus on neural prosthetics and clinical neuropsychology. These areas of interest reflect my dedication to advancing understanding and practical applications within the intersection of neuroscience and clinical practice. [Sacha's email](mailto:)
-<br>
-<br>
-<br>
 ## Sicheng Dai, PostDoc
 <img align="left" src="https://mhm-lab.github.io/images/dai.png" width="150 px" style="padding: 10px"> <br>
 I am interested in modeling and the analysis of brain networks in health and disease through the fusion of two fields: Network Science (e.g. network dynamics, multilayer networks), and Machine Learning (e.g. graph neural networks). Prior to this postdoc, I received my PhD in computer science from ENS Lyon, where I studied the dynamic patterns of human interaction within large-scale temporal (social) networks. Outside of research, I'm a passionate nature enthusiast and animal lover. [Sicheng's email](mailto:)
@@ -27,19 +21,13 @@ My research focuses on machine learning and unsupervised anomaly detection withi
 <br>
 ##  Milin Kim, PhD Candidate
 <img align="left" src="https://mhm-lab.github.io/images/milin.png" width="150 px" style="padding: 10px"> <br>
-I am interested in the development of the cerebellum over the lifespan and its role in neurological and mental disorders. In my PhD, I am mapping the trajectory of the cerebellum using machine learning methods and brain imaging of large populations. Before starting my PhD at Oslo University Hospital, I studied psychology at Seoul National University and continued with cognitive neuroscience at University of Oslo. Outside the lab I spend my time exploring Norwegian forests and fjords, baking macarons, and reading. [Milin's email](mailto:milink@student.sv.uio.no)
-<br>
-<br>
-<br>
-##  Esten Leonardsen, PhD Candidate
-<img align="left" src="https://mhm-lab.github.io/images/esten_pic.png" width="150 px" style="padding: 10px"> <br>
-My research interests are on the continuous development of deep learning techniques, especially applied to neuroimaging data. I want to employ these methods to learn more about variation occurring in our brains, both in healthy individuals and those affected by mental as well as neurological disorders. I am also interests in the philosophical intersection of deep learning and neuroscience, philosophy of mind, and about gaining a formal understanding of learning, intelligence, and other cognitive phenomena. Outside of the lab I have cofounded start-up companies and enjoy reading. [Esten's email](mailto:esten.leonardsen@psykologi.uio.no)
+I am interested in the development of the cerebellum over the lifespan and its role in neurological and mental disorders. In my PhD, I am mapping the trajectory of the cerebellum using machine learning methods and brain imaging of large populations. Before starting my PhD at Oslo University Hospital, I studied psychology at Seoul National University and continued with cognitive neuroscience at University of Oslo. Outside the lab I spend my time exploring Norwegian forests and fjords, baking macarons, and reading. [Milin's email](mailto:)
 <br>
 <br>
 <br>
 ## Marc Lemnitzer, BSc Student
 <img align="left" src="https://mhm-lab.github.io/images/marc.png" width="150 px" style="padding: 10px"> <br>
-Currently, I am pursuing a Bachelor's degree in Bioinformatics while engaged in the development of a machine learning package targeting the mapping of the normative predictome. This undertaking entails meticulous validation against an array of diverse biomarker configurations. My interest lies at the intersection of machine learning and neuroscience. In the laboratory setting, I am eager to deepen my understanding of the intricacies involved in modeling processes related to the human brain. Given my dedication to study, academic and research pursuits, I allocate the majority of my time to these endeavors, leaving limited room for leisure activities. [Marc's email](mailto:)
+Currently, I am pursuing a Bachelor's degree in Bioinformatics and contributing to a machine learning package focused on mapping complex biomarker configurations. My work involves rigorous validation across diverse datasets. I am particularly interested in the intersection of machine learning and biology. Due to my commitment to academic and research pursuits, I dedicate most of my time to these activities, leaving little room for leisure but I enjoy spending time with friends. [Marc's email](mailto:)
 <br>
 <br>
 <br>
@@ -106,26 +94,27 @@ We are interested in welcoming new members to our team! You can check out if any
 
 ***Completed PhD***
 <br>
-Rikka Kjelkenes (2023) -> Continued with Postdoc @ University Oslo <br>
+Rikka Kjelkenes (2023) -> Continued with Postdoc @ University of Oslo <br>
+Esten Leonardsen (2024) -> Continued with Postdoc @ University of Oslo <br>
 
 ***Completed MSc/HiWi***
 <br>
-Alexander Frotscher (2023) -> Continued with PhD @ University Tübingen with Thomas <br>
-Minh-Hieu Nguyen (2023) -> Continued with PhD @ University Tübingen with Thomas <br>
+Alexander Frotscher (2023) -> Continued with PhD @ University of Tübingen with Thomas <br>
+Minh-Hieu Nguyen (2023) -> Continued with PhD @ University of Tübingen with Thomas <br>
 Sarah Sobotta (2023) -> Continued with a PhD @ Max Planck Institute Leipzig <br>
 Mai Han Hoang (2022) -> Works in industry <br>
-Milin Kim (2021) -> Continued with PhD @ University Oslo with Thomas <br>
+Milin Kim (2021) -> Continued with PhD @ University of Oslo with Thomas <br>
 Victória Trindade (2019) -> Continued with PhD @ University Medical Center Groningen <br>
-Christina Isakoglou (2017) ->  Continued with PhD @ Radboud University Nijmegen <br>
-Maria Paraskevopoulou (2016) -> Continued with PhD @ Radboud University Nijmegen <br>
+Christina Isakoglou (2017) ->  Continued with PhD @ Radboud University of Nijmegen <br>
+Maria Paraskevopoulou (2016) -> Continued with PhD @ Radboud University of Nijmegen <br>
 
 ***Completed BSc/Honors***
 <br>
-Sacha ten Broeke (2023) -> Continued with MSc @ Radboud University Nijmegen <br>
+Sacha ten Broeke (2023) -> Continued with MSc @ Radboud University of Nijmegen <br>
 
 ***Completed Labrotation***
 <br>
 Mylla Marsiglia (2024) -> Continued with PhD @ Max Planck Institute Leipzig <br>
 Shun-chin Wu (Jim) (2023) -> Continued with MSc @ University College London<br>
-Can Demircan (2023) -> Continued with MSc @ University Tübingen <br>
-María Berjano (2022) -> Continued with Labrotation @ University Duisburg-Essen <br>
+Can Demircan (2023) -> Continued with MSc @ University of Tübingen <br>
+María Berjano (2022) -> Continued with Labrotation @ University of Duisburg-Essen <br>
