@@ -33,7 +33,7 @@ I am interested in the development of the cerebellum over the lifespan and its r
 <br>
 ## Gülce Lale, PhD Candidate
 <img align="left" src="https://mhm-lab.github.io/images/guelce.png" width="150 px" style="padding: 10px"> <br>
-After obtaining a BSc in Computer Science & Engineering and Psychology, I pursued my passion for neuroscience by completing an MSc at the Graduate School of Systemic Neurosciences (LMU) in Munich. Now, in my PhD, I aim to contribute to explaining individual differences in brain structure and function and their effects on cognitive functioning in mental health disorders using neuroimaging, neurocognitive, and machine learning methods. Outside the lab, I love spending time in nature, practicing yoga, and writing short stories. [Gülce's email](mailto:)
+After obtaining a BSc in Computer Science & Engineering and Psychology, I pursued my passion for neuroscience by completing an MSc at the Graduate School of Systemic Neurosciences in Munich. Now, in my PhD, I aim to contribute to explaining individual differences in brain structure and function and their effects on cognitive functioning in mental health disorders using neuroimaging, neurocognitive, and machine learning methods. Outside the lab, I love spending time in nature, practicing yoga, and writing short stories. [Gülce's email](mailto:)
 <br>
 <br>
 <br>
@@ -74,7 +74,7 @@ I am a master student in cognitive science, currently engaged in writing my thes
 <br>
 <br>
 ## Ponnuru Mahesh Datta Sai, BSc & DAAD Internship
-<img align="left" src="https://mhm-lab.github.io/images/mahesh.png" width="150 px" style="padding: 10px"> <br>
+<img align="left" src="https://mhm-lab.github.io/images/mahesh.jpg" width="150 px" style="padding: 10px"> <br>
 I am currently pursuing a bachelor’s degree in artificial intelligence and machine learning. My research is focused on advanced neuroimaging analysis for mental disorders using normative predictive modeling in the mental health laboratory. My academic interests span across various domains of neuroimaging and mental health, reflecting my dedication to advancing our understanding and application of neuroscience in clinical practice.[Mahesh's email](mailto:)
 <br>
 <br>
