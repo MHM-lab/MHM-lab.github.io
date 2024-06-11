@@ -73,7 +73,7 @@ I am a master student in cognitive science, currently engaged in writing my thes
 <br>
 <br>
 <br>
-## Ponnuru Mahesh Datta Sai, BSc & DAAD Summer Intern
+## Ponnuru Mahesh Datta Sai, BSc & DAAD Internship
 <img align="left" src="https://mhm-lab.github.io/images/mahesh.png" width="150 px" style="padding: 10px"> <br>
 I am currently pursuing a bachelor’s degree in artificial intelligence and machine learning. My research is focused on advanced neuroimaging analysis for mental disorders using normative predictive modeling in the mental health laboratory. My academic interests span across various domains of neuroimaging and mental health, reflecting my dedication to advancing our understanding and application of neuroscience in clinical practice.[Mahesh's email](mailto:)
 <br>
