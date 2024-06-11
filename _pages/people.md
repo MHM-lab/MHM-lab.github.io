@@ -44,13 +44,13 @@ Currently, I am pursuing a Bachelor's degree in Bioinformatics and contributing 
 <br>
 <br>
 ## Francesco Mallus, PhD Candidate
-<img align="left" src="https://mhm-lab.github.io/images/marc.png" width="150 px" style="padding: 10px"> <br>
+<img align="left" src="https://mhm-lab.github.io/images/mallus.png" width="150 px" style="padding: 10px"> <br>
 I am deeply passionate about understanding brain function across various conscious states and pathological conditions, aiming to identify robust biomarkers that reflect these functional states and the connections that shape each person's unique qualia. As a biomedical engineer with a background from the Polytechnic University of Turin, where I focused on biomedical device design and bio-signal and image processing for both my BSc and MSc, I have merged my love for technology with a keen interest in neuropsychology. In my free time, I enjoy photography, tinkering, and sailing. [Francescos's email](mailto:)
 <br>
 <br>
 <br>
 ## Chiara Möller, MSc Student
-<img align="left" src="https://mhm-lab.github.io/images/marc.png" width="150 px" style="padding: 10px"> <br>
+<img align="left" src="https://mhm-lab.github.io/images/chiara.png" width="150 px" style="padding: 10px"> <br>
 I am a Master's student in Neural and Behavioural Sciences at Tübingen University, with research interests at the intersection of bioinformatics, neuroscience, and computational modeling. My primary focus is on using computational tools to analyze multimodal data, aiming to enhance our understanding of psychiatric disorders. Outside the lab, I enjoy playing lacrosse and spending my time with coffee, nature, and crossword puzzles. [Chiara's email](mailto:)
 <br>
 <br>
@@ -104,7 +104,7 @@ In my research I develop machine learning methods to understand factors that con
 <br>
 <br>
 ## Gokul Vijayakrishnan, HiWi & IT-Infrastructure
-<img align="left" src="https://mhm-lab.github.io/images/yang_pic.png" width="150 px" style="padding: 10px"> <br>
+<img align="left" src="https://mhm-lab.github.io/images/gokul.png" width="150 px" style="padding: 10px"> <br>
 I am currently pursuing my Master's degree in Artificial Intelligence with a passion for computer vision, deep learning, and MLOps. With over seven years of professional experience in the data and embedded systems domain, I have contributed to esteemed organizations like Bosch and Aptiv. My projects have spanned diverse areas, including interior sensing, visual quality inspection, and key point estimation. Outside of my academic and professional commitments, I enjoy exploring new places and engaging in coding activities. [Gokul's email](mailto:)
 <br>
 <br>
