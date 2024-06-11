@@ -19,9 +19,21 @@ My research focuses on machine learning and unsupervised anomaly detection withi
 <br>
 <br>
 <br>
+## Samira Hajizadeh, BSc Student & Internship
+<img align="left" src="https://mhm-lab.github.io/images/samira.jpg" width="150 px" style="padding: 10px"> <br>
+My primary interest is applying machine learning techniques to healthcare. I recently completed my BSc at the University of Tehran, where I focused on anomaly detection in medical images. Currently, I am pursuing an MSc at Columbia University while interning at the MHM-Lab, where I explore the use of large language models and its putative impact on mental health. Outside of research, I enjoy traveling, socializing, and reading novels. [Samira's email](mailto:)
+<br>
+<br>
+<br>
 ##  Milin Kim, PhD Candidate
 <img align="left" src="https://mhm-lab.github.io/images/milin.png" width="150 px" style="padding: 10px"> <br>
 I am interested in the development of the cerebellum over the lifespan and its role in neurological and mental disorders. In my PhD, I am mapping the trajectory of the cerebellum using machine learning methods and brain imaging of large populations. Before starting my PhD at Oslo University Hospital, I studied psychology at Seoul National University and continued with cognitive neuroscience at University of Oslo. Outside the lab I spend my time exploring Norwegian forests and fjords, baking macarons, and reading. [Milin's email](mailto:)
+<br>
+<br>
+<br>
+## Gülce Lale, PhD Candidate
+<img align="left" src="https://mhm-lab.github.io/images/guelce.png" width="150 px" style="padding: 10px"> <br>
+After obtaining a BSc in Computer Science & Engineering and Psychology, I pursued my passion for neuroscience by completing an MSc at the Graduate School of Systemic Neurosciences (LMU) in Munich. Now, in my PhD, I aim to contribute to explaining individual differences in brain structure and function and their effects on cognitive functioning in mental health disorders using neuroimaging, neurocognitive, and machine learning methods. Outside the lab, I love spending time in nature, practicing yoga, and writing short stories. [Gülce's email](mailto:)
 <br>
 <br>
 <br>
@@ -55,6 +67,18 @@ Pursuing a Master's degree in machine learning at the University of Tübingen, m
 <br>
 <br>
 <br>
+## Nikolaos Pahakis, MSc Student
+<img align="left" src="https://mhm-lab.github.io/images/nikolaos.png" width="150 px" style="padding: 10px"> <br>
+I am a master student in cognitive science, currently engaged in writing my thesis about the optimal way of leveraging brain scans for building normative models. I am a hardware and technology enthusiast, and at the same time interested in everything surrounding the brain and it's psychology. For my Bachelor's degree in Osnabrück, I looked at how people oriented themselves in a VR environment and whether they could acquire and successfully use a new sense. Outside of university, I like to go hiking, gaming, and exploring novel things, especially food. [Nikolaos's email](mailto:)
+<br>
+<br>
+<br>
+## Ponnuru Mahesh Datta Sai, BSc & DAAD Summer Intern
+<img align="left" src="https://mhm-lab.github.io/images/mahesh.png" width="150 px" style="padding: 10px"> <br>
+I am currently pursuing a bachelor’s degree in artificial intelligence and machine learning. My research is focused on advanced neuroimaging analysis for mental disorders using normative predictive modeling in the mental health laboratory. My academic interests span across various domains of neuroimaging and mental health, reflecting my dedication to advancing our understanding and application of neuroscience in clinical practice.[Mahesh's email](mailto:)
+<br>
+<br>
+<br>
 ## Elias Schreiner, Data Scientist & IT-Infrastructure
 <img align="left" src="https://mhm-lab.github.io/images/elias.png" width="150 px" style="padding: 10px"> <br>
 I am a bioinformatics enthusiast working in IT infrastructure and science. I leverage the potential of deep learning to unlock insights from complex biological data. I belief that using this technology can enhance our understanding of the biological world, particularly in the context of improving the lives of those affected by neurodegenerative conditions and it’s often comorbid mental disorders. [Elias' email](mailto:)
@@ -79,9 +103,9 @@ In my research I develop machine learning methods to understand factors that con
 <br>
 <br>
 <br>
-## Hao-Chun (Chad) Yang, PostDoc
+## Gokul Vijayakrishnan, HiWi & IT-Infrastructure
 <img align="left" src="https://mhm-lab.github.io/images/yang_pic.png" width="150 px" style="padding: 10px"> <br>
-As a PostDoc, I'm deeply engaged in the convergence of machine learning and healthcare. My expertise centers on crafting resilient ML techniques, spanning Large-scale Self-Supervised Learning, Adversarial Attacks/Privacy, and Continuous Learning methodologies. I specialize in leveraging Multi-Modality signals like ECG/EDA/EEG, MRI, and Speech Processing for developing robust ML models. Prior to my role at the MHM-Lab, I earned my PhD in Electrical Engineering from National Tsing Hua University, Taiwan, focusing on Affective Computing. Outside of research, I indulge in outdoor pursuits, culinary exploration, and globetrotting adventures. [Chad's email](mailto:chadyang.hc@gmail.com)
+I am currently pursuing my Master's degree in Artificial Intelligence with a passion for computer vision, deep learning, and MLOps. With over seven years of professional experience in the data and embedded systems domain, I have contributed to esteemed organizations like Bosch and Aptiv. My projects have spanned diverse areas, including interior sensing, visual quality inspection, and key point estimation. Outside of my academic and professional commitments, I enjoy exploring new places and engaging in coding activities. [Gokul's email](mailto:)
 <br>
 <br>
 <br>
@@ -103,12 +127,12 @@ We are interested in welcoming new members to our team! You can check out if any
 
 ***Completed PostDoc/Data-Scientist***
 <br>
+Hao-Chun(Chad) Yang (2024) -> Works in industry <br>
 
 ***Completed PhD***
 <br>
 Esten Leonardsen (2024) -> Continued with Postdoc @ University of Oslo <br>
 Rikka Kjelkenes (2023) -> Continued with Postdoc @ University of Oslo <br>
-
 
 ***Completed MSc/HiWi***
 <br>
@@ -125,7 +149,7 @@ Maria Paraskevopoulou (2016) -> Continued with PhD @ Radboud University of Nijme
 <br>
 Sacha ten Broeke (2023) -> Continued with MSc @ Radboud University of Nijmegen <br>
 
-***Completed Labrotation***
+***Completed Labrotation/Internship***
 <br>
 Mylla Marsiglia (2024) -> Continued with PhD @ Max Planck Institute Leipzig <br>
 Shun-chin Wu (Jim) (2023) -> Continued with MSc @ University College London<br>
