@@ -31,6 +31,18 @@ Currently, I am pursuing a Bachelor's degree in Bioinformatics and contributing 
 <br>
 <br>
 <br>
+## Francesco Mallus, PhD Candidate
+<img align="left" src="https://mhm-lab.github.io/images/marc.png" width="150 px" style="padding: 10px"> <br>
+I am deeply passionate about understanding brain function across various conscious states and pathological conditions, aiming to identify robust biomarkers that reflect these functional states and the connections that shape each person's unique qualia. As a biomedical engineer with a background from the Polytechnic University of Turin, where I focused on biomedical device design and bio-signal and image processing for both my BSc and MSc, I have merged my love for technology with a keen interest in neuropsychology. In my free time, I enjoy photography, tinkering, and sailing. [Francescos's email](mailto:)
+<br>
+<br>
+<br>
+## Chiara Möller, MSc Student
+<img align="left" src="https://mhm-lab.github.io/images/marc.png" width="150 px" style="padding: 10px"> <br>
+I am a Master's student in Neural and Behavioural Sciences at Tübingen University, with research interests at the intersection of bioinformatics, neuroscience, and computational modeling. My primary focus is on using computational tools to analyze multimodal data, aiming to enhance our understanding of psychiatric disorders. Outside the lab, I enjoy playing lacrosse and spending my time with coffee, nature, and crossword puzzles. [Chiara's email](mailto:)
+<br>
+<br>
+<br>
 ## Minh-Hieu Nguyen, PhD Candidate
 <img align="left" src="https://mhm-lab.github.io/images/mh_pic.png" width="150 px" style="padding: 10px"> <br>
 I am interested in the development of computational models to understand the mechanisms behind learning and decision-making processes, and how those change in individuals with mental disorders. Previously, I studied chemistry at the National University of Singapore before starting my master in neural information processing at the University of Tübingen and recently started my PhD trajectory. Outside of the lab, I enjoy cooking, music and reading. [Minh-Hieu's email](mailto:)
