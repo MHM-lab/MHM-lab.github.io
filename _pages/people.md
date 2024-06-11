@@ -20,7 +20,7 @@ My research focuses on machine learning and unsupervised anomaly detection withi
 <br>
 <br>
 ## Samira Hajizadeh, BSc Student & Internship
-<img align="left" src="https://mhm-lab.github.io/images/samira.jpg" width="150 px" style="padding: 10px"> <br>
+<img align="left" src="https://mhm-lab.github.io/images/samira.png" width="150 px" style="padding: 10px"> <br>
 My primary interest is applying machine learning techniques to healthcare. I recently completed my BSc at the University of Tehran, where I focused on anomaly detection in medical images. Currently, I am pursuing an MSc at Columbia University while interning at the MHM-Lab, where I explore the use of large language models and its putative impact on mental health. Outside of research, I enjoy traveling, socializing, and reading novels. [Samira's email](mailto:)
 <br>
 <br>
