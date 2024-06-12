@@ -21,7 +21,7 @@ My research focuses on machine learning and unsupervised anomaly detection withi
 <br>
 ## Samira Hajizadeh, MSc Student & Internship
 <img align="left" src="https://mhm-lab.github.io/images/samira.png" width="150 px" style="padding: 10px"> <br>
-My primary interest is applying machine learning techniques to healthcare. I recently completed my BSc at the University of Tehran, where I focused on anomaly detection in medical images. Currently, I am pursuing an MSc at Columbia University while interning at the MHM-Lab, where I explore the use of large language models and its putative impact on mental health. Outside of research, I enjoy traveling, socializing, and reading novels. [Samira's email](mailto:)
+My primary interest is applying machine learning techniques to healthcare. I recently completed my BSc at the University of Tehran, where I focused on anomaly detection in medical images. Currently, I am pursuing an MSc at Columbia University while interning at the laboratory for mental health mapping. Here, I explore the use of large language models and its putative impact on mental health. Outside of research, I enjoy traveling, socializing, and reading novels. [Samira's email](mailto:)
 <br>
 <br>
 <br>
@@ -33,7 +33,7 @@ I am interested in the development of the cerebellum over the lifespan and its r
 <br>
 ## Gülce Lale, PhD Candidate
 <img align="left" src="https://mhm-lab.github.io/images/guelce.png" width="150 px" style="padding: 10px"> <br>
-After obtaining a BSc in Computer Science & Engineering and Psychology, I pursued my passion for neuroscience by completing an MSc at the Graduate School of Systemic Neurosciences in Munich. Now, in my PhD, I aim to contribute to explaining individual differences in brain structure and function and their effects on cognitive functioning in mental health disorders using neuroimaging, neurocognitive, and machine learning methods. Outside the lab, I love spending time in nature, practicing yoga, and writing short stories. [Gülce's email](mailto:)
+After obtaining a BSc in Computer Science and Engineering as well as Psychology, I pursued my passion for neuroscience by completing an MSc at the Graduate School of Systemic Neurosciences in Munich. Now, in my PhD, I aim to contribute to explaining individual differences in brain structure and function and their effects on cognitive functioning in mental health disorders using neuroimaging, neurocognitive, and machine learning methods. Outside the lab, I love spending time in nature, practicing yoga, and writing short stories. [Gülce's email](mailto:)
 <br>
 <br>
 <br>
@@ -63,7 +63,7 @@ I am interested in the development of computational models to understand the mec
 <br>
 ## Melis Oktayoglu, HiWi
 <img align="left" src="https://mhm-lab.github.io/images/melis.png" width="150 px" style="padding: 10px"> <br>
-Pursuing a Master's degree in machine learning at the University of Tübingen, my focus lies in leveraging predictive models, particularly those centered around language, to delve into the intricacies of individual differences in schizophrenia and prognostic predictions in psychosis. Within my role as a HiWi, I contribute to a diverse array of tasks, including the handling of extensive datasets, cluster computing, and system maintenance. Moreover, I am actively immersing myself in the literature pertaining to machine learning applications in mental health mapping, with a specific emphasis on utilizing language-based feature sets. [Melis's email](mailto:)
+Pursuing a Master's degree in machine learning at the University of Tübingen, my focus lies in leveraging predictive models to delve into the intricacies of individual differences in schizophrenia. Within my role as a HiWi, I contribute to a diverse array of tasks, including the handling of extensive datasets, cluster computing, and system maintenance. Moreover, I am actively immersing myself in the literature pertaining to machine learning applications in mental health, with a specific emphasis on utilizing language-based feature sets. [Melis's email](mailto:)
 <br>
 <br>
 <br>
@@ -75,7 +75,7 @@ I am a master student in cognitive science, currently engaged in writing my thes
 <br>
 ## Ponnuru Mahesh Datta Sai, BSc & DAAD Internship
 <img align="left" src="https://mhm-lab.github.io/images/mahesh.jpg" width="150 px" style="padding: 10px"> <br>
-I am currently pursuing a bachelor’s degree in artificial intelligence and machine learning. My research is focused on advanced neuroimaging analysis for mental disorders using normative predictive modeling in the mental health laboratory. My academic interests span across various domains of neuroimaging and mental health, reflecting my dedication to advancing our understanding and application of neuroscience in clinical practice.[Mahesh's email](mailto:)
+I am currently pursuing a bachelor’s degree in artificial intelligence and machine learning. My DAAD funded intershop in the laboratory for mental health mapping is focused on advanced neuroimaging analysis for mental disorders using normative predictive modeling. My academic interests span across various machine learning and clinical domains reflecting my interest in understanding complex health conditions.[Mahesh's email](mailto:)
 <br>
 <br>
 <br>
@@ -87,7 +87,7 @@ I am a bioinformatics enthusiast working in IT infrastructure and science. I lev
 <br>
 ## Philipp Seidel, PostDoc
 <img align="left" src="https://mhm-lab.github.io/images/philipp.png" width="150 px" style="padding: 10px"> <br>
-I am harnessing modelling techniques to discern variations in brain metrics, encompassing currently structural but eventually functional aspects, across diverse populations. I am particularly dedicated to unraveling the intricate dynamics of longitudinal changes within brain images, employing a diverse set of modeling methodologies. By delving into the nuanced alterations occurring over time, my research endeavors aim to illuminate critical insights into the progression of neurological and mental health conditions. [Philipp's email](mailto:)
+I am harnessing modelling techniques to discern variations in brain metrics, encompassing currently structural but eventually functional aspects, across diverse populations. I am particularly dedicated to unraveling the intricate dynamics of longitudinal changes within brain images. By delving into the nuanced alterations occurring over time, I aim to illuminate critical insights into the progression of neurological and mental health conditions. [Philipp's email](mailto:)
 <br>
 <br>
 <br>
@@ -105,7 +105,7 @@ In my research I develop machine learning methods to understand factors that con
 <br>
 ## Gokul Vijayakrishnan, HiWi & IT-Infrastructure
 <img align="left" src="https://mhm-lab.github.io/images/gokul.png" width="150 px" style="padding: 10px"> <br>
-I am currently pursuing my Master's degree in Artificial Intelligence with a passion for computer vision, deep learning, and MLOps. With over seven years of professional experience in the data and embedded systems domain, I have contributed to esteemed organizations like Bosch and Aptiv. My projects have spanned diverse areas, including interior sensing, visual quality inspection, and key point estimation. Outside of my academic and professional commitments, I enjoy exploring new places and engaging in coding activities. [Gokul's email](mailto:)
+I am currently pursuing my Master's degree in Artificial Intelligence with a passion for computer vision, deep learning, and MLOps. With over seven years of professional experience in the data and embedded systems domain, I have contributed to organizations like Bosch and Aptiv. My projects have spanned diverse areas, including interior sensing, visual quality inspection, and key point estimation. Outside of my academic and professional commitments, I enjoy exploring new places and engaging in coding activities. [Gokul's email](mailto:)
 <br>
 <br>
 <br>
