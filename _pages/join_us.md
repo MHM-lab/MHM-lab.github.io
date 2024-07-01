@@ -12,4 +12,4 @@ All currently available postdoc positions are listed here.
 All currently available PhD positions are listed here.
 
 ## HIWI positions and Master Internships
-All currently available PhD positions are listed here.
+All currently available positions are listed here.
