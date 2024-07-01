@@ -12,4 +12,4 @@ All currently available postdoc positions are listed here.
 All currently available PhD positions are listed here.
 
 ## HIWI positions and Master Internships
-We always welcome motivated and interested students. We always have a bunch of interesting projects for Master Students with technical and clinical backgrounds, with an interest in machine learning. Just get in touch by [email](mailto:dr.thomas.wolfers@gmail.com).
+All currently available PhD positions are listed here.
