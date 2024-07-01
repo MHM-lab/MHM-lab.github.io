@@ -117,8 +117,6 @@ With a Ph.D. in statistical neuroimaging from Radboud University Medical Center,
 <img align="left" src="https://mhm-lab.github.io/images/joinus_pic.jpg" width="150 px" style="padding: 10px"> <br>
 We welcome new talent to our team! To see if any positions are currently available, please check [here](https://mhm-lab.github.io/join_us/). If no positions are listed, our team may be fully staffed at the moment. However, feel free to send us an email to inquire about future opportunities.
 <br>
-[Join us](mailto:dr.thomas.wolfers@gmail.com)
-<br>
 <br>
 <br>
 <br>
