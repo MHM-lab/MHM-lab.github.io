@@ -6,7 +6,7 @@ title: "Join Us"
 We are located in the Department of Psychiatry (Calwerstraße 14; Room 2.327) @ The University of Tübingen. You can get in touch by email if you like to write a research proposal for individual funding (e.g., Marie Curie) or if you have any other questions. You can send your inquiry to Thomas Wolfers by [email](mailto:dr.thomas.wolfers@gmail.com).
 
 ## Postdoc & PhD positions
-All currently available PostDoc positions are listed here.
+All currently available PostDoc & PhD positions are listed here.
 
 1) ***We are seeking a Postdoctoral Researcher possibly PhD candidate with expertise in time series analysis, dynamic systems, and/or machine learning. The successful candidate will contribute to a newly funded BMBF project focused on Long COVID and digital phenotyping. Your primary responsibility will be to develop and apply advanced machine learning techniques to analyze a large-scale dataset.*** More information regarding your responsibilties [here](https://MHM-lab.github.io/files/PostDoc_Position3.pdf).
 
