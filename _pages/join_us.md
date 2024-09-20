@@ -8,7 +8,7 @@ We are located in the Department of Psychiatry (Calwerstraße 14; Room 2.327) @ 
 ## Postdoc positions
 All currently available PostDoc positions are listed here.
 
-***We are seeking a Postdoctoral Researcher with expertise in time series analysis, dynamic systems, and/or machine learning. The successful candidate will contribute to a newly funded BMBF project focused on Long COVID and digital phenotyping. Your primary responsibility will be to develop and apply advanced machine learning techniques to analyze a large-scale dataset.*** More information regarding your responsibilties [here](https://MHM-lab.github.io/files/).
+***We are seeking a Postdoctoral Researcher with expertise in time series analysis, dynamic systems, and/or machine learning. The successful candidate will contribute to a newly funded BMBF project focused on Long COVID and digital phenotyping. Your primary responsibility will be to develop and apply advanced machine learning techniques to analyze a large-scale dataset.*** More information regarding your responsibilties [here](https://MHM-lab.github.io/files/PostDoc_Position3.pdf).
 
 ## PhD positions
 All currently available PhD positions are listed here.
