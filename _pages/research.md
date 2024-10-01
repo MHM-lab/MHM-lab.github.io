@@ -53,6 +53,9 @@ Research priorities are presented here.
 *	SUMMARY: We trained a deep neural network to predict dementias. We use explainable machine learning to tease apart individual differences and make predictions (over time) on whether a specific individual develops dementia. We can do that up to 7 years early with good reliability.
 
 **2024** Learning cortical anomaly through masked encoding for unsupervised heterogeneity mapping. ***IEEE:ISBI***. [link](https://arxiv.org/abs/2312.02762)
-* SUMMARY: We developed a method, CAM (Cortical Anomaly Detection through Masked Image Modeling), for cortical anomaly detection using a vison transformer architecture which we validated against disorders on the psychotic spectrum. 
+* SUMMARY: We developed a method, CAM (Cortical Anomaly Detection through Masked Image Modeling), for cortical anomaly detection using a vison transformer architecture which we validated against disorders on the psychotic spectrum.
+
+**2024** Computational psychiatry and the evolving concept of a mental disorder. ***Synthese***. [link](https://doi.org/10.1007/s11229-024-04741-6)
+* SUMMARY: Psychiatry is pursuing a coherent framework for research and treatment due to dissatisfaction with traditional concepts of mental disorders. This exploration involves various computational paradigms—such as normative modeling, network theory, and learning-theoretic approaches—that offer distinct methodologies and visions for reconceptualizing mental disorders. Here, we examine their similarities, differences, and conceptual conflicts.
 
 ### All publications can be found on [Google Scholar](https://scholar.google.com/citations?user=KJaA3sEAAAAJ&hl=nl)
