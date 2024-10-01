@@ -9,4 +9,4 @@ In the laboratory for ***Mental Health Mapping*** (PI: [Thomas Wolfers](https://
 
 <audio id="audioPlayer" src="https://MHM-lab.github.io/files/MHM_lab.wav"></audio>
 
-This is ML generated speech based on this homepage. While it sounds nice, the accuracy regarding content misses details. Non the less impressive what can be done with ML generated speech. 
+This machine learning-generated speech, based on this homepage, has a pleasant tone but lacks detail precision. Nonetheless, the results are impressive. We advocate for ethical and thoughtful data collection to map the mental health landscape as individuals enter clinical care, allowing for data sharing after consent from digital devices when beneficial for personalized treatment or monitoring. This is a developing area of research with the aim of eventual integration into clinical practice. The scope and implementation will depend on ongoing research, both ours and others. As such, the generated speech should be seen as a potential roadmap, not a definitive guide. We present it here to demonstrate the advancements in machine learning and language manipulation in recent years.
