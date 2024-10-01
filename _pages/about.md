@@ -13,4 +13,4 @@ Click the button below to play the audio:
 <button onclick="document.getElementById('audioPlayer').play()">Play Audio</button>
 
 <!-- Audio element -->
-<audio id="audioPlayer" src="/files/MHM_lab.wav"></audio>
+<audio id="audioPlayer" src="https://MHM-lab.github.io/files/MHM_lab.wav"></audio>
