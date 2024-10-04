@@ -79,6 +79,12 @@ I am currently pursuing a bachelor’s degree in artificial intelligence and mac
 <br>
 <br>
 <br>
+## Francesco Sammarco, PhD Candidate
+<img align="left" src="https://mhm-lab.github.io/images/" width="150 px" style="padding: 10px"> <br>
+I am a Computer Science Engineer with a passion for exploring explainability techniques and making sense of black-box models in machine learning. I believe these techniques can play a transformative role in mental health applications by improving transparency and trust in AI-driven tools. In my research, I aim to bridge the gap between advanced machine learning methods and their practical implementation in mental health diagnostics and treatment. Outside of my technical work, I enjoy sports and gaming, finding a balance between intellectual and physical challenges.
+<br>
+<br>
+<br>
 ## Elias Schreiner, Data Scientist & IT-Infrastructure
 <img align="left" src="https://mhm-lab.github.io/images/elias.png" width="150 px" style="padding: 10px"> <br>
 I am a bioinformatics enthusiast working in IT infrastructure and science. I leverage the potential of deep learning to unlock insights from complex biological data. I belief that using this technology can enhance our understanding of the biological world, particularly in the context of improving the lives of those affected by neurodegenerative conditions and it’s often comorbid mental disorders. [Elias' email](mailto:)
