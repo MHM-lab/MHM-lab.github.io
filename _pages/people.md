@@ -80,7 +80,7 @@ I am currently pursuing a bachelor’s degree in artificial intelligence and mac
 <br>
 <br>
 ## Francesco Sammarco, PhD Candidate
-<img align="left" src="https://mhm-lab.github.io/images/" width="150 px" style="padding: 10px"> <br>
+<img align="left" src="https://mhm-lab.github.io/images/francescos.jpg" width="150 px" style="padding: 10px"> <br>
 I am a Computer Science Engineer with a passion for exploring explainability techniques and making sense of black-box models in machine learning. I believe these techniques can play a transformative role in mental health applications by improving transparency and trust in AI-driven tools. In my research, I aim to bridge the gap between advanced machine learning methods and their practical implementation in mental health diagnostics and treatment. Outside of my technical work, I enjoy sports and gaming, finding a balance between intellectual and physical challenges.
 <br>
 <br>
@@ -112,6 +112,12 @@ In my research I develop machine learning methods to understand factors that con
 ## Gokul Vijayakrishnan, HiWi & IT-Infrastructure
 <img align="left" src="https://mhm-lab.github.io/images/gokul.png" width="150 px" style="padding: 10px"> <br>
 I am currently pursuing my Master's degree in Artificial Intelligence with a passion for computer vision, deep learning, and MLOps. With over seven years of professional experience in the data and embedded systems domain, I have contributed to organizations like Bosch and Aptiv. My projects have spanned diverse areas, including interior sensing, visual quality inspection, and key point estimation. Outside of my academic and professional commitments, I enjoy exploring new places and engaging in coding activities. [Gokul's email](mailto:)
+<br>
+<br>
+<br>
+## Yanwu Yang, PostDoc
+<img align="left" src="https://mhm-lab.github.io/images/yanwu.png" width="150 px" style="padding: 10px"> <br>
+My interests include neuroimaging analysis (e.g., large-scale analysis, neurodevelopment, and aging), computational neuroscience, and Connectome-Wide Association Studies (CWAS). Additionally, I am keen on promoting deep learning methods for clinical applications and leveraging neuroscience in foundation model analysis (e.g., the emergence and reasoning in LLMs). Prior to this postdoc, I earned my MSc and PhD from Harbin Institute of Technology in China. I’m also a coffee enthusiast and enjoying gaming and traveling.
 <br>
 <br>
 <br>
