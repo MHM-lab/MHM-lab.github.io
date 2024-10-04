@@ -80,7 +80,7 @@ I am currently pursuing a bachelor’s degree in artificial intelligence and mac
 <br>
 <br>
 ## Francesco Sammarco, PhD Candidate
-<img align="left" src="https://mhm-lab.github.io/images/francescos.jpg" width="150 px" style="padding: 10px"> <br>
+<img align="left" src="https://mhm-lab.github.io/images/francescos.png" width="150 px" style="padding: 10px"> <br>
 I am a Computer Science Engineer with a passion for exploring explainability techniques and making sense of black-box models in machine learning. I believe these techniques can play a transformative role in mental health applications by improving transparency and trust in AI-driven tools. In my research, I aim to bridge the gap between advanced machine learning methods and their practical implementation in mental health diagnostics and treatment. Outside of my technical work, I enjoy sports and gaming, finding a balance between intellectual and physical challenges.
 <br>
 <br>
