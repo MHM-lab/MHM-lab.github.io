@@ -56,6 +56,6 @@ Research priorities are presented here.
 * SUMMARY: We developed a method, CAM (Cortical Anomaly Detection through Masked Image Modeling), for cortical anomaly detection using a vison transformer architecture which we validated against disorders on the psychotic spectrum.
 
 **2024** Computational psychiatry and the evolving concept of a mental disorder. ***Synthese***. [link](https://doi.org/10.1007/s11229-024-04741-6)
-* SUMMARY: Psychiatry is pursuing a coherent framework for research and treatment due to dissatisfaction with traditional concepts of mental disorders. This exploration involves various computational paradigms, such as normative modeling, network theory, and learning-theoretic approaches, that offer distinct methodologies and visions for reconceptualizing mental disorders. Here, we examine their similarities, differences, and conceptual conflicts.
+* SUMMARY: We explore the pursuit of a coherent framework for research and treatment in psychiatry, driven by growing dissatisfaction with traditional concepts of mental disorders. This exploration incorporates various computational paradigms, including normative modeling, network theory, and learning-theoretic approaches. Each of these paradigms offers unique methodologies and visions for reconceptualizing mental disorders. In this discussion, we examine their similarities, differences, and potential conceptual conflicts.
 
 ### All publications can be found on [Google Scholar](https://scholar.google.com/citations?user=KJaA3sEAAAAJ&hl=nl)
