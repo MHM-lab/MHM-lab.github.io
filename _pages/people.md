@@ -73,12 +73,6 @@ I am a master student in cognitive science, currently engaged in writing my thes
 <br>
 <br>
 <br>
-## Ponnuru Mahesh Datta Sai, BSc & DAAD Internship
-<img align="left" src="https://mhm-lab.github.io/images/mahesh.jpg" width="150 px" style="padding: 10px"> <br>
-I am currently pursuing a bachelor’s degree in artificial intelligence and machine learning. My DAAD funded intership in the laboratory for mental health mapping is focused on advanced neuroimaging analysis for mental disorders using normative predictive modeling. My academic interests span across various machine learning and clinical domains reflecting my interest in understanding complex health conditions. [Mahesh's email](mailto:)
-<br>
-<br>
-<br>
 ## Francesco Sammarco, PhD Candidate
 <img align="left" src="https://mhm-lab.github.io/images/francescos.png" width="150 px" style="padding: 10px"> <br>
 I am a Computer Science Engineer with a passion for exploring explainability techniques and making sense of black-box models in machine learning. I believe these techniques can play a transformative role in mental health applications by improving transparency and trust in AI-driven tools. In my research, I aim to bridge the gap between advanced machine learning methods and their practical implementation in mental health diagnostics and treatment. Outside of my technical work, I enjoy sports and gaming, finding a balance between intellectual and physical challenges. [Francesco's email](mailto:)
@@ -146,6 +140,7 @@ Rikka Kjelkenes (2023) -> Continued with Postdoc @ University of Oslo <br>
 
 ***Completed MSc/HiWi***
 <br>
+Chiara Möller (2024) -> Travels the world <br>
 Alexander Frotscher (2023) -> Continued with PhD @ University of Tübingen with Thomas <br>
 Minh-Hieu Nguyen (2023) -> Continued with PhD @ University of Tübingen with Thomas <br>
 Sarah Sobotta (2023) -> Continued with a PhD @ Max Planck Institute Leipzig <br>
@@ -157,6 +152,7 @@ Maria Paraskevopoulou (2016) -> Continued with PhD @ Radboud University of Nijme
 
 ***Completed BSc/Honors***
 <br>
+Ponnuru Mahesh Datta Sai (2024) -> Continued with BSc @ SRM Institute of Science and Technology <br>
 Sacha ten Broeke (2023) -> Continued with MSc @ Radboud University of Nijmegen <br>
 
 ***Completed Labrotation/Internship***
