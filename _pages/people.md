@@ -150,7 +150,7 @@ Victória Trindade (2019) -> Continued with PhD @ University Medical Center Gron
 Christina Isakoglou (2017) ->  Continued with PhD @ Radboud University of Nijmegen <br>
 Maria Paraskevopoulou (2016) -> Continued with PhD @ Radboud University of Nijmegen <br>
 
-***Completed BSc/Honors***
+***Completed BSc/Honors/DAAD***
 <br>
 Ponnuru Mahesh Datta Sai (2024) -> Continued with BSc @ SRM Institute of Science and Technology <br>
 Sacha ten Broeke (2023) -> Continued with MSc @ Radboud University of Nijmegen <br>
