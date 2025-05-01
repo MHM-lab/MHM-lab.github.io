@@ -49,21 +49,9 @@ I am deeply passionate about understanding brain function across various conscio
 <br>
 <br>
 <br>
-## Chiara Möller, MSc Student
-<img align="left" src="https://mhm-lab.github.io/images/chiara.png" width="150 px" style="padding: 10px"> <br>
-I am a Master's student in Neural and Behavioural Sciences at Tübingen University, with research interests at the intersection of bioinformatics, neuroscience, and computational modeling. My primary focus is on using computational tools to analyze multimodal data, aiming to enhance our understanding of psychiatric disorders. Outside the lab, I enjoy playing lacrosse and spending my time with coffee, nature, and crossword puzzles. [Chiara's email](mailto:)
-<br>
-<br>
-<br>
 ## Minh-Hieu Nguyen, PhD Candidate
 <img align="left" src="https://mhm-lab.github.io/images/mh_pic.png" width="150 px" style="padding: 10px"> <br>
 I am interested in the development of computational models to understand the mechanisms behind learning and decision-making processes, and how those change in individuals with mental disorders. Previously, I studied chemistry at the National University of Singapore before starting my master in neural information processing at the University of Tübingen and recently started my PhD trajectory. Outside of the lab, I enjoy cooking, music and reading. [Minh-Hieu's email](mailto:)
-<br>
-<br>
-<br>
-## Melis Oktayoglu, HiWi
-<img align="left" src="https://mhm-lab.github.io/images/melis.png" width="150 px" style="padding: 10px"> <br>
-Pursuing a Master's degree in machine learning at the University of Tübingen, my focus lies in leveraging predictive models to delve into the intricacies of individual differences in schizophrenia. Within my role as a HiWi, I contribute to a diverse array of tasks, including the handling of extensive datasets, cluster computing, and system maintenance. Moreover, I am actively immersing myself in the literature pertaining to machine learning applications in mental health, with a specific emphasis on utilizing language-based feature sets. [Melis's email](mailto:)
 <br>
 <br>
 <br>
@@ -82,12 +70,6 @@ I am a Computer Science Engineer with a passion for exploring explainability tec
 ## Elias Schreiner, Data Scientist & IT-Infrastructure
 <img align="left" src="https://mhm-lab.github.io/images/elias.png" width="150 px" style="padding: 10px"> <br>
 I am a bioinformatics enthusiast working in IT infrastructure and science. I leverage the potential of deep learning to unlock insights from complex biological data. I belief that using this technology can enhance our understanding of the biological world, particularly in the context of improving the lives of those affected by neurodegenerative conditions and it’s often comorbid mental disorders. [Elias' email](mailto:)
-<br>
-<br>
-<br>
-## Philipp Seidel, PostDoc
-<img align="left" src="https://mhm-lab.github.io/images/philipp.png" width="150 px" style="padding: 10px"> <br>
-I am harnessing modelling techniques to discern variations in brain metrics, encompassing currently structural but eventually functional aspects, across diverse populations. I am particularly dedicated to unraveling the intricate dynamics of longitudinal changes within brain images. By delving into the nuanced alterations occurring over time, I aim to illuminate critical insights into the progression of neurological and mental health conditions. [Philipp's email](mailto:)
 <br>
 <br>
 <br>
@@ -132,6 +114,7 @@ We welcome new talent to our team! To see if any positions are currently availab
 ***Completed PostDoc/Data-Scientist***
 <br>
 Hao-Chun(Chad) Yang (2024) -> Works in industry <br>
+Philipp Seidel (2025) -> Continued with PostDoc @ University of Tübingen <br>
 
 ***Completed PhD***
 <br>
@@ -140,6 +123,7 @@ Rikka Kjelkenes (2023) -> Continued with Postdoc @ University of Oslo <br>
 
 ***Completed MSc/HiWi***
 <br>
+Melis Oktayoglu (2025) -> Works in industry <br>
 Chiara Möller (2024) -> Travels the world <br>
 Alexander Frotscher (2023) -> Continued with PhD @ University of Tübingen with Thomas <br>
 Minh-Hieu Nguyen (2023) -> Continued with PhD @ University of Tübingen with Thomas <br>
