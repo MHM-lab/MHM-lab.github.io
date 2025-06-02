@@ -7,7 +7,7 @@ title: "Research"
 
 ## Selected Publications
 
-**2025** A 10-year longitudinal study of brain cortical thickness in people with first-episode psychosis using normative models. ***Schizophrenia Bulletin***. [link](https://doi.org/10.1007/s11229-024-04741-6)
+**2025** A 10-year longitudinal study of brain cortical thickness in people with first-episode psychosis using normative models. ***Schizophrenia Bulletin***. [link](https://doi.org/10.1093/schbul/sbae107)
 * SUMMARY: We demonstrate that, in some cases, brain abnormalities associated with schizophrenia show signs of normalization over time, particularly in response to treatment. Additionally, we underscore the critical importance of modeling site-specific variability to ensure accurate inference. This is especially relevant in longitudinal neuroimaging studies, where changes in scanning protocols and equipment over time can introduce significant confounds if not properly accounted for.
 
 **2024** Computational psychiatry and the evolving concept of a mental disorder. ***Synthese***. [link](https://doi.org/10.1007/s11229-024-04741-6)
