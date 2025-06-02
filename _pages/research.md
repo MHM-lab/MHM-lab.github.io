@@ -3,8 +3,6 @@ permalink: /research/
 title: "Research"
 ---
 
-### All publications can be found on [Google Scholar](https://scholar.google.com/citations?user=KJaA3sEAAAAJ&hl=nl)
-
 ## Selected Publications
 
 **2025** A 10-year longitudinal study of brain cortical thickness in people with first-episode psychosis using normative models. ***Schizophrenia Bulletin***. [link](https://doi.org/10.1093/schbul/sbae107)
@@ -49,24 +47,7 @@ title: "Research"
 **2015** From estimating activation locality to predicting disorder: a review of pattern recognition for neuroimaging-based psychiatric diagnostics. **Neuroscience & Biobehavioural Reviews**. [link](https://doi.org/10.1016/j.neubiorev.2015.08.001) 
 * SUMMARY: In this paper, we showed that with increasing sample size the accuracy of pattern classification approaches for the prediction of mental disorders decreased. This is counterintuitive and in conflict with evidence in other fields that use pattern recognition approaches to predict e.g., image classes, likes cats and dogs. Generally, machine learning algorithms perform better with more training data. Therefore, this finding was very surprising. We could attribute it in parts to the high heterogeneity of mental disorders and a publication bias for better performing but not representative models. This work contributed to a debate on cross-validation failures and provides important evidence for the development of methods to map heterogeneity of mental disorders.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### All publications can be found on [Google Scholar](https://scholar.google.com/citations?user=KJaA3sEAAAAJ&hl=nl)
 
 ## Foundations of Mental Health Mapping  
 <img align="left" src="https://mhm-lab.github.io/images/foundations_of_mental_health_mapping.png" width="200 px" style="padding: 10px"> What constitutes a disorder and what is healthy or normative, especially if the disorder is a consequence of unwholesome mental states, can be unclear. We explore the foundations of what constitutes health, disorder, or disease and explore questions such as: What is healthy? What is the right reference group to compare disease with? Can we utilize systematic explorations of the mind as tools to understand it? In the long run, this work contributes to the theoretical foundation of mental health mapping, incorporating first and third person perspectives. We work together with philosophers, clinicians and patients who provide insights into clinical practice and inform our science in theoretical and practical ways.
