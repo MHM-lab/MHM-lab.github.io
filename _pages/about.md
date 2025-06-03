@@ -7,4 +7,5 @@ In the laboratory for ***Mental Health Mapping*** (PI: [Thomas Wolfers](https://
 
 <button onclick="document.getElementById('audioPlayer').play()">Play Audio</button> <audio id="audioPlayer" src="https://MHM-lab.github.io/files/MHM_lab.wav"></audio> introduction to the laboratory for Mental Health Mapping. This machine learning-generated discourse, based on the content of this homepage, has a pleasant tone but lacks detail and precision. Nonetheless, the result is very impressive. We advocate for ethical and thoughtful data collection to map the (mental) health landscape as individuals enter clinical care, allowing for data sharing from digital devices, with consent, when beneficial for personalized treatment or monitoring. It’s important to emphasize that this is a developing area of research aimed at eventual integration into clinical practice and involves a community of national and international researchers.
 
-<img align="center" src="https://mhm-lab.github.io/images/logo3.png" width="400 px" style="padding: 10px"> <br>
+<img align="left" src="https://mhm-lab.github.io/images/logo3.png" width="400 px" style="padding: 10px"> <br>
+<img align="right" src="https://mhm-lab.github.io/images/water.png" width="400 px" style="padding: 10px"> <br>
