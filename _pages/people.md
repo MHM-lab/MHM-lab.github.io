@@ -92,7 +92,7 @@ I am pursuing a Master's in AI with interests in computer vision, deep learning,
 
 ## Jijia Xing, PhD Candidate
 <img align="left" src="https://mhm-lab.github.io/images/jijia.png" width="150 px" style="padding: 10px"> <br>
-I studied Mathematics at Imperial College London, focusing on adversarial robustness and explainability in machine learning. Now, I’m applying mathematical tools to psychiatry, with a particular interest in eating disorders and improving diagnostic pathways. In my free time, I enjoy brewing coffee, bouldering, and photography.
+I studied Mathematics at Imperial College London, focusing on adversarial robustness and explainability in machine learning. Now, I’m applying mathematical tools to psychiatry, with a particular interest in improving understaning and diagnostics. In my free time, I enjoy brewing coffee, bouldering, and photography.
 <br><br><br>
 
 ## Yanwu Yang, PostDoc
