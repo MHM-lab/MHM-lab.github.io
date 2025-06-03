@@ -7,7 +7,7 @@ All lab members are presented in alphabetical order.
 <br><br><br>
 ## Sicheng Dai, PostDoc
 <img align="left" src="https://mhm-lab.github.io/images/dai.png" width="150 px" style="padding: 10px"> <br>
-My research explores brain network modeling in health and disease by integrating Network Science (e.g., network dynamics, multilayer networks) and Machine Learning (e.g., graph neural networks). I earned my PhD in Computer Science from ENS Lyon, focusing on dynamic patterns in large-scale temporal social networks. Outside of academia, I'm an avid nature enthusiast and animal lover.
+My research explores brain network modeling in health and disease by integrating Network Science and Machine Learning. I earned my PhD in Computer Science from ENS Lyon, focusing on dynamic patterns in large-scale temporal social networks. Outside of academia, I'm an avid nature enthusiast and animal lover.
 <br><br><br>
 
 ## Alexander Frotscher, PhD Candidate
@@ -21,8 +21,8 @@ I am passionate about applying machine learning to healthcare. After completing 
 <br><br><br>
 
 ## Atharva (Athu) Kand, PhD Candidate
-<img align="left" src="https://mhm-lab.github.io/images/athu.jpg" width="150 px" style="padding: 10px"> <br>
-As a PhD candidate, I explore how individual brain structure and function diverge over time, aiming to model these trajectories to identify dysfunction and underlying mechanisms. I hold a degree in Cognitive Neuroscience from the Donders Institute and have worked in rodent memory research and embodied deep learning. My research now focuses on stochastic, biologically informed models to capture the uncertainty inherent in psychiatric conditions. Outside the lab, I enjoy long walks, racquet sports, and contemplative art. I see science and art as kindred forms—both porous, elegant, and thought-provoking.
+<img align="left" src="https://mhm-lab.github.io/images/athu.png" width="150 px" style="padding: 10px"> <br>
+As a PhD candidate, I explore how individual brain structure and function diverge over time, aiming to model these trajectories to identify dysfunction and underlying mechanisms. I hold a degree in Cognitive Neuroscience from the Donders Institute and have worked in rodent memory research and embodied deep learning. My research now focuses on stochastic, biologically informed models to capture the uncertainty inherent in psychiatric conditions. Outside the lab, I enjoy long walks, racquet sports, and contemplative art. I believe the best science is like the best art. It is porous, subversive and elegant. I try to meet both with alacrity.
 <br><br><br>
 
 ## Milin Kim, PhD Candidate
@@ -91,7 +91,7 @@ I am pursuing a Master's in AI with interests in computer vision, deep learning,
 <br><br><br>
 
 ## Jijia Xing, PhD Candidate
-<img align="left" src="https://mhm-lab.github.io/images/jijia.jpg" width="150 px" style="padding: 10px"> <br>
+<img align="left" src="https://mhm-lab.github.io/images/jijia.png" width="150 px" style="padding: 10px"> <br>
 I studied Mathematics at Imperial College London, focusing on adversarial robustness and explainability in machine learning. Now, I’m applying mathematical tools to psychiatry, with a particular interest in eating disorders and improving diagnostic pathways. In my free time, I enjoy brewing coffee, bouldering, and photography.
 <br><br><br>
 
@@ -101,7 +101,7 @@ My research interests include neuroimaging analysis, computational neuroscience,
 <br><br><br>
 
 ## Xinyun Yuan, MSc & Intern
-<img align="left" src="https://mhm-lab.github.io/images/xinyun.jpg" width="150 px" style="padding: 10px"> <br>
+<img align="left" src="https://mhm-lab.github.io/images/xinyun.png" width="150 px" style="padding: 10px"> <br>
 As a Master's student in Psychiatry at Shandong University, I’m currently interning at the MHM Lab, focusing on EEG normative modeling to understand individual differences. My work bridges psychiatry and computational models. Outside of research, I enjoy basketball, jogging, and literature.
 <br><br><br>
 
