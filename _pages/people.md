@@ -25,6 +25,10 @@ My primary interest is applying machine learning techniques to healthcare. I rec
 <br>
 <br>
 <br>
+## Atharva(Athu)) Kand, PhD Candidate 
+<img align="left" src="https://mhm-lab.github.io/images/athu.jpg" width="150 px" style="padding: 10px"> <br>
+I am an incoming PhD candidate interested in how brain structure and function diverge across individuals over time, and how we might model these trajectories not only to stratify dysfunction but to uncover mechanisms. My aim is to build computational models that remain sensitive to the lived experience of disordered brains and that can offer both clinical insight and mechanistic clarity. Before joining the MHM lab, I studied cognitive neuroscience at the Donders Institute with a focus on neural computation. I have worked across disciplines, from rodent memory research to embodied deep learning. I am currently exploring how stochastic, biologically-informed models might help capture the uncertainty central to psychiatric conditions. Outside of research, I enjoy long walks, slow Sundays, racquet sports and art that refuses easy interpretation. I believe the best science is like the best art. It is porous, subversive and elegant. I try to meet both with alacrity.
+
 ##  Milin Kim, PhD Candidate
 <img align="left" src="https://mhm-lab.github.io/images/milin.png" width="150 px" style="padding: 10px"> <br>
 I am interested in the development of the cerebellum over the lifespan and its role in neurological and mental disorders. In my PhD, I am mapping the trajectory of the cerebellum using machine learning methods and brain imaging of large populations. Before starting my PhD at Oslo University Hospital, I studied psychology at Seoul National University and continued with cognitive neuroscience at University of Oslo. Outside the lab I spend my time exploring Norwegian forests and fjords, baking macarons, and reading. [Milin's email](mailto:)
@@ -43,6 +47,19 @@ Currently, I am pursuing a Bachelor's degree in Bioinformatics and contributing 
 <br>
 <br>
 <br>
+## Alia Mahama-Rodriguez, PhD Candidate
+<img align="left" src="https://mhm-lab.github.io/images/alia.png" width="150 px" style="padding: 10px"> <br>
+My research focuses on modeling heterogeneity in psychiatric disorders through the integration of neuroimaging,
+transcriptomic, and behavioral data. I use machine learning to map individual-level
+deviations in conditions such as major depressive disorder and schizophrenia, with a growing interest in
+perturbational neurobiology—understanding how targeted disruptions reveal underlying system dynamics. Prior to
+joining the lab, I worked in computational psychiatry and bioinformatics, developing scalable
+pipelines for high-throughput neural and genomic data, with a focus on the structural and diagnostic inequities that
+shape mental health outcomes. Outside the lab, I practice yoga, hike with my Borzoi Donatella, and explore
+experimental sound through violin and theremin.
+<br>
+<br>
+<br>
 ## Francesco Mallus, PhD Candidate
 <img align="left" src="https://mhm-lab.github.io/images/mallus.png" width="150 px" style="padding: 10px"> <br>
 I am deeply passionate about understanding brain function across various conscious states and pathological conditions, aiming to identify robust biomarkers that reflect these functional states and the connections that shape each person's unique qualia. As a biomedical engineer with a background from the Polytechnic University of Turin, where I focused on biomedical device design and bio-signal and image processing for both my BSc and MSc, I have merged my love for technology with a keen interest in neuropsychology. In my free time, I enjoy photography, tinkering, and sailing. [Francescos's email](mailto:)
@@ -55,6 +72,10 @@ I am interested in the development of computational models to understand the mec
 <br>
 <br>
 <br>
+## Mebin Muhammed HS, PhD Candidate
+<img align="left" src="https://mhm-lab.github.io/images/mebin.png" width="150 px" style="padding: 10px"> <br>
+I am deeply interested in dynamic system reconstruction, particularly in understanding how complex biological or behavioral systems evolve over time and how machine learning can be used to model, predict, and intervene in these processes. My primary interest lies in applying machine learning techniques to healthcare. I am currently a Junior Research Fellow at the Computational Biomedical Imaging Lab, IIT Ropar, and an affiliated research associate at Uppsala University. My work focuses on predicting postpartum depression using digital phenotyping data and analyzing model reliability through calibration techniques. I completed my M. Tech in Signal Processing and Communication from the Indian Institute of Technology, Ropar, where I worked on embryo image analysis and classification for IVF outcomes. Outside of research, I enjoy traveling, social work, and public speaking.
+
 ## Nikolaos Pahakis, MSc Student
 <img align="left" src="https://mhm-lab.github.io/images/nikolaos.png" width="150 px" style="padding: 10px"> <br>
 I am a master student in cognitive science, currently engaged in writing my thesis about the optimal way of leveraging brain scans for building normative models. I am a hardware and technology enthusiast, and at the same time interested in everything surrounding the brain and it's psychology. For my Bachelor's degree in Osnabrück, I looked at how people oriented themselves in a VR environment and whether they could acquire and successfully use a new sense. Outside of university, I like to go hiking, gaming, and exploring novel things, especially food. [Nikolaos's email](mailto:)
@@ -91,16 +112,27 @@ I am currently pursuing my Master's degree in Artificial Intelligence with a pas
 <br>
 <br>
 <br>
+## Jijia Xing, PhD Candidate
+<img align="left" src="https://mhm-lab.github.io/images/jijia.jpg" width="150 px" style="padding: 10px"> <br>
+I studied mathematics for my Bachelor's and Master's at Imperial College, where I worked on the explainability and robustness of machine learning models through adversarial attacks. Now, I’m keen to bring mathematical analysis and psychiatry together to help improve how we understand and treat mental disorders—making sure everyone can get the right support. I’m particularly interested in eating disorders and how data-driven tools might support diagnosis and care. Outside of work, I enjoy brewing coffee, bouldering, and photography.
+
 ## Yanwu Yang, PostDoc
 <img align="left" src="https://mhm-lab.github.io/images/yanwu.jpg" width="150 px" style="padding: 10px"> <br>
-My interests include neuroimaging analysis (e.g., large-scale analysis, neurodevelopment, and aging), computational neuroscience, and Connectome-Wide Association Studies (CWAS). Additionally, I am keen on promoting deep learning methods for clinical applications and leveraging neuroscience in foundation model analysis (e.g., the emergence and reasoning in LLMs). Prior to this postdoc, I earned my MSc and PhD from Harbin Institute of Technology in China. I’m also a coffee enthusiast and enjoying gaming and traveling. [Yanwu's email](mailto:)
+My interests include neuroimaging analysis (e.g., large-scale analysis, neurodevelopment, and aging), computational neuroscience, and Connectome-Wide Association Studies (CWAS). Additionally, I am keen on promoting deep learning methods for clinical applications and leveraging neuroscience in foundation model analysis (e.g., the emergence and reasoning in LLMs). Prior to this postdoc, I earned my MSc and PhD from Harbin Institute of Technology in China. I’m also a coffee enthusiast and enjoying gaming and traveling. 
+<br>
+<br>
+<br>
+## Xinyun Yuan, MSc & Internship
+My primary interest lies at the intersection of psychiatry and computational methods, specifically applying psychiatric knowledge to large-scale data models. As a professional Master’s candidate in psychiatry at Shandong University, I am currently interning at the Laboratory for Mental Health Mapping. Here, I investigate how normative modeling of EEG can elucidate individual differences. My goal is to integrate psychiatric insights with computational approaches to improve understanding mental disorders. Outside the lab, I recharge through basketball, jogging, immersing myself in literature. 
 <br>
 <br>
 <br>
 ## Mariam Zabihi, PostDoc
 <img align="left" src="https://mhm-lab.github.io/images/mariam.png" width="150 px" style="padding: 10px"> <br>
-With a Ph.D. in statistical neuroimaging from Radboud University Medical Center, my expertise centers on addressing psychiatric disorder heterogeneity through normative modeling. Currently, as a research fellow at UCL's Department of Computer Science, I focus on advancing generative models for neuroimaging data analysis. Concurrently, in a part-time PostDoc role in Tübingen, I delve into deep normative modeling techniques to discern individual differences within neuroimaging datasets. This dual engagement allows me to contribute significantly to both methodological advancements and the broader understanding of neurological diversity in psychiatric research. [Mariam's email](mailto:)
-
+With a Ph.D. in statistical neuroimaging from Radboud University Medical Center, my expertise centers on addressing psychiatric disorder heterogeneity through normative modeling. Currently, as a research fellow at UCL's Department of Computer Science, I focus on advancing generative models for neuroimaging data analysis. Concurrently, in a part-time PostDoc role in Tübingen, I delve into deep normative modeling techniques to discern individual differences within neuroimaging datasets. This dual engagement allows me to contribute significantly to both methodological advancements and the broader understanding of neurological diversity in psychiatric research.
+<br>
+<br>
+<br>
 ## Join Us
 <img align="left" src="https://mhm-lab.github.io/images/joinus_pic.jpg" width="150 px" style="padding: 10px"> <br>
 We welcome new talent to our team! To see if any positions are currently available, please check [here](https://mhm-lab.github.io/join_us/). If no positions are listed, our team may be fully staffed at the moment. However, feel free to send us an email to inquire about future opportunities.
