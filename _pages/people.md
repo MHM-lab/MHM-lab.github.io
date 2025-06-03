@@ -124,7 +124,7 @@ Philipp Seidel (2025) -> Continued with PostDoc @ University of Tübingen <br>
 
 ***Completed PhD***
 <br>
-Esten Leonardsen (2024) -> Continued with Postdoc @ University of Oslo <br>
+Esten Leonardsen (2024) -> Continued with Postdoc @ University of Oslo & StartUp Founder<br>
 Rikka Kjelkenes (2023) -> Continued with Postdoc @ University of Oslo <br>
 
 ***Completed MSc/HiWi***
