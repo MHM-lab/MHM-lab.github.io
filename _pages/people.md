@@ -123,6 +123,7 @@ My interests include neuroimaging analysis (e.g., large-scale analysis, neurodev
 <br>
 <br>
 ## Xinyun Yuan, MSc & Internship
+<img align="left" src="https://mhm-lab.github.io/images/xinyun.jpg" width="150 px" style="padding: 10px"> <br>
 My primary interest lies at the intersection of psychiatry and computational methods, specifically applying psychiatric knowledge to large-scale data models. As a professional Master’s candidate in psychiatry at Shandong University, I am currently interning at the Laboratory for Mental Health Mapping. Here, I investigate how normative modeling of EEG can elucidate individual differences. My goal is to integrate psychiatric insights with computational approaches to improve understanding mental disorders. Outside the lab, I recharge through basketball, jogging, immersing myself in literature. 
 <br>
 <br>
