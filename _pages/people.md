@@ -22,7 +22,7 @@ I am passionate about applying machine learning to healthcare. After completing 
 
 ## Mebin Muhammed Hamzakoya Sulaikha, PhD Candidate
 <img align="left" src="https://mhm-lab.github.io/images/mebin.png" width="150 px" style="padding: 10px"> <br>
-I focus on reconstructing dynamic biological and behavioral systems using machine learning to model, predict, and intervene in their evolution. Currently, I’m a Junior Research Fellow at IIT Ropar and an affiliated associate at Uppsala University. My research includes predicting postpartum depression using digital phenotyping and evaluating model reliability via calibration. My M.Tech at IIT Ropar focused on embryo image analysis for IVF outcomes. I also enjoy traveling, social work, and public speaking.
+I focus on reconstructing dynamic biological and behavioral systems using machine learning. Currently, I’m a Junior Research Fellow at IIT Ropar and affiliated at Uppsala University. My research includes predicting postpartum depression using digital phenotyping and evaluating model reliability. My M.Tech at IIT Ropar focused on embryo image analysis for IVF outcomes. I also enjoy traveling, social work, and public speaking.
 <br><br><br>
 
 ## Atharva (Athu) Kand, PhD Candidate
