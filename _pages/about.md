@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Welcome!"
 ---
 <img align="center" src="https://mhm-lab.github.io/images/water.png" width="1000 px" style="padding: 10px"> 
 <br>
