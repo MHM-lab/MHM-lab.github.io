@@ -20,6 +20,11 @@ My research centers on machine learning and unsupervised anomaly detection in ne
 I am passionate about applying machine learning to healthcare. After completing my BSc at the University of Tehran, where I focused on anomaly detection in medical imaging, I pursued an MSc at Columbia University. During my internship at the Laboratory for Mental Health Mapping, I am exploring the potential impacts of large language models on mental health. I enjoy traveling, socializing, and reading novels.
 <br><br><br>
 
+## Mebin Muhammed Hamzakoya Sulaikha, PhD Candidate
+<img align="left" src="https://mhm-lab.github.io/images/mebin.png" width="150 px" style="padding: 10px"> <br>
+I focus on reconstructing dynamic biological and behavioral systems using machine learning to model, predict, and intervene in their evolution. Currently, I’m a Junior Research Fellow at IIT Ropar and an affiliated associate at Uppsala University. My research includes predicting postpartum depression using digital phenotyping and evaluating model reliability via calibration. My M.Tech at IIT Ropar focused on embryo image analysis for IVF outcomes. I also enjoy traveling, social work, and public speaking.
+<br><br><br>
+
 ## Atharva (Athu) Kand, PhD Candidate
 <img align="left" src="https://mhm-lab.github.io/images/athu.png" width="150 px" style="padding: 10px"> <br>
 As a PhD candidate, I explore how individual brain structure and function diverge over time, aiming to model these trajectories to identify dysfunction and underlying mechanisms. I hold a degree in Cognitive Neuroscience from the Donders Institute and have worked in rodent memory research and embodied deep learning. My research now focuses on stochastic, biologically informed models to capture the uncertainty inherent in psychiatric conditions. Outside the lab, I enjoy long walks, racquet sports, and contemplative art. I believe the best science is like the best art. It is porous, subversive and elegant. I try to meet both with alacrity.
@@ -53,11 +58,6 @@ My research focuses on understanding brain function across conscious and patholo
 ## Minh-Hieu Nguyen, PhD Candidate
 <img align="left" src="https://mhm-lab.github.io/images/mh_pic.png" width="150 px" style="padding: 10px"> <br>
 I develop computational models to study learning and decision-making processes, especially in individuals with mental health disorders. My academic journey began in Chemistry at the National University of Singapore, followed by a master's in Neural Information Processing at the University of Tübingen. Outside the lab, I enjoy cooking, music, and reading.
-<br><br><br>
-
-## Mebin Muhammed HS, PhD Candidate
-<img align="left" src="https://mhm-lab.github.io/images/mebin.png" width="150 px" style="padding: 10px"> <br>
-I focus on reconstructing dynamic biological and behavioral systems using machine learning to model, predict, and intervene in their evolution. Currently, I’m a Junior Research Fellow at IIT Ropar and an affiliated associate at Uppsala University. My research includes predicting postpartum depression using digital phenotyping and evaluating model reliability via calibration. My M.Tech at IIT Ropar focused on embryo image analysis for IVF outcomes. I also enjoy traveling, social work, and public speaking.
 <br><br><br>
 
 ## Nikolaos Pahakis, HiWi
