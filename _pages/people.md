@@ -107,7 +107,7 @@ As a Master's student in Psychiatry at Shandong University, I’m currently inte
 
 ## Mariam Zabihi, PostDoc
 <img align="left" src="https://mhm-lab.github.io/images/mariam.png" width="150 px" style="padding: 10px"> <br>
-I hold a PhD in Statistical Neuroimaging from Radboud University Medical Center and specialize in normative modeling to address heterogeneity in psychiatric disorders. As a research fellow at UCL and part-time postdoc in Tübingen, I advance generative modeling methods for neuroimaging analysis. My dual roles contribute to both methodological innovation and the broader understanding of psychiatric diversity.
+I hold a PhD in Statistical Neuroimaging from Radboud University Medical Center and specialize in normative modeling to address heterogeneity in psychiatric disorders. As a BI research fellow and postdoc in Tübingen, I advance generative modeling methods for neuroimaging analysis. My role contributes to both methodological innovation and the broader understanding of psychiatric diversity.
 <br><br><br>
 
 ## Join Us
