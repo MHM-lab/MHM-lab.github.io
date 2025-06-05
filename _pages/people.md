@@ -22,12 +22,12 @@ I am passionate about applying machine learning to healthcare. After completing 
 
 ## Mebin Muhammed Hamzakoya Sulaikha, PhD Candidate
 <img align="left" src="https://mhm-lab.github.io/images/mebin.png" width="150 px" style="padding: 10px"> <br>
-I focus on reconstructing dynamic biological and behavioral systems using machine learning. Currently, I’m a Junior Research Fellow at IIT Ropar and affiliated at Uppsala University. My research includes predicting postpartum depression using digital phenotyping and evaluating model reliability. My M.Tech at IIT Ropar focused on embryo image analysis for IVF outcomes. I also enjoy traveling, social work, and public speaking.
+I focus on reconstructing dynamic biological and behavioral systems using machine learning. My research includes predicting postpartum depression using digital phenotyping and evaluating model reliability. My M.Tech at IIT Ropar focused on embryo image analysis for IVF outcomes. I also enjoy traveling, social work, and public speaking.
 <br><br><br>
 
 ## Atharva (Athu) Kand, PhD Candidate
 <img align="left" src="https://mhm-lab.github.io/images/athu.png" width="150 px" style="padding: 10px"> <br>
-As a PhD candidate, I explore how individual brain structure and function diverge over time, aiming to model these trajectories to identify dysfunction and underlying mechanisms. I hold a degree in Cognitive Neuroscience from the Donders Institute and have worked in rodent memory research and embodied deep learning. My research now focuses on stochastic, biologically informed models to capture the uncertainty inherent in psychiatric conditions. Outside the lab, I enjoy long walks, racquet sports, and contemplative art. I believe the best science is like the best art. It is porous, subversive and elegant. I try to meet both with alacrity.
+As a PhD candidate, I explore how individual brain structure and function diverge over time, aiming to model these trajectories to identify dysfunction and underlying mechanisms. I hold a degree in Cognitive Neuroscience from the Donders Institute. My research now focuses on stochastic, biologically informed models to capture the uncertainty inherent in psychiatric conditions. Outside the lab, I enjoy long walks, racquet sports, and contemplative art. I believe the best science is like the best art. It is porous, subversive and elegant. I try to meet both with alacrity.
 <br><br><br>
 
 ## Milin Kim, PhD Candidate
@@ -47,7 +47,7 @@ I am a BSc student in Bioinformatics contributing to the development and validat
 
 ## Alia Mahama-Rodriguez, PhD Candidate
 <img align="left" src="https://mhm-lab.github.io/images/alia.png" width="150 px" style="padding: 10px"> <br>
-My research investigates psychiatric disorder heterogeneity through the integration of neuroimaging, transcriptomics, and behavioral data. I apply machine learning to identify individual-level deviations in disorders like depression and schizophrenia. My growing interest in perturbational neurobiology informs my approach to uncovering system dynamics. Previously, I developed scalable pipelines in computational psychiatry and bioinformatics. Outside research, I enjoy yoga, hiking with my Borzoi Donatella, and experimental music through violin and theremin.
+My research investigates psychiatric disorder and their heterogeneity through the integration of neuroimaging, transcriptomics, and behavioral data. I apply machine learning to identify individual-level deviations in disorders like depression and schizophrenia. Previously, I developed scalable pipelines in computational psychiatry and bioinformatics. Outside research, I enjoy yoga, hiking with my Borzoi Donatella, and experimental music through violin and theremin.
 <br><br><br>
 
 ## Francesco Mallus, PhD Candidate
@@ -62,12 +62,12 @@ I develop computational models to study learning and decision-making processes, 
 
 ## Nikolaos Pahakis, HiWi
 <img align="left" src="https://mhm-lab.github.io/images/nikolaos.png" width="150 px" style="padding: 10px"> <br>
-As a master's student in Cognitive Science, I’m currently writing my thesis on optimizing the use of brain scans for normative modeling. With a background in how people orient themselves in VR, I’m passionate about both brain science and hardware technology. I spend my free time hiking, gaming, and discovering new foods.
+As a master's student in Cognitive Science, I’m currently optimizing the use of brain scans for normative modeling, trying to make norms more robust to preprocessing strategies. I’m passionate about both brain science, hardware and technology. I spend my free time hiking, gaming, and discovering new foods.
 <br><br><br>
 
 ## Francesco Sammarco, PhD Candidate
 <img align="left" src="https://mhm-lab.github.io/images/francescos.png" width="150 px" style="padding: 10px"> <br>
-I am a Computer Science Engineer focused on explainability in machine learning, particularly for mental health applications. I aim to make AI tools more transparent and trustworthy for clinical use. Outside research, I enjoy balancing intellectual challenges with physical ones through sports and gaming. 
+I am a Computer Science Engineer focused on explainability in machine learning, particularly for mental health applications. I aim to make machine learning tools more transparent and trustworthy for clinical use. Outside research, I enjoy balancing intellectual challenges with physical ones through sports and gaming. 
 <br><br><br>
 
 ## Elias Schreiner, Data Scientist & IT Infrastructure
@@ -77,7 +77,7 @@ I am a bioinformatics enthusiast working at the intersection of IT infrastructur
 
 ## Nitin Sharma, Research Scientist
 <img align="left" src="https://mhm-lab.github.io/images/nit_pic.jpg" width="150 px" style="padding: 10px"> <br>
-I am pursuing a master's in Neural Information Processing with a focus on machine learning for understanding mental disorders. My work involves analyzing EEG and MRI/fMRI data, including domain adaptation for multi-site depression datasets. I also explore normative modeling and individual differences. Outside the lab, I enjoy music, hiking, and time with friends.
+I am pursuing a master's in Neural Information Processing with a focus on machine learning for understanding mental disorders. My work involves analyzing multimodal data, including domain adaptation for multi-site depression datasets. I also explore normative modeling and individual differences as well as mechanistic interpretability in large language models. Outside the lab, I enjoy music, hiking, and time with friends.
 <br><br><br>
 
 ## Thomas Wolfers, PI
@@ -92,17 +92,17 @@ I am pursuing a Master's in AI with interests in computer vision, deep learning,
 
 ## Jijia Xing, PhD Candidate
 <img align="left" src="https://mhm-lab.github.io/images/jijla.png" width="150 px" style="padding: 10px"> <br>
-I studied Mathematics at Imperial College London, focusing on adversarial robustness and explainability in machine learning. Now, I’m applying mathematical tools to psychiatry, with a particular interest in improving understaning and diagnostics. In my free time, I enjoy brewing coffee, bouldering, and photography.
+I studied Mathematics at Imperial College London, focusing on adversarial robustness and explainability in machine learning. Now, I’m applying mathematical tools to psychiatry, with a particular interest in improving understaning of complex brain disorders. In my free time, I enjoy brewing coffee, bouldering, and photography.
 <br><br><br>
 
 ## Yanwu Yang, PostDoc
 <img align="left" src="https://mhm-lab.github.io/images/yanwu.jpg" width="150 px" style="padding: 10px"> <br>
-My research interests include neuroimaging analysis, computational neuroscience, and connectome-wide association studies. I focus on large-scale analysis of brain development and aging, integrating deep learning for clinical applications and examining foundational model behavior. I earned my MSc and PhD from Harbin Institute of Technology. I enjoy gaming, travel, and coffee culture.
+My research interests include neuroimaging analysis and computational neuroscience. I focus on large-scale analysis of brain development and aging, integrating deep learning for clinical applications and examining foundational model behavior. I earned my MSc and PhD from Harbin Institute of Technology. I enjoy gaming, travel, and coffee culture.
 <br><br><br>
 
 ## Xinyun Yuan, MSc & Intern
 <img align="left" src="https://mhm-lab.github.io/images/xinyun.png" width="150 px" style="padding: 10px"> <br>
-As a Master's student in Psychiatry at Shandong University, I’m currently interning at the MHM Lab, focusing on EEG normative modeling to understand individual differences. My work bridges psychiatry and computational models. Outside of research, I enjoy basketball, jogging, and literature.
+As a Master's student in Psychiatry at Shandong University, I’m currently interning at the MHM Lab, focusing on modeling individual differences. My work bridges psychiatry and computational models. Outside of research, I enjoy basketball, jogging, and literature.
 <br><br><br>
 
 ## Mariam Zabihi, PostDoc
