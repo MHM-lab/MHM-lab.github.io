@@ -7,7 +7,7 @@ All lab members are presented in alphabetical order.
 <br><br><br>
 ## Ayush-kumar Chaudhary, HiWi
 <img align="left" src="https://mhm-lab.github.io/images/ayush.png" width="150 px" style="padding: 10px"> <br>
-I am a MSc. Machine Learning Student in my final year. In the mental health mapping lab, I am researching and implementing effective and consistent benchmarking techniques to systematically compare (classical) statistical- and deep learning models for normative modeling. In my free time, I like to go to the gym, play football, lacrosse and also perform standup comedy. 
+I am a MSc. Machine Learning student in my final year. In the mental health mapping lab, I am researching and implementing effective and consistent benchmarking techniques to systematically compare (classical) statistical- and deep learning models for normative modeling. In my free time, I like to go to the gym, play football, lacrosse and also perform standup comedy. 
 <br><br><br>
 
 ## Sicheng Dai, PostDoc
