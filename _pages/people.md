@@ -5,6 +5,11 @@ title: "People"
 
 All lab members are presented in alphabetical order.
 <br><br><br>
+## Ayush-kumar Chaudhary, HiWi
+<img align="left" src="https://mhm-lab.github.io/images/ayush.png" width="150 px" style="padding: 10px"> <br>
+I am a MSc. Machine Learning Student in my final year. In the mental health mapping lab, I am researching and implementing effective and consistent benchmarking techniques to systematically compare (classical) statistical- and deep learning models for normative modeling. In my free time, I like to go to the gym, play football, lacrosse and also perform standup comedy. 
+<br><br><br>
+
 ## Sicheng Dai, PostDoc
 <img align="left" src="https://mhm-lab.github.io/images/dai.png" width="150 px" style="padding: 10px"> <br>
 My research explores brain network modeling in health and disease by integrating Network Science and Machine Learning. I earned my PhD in Computer Science from ENS Lyon, focusing on dynamic patterns in large-scale temporal social networks. Outside of academia, I'm an avid nature enthusiast and animal lover.
