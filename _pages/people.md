@@ -87,7 +87,7 @@ I am pursuing a master's in Neural Information Processing with a focus on machin
 
 ## Thomas Wolfers, PI
 <img align="left" src="https://mhm-lab.github.io/images/thomas_pic.png" width="150 px" style="padding: 10px"> <br>
-My research develops machine learning approaches to identify individual-level factors in mental health and other complex medical conditions. I earned my PhD from Radboud University and held research roles in the Netherlands, Norway, and the UK before founding the MHM Lab in Tübingen. My long-term goal is to translate technological advances into clinical practice. Outside of work, I enjoy yoga, meditation, socializing, and music. [Thomas's email](mailto:dr.thomas.wolfers@gmail.com) & [Homepage](https://thomaswolfers.github.io)
+My research develops machine learning approaches to identify individual-level factors in mental health and other complex medical conditions. I earned my PhD from Radboud University and held research roles in the Netherlands, Norway, and the UK before founding the MHM Lab. My long-term goal is to translate technological advances into clinical practice. Outside of work, I enjoy yoga, meditation, socializing, and music. [Thomas's email](mailto:dr.thomas.wolfers@gmail.com) & [Homepage](https://thomaswolfers.github.io)
 <br><br><br>
 
 ## Gokul Vijayakrishnan, HiWi & IT Infrastructure
