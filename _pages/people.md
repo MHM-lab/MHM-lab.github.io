@@ -5,10 +5,6 @@ title: "People"
 
 All lab members are presented in alphabetical order.
 <br><br><br>
-## Ayush-kumar Chaudhary, HiWi
-<img align="left" src="https://mhm-lab.github.io/images/ayush.png" width="150 px" style="padding: 10px"> <br>
-I am a MSc. Machine Learning student in my final year. In the mental health mapping lab, I am researching and implementing effective and consistent benchmarking techniques to systematically compare (classical) statistical- and deep learning models for normative modeling. In my free time, I like to go to the gym, play football, lacrosse and also perform standup comedy. 
-<br><br><br>
 
 ## Sicheng Dai, PostDoc
 <img align="left" src="https://mhm-lab.github.io/images/dai.png" width="150 px" style="padding: 10px"> <br>
@@ -18,11 +14,6 @@ My research explores brain network modeling in health and disease by integrating
 ## Alexander Frotscher, PhD Candidate
 <img align="left" src="https://mhm-lab.github.io/images/alex.jpg" width="150 px" style="padding: 10px"> <br>
 My research centers on machine learning and unsupervised anomaly detection in neuroimaging data. I strive to enhance methodological rigor in clinical applications by developing robust models that illuminate biological variations and disease mechanisms. In my spare time, I enjoy various sports.
-<br><br><br>
-
-## Samira Hajizadeh, MSc Student & Intern
-<img align="left" src="https://mhm-lab.github.io/images/samira.png" width="150 px" style="padding: 10px"> <br>
-I am passionate about applying machine learning to healthcare. After completing my BSc at the University of Tehran, where I focused on anomaly detection in medical imaging, I pursued an MSc at Columbia University. During my internship at the Laboratory for Mental Health Mapping, I am exploring the potential impacts of large language models on mental health. I enjoy traveling, socializing, and reading novels.
 <br><br><br>
 
 ## Mebin Muhammed Hamzakoya Sulaikha, PhD Candidate
@@ -40,7 +31,7 @@ As a PhD candidate, I explore how individual brain structure and function diverg
 My research focuses on the development of the cerebellum across the lifespan and its role in neurological and psychiatric disorders. I use machine learning and neuroimaging from large populations to map cerebellar trajectories. Prior to my PhD at Oslo University Hospital, I studied psychology at Seoul National University and cognitive neuroscience at the University of Oslo. I enjoy exploring Norwegian nature, baking macarons, and reading.
 <br><br><br>
 
-## Gülce Lale, PhD Candidate
+## Gülce Lale, Research Scientist
 <img align="left" src="https://mhm-lab.github.io/images/guelce.png" width="150 px" style="padding: 10px"> <br>
 With a dual background in Computer Science and Psychology, I pursued an MSc in Systemic Neurosciences in Munich to deepen my interest in neuroscience. Now in my PhD, I study how individual differences in brain structure and function influence cognition in mental health disorders, using neuroimaging and machine learning. In my free time, I enjoy nature, yoga, and writing short stories.
 <br><br><br>
@@ -90,11 +81,6 @@ I am pursuing a master's in Neural Information Processing with a focus on machin
 My research develops machine learning approaches to identify individual-level factors in mental health and other complex medical conditions. I earned my PhD from Radboud University and held research roles in the Netherlands, Norway, and the UK before founding the MHM Lab. My long-term goal is to translate technological advances into clinical practice. Outside of work, I enjoy yoga, meditation, socializing, and music. [Thomas's email](mailto:dr.thomas.wolfers@gmail.com) & [Homepage](https://thomaswolfers.github.io)
 <br><br><br>
 
-## Gokul Vijayakrishnan, HiWi & IT Infrastructure
-<img align="left" src="https://mhm-lab.github.io/images/gokul.png" width="150 px" style="padding: 10px"> <br>
-I am pursuing a Master's in AI with interests in computer vision, deep learning, and MLOps. With over seven years in data and embedded systems, I’ve worked at Bosch and Aptiv on visual quality inspection and keypoint estimation. Outside of academics, I enjoy travel and coding.
-<br><br><br>
-
 ## Jijia Xing, PhD Candidate
 <img align="left" src="https://mhm-lab.github.io/images/jijla.png" width="150 px" style="padding: 10px"> <br>
 I studied Mathematics at Imperial College London, focusing on adversarial robustness and explainability in machine learning. Now, I’m applying mathematical tools to psychiatry, with a particular interest in improving understaning of complex brain disorders. In my free time, I enjoy brewing coffee, bouldering, and photography.
@@ -103,11 +89,6 @@ I studied Mathematics at Imperial College London, focusing on adversarial robust
 ## Yanwu Yang, PostDoc
 <img align="left" src="https://mhm-lab.github.io/images/yanwu.jpg" width="150 px" style="padding: 10px"> <br>
 My research interests include neuroimaging analysis and computational neuroscience. I focus on large-scale analysis of brain development and aging, integrating deep learning for clinical applications and examining foundational model behavior. I earned my MSc and PhD from Harbin Institute of Technology. I enjoy gaming, travel, and coffee culture.
-<br><br><br>
-
-## Xinyun Yuan, MSc & Intern
-<img align="left" src="https://mhm-lab.github.io/images/xinyun.png" width="150 px" style="padding: 10px"> <br>
-As a Master's student in Psychiatry at Shandong University, I’m currently interning at the MHM Lab, focusing on modeling individual differences. My work bridges psychiatry and computational models. Outside of research, I enjoy basketball, jogging, and literature.
 <br><br><br>
 
 ## Mariam Zabihi, PostDoc
@@ -134,6 +115,10 @@ Rikka Kjelkenes (2023) -> Continued with Postdoc @ University of Oslo <br>
 
 ***Completed MSc/HiWi***
 <br>
+Xinyun Yuan -> Continued with MSc @ Shandong University
+Gokul Vijayakrishnan -> Works in industry <br>
+Samira Hajizadeh -> Continued with PhD @ Columbia University <br>
+Ayush-kumar Chaudhary -> Continued with MSc. in Machine Learning <br>
 Melis Oktayoglu (2025) -> Works in industry <br>
 Chiara Möller (2024) -> Travels the world <br>
 Alexander Frotscher (2023) -> Continued with PhD @ University of Tübingen with Thomas <br>
