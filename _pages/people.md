@@ -56,7 +56,7 @@ My research focuses on understanding brain function across conscious and patholo
 I develop computational models to study learning and decision-making processes, especially in individuals with mental health disorders. My academic journey began in Chemistry at the National University of Singapore, followed by a master's in Neural Information Processing at the University of Tübingen. Outside the lab, I enjoy cooking, music, and reading.
 <br><br><br>
 
-## Nikolaos Pahakis, HiWi
+## Nikolaos Pahakis, HiWi & IT Infrastructure
 <img align="left" src="https://mhm-lab.github.io/images/nikolaos.png" width="150 px" style="padding: 10px"> <br>
 As a master's student in Cognitive Science, I’m currently optimizing the use of brain scans for normative modeling, trying to make norms more robust to preprocessing strategies. I’m passionate about brain science, hardware and technology. I spend my free time hiking, gaming, and discovering new foods.
 <br><br><br>
