@@ -115,7 +115,7 @@ Rikka Kjelkenes (2019-23) -> Continued with Postdoc @ University of Oslo <br>
 
 ***Completed MSc/HiWi***
 <br>
-Nitin Sharma (2023-25) -> Continued as Research Scientist @ University of Tübingen with Thomas <br>
+Nitin Sharma (2022-25) -> Continued as Research Scientist @ University of Tübingen with Thomas <br>
 Gokul Vijayakrishnan (2024-25) -> Works in industry <br>
 Samira Hajizadeh (2024-25) -> Continued with PhD @ Columbia University <br>
 Ayush-kumar Chaudhary (2025) -> Continued with MSc @ University of Tübingen <br>
