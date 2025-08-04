@@ -115,10 +115,10 @@ Rikka Kjelkenes (2023) -> Continued with Postdoc @ University of Oslo <br>
 
 ***Completed MSc/HiWi***
 <br>
-Xinyun Yuan -> Continued with MSc @ Shandong University
-Gokul Vijayakrishnan -> Works in industry <br>
-Samira Hajizadeh -> Continued with PhD @ Columbia University <br>
-Ayush-kumar Chaudhary -> Continued with MSc. in Machine Learning <br>
+Xinyun Yuan (2025) -> Continued with MSc @ Shandong University <br>
+Gokul Vijayakrishnan (2025) -> Works in industry <br>
+Samira Hajizadeh (2025) -> Continued with PhD @ Columbia University <br>
+Ayush-kumar Chaudhary (2025) -> Continued with MSc. in Machine Learning <br>
 Melis Oktayoglu (2025) -> Works in industry <br>
 Chiara Möller (2024) -> Travels the world <br>
 Alexander Frotscher (2023) -> Continued with PhD @ University of Tübingen with Thomas <br>
