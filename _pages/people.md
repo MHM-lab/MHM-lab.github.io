@@ -115,7 +115,6 @@ Rikka Kjelkenes (2023) -> Continued with Postdoc @ University of Oslo <br>
 
 ***Completed MSc/HiWi***
 <br>
-Xinyun Yuan (2025) -> Continued with MSc @ Shandong University <br>
 Gokul Vijayakrishnan (2025) -> Works in industry <br>
 Samira Hajizadeh (2025) -> Continued with PhD @ Columbia University <br>
 Ayush-kumar Chaudhary (2025) -> Continued with MSc @ University of Tübingen <br>
@@ -132,6 +131,7 @@ Maria Paraskevopoulou (2016) -> Continued with PhD @ Radboud University of Nijme
 
 ***Completed BSc/Honors/DAAD***
 <br>
+Xinyun Yuan (2025) -> Continued with MSc @ Shandong University <br>
 Ponnuru Mahesh Datta Sai (2024) -> Continued with BSc @ SRM Institute of Science and Technology <br>
 Sacha ten Broeke (2023) -> Continued with MSc @ Radboud University of Nijmegen <br>
 
