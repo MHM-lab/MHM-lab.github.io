@@ -135,7 +135,7 @@ Xinyun Yuan (2025) -> Continued with MSc @ Shandong University <br>
 Ponnuru Mahesh Datta Sai (2024) -> Continued with BSc @ SRM Institute of Science and Technology <br>
 Sacha ten Broeke (2023) -> Continued with MSc @ Radboud University of Nijmegen <br>
 
-***Completed Labrotation/Internship***
+***Completed Labrotation/Internship/Research Scientist***
 <br>
 Mylla Marsiglia (2024) -> Continued with PhD @ Max Planck Institute Leipzig <br>
 Shun-chin Wu (Jim) (2023) -> Continued with MSc @ University College London<br>
