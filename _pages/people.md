@@ -120,7 +120,7 @@ Gokul Vijayakrishnan (2025) -> Works in industry <br>
 Samira Hajizadeh (2025) -> Continued with PhD @ Columbia University <br>
 Ayush-kumar Chaudhary (2025) -> Continued with MSc @ University of Tübingen <br>
 Melis Oktayoglu (2025) -> Works in industry <br>
-Chiara Möller (2024) -> Works in industry <br>
+Chiara (Jonathan) Möller (2024) -> Works in industry <br>
 Alexander Frotscher (2023) -> Continued with PhD @ University of Tübingen with Thomas <br>
 Minh-Hieu Nguyen (2023) -> Continued with PhD @ University of Tübingen with Thomas <br>
 Sarah Sobotta (2023) -> Continued with a PhD @ Max Planck Institute Leipzig <br>
