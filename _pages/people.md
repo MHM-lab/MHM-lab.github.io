@@ -31,7 +31,7 @@ As a PhD candidate, I explore how individual brain structure and function diverg
 My research focuses on the development of the cerebellum across the lifespan and its role in neurological and psychiatric disorders. I use machine learning and neuroimaging from large populations to map cerebellar trajectories. Prior to my PhD at Oslo University Hospital, I studied psychology at Seoul National University and cognitive neuroscience at the University of Oslo. I enjoy exploring Norwegian nature, baking macarons, and reading.
 <br><br><br>
 
-## Gülce Lale, Research Scientist
+## Gülce Lale, PhD Candidate 
 <img align="left" src="https://mhm-lab.github.io/images/guelce.png" width="150 px" style="padding: 10px"> <br>
 With a dual background in Computer Science and Psychology, I pursued an MSc in Systemic Neurosciences in Munich to deepen my interest in neuroscience. Now in my PhD, I study how individual differences in brain structure and function influence cognition in mental health disorders, using neuroimaging and machine learning. In my free time, I enjoy nature, yoga, and writing short stories.
 <br><br><br>
