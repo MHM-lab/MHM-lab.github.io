@@ -106,7 +106,7 @@ We’re always looking for motivated individuals to join our team! Check current
 ***Completed PostDoc/Data-Scientist***
 <br>
 Philipp Seidel (2023-25) -> Continued with PostDoc @ University of Tübingen <br>
-Hao-Chun(Chad) Yang (2022-24) -> Works in industry (Aptiv) <br>
+Hao-Chun(Chad) Yang (2022-24) -> Works in industry (@Aptiv) <br>
 
 ***Completed PhD***
 <br>
