@@ -116,7 +116,7 @@ Rikka Kjelkenes (2019-23) -> Continued with Postdoc @ University of Oslo <br>
 ***Completed MSc/HiWi***
 <br>
 Nitin Sharma (2022-25) -> Continued as Research Scientist @ University of Tübingen with Thomas <br>
-Gokul Vijayakrishnan (2024-25) -> Works in industry (@Mercedes) <br>
+Gokul Vijayakrishnan (2024-25) -> Works in industry (@Mercedes-Benz) <br>
 Samira Hajizadeh (2024-25) -> Continued with PhD @ Columbia University <br>
 Ayush-kumar Chaudhary (2025) -> Continued with MSc @ University of Tübingen <br>
 Melis Oktayoglu (2025) -> Works in industry (@StartUp) <br>
