@@ -14,7 +14,7 @@ We are recruiting a Postdoctoral Researcher to join our team in Jena, Germany. W
 <br>
 The position offers the chance to develop your own research line, work toward independence, and receive support to apply for personal funding, while also contributing to supervision within the team. Funded by the Carl Zeiss Foundation, the position starts with one year and can be extended up to five years (and beyond if appropriate).
 <br>
-Applications will be considered until the position is filled. Please email Thomas Wolfers with your CV, a motivation letter, and your best first-author publication. Our team currently hosts three postdocs, two of whom secured personal funding after joining. This says a lot about their talent but also shows that I am eager to build an environment for personal & professional growth.
+Applications will be considered until the position is filled. Please [email Thomas Wolfers](mailto:dr.thomas.wolfers@gmail.com) with your CV, a motivation letter, and your best first-author publication. Our team currently hosts three postdocs, two of whom secured personal funding after joining. This says a lot about their talent but also shows that I am eager to build an environment for personal & professional growth.
 
 ## HIWI positions & Master Internships
 All currently available positions are listed here.
