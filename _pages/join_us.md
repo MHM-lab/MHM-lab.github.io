@@ -10,7 +10,7 @@ All currently available PostDoc & PhD positions are listed here.
 
 ***PostDoc in Jena, Germany***
 <br>
-We are recruiting a Postdoctoral Researcher to join our team in Jena, Germany. Candidates should have strong expertise in neuroscience and machine learning, with a clear interest in our research directions.
+We are recruiting a Postdoctoral Researcher to join our team in Jena, Germany. Candidates should have strong expertise in neuroscience espcially neuroimaging and machine learning, with a clear interest in our research directions.
 <br>
 The position, funded by the Carl Zeiss Foundation, offers the opportunity to develop your own research line, work toward independence, and receive dedicated support in applying for personal funding, while also contributing to team supervision. It starts with one year and can be extended up to five years (and beyond if appropriate).
 <br>
