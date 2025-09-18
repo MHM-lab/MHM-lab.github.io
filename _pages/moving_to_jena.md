@@ -26,7 +26,7 @@ If you would like to suggest additional information, please contact: [dr.thomas.
 **Overview**  
 Jena offers an internationally recognized research environment with strengths in **optics and photonics, life and health sciences, biodiversity, materials and energy, and climate research**.  
 
-The Friedrich Schiller University Jena holds the *HR Excellence in Research Award*. Two Clusters of Excellence further strengthen the research environment.  
+The Friedrich Schiller University Jena holds the [HR Excellence in Research Award](https://www.uni-jena.de/en/243628/hr-excellence-in-research-award). Two Clusters of Excellence further strengthen the research environment.  
 
 The University of Jena is a site of the **German Center for Mental Health**. My professorship bridges the University and the University Hospital, and I hold a PI position in the Center.  
 
