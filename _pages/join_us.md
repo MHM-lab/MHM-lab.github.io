@@ -14,7 +14,7 @@ We are recruiting a Postdoctoral Researcher to [join our team in Jena](https://m
 <br>
 The position, funded by the Carl Zeiss Foundation, offers the opportunity to develop your own research line, work toward independence, and receive dedicated support in applying for personal funding, while also contributing to team supervision. It starts with one year and can be extended up to five years (and beyond if appropriate).
 <br>
-All applications submitted by ***30 October 2025*** will be reviewed shortly thereafter. Applications received after this date will be considered on a rolling basis, and the position will remain open until filled, though preference will be given to submissions received before 30 October. Please [email Thomas Wolfers](mailto:dr.thomas.wolfers@gmail.com) with your CV, a motivation letter, and your best first-author publication..
+All applications submitted by ***30 October 2025*** will be reviewed shortly thereafter. Applications received after this date will be considered on a rolling basis, and the position will remain open until filled, though preference will be given to submissions received before 30 October. Please [email Thomas Wolfers](mailto:dr.thomas.wolfers@gmail.com) with your CV, a motivation letter, and your best first-author publication.
 <br>
 Our team has a strong track record of supporting early independence: two of three current postdocs secured their own funding after joining. I am committed to providing personal guidance -including honest feedback on readiness for competitive grants- and have already supported many postdocs in obtaining independent fellowships.
 <br>
