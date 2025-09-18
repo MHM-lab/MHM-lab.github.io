@@ -20,7 +20,7 @@ If you would like to suggest additional information, please contact: [dr.thomas.
 ## 1) How is the research environment in Jena?
 
 **Useful links**  
-1. [University of Jena: Research Environment](https://www.uni-jena.de/en/310112/the-university-of-jena-offers-excellent-research-environment)  
+1. [University of Jena: Research Environment](https://www.jenaversum.de/jenaversum/research/?lang=en)  
 2. [JenaWirtschaft: Research strengths](https://www.jenawirtschaft.de/en/location/research/)  
 
 **Overview**  
