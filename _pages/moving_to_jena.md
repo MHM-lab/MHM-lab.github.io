@@ -12,10 +12,10 @@ Jena has a rich scientific and cultural heritage. It is the birthplace of the **
 Historically, the University of Jena was very influential and a lot of [historcial figures](https://www.uni-jena.de/en/109868/famous-university-teachers-and-students-from-the-history-of-the-university-of-jena-selection) taught and lived here as well as the first [female professor](https://www.uni-jena.de/en/213543/the-first-female-professor-at-a-german-university). The city has strong ties to **Humboldt**, and its intellectual and cultural spirit is still felt today. Nearby Weimar, the birthplace of Germany’s first democracy, and Buchenwald, a stark reminder of its collapse and what followed, provide important historical lessons that remain relevant today.  
 <br>
 <br>
-In essence, Jena is a place where **the discovery of the stars** (via Zeiss optics) and **the study of the brain** (via Berger’s EEG) intersect and at this intersection magic happens, as conciousness ignites the universe - just the right place for our laboratory.  
+In essence, Jena is a place where the discovery of the stars (through Zeiss optics) and the study of the brain (through Berger’s EEG) intersect. At this intersection, magic happens, as consciousness ignites the universe — making it the perfect home for our laboratory.  
 <br>
 <br>
-This page provides practical information about moving to **Jena** and Germany.  
+Below you find practical information about moving to **Jena** and Germany.  
 If you would like to suggest additional information, please contact: [dr.thomas.wolfers@gmail.com](mailto:dr.thomas.wolfers@gmail.com).
 <br>
 <br>
