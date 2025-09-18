@@ -121,7 +121,7 @@ Germany has extensive social protection, including health insurance, unemploymen
 
 **Overview**  
 - Parental leave: up to 14 months (shared between parents) at ~60% of last income.  
-- Kindergarten and childcare: high quality and affordable, though places are limited. Early application is essential.  
+- Kindergarten and childcare: high quality and affordable. We got three offers from different palces all excellent!   
 - Public schools are free and of good quality. International schools exist but are rarely necessary.  
 
 ---
