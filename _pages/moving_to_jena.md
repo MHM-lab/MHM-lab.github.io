@@ -41,7 +41,7 @@ Carl Zeiss remains omnipresent. For instance the largest [Carl Zeiss research ca
 
 Compared to other cities we have lived in, it was relatively easy to settle here. Housing can be competitive but manageable, and the daycare infrastructure is excellent. Our children enjoy attending *Kita* until late afternoon, which makes balancing work and family life much easier.  
 
-Jena is a lively city that actively supports its residents. For example, we managed all city-related paperwork **online**, received an appointment the same day, and completed everything within three hours — an experience almost unheard of in Germany.  
+Jena is a lively city that actively supports its residents. For example, we managed all city-related paperwork **online**, received an appointment the same day, and completed everything within three hours - an experience almost unheard of in Germany.  
 
 **Useful links**  
 - [University of Jena: Living in Jena](https://www.uni-jena.de/en/1965/living-in-jena)  
