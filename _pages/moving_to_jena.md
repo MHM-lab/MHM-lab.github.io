@@ -109,8 +109,7 @@ That said, housing prices may rise in the coming years as the Carl Zeiss Campus 
 
 ## 7) Social support systems
 
-Germany has extensive social protection, including health insurance, unemployment insurance, pensions, and public healthcare.  
-The University also offers counselling and integration services for international researchers and students.  
+Germany has extensive social protection, including health insurance, unemployment insurance, pensions, and public healthcare. All that comes with your employment and is automatically taken care of. The University also offers counselling and integration services for international researchers and students.  
 
 ---
 
