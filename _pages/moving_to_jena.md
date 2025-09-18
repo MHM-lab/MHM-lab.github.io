@@ -31,7 +31,7 @@ The University of Jena is a site of the **German Center for Mental Health**. My 
 
 In addition to the University, several **Max Planck Institutes** and other non-university research centers contribute to a highly interdisciplinary ecosystem.  
 
-The city’s location facilitates strong collaborations: Leipzig (~1h), Dresden (~2h), and Berlin (~2h) are all within reach.  
+The city’s location facilitates strong collaborations: Leipzig (~1h), Dresden (~3h), and Berlin (~2.5h) are all within reach.  
 
 Carl Zeiss remains omnipresent. The **largest Carl Zeiss research campus worldwide** is currently being built in Jena. As Carl Zeiss Professor, I aim to foster strong collaborations, especially in machine learning.  
 
