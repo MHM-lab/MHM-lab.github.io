@@ -93,7 +93,7 @@ Learning German is recommended for smoother integration into social life, though
 ## 6) How to calculate your income and what are the living costs?
 
 **Useful link**  
-- [Living costs in Jena](https://livingcost.org/cost)  
+- [Living costs in Jena](https://livingcost.org/cost)
 
 Compared with cities such as Munich or Tübingen, living costs in Jena are about **half**, while academic salaries (TV-L) remain the same. This makes Jena attractive for young professionals and families.  
 
