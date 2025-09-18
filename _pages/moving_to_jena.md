@@ -86,7 +86,7 @@ Nature is never far away: the Saale valley and Thuringian Forest offer excellent
 Academic life in Jena is highly international, and English is widely spoken in research contexts.  
 However, daily life and bureaucracy are primarily in German.  
 
-Learning German is recommended for smoother integration and participation in social life, though not necessary at all for professional work in the laboratory. There is also a strong international comunity, my wife is american so we have explored that a bit already. Leipzig and Berlin close by are both large cities. The University Language Centre offers courses for international researchers and students.  
+Learning German is recommended for smoother integration into social life, though not required for work in the laboratory. Jena has a strong international community, and nearby Leipzig and Berlin offer even larger international networks. The University Language Centre provides language courses for researchers and students.
 
 ---
 
