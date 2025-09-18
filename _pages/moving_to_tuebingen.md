@@ -1,89 +1,184 @@
 ---
-permalink: /moving_to_tuebingen/
-title: "Moving to Tübingen"
+permalink: /moving_to_jena/
+title: "Moving to Jena"
 ---
-Here you find information about moving to Tübingen and Germany. You find some tips as well as useful links. Please write an [email](mailto:dr.thomas.wolfers@gmail.com) if information should be included! 
+# Moving to Jena (Germany)
+<br>
+<br>
+Jena is a city of about 110,000 people, located close to Leipzig (~1h by train, also called “Hypezig” or the “new Berlin” (10 years ago) and Berlin (~2h by train). This means you can enjoy all the cultural and social opportunities of larger cities while living in a quieter environment with fewer daily distractions.  
+<br>
+<br>
+Jena has a rich scientific and cultural heritage. It is the birthplace of the **planetarium** (the world’s first was built here) and of modern **optics** through Carl Zeiss. Fewer people know that the **EEG** was invented in Jena by Hans Berger, whos statue is in fromnt of the local Psychiatry department. In this sense, Jena played a pioneering role in **human brain mapping** and the functional investigation of the human mind.  
+<br>
+<br>
+Historically, the University of Jena was very influential and a lot of historcial figures taught and lived here. For instance, Karl Marx lived and taught here. His mother was born in Nijmegen, where I began my PhD journey. Reading *Capital in the Twenty-First Century* (2014) during my PhD deeply shaped my thinking about the redistribution of capital. A theme that is only becoming more urgent in the age of AI and automation, for which we have no answers yet. 
+<br>
+<br>
+The city also has strong ties to **Humboldt**, and its intellectual and cultural spirit is still felt today. Nearby Weimar, the birthplace of Germany’s first democracy, and Buchenwald, a stark reminder of its collapse and what followed, provide important historical lessons that remain relevant.  
+<br>
+<br>
+In essence, Jena is a place where **the discovery of the stars** (via Zeiss optics) and **the study of the brain and consciousness** (via Berger’s EEG) intersect. For our laboratory, Jena is therefore an inspiring new home.  
+<br>
+<br>
+This page provides practical information about moving to **Jena** and Germany.  
+If you would like to suggest additional information, please contact: [dr.thomas.wolfers@gmail.com](mailto:dr.thomas.wolfers@gmail.com).
+<br>
+<br>
+---
 
-### 1) How is the research environment in Tübingen?<br>
-Useful links:<br>
-1) [Video about the university of Tübingen and the IMPRS-IS](https://www.youtube.com/watch?v=FCJsNGT2diw) <br>
-2) [The University of Tübingen has excellence status](http://uni-tuebingen.de) <br>
-3) [Clinic with many outstanding research institues](https://de.wikipedia.org/wiki/Universitätsklinikum_Tübingen)<br>
-4) [One of the locations for the German Center for Mental Health](https://dzhk.de/en/news/latest-news/article/germany-establishes-two-new-centres-for-health-research/) <br>
-5) [IMPRS-IS world renowned school for machine learning](https://imprs.is.mpg.de) <br>
-6) [Four different Max Planck Institutes on campus](https://tuebingen.mpg.de/startseite) <br>
-7) [Well-known neuroscience research environment](https://tuebingenresearchcampus.com/research-in-tuebingen/tnc/)
-<br>
-<br>
-The [building blocks of DNA](https://www.unimuseum.uni-tuebingen.de/en/exhibitions/visit-the-mut-exhibitions/castle-laboratory/the-discovery-of-nucleic-acid) were discovered here as well as significant advancements towards [mRNA technology](https://www.nature.com/articles/d41586-021-02483-w). The [machine learning education and research](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/studiengaenge/machine-learning/) is well-known, and several tech companies have or start research labs in Tübingen. [Neuroscience](https://www.neuroschool-tuebingen.de/about-imprs/) is conducted in various research centers and Tübingen is one of the locations for the German Center for Mental Health.
+## 1) How is the research environment in Jena?
 
-### 2) Getting started in Tübingen? <br>
-Useful links: <br>
-1) [Official guide with all kinds of relevant information on Tübingen](https://www.tuebingen.de/Dateien/broschuere_willkommen_englisch.pdf)<br>
-2) [Welcome Centre to get started at the University](https://uni-tuebingen.de/en/international/welcome-center/registration/)
+**Useful links**  
+1. [University of Jena: Research Environment](https://www.uni-jena.de/en/310112/the-university-of-jena-offers-excellent-research-environment)  
+2. [JenaWirtschaft: Research strengths](https://www.jenawirtschaft.de/en/location/research/)  
+<br>
+<br>
+**Overview**  
+Jena offers an internationally recognized research environment with strengths in **optics and photonics, life and health sciences, biodiversity, materials and energy, and climate research**.  
+<br>
+<br>
+The Friedrich Schiller University Jena holds the *HR Excellence in Research Award*. Two Clusters of Excellence further strengthen the research environment.  
+<br>
+<br>
+The University of Jena is a site of the **German Center for Mental Health**. My professorship bridges the University and the University Hospital, and I hold a PI position in the Center.  
+<br>
+<br>
+In addition to the University, several **Max Planck Institutes** and other non-university research centers contribute to a highly interdisciplinary ecosystem.  
+<br>
+<br>
+The city’s location facilitates strong collaborations: Leipzig (~1h), Dresden (~2h), and Berlin (~2h) are all within reach.  
+<br>
+<br>
+Carl Zeiss remains omnipresent. The **largest Carl Zeiss research campus worldwide** is currently being built in Jena. As Carl Zeiss Professor, I aim to foster strong collaborations, especially in machine learning.  
+<br>
+<br>
+---
 
-### 3) What can you do in and around town? <br>
-Useful links: <br>
-1) [Schöner leben email list for all kinds of events](https://lists.schokokeks.org/mailman/listinfo.cgi/schoener-leben)
+## 2) Getting started in Jena
 <br>
 <br>
-Tübingen is a typical German fairy-tale town and very beautiful especially in summer. You can check out a [touristic video]( https://www.youtube.com/watch?v=fTZKXl_tUsI&t=10s) or a [video from a student]( https://www.youtube.com/watch?v=28dIzix5sG4) or a [walking tour]( https://www.youtube.com/watch?v=PDBO1AwQDO0&t=344s) if you like to see more.
+Compared to other cities we have lived in, it was relatively easy to settle here. Housing can be competitive but manageable, and the daycare infrastructure is excellent. Our children enjoy attending *Kita* until late afternoon, which makes balancing work and family life much easier.  
 <br>
 <br>
-The natural environment around Tübingen is stunning. You are in nature after you walked for a few minutes, and all kinds of outdoor activities are possible. The alps are about two hours by car, and you find a lot of different castles relatively close by some of them are [known](https://de.wikipedia.org/wiki/Schloss_Neuschwanstein) and others more [unknown](https://de.wikipedia.org/wiki/Burg_Hohenzollern). There are also great baths and saunas in the area e.g., in Bad Urach, where you can also find waterfalls. In summary, there is plenty to do in and around town.
+Jena is a lively city that actively supports its residents. For example, we managed all city-related paperwork **online**, received an appointment the same day, and completed everything within three hours — an experience almost unheard of in Germany.  
 <br>
 <br>
-As Tübingen is a student city there is a bit of nightlife, but clubbing is probably better in Stuttgart (~45 min by train). You have organized parties, which are sometimes advertised via the [schoener-leben](https://lists.schokokeks.org/mailman/listinfo.cgi/schoener-leben) email list. If you like a beer in the evening, Tübingen has picturesque sceneries, lovely bars, and historic pubs. There are also many good restaurants.
 
-### 4) How to find an apartment in Tübingen? <br>
-Useful links:<br>
-1) [Facebook Group](https://www.facebook.com/groups/Tuebingen.Immo)<br>
-2) [WG gesucht](https://www.wg-gesucht.de)<br>
-3) [Ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de)<br>
-4) [Schöner wohnen email list](https://lists.schokokeks.org/mailman/listinfo.cgi/schoener-wohnen)
+**Useful links**  
+- [University of Jena: Living in Jena](https://www.uni-jena.de/en/1965/living-in-jena)  
+- [Work-in-Jena Guide](https://www.work-in-jena.de/en/living-in-jena/)  
 <br>
 <br>
-Did not try it myself but a friend suggested to check out the local newspaper which are the [Schwäbisches Tagblatt](https://www.tagblatt.de) or the [Reutlinger General-Anzeiger](https://www.gea.de). You can also consider advertising your search there, sometimes you get lucky. 
+**First steps after arrival**  
+- Register your residence (*Anmeldung*) at the local authority.  
+- Obtain health insurance (mandatory in Germany).  
+- Open a German bank account.  
+- Contact the university’s International Office for assistance with visa, residence permits, and integration.  
 <br>
 <br>
-I found my apartment via contacts at my work and get the feeling that it often works in this way. Thus, reach out to your employer, colleagues, and people in general for help. When you search don't get too frustrated about the process. It is difficult to find something, and a bit of luck is required.
+---
 
-### 5) How German is it and how much German do you need?<br>
-Useful links:<br>
-1) [italki to find one on one teaching online](https://www.italki.com)<br>
-2) [German language courses at the University](https://uni-tuebingen.de/en/international/welcome-center/guide-for-international-researchers/german-language-courses/)
+## 3) What can you do in and around Jena?
 <br>
 <br>
-Tübingen is a beautiful German town which is visible everywhere. Sometimes you have to fill in more forms than you would want to and some shops prefer your payment in paper. However, these inconveniences are paid back through a very relaxing attitude and a very good vibe in town. People smile a lot and seem generally to be very content. Some bureaucratic processes in Germany can be a pain. Many Germans call it their collective national sport, which is only second to football/soccer. Yes, there is also a reason why Germany is the second best counted from the last place with respect to digitalization in Europe, you can thus expect a lot of printed forms upon arrival.
+**Useful links**  
+- [Kulturarena Festival](https://de.wikipedia.org/wiki/Kulturarena)  
+- [Zeiss Planetarium Jena](https://en.wikipedia.org/wiki/Zeiss-Planetarium_Jena)  
 <br>
 <br>
-When you work in science, German is not a requirement. However, some of the social life happens in German. Thus, it is good to learn it a bit, but many people like it a lot in Tübingen although they are not fluent.
+**Highlights**  
+Jena combines a strong academic atmosphere with a vibrant cultural life. The annual **Kulturarena** brings international music and theater to the city. The **Zeiss Planetarium**, the world’s oldest, is still in operation.  
 <br>
 <br>
-Depending on your residence status, you may be entitled to attend a so-called integration course which includes German language.
+Nature is never far away: the Saale valley and Thuringian Forest offer excellent hiking, cycling, and outdoor opportunities. Within the city, cafés, student clubs, and local bars create a welcoming social environment.  
+<br>
+<br>
+---
 
-### 6) How to calculate your income and what are the living costs? <br>
-Useful links:<br>
-1) [TV-L calculator](https://www.oeffentlichen-dienst.de/rechner/339-2022/3846-tv-l-2022.html)
+## 4) How to find an apartment in Jena?
 <br>
 <br>
-Living costs in Germany are currently increasing but your purchasing power is high in comparison. You can find shared housing from ~250-300 Euros per month to flats for yourself of ~70-150 sqm between ~700-1600 Euros per month. The food is good in quality and affordable, as are drinks. I pay about 75-150 Euros for food and drinks per week and I don’t check prices at all. I have a vegetarian diet and often buy biological products.
+**Options**  
+- Student housing via Studierendenwerk Thüringen (approx. €200–350/month).  
+- Shared apartments (*WG*) and private rentals via **WG-Gesucht** or local Facebook groups.  
+- Local newspapers and university message boards.  
+<br>
+<br>
+**Note**: Many private flats in Germany are rented **unfurnished**, sometimes without kitchens.  
+<br>
+<br>
+**Tip**: The market is competitive. Apply early and seek help from colleagues or university networks.  
+<br>
+<br>
+---
 
-### 7) What social support systems do exist?<br>
-
-You have all kinds of social support systems e.g., unemployment insurance, health care insurance and more. 
-
-### 8) What about family and child support as well as care?<br>
-Useful links:<br>
-1) [Family center for employees at the University](https://uni-tuebingen.de/en/international/welcome-center/guide-for-international-researchers/family-and-children/)
+## 5) How German is it, and how much German do you need?
 <br>
 <br>
-Generally, family support in Germany is fabulous. You get extra financial support and have the right to take up to 14 months of paid parental leave at 60% of your last salary after you/or your partner gave birth. As a family you can decide how you share this time. In addition, there is maternity leave to recover and prepare for giving birth (14 weeks) also the father gets some time. Day-care in Germany has a great quality. If you come with your family, your children are entitled to a place. However, at the moment it is very hard to find a place for your child, given the lack of emplyees for kindergardes and so called kitas. Thus you will have to apply early and quickly for your child. Usually it is for free, sometimes you pay about ~150-250 Euros per months. Food is provided to the children. There are international schools as well but not needed as public schools are of good quality in general. Schools are for free.
-
-### 9) How many vacation days do you have?<br>
-Useful links:<br>
-1) [Vacation guide and rules](https://www.simplegermany.com/vacation-days-in-germany/) 
+Academic life in Jena is highly international, and English is widely spoken in research contexts.  
+However, daily life and bureaucracy are primarily in German.  
 <br>
 <br>
-Germany is among the top5 countries when it comes to paid vacation days. Thus, there is plenty of time for leisure and fun. However, we will make work enjoyable as well. 
+Learning German is strongly recommended for smoother integration and participation in social life, though not strictly necessary for professional work. The University Language Centre offers courses for international researchers and students.  
+<br>
+<br>
+---
 
+## 6) How to calculate your income and what are the living costs?
+<br>
+<br>
+**Useful link**  
+- [Living costs in Jena](https://livingcost.org/cost)  
+<br>
+<br>
+Compared with cities such as Munich or Tübingen, living costs in Jena are about **half**, while academic salaries (TV-L) remain the same. This makes Jena attractive for young professionals and families.  
+<br>
+<br>
+
+**Estimates**  
+- Student residence: €200–350/month  
+- Private flat: €700–1,000+ depending on size and location  
+- University estimate: €750–900/month total for students (housing, food, transport, insurance, leisure)  
+<br>
+<br>
+Groceries are affordable, and public transport is efficient.  
+That said, housing prices may rise in the coming years as the Carl Zeiss Campus expands and the University attracts more researchers.  
+<br>
+<br>
+---
+
+## 7) Social support systems
+<br>
+<br>
+Germany has extensive social protection, including health insurance, unemployment insurance, pensions, and public healthcare.  
+The University also offers counselling and integration services for international researchers and students.  
+<br>
+<br>
+---
+
+## 8) Family and child support
+<br>
+<br>
+
+**Useful links**  
+- [Work-in-Jena: Family Support](https://www.work-in-jena.de/en/living-in-jena/family/)  
+- [City of Jena: Day-care fees and parental fee calculation](https://service.jena.de/en/day-care-fees-and-parental-fee-calculation)  
+<br>
+<br>
+
+**Overview**  
+- Parental leave: up to 14 months (shared between parents) at ~60% of last income.  
+- Kindergarten and childcare: high quality and affordable, though places are limited. Early application is essential.  
+- Public schools are free and of good quality. International schools exist but are rarely necessary.  
+<br>
+<br>
+---
+
+## 9) Vacation days
+<br>
+<br>
+Employees in Germany typically receive **25–30 paid vacation days per year**, in addition to public holidays.  
+This allows ample opportunity for travel, leisure, and family activities alongside professional responsibilities.  
+<br>
+<br>
+---
