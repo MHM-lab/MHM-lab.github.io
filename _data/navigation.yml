@@ -14,6 +14,9 @@ main:
   
   - title: "Join Us"
     url: /join_us/
+  
+  - title: "Moving to Jena"
+    url: /
  
   - title: "Privacy Policy"
     url: /privacy_policy/
