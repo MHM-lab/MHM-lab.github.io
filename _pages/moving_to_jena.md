@@ -2,7 +2,6 @@
 permalink: /moving_to_jena/
 title: "Moving to Jena"
 ---
-# Moving to Jena (Germany)
 
 ***Jena*** is a city of about 110,000 people, located close to Leipzig (~1h by train) and Berlin (~2h by train). This allows you to enjoy the cultural and social opportunities of larger cities while living in a quieter environment with fewer daily distractions.  
 
