@@ -3,7 +3,7 @@ permalink: /moving_to_jena/
 title: "Moving to Jena"
 ---
 
-***Jena in Germany*** is a city of about 110,000 people, located close to Leipzig (~1h by train) and Berlin (~2h by train). This allows you to enjoy the cultural and social opportunities of larger cities while living in a quieter environment with fewer daily distractions.  
+***Jena in Germany*** is a city of about 110,000 people, located close to Leipzig (~1h by train) and Berlin (~2.5h by train). This allows you to enjoy the cultural and social opportunities of larger cities while living in a quieter environment with fewer daily distractions.  
 
 Jena has a rich scientific and cultural heritage. It is the birthplace of the **planetarium** (the world’s first was built here) and of modern **optics** through Carl Zeiss. Fewer people know that the **EEG** was invented in Jena by Hans Berger, whose statue stands in front of the local Psychiatry department. In this sense, Jena played a pioneering role in **human brain mapping** and the functional investigation of the human mind.  
 
