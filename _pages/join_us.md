@@ -21,6 +21,8 @@ Our team has a strong track record of supporting early independence: two of thre
 <br>
 Join us if you are ready to take the next step in your research career.
 <br>
+Salary is E13 (100%), amounting to at least €3,000 net per month + yearly bonus. The salary is regulated in Germany and can be googled. Healthcare and other expenses are covered, leaving only living costs to you.
+<br>
 <br>
 
 ## HIWI positions & Master Internships
