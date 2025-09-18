@@ -10,7 +10,7 @@ All currently available PostDoc & PhD positions are listed here.
 
 ***PostDoc in [Jena](https://mhm-lab.github.io/moving_to_jena.md), Germany***
 <br>
-We are recruiting a Postdoctoral Researcher to [join our team in Jena]([Jena](https://mhm-lab.github.io/moving_to_jena.md)), Germany. Candidates should have strong expertise in neuroscience especially neuroimaging and machine learning, with a clear interest in [our research directions especially under selected publications](https://mhm-lab.github.io/research).
+We are recruiting a Postdoctoral Researcher to [join our team in Jena](https://mhm-lab.github.io/moving_to_jena.md), Germany. Candidates should have strong expertise in neuroscience especially neuroimaging and machine learning, with a clear interest in [our research directions especially under selected publications](https://mhm-lab.github.io/research).
 <br>
 The position, funded by the Carl Zeiss Foundation, offers the opportunity to develop your own research line, work toward independence, and receive dedicated support in applying for personal funding, while also contributing to team supervision. It starts with one year and can be extended up to five years (and beyond if appropriate).
 <br>
