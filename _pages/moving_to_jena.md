@@ -33,7 +33,7 @@ In addition to the University, several **Max Planck Institutes** and other non-u
 
 The city’s location facilitates strong collaborations: Leipzig (~1h), Dresden (~3h), and Berlin (~2.5h) are all within reach.  
 
-Carl Zeiss remains omnipresent. The **largest Carl Zeiss research campus worldwide** is currently being built in Jena. As Carl Zeiss Professor, I aim to foster strong collaborations, especially in machine learning.  
+Carl Zeiss remains omnipresent. For instance the largest [Carl Zeiss research campus worldwide](https://www.zeiss.de/corporate/ueber-zeiss/gegenwart/daten-fakten/zeiss-standorte/jena.html) is currently being built. As Carl Zeiss Professor, I aim to foster strong collaborations with the Carl Zeiss Foundation & Company, especially on relevant topics in machine learning.  
 
 ---
 
