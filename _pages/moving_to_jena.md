@@ -12,7 +12,7 @@ The University of Jena has been home to many [historical figures](https://www.un
 In essence, Jena is a place where **the discovery of the stars** (through Zeiss optics) and **the study of the brain** (through Berger’s EEG) intersect. At this intersection, magic happens, as consciousness ignites the universe — making it the perfect home for our laboratory.  
 
 Below you will find practical information about moving to **Jena** and Germany.  
-If you would like to suggest additional information, please contact: [dr.thomas.wolfers@gmail.com](mailto:dr.thomas.wolfers@gmail.com).
+If you would like to suggest additional information, please [contact me](mailto:dr.thomas.wolfers@gmail.com).
 
 ---
 
