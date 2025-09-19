@@ -93,9 +93,9 @@ Learning German is recommended for smoother integration into social life, though
 ## 6) How to calculate your income and what are the living costs?
 
 **Useful link**  
-- [Living costs in Jena](https://livingcost.org/cost)
+- [Living costs in Jena](https://livingcost.org/cost) > As a fan of data-driven decisions, I find this tool invaluable: it gives a good sense of life in a place. Ideally, you want low living costs and high salaries—and Jena offers this better than anywhere else in Germany. Add reliable daycare, strong social services, and an efficient local government, and it’s clear why Jena stands out in both Germany and Thuringia.
 
-Compared with cities such as Munich or Tübingen, living costs in Jena are about **half**, while academic salaries (TV-L) remain the same. This makes Jena attractive for young professionals and families.  
+Compared with cities such as Munich or Tübingen, living costs in Jena are about **half** while avarage salaries are about the same or highee higher (see tool above), and academic salaries (TV-L) remain the same. This makes Jena attractive for young professionals and families.  
 
 **Estimates**  
 - Student residence: €200–350/month  
