@@ -5,11 +5,11 @@ title: "Moving to Jena"
 
 ***Jena in Germany*** is a city of about 110,000 people, located close to Leipzig (~1h by train) and Berlin (~2.5h by train). This allows you to enjoy the cultural and social opportunities of larger cities while living in a quieter environment with fewer daily distractions.  
 
-Jena has a rich scientific and cultural heritage. It is the birthplace of **the planetarium** and modern optics through Carl Zeiss. Fewer know that **the EEG** was invented here by Hans Berger—himself a problematic figure during the NS regime, reminding us that scientific achievement does not guarantee moral integrity. In this sense, Jena was also a pioneer in ***human brain mapping*** and the study of the human mind.
+Jena has a rich scientific and cultural heritage. It is the birthplace of **the planetarium** and of **modern optics** through Carl Zeiss. Less well known is that the **electroencephalogram (EEG)** was invented here by Hans Berger - a problematic figure during the Nazi regime, reminding us that scientific achievement does not ensure moral integrity. Still, his work on functional brain recordings made Jena a pioneer in **human brain mapping** and the study of the human mind.
 
 The University of Jena has been home to many [historical figures](https://www.uni-jena.de/en/109868/famous-university-teachers-and-students-from-the-history-of-the-university-of-jena-selection), including the first [female professor at a German university](https://www.uni-jena.de/en/213543/the-first-female-professor-at-a-german-university). The city has ties to the [Humboldts](https://communities.springernature.com/posts/humboldt-s-living-legacy-in-jena-germany), and his intellectual and cultural spirit is still felt today. Nearby Weimar, the birthplace of Germany’s first democracy, and [Buchenwald](https://www.buchenwald.de/en/geschichte/chronologie/konzentrationslager), a stark reminder of its collapse and what followed, provide important historical lessons that remain relevant.  
 
-In essence, Jena is a place where **the discovery of the stars** (through Zeiss optics) and **the study of the brain** (through Berger’s EEG) emerged and intersected. At this intersection, magic unfolds, as consciousness illuminates the universe.
+In essence, Jena is a place where **the discovery of the stars** (through optics) and **the study of the brain** (through EEG) emerged and intersected. At this intersection, magic unfolds, as consciousness illuminates the universe.
 
 Below you will find practical information about moving to **Jena** and Germany.  
 If you would like to suggest additional information, please [contact me](mailto:dr.thomas.wolfers@gmail.com).
