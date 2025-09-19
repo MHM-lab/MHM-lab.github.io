@@ -83,8 +83,7 @@ Nature is never far away: the Saale valley and Thuringian Forest offer excellent
 
 ## 5) How German is it, and how much German do you need?
 
-Academic life in Jena is highly international, and English is widely spoken in research contexts.  
-However, daily life and bureaucracy are primarily in German.  
+Academic life in Jena is highly international, and English is widely spoken in research contexts. However, daily life and bureaucracy are primarily in German.  
 
 Learning German is recommended for smoother integration into social life, though not required for work in the laboratory. Jena has a strong international community, and nearby Leipzig and Berlin offer even larger international networks. The University Language Centre provides language courses for researchers and students.
 
@@ -95,7 +94,7 @@ Learning German is recommended for smoother integration into social life, though
 **Useful link**  
 - [Living costs in Jena](https://livingcost.org/cost) > As a fan of data-driven decisions, I find this tool invaluable: it gives a good sense of life in a place. Ideally, you want low living costs and high salaries—and Jena offers this better than anywhere else in Germany. Add reliable daycare, strong social services, and an efficient local government, and it’s clear why Jena stands out in both Germany and Thuringia.
 
-Compared with cities such as Munich or Tübingen, living costs in Jena are about **half** while avarage salaries are about the same or higher (see tool above), and academic salaries (TV-L) remain the same. This makes Jena attractive for young professionals and families.  
+Compared with cities such as Munich or Tübingen, living costs in Jena are about **half** while avarage salaries are about the same or higher (see tool above), and academic salaries (TV-L) remain about the same. This makes Jena attractive for young professionals and families.  
 
 **Estimates**  
 - Student residence: €200–350/month  
@@ -121,14 +120,13 @@ Germany has extensive social protection, including health insurance, unemploymen
 
 **Overview**  
 - Parental leave: up to 14 months (shared between parents) at ~60% of last income.  
-- Kindergarten and childcare: high quality and affordable. We got three offers from different palces all were excellent! Our kids love it large gardens and very nice daycare workforce.
+- Kindergarten and childcare: high quality and affordable. We got three offers from different palces all were excellent! Our kids love it, large gardens and very nice daycare workforce.
 - Public schools are free and of good quality. International schools exist but are rarely necessary.  
 
 ---
 
 ## 9) Vacation days
 
-Employees in Germany typically receive **25–30 paid vacation days per year**, in addition to public holidays.  
-This allows ample opportunity for travel, leisure, and family activities alongside professional responsibilities.  
+Employees in Germany typically receive **25–30 paid vacation days per year**, in addition to public holidays. This allows ample opportunity for travel, leisure, and family activities alongside professional responsibilities.  
 
 ---
