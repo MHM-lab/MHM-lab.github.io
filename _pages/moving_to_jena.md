@@ -92,10 +92,8 @@ Learning German is recommended for smoother integration into social life, though
 ## 6) How to calculate your income and what are the living costs?
 
 **Useful link**  
-- [Living costs in Jena](https://livingcost.org/cost) > As a fan of data-driven decisions, I find this tool invaluable: it gives a good sense of life in a place. Ideally, you want low living costs and high salaries—and Jena offers this better than anywhere else in Germany. Add reliable daycare, strong social services, and an efficient local government, and it’s clear why Jena stands out in both Germany and Thuringia.
-
-Compared with cities such as Munich or Tübingen, living costs in Jena are about **half** while avarage salaries are about the same or higher (see tool above), and academic salaries (TV-L) remain about the same. This makes Jena attractive for young professionals and families.  
-
+- [Living costs in Jena](https://livingcost.org/cost) > As someone who values data-driven decisions, I find this tool very useful—it gives a reasonable picture of life in a place. What really matters are median living costs and median salaries, since medians aren’t distorted by a few extremely high incomes (unfortunatly the tool only offers averages but a good approximation non-the-less). In my view, a city with high living standards for the many -not just the few- offers the best quality of life. By that measure, Jena is exceptional: living costs are roughly half those in cities like Munich or Tübingen, while average salaries are comparable or even higher (see tool above). Add reliable daycare, strong social services, healthcare, efficient local government, and affordable meeting places that bring people together (e.g. libaries that cater to all the young & old, differences in cultures & background), and you get a city that minimizes disparity and polarization. A city or town is, in many ways, like an organism-thriving when it has a healthy mix of people and functions. That’s why Jena stands out in both Germany and Thuringia, and why it’s especially attractive for young professionals and families.
+- 
 **Estimates**  
 - Student residence: €200–350/month  
 - Private flat: €700–1,000+ depending on size and location  
