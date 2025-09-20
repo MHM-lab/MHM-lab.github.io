@@ -5,7 +5,7 @@ title: "Use of LLMs"
 
 Large Language Models (LLMs) can be useful for structuring ideas, drafting text, or refining language. At the same time, they raise important questions of **academic integrity, transparency, and accountability**.  
 <br>
-We take a balanced view: LLMs can improve performance and help democratize science—for example, by reducing barriers for researchers whose first language is not English. They also help manage increasing demands on researchers; major conferences now receive 20,000+ submissions, making review workloads extremely high. Still, all **scientific content must remain human-authored**, and in our lab, LLMs are limited to editing and support roles.  
+We take a balanced view: LLMs can improve performance and help democratize science—for example, by reducing barriers for researchers whose first language is not English. They also help manage increasing demands on researchers; major conferences now receive 20,000+ submissions, making review workloads extremely high. Still, all scientific content must remain human-authored, and in our lab, LLMs are limited to editing and support roles.  
 <br>
 Below are the concrete rules I apply to myself and encourage my students and employees to follow as well:  
 
