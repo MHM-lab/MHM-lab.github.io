@@ -70,6 +70,9 @@ Nature is never far away: the Saale valley and Thuringian Forest offer excellent
 
 ## 4) How to find an apartment in Jena?
 
+**Useful Links**
+- [Info From University & Links to Find Housing](https://www.uni-jena.de/en/59378/finding-an-accomodation-in-jena)
+
 **Options**  
 - Student housing via Studierendenwerk Thüringen (approx. €200–350/month).  
 - Shared apartments (*WG*) and private rentals via **WG-Gesucht** or local Facebook groups.  
@@ -92,7 +95,7 @@ Learning German is recommended for smoother integration into social life, though
 ## 6) How to calculate your income and what are the living costs?
 
 **Useful link**  
-- [Living costs in Jena](https://livingcost.org/cost) > As someone who values data-driven decisions, I find this tool very useful. It provides a reasonable picture of life in a place. What really matters are median living costs and median salaries + median return on capital per capita, since medians aren’t distorted by a few extremely high incomes (unfortunatly the tool only offers averages but a good approximation non-the-less). In my view, a city with high living standards for the many -not just the few- offers the best quality of life. By that measure, Jena is exceptional: living costs are roughly half those in cities like Munich or Tübingen, while average salaries are comparable or even higher (see tool above). Add reliable daycare, strong social services, healthcare, efficient local government, and affordable meeting places that bring people together (e.g. libaries that cater to all the young & old, differences in cultures & background), and you get a city that minimizes disparity and polarization. A city or town is, in many ways, like an organism-thriving when it has a healthy mix of people and functions. That’s why Jena stands out in both Germany and Thuringia, and why it’s especially attractive for young professionals and families.
+- [Living costs in Jena](https://livingcost.org/cost) > As someone who values data-driven decisions, I find this tool very useful. It provides a reasonable picture of life in a place. What really matters are (basket based) living costs and median salaries + median return on capital per capita, since medians aren’t distorted by a few extremely high incomes (unfortunatly the tool only offers averages and not all relevant infos but a good approximation non-the-less). In my view, a city with high living standards for the many -not just the few- offers the best quality of life. By that measure, Jena is exceptional: living costs are roughly half those in cities like Munich or Tübingen, while average salaries are comparable or even higher (see tool above). Add reliable daycare, strong social services, healthcare, efficient local government, and affordable meeting places that bring people together (e.g. libaries that cater to all the young & old, differences in cultures & background), and you get a city that minimizes disparity and polarization. A city or town is, in some ways, like an organism-thriving when it has a healthy mix of people and functions. That’s why Jena stands out in both Germany and Thuringia, and why it’s especially attractive for young professionals and families.
 
 **Estimates**  
 - This is a useful TV-L [calculator](https://oeffentlicher-dienst.info/c/t/rechner/tv-l/west?id=tv-l-2025).
