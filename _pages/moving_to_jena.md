@@ -44,7 +44,7 @@ Jena is a lively city that supports its residents. We managed all city-related p
 **Useful links**  
 - [University of Jena: Living in Jena](https://www.uni-jena.de/en/1965/living-in-jena) 
 - [Work-in-Jena Guide](https://www.work-in-jena.de/en/living-in-jena/)  
-- [City of Jena: Welcome Center](https://welcome.jena.de/en/)  
+- [City of Jena: Welcome Center](https://neu.jena.de/en/node/51) 
 
 **First steps after arrival**  
 - Register your residence (*Anmeldung*).  
@@ -94,12 +94,7 @@ Academic life is highly international, and English is widely spoken in research.
 - [Numbeo: Cost of Living Jena](https://www.numbeo.com/cost-of-living/in/Jena)  
 
 **Estimates**  
-- Student residence: €200–350/month 
-- Private flat: €700–1,000+  
-- University estimate: €750–900/month total for students  
-- Groceries and public transport: affordable and reliable  
-
-See Living costs in Jena for a data-driven overview. What matters most are living costs and median salaries (unfortunately averages are only provided by the tool but a good approximation anyways), which reflect conditions for the many rather than a few top earners. By this measure, Jena stands out: costs are roughly half those in Munich or Tübingen, while salaries are comparable or higher. Add reliable daycare, strong social services, healthcare, efficient local government, and affordable public spaces, and you get a city that thrives on balance—making it especially attractive for young professionals and families.
+Living costs in Jena for a data-driven overview. What matters most are living costs and median salaries, which reflect conditions for the many rather than a few top earners. By this measure, Jena stands out: costs are roughly half those in Munich or Tübingen, while salaries are comparable or higher. Add reliable daycare, strong social services, healthcare, efficient local government, and affordable public spaces, and you get a city that thrives on balance — making it especially attractive for young professionals and families.
 
 ---
 
