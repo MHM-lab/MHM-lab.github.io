@@ -19,39 +19,38 @@ If you would like to suggest additional information, please [contact me](mailto:
 ## 1) How is the research environment in Jena?
 
 **Useful links**  
-1. [University of Jena: Research Environment](https://www.jenaversum.de/jenaversum/research/?lang=en)  
-2. [JenaWirtschaft: Research strengths](https://www.jenawirtschaft.de/en/location/research/)  
+- [University of Jena: Research Environment](https://www.jenaversum.de/jenaversum/research/?lang=en)  
+- [JenaWirtschaft: Research strengths](https://www.jenawirtschaft.de/en/location/research/)
 
 **Overview**  
-Jena offers an internationally recognized research environment with strengths in **optics and photonics, life and health sciences, biodiversity, materials and energy, and climate research**.  
+Jena offers an internationally recognized research environment with strengths in **optics & photonics, life & health sciences, biodiversity, materials & energy, and climate research**.  
 
-The Friedrich Schiller University Jena holds the [HR Excellence in Research Award](https://www.uni-jena.de/en/243628/hr-excellence-in-research-award). Two Clusters of Excellence further strengthen the research environment.  
+The Friedrich Schiller University Jena holds the [HR Excellence in Research Award](https://www.uni-jena.de/en/243628/hr-excellence-in-research-award). Two Clusters of Excellence further strengthen the research landscape.  
 
-The University of Jena is a site of the **German Center for Mental Health**. My professorship bridges the University and the University Hospital, and I hold a PI position in the Center.  
+The University is a site of the **German Center for Mental Health**. My professorship bridges the University and University Hospital, where I am also a PI.  
 
-In addition to the University, several **Max Planck Institutes** and other non-university research centers contribute to a highly interdisciplinary ecosystem.  
+Several **Max Planck Institutes**, **Leibniz institutes**, and **Fraunhofer institutes** contribute to an interdisciplinary ecosystem.  
 
-The city’s location facilitates strong collaborations: Leipzig (~1h), Dresden (~3h), and Berlin (~2.5h) are all within reach.  
-
-Carl Zeiss remains omnipresent. For instance the largest [Carl Zeiss research campus worldwide](https://www.zeiss.de/corporate/ueber-zeiss/gegenwart/daten-fakten/zeiss-standorte/jena.html) is currently being built. As Carl Zeiss Professor, I aim to foster strong collaborations with the Carl Zeiss Foundation & Company, especially on relevant topics in machine learning.  
+Carl Zeiss remains omnipresent. The largest [Carl Zeiss research campus worldwide](https://www.zeiss.de/corporate/ueber-zeiss/gegenwart/daten-fakten/zeiss-standorte/jena.html) is currently being built. As Carl Zeiss Professor, I aim to foster strong collaborations with the Carl Zeiss Foundation & Company, especially on machine learning and data-driven science.  
 
 ---
 
 ## 2) Getting started in Jena
 
-Compared to other cities we have lived in, it was relatively easy to settle here. Housing can be competitive but manageable, and the daycare infrastructure is excellent. Our children enjoy attending *Kita* until late afternoon, which makes balancing work and family life much easier.  
+Housing can be competitive but manageable, and the daycare infrastructure is excellent. Our children enjoy attending *Kita* until late afternoon, which makes balancing work and family life much easier.  
 
-Jena is a lively city that actively supports its residents. For example, we managed all city-related paperwork **online**, received an appointment the same day, and completed everything within three hours - an experience almost unheard of in Germany.  
+Jena is a lively city that supports its residents. We managed all city-related paperwork **online**, received an appointment the same day, and completed everything within hours – almost unheard of in Germany.  
 
 **Useful links**  
-- [University of Jena: Living in Jena](https://www.uni-jena.de/en/1965/living-in-jena)  
+- [University of Jena: Living in Jena](https://www.uni-jena.de/en/1965/living-in-jena) 
 - [Work-in-Jena Guide](https://www.work-in-jena.de/en/living-in-jena/)  
+- [City of Jena: Welcome Center](https://welcome.jena.de/en/)  
 
 **First steps after arrival**  
-- Register your residence (*Anmeldung*) at the local authority.  
+- Register your residence (*Anmeldung*).  
 - Obtain health insurance (mandatory in Germany).  
 - Open a German bank account.  
-- Contact the university’s International Office for assistance with visa, residence permits, and integration.  
+- Contact the university’s International Office for visa and residence permits.  
 
 ---
 
@@ -59,59 +58,54 @@ Jena is a lively city that actively supports its residents. For example, we mana
 
 **Useful links**  
 - [Kulturarena Festival](https://de.wikipedia.org/wiki/Kulturarena)  
-- [Zeiss Planetarium Jena](https://en.wikipedia.org/wiki/Zeiss-Planetarium_Jena)  
+- [Zeiss Planetarium Jena](https://planetarium-jena.de/)  
+- many more
 
 **Highlights**  
-Jena combines a strong academic atmosphere with a vibrant cultural life. The annual **Kulturarena** brings international music and theater to the city. The **Zeiss Planetarium**, the world’s oldest, is still in operation.  
-
-Nature is never far away: the Saale valley and Thuringian Forest offer excellent hiking, cycling, and outdoor opportunities. Within the city, cafés, student clubs, and local bars create a welcoming social environment.  
+- Annual **Kulturarena** with international music and theater.  
+- The **Zeiss Planetarium**, the oldest in the world still in operation.  
+- Saale valley and Thuringian Forest for hiking, cycling, and outdoor activities.  
+- A lively student scene with cafés, clubs, and cultural venues.  
 
 ---
 
 ## 4) How to find an apartment in Jena?
 
-**Useful Links**
-- [Infos University & Links Housing](https://www.uni-jena.de/en/59378/finding-an-accomodation-in-jena)
+**Useful links**  
+- [University: Housing information](https://www.uni-jena.de/en/59378/finding-an-accomodation-in-jena)  
+- [WG-Gesucht (Shared flats)](https://www.wg-gesucht.de/en/)  
+- [Studierendenwerk Thüringen: Student Housing](https://www.stw-thueringen.de/en/housing/)  
 
-**Options**  
-- Student housing via Studierendenwerk Thüringen. 
-- Shared apartments (*WG*) and private rentals via **WG-Gesucht** or local Facebook groups.  
-- Local newspapers and university message boards and online offers foe appartments and houses.
-- "Stiftungen" such as thw Ernst Abbe Stiftung
-
-**Note**: Many private flats in Germany are rented **unfurnished**, sometimes without kitchens.  
-
-**Tip**: The market is competitive. Apply early and seek help from colleagues or university networks.  
+**Note**: Many private flats are rented **unfurnished**, sometimes without kitchens. Apply early and use university networks.  
 
 ---
 
 ## 5) How German is it, and how much German do you need?
 
-Academic life in Jena is highly international, and English is widely spoken in research contexts. However, daily life and bureaucracy are primarily in German.  
-
-Learning German is recommended for smoother integration into social life, though not required for work in the laboratory. Jena has a strong international community, and nearby Leipzig and Berlin offer even larger international networks. The University Language Centre provides language courses for researchers and students.
+Academic life is highly international, and English is widely spoken in research. However, daily life and bureaucracy are primarily in German. Learning German helps with integration and social life. The University Language Centre offers free or affordable courses for researchers and students.  
 
 ---
 
 ## 6) How to calculate your income and what are the living costs?
 
-**Useful link**  
-- [Living costs in Jena](https://livingcost.org/cost) > As someone who values data-driven decisions, I find this tool very useful. It provides a reasonable picture of life in a place. What really matters are (basket based) living costs and median salaries + median return on capital per capita, since medians aren’t distorted by a few extremely high incomes (unfortunatly the tool only offers averages and not all relevant infos but a good approximation non-the-less). In my view, a city with high living standards for the many -not just the few- offers the best quality of life. By that measure, Jena is exceptional: living costs are roughly half those in cities like Munich or Tübingen, while average salaries are comparable or even higher (see tool above). Add reliable daycare, strong social services, healthcare, efficient local government, and affordable meeting places that bring people together (e.g. libaries that cater to all the young & old, differences in cultures & background), and you get a city that minimizes disparity and polarization. A city or town is, in some ways, like an organism-thriving when it has a healthy mix of people and functions. That’s why Jena stands out in both Germany and Thuringia, and why it’s especially attractive for young professionals and families.
+**Useful links**  
+- [Living costs in Jena](https://livingcost.org/cost)  
+- [TV-L Salary Calculator](https://oeffentlicher-dienst.info/c/t/rechner/tv-l/west?id=tv-l-2025)  
+- [Numbeo: Cost of Living Jena](https://www.numbeo.com/cost-of-living/in/Jena)  
 
 **Estimates**  
-- This is a useful TV-L [calculator](https://oeffentlicher-dienst.info/c/t/rechner/tv-l/west?id=tv-l-2025).
 - Student residence: €200–350/month  
-- Private flat: €700–1,000+ depending on size and location  
-- University estimate: €750–900/month total for students (housing, food, transport, insurance, leisure)  
+- Private flat: €700–1,000+  
+- University estimate: €750–900/month total for students  
+- Groceries and public transport: affordable and reliable  
 
-Groceries are affordable, and public transport is efficient.  
-That said, housing prices may rise in the coming years as the Carl Zeiss Campus expands and the University attracts more researchers.  
+Jena combines low living costs with high salaries compared to other German university cities. This balance, combined with strong social services, makes it especially attractive for young professionals and families.  
 
 ---
 
 ## 7) Social support systems
 
-Germany has extensive social protection, including health insurance, unemployment insurance, pensions, and public healthcare. All that comes with your employment and is automatically taken care of. The University also offers counselling and integration services for international researchers and students.  
+Germany provides comprehensive social protection: health insurance, unemployment insurance, pensions, and public healthcare – automatically covered through employment. The University also offers counselling, mentoring, and integration services for international staff and students.  
 
 ---
 
@@ -119,17 +113,16 @@ Germany has extensive social protection, including health insurance, unemploymen
 
 **Useful links**  
 - [Work-in-Jena: Family Support](https://www.work-in-jena.de/en/living-in-jena/family/)  
-- [City of Jena: Day-care fees and parental fee calculation](https://service.jena.de/en/day-care-fees-and-parental-fee-calculation)  
+- [City of Jena: Day-care & parental fees](https://service.jena.de/en/day-care-fees-and-parental-fee-calculation)  
+- [Kindergeld (Federal Family Benefits Office)](https://www.arbeitsagentur.de/familie-und-kinder/kindergeld)  
 
 **Overview**  
-- Parental leave: up to 14 months (shared between parents) at ~60% of last income.  
-- Kindergarten and childcare: high quality and affordable. We got three offers from different palces all were excellent! Our kids love it, large gardens and very nice daycare workforce.
-- Public schools are free and of good quality. International schools exist but are rarely necessary.  
+- Parental leave: up to 14 months at ~60% of last income.  
+- Kindergarten and childcare: affordable, high quality (most with gardens and well-trained staff).  
+- Public schools: free and good. International schools exist in nearby cities but are usually unnecessary.  
 
 ---
 
 ## 9) Vacation days
 
-Employees in Germany typically receive **25–30 paid vacation days per year**, in addition to public holidays. This allows ample opportunity for travel, leisure, and family activities alongside professional responsibilities.  
-
----
+Employees in Germany typically receive **25–30 paid vacation days per year**, plus public holidays - leaving ample time for travel, leisure, and family.  
