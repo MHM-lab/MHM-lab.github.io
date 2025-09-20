@@ -31,7 +31,7 @@ The University is a site of the **German Center for Mental Health**. My professo
 
 Several **Max Planck Institutes**, **Leibniz institutes**, and **Fraunhofer institutes** contribute to an interdisciplinary ecosystem.  
 
-Carl Zeiss remains omnipresent. The largest [Carl Zeiss research campus worldwide](https://www.zeiss.de/corporate/ueber-zeiss/gegenwart/daten-fakten/zeiss-standorte/jena.html) is currently being built. As Carl Zeiss Professor, I aim to foster strong collaborations with the Carl Zeiss Foundation & Company, especially on machine learning and data-driven science.  
+Carl Zeiss remains omnipresent. The largest [Carl Zeiss research campus worldwide](https://www.zeiss.de/corporate/ueber-zeiss/gegenwart/daten-fakten/zeiss-standorte/jena.html) is currently being built. As Carl Zeiss Professor, I aim to foster strong collaborations with the Carl Zeiss Foundation & Company, especially on relevant topics in machine learning.  
 
 ---
 
