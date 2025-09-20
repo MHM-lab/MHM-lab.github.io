@@ -3,18 +3,17 @@ permalink: /use_LLMs/
 title: "Use of LLMs"
 ---
 
-Large Language Models (LLMs) can be useful for structuring ideas, drafting text, or refining language. At the same time, they raise important questions of academic integrity, transparency, and accountability.  
+Large Language Models (LLMs) can be useful for structuring ideas or refining language. At the same time, they raise important questions of academic integrity, transparency, and accountability.  
 <br>
-We take a balanced view: LLMs can improve performance and help democratize science—for example, by reducing barriers for researchers whose first language is not English. They also help manage increasing demands on researchers as major conferences now receive 20,000+ submissions, making review workloads extremely high. Still, all scientific content must remain human-authored, and in our lab, LLMs are limited to editing and support roles.  
+We take a balanced view: LLMs can be helpful for editing, sketching ideas, coding and more, they also reduce barriers for researchers whose first language is not English. In addition they help manage increasing demands on researchers as major conferences now receive 20,000+ submissions, making review workloads extremely high. In our lab, LLMs are limited to editing and support roles.  
 <br>
 Below are the concrete rules I apply to myself and encourage my students and employees to follow as well:  
 
 ---
 
-## 1. Students & PhD Students  
+## 1. Students & PhD Candidats 
 
 - **Permitted**: Brainstorming, outlining, and language polishing.<br>
-- **Not permitted**: Submitting AI-generated text, code, or analysis as original work. All scientific contributions must be your own.<br>
 - **Compliance**: Students must follow the regulations of their program or graduate school, share these with the PI/supervisor, and ensure they are respected. <br>
 
 ---
@@ -31,6 +30,7 @@ Below are the concrete rules I apply to myself and encourage my students and emp
 
 - **Permitted**: Language editing of reviews.<br>
 - **Not permitted**: Sharing unpublished manuscripts with external tools or using AI to generate judgments.<br> 
-- **Compliance**: Review practices must follow the rules of the respective journal or conference, as (hopefully) provided during the review invitation.<br>
+- **Compliance**: Review practices must follow the rules of the respective journal or conference, as (hopefully) provided during the review invitation.
+<br>
 <br>
 This determinantion maybe subject to changes as the field and respective regulations evolve further.
