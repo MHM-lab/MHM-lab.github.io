@@ -71,12 +71,13 @@ Nature is never far away: the Saale valley and Thuringian Forest offer excellent
 ## 4) How to find an apartment in Jena?
 
 **Useful Links**
-- [Info From University & Links to Find Housing](https://www.uni-jena.de/en/59378/finding-an-accomodation-in-jena)
+- [Infos University & Links Housing](https://www.uni-jena.de/en/59378/finding-an-accomodation-in-jena)
 
 **Options**  
-- Student housing via Studierendenwerk Thüringen (approx. €200–350/month).  
+- Student housing via Studierendenwerk Thüringen. 
 - Shared apartments (*WG*) and private rentals via **WG-Gesucht** or local Facebook groups.  
-- Local newspapers and university message boards.  
+- Local newspapers and university message boards and online offers foe appartments and houses.
+- "Stiftungen" such as thw Ernst Abbe Stiftung
 
 **Note**: Many private flats in Germany are rented **unfurnished**, sometimes without kitchens.  
 
