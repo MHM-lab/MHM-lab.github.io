@@ -99,7 +99,7 @@ I hold a PhD in Statistical Neuroimaging from Radboud University Medical Center 
 ## Join Us
 <img align="left" src="https://mhm-lab.github.io/images/joinus_pic.jpg" width="150 px" style="padding: 10px"> <br>
 We’re always looking for motivated individuals to join our team! Check current opportunities [here](https://mhm-lab.github.io/join_us/). If no positions are listed, feel free to reach out to inquire about future openings.
-<br><br><br><br>
+<br><br><br>
 
 Read our [lab’s policy on the use of Large Language Models (LLMs)](https://mhm-lab.github.io/use_LLMs/).
 
