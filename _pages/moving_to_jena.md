@@ -91,9 +91,10 @@ Academic life is highly international, and English is widely spoken in research.
 **Useful links**  
 - [Living costs in Jena](https://livingcost.org/cost)  
 - [TV-L Salary Calculator](https://oeffentlicher-dienst.info/c/t/rechner/tv-l/west?id=tv-l-2025)  
-- [Numbeo: Cost of Living Jena](https://www.numbeo.com/cost-of-living/in/Jena)  
+- [Numbeo: Cost of Living Jena](https://www.numbeo.com/cost-of-living/in/Jena)
 
-You can calculate the [Living costs in Jena](https://www.numbeo.com/cost-of-living/in/Jena)for a data-driven overview. What matters most are living costs and median salaries + median return on capital, which reflect conditions for the many rather than a few top earners. By this measure, Jena stands out: costs are roughly half those in Munich or Tübingen, while salaries are comparable or higher. Add reliable daycare, strong social services, healthcare, efficient local government, and affordable public spaces, and you get a city that thrives on balance — making it especially attractive for young professionals and families. As a disclaimer the tool only offers average salaries, which provide a rough estimate. The distribution, however, is likely heavily skewed.
+
+  You can calculate the [Living costs in Jena](https://www.numbeo.com/cost-of-living/in/Jena) for a data-driven overview. What matters most are living costs and median salaries + median return on capital, which reflect conditions for the many rather than a few top earners. By this measure, Jena stands out: costs are roughly half those in Munich or Tübingen, while salaries are comparable or higher. Add reliable daycare, strong social services, healthcare, efficient local government, and affordable public spaces, and you get a city that thrives on balance — making it especially attractive for young professionals and families. As a disclaimer the tool only offers average salaries, which provide a rough estimate. The distribution, however, is likely heavily skewed.
 ---
 
 ## 7) Social support systems
