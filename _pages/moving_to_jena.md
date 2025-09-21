@@ -94,6 +94,16 @@ Academic life is highly international, and English is widely spoken in research.
 - [Numbeo: Cost of Living Jena](https://www.numbeo.com/cost-of-living/in/Jena)
   
 ***You can check living costs in Jena for a data-driven overview***. What matters are living costs, median salaries, and returns on capital—figures that reflect conditions for most people, not just top earners. By this measure, Jena stands out: costs are about half of Munich or Tübingen, while salaries are comparable or higher. Add reliable daycare, strong social services, healthcare, efficient local government, and affordable public spaces, and you get a city that thrives on balance—especially attractive for young professionals and families. Disclaimer: the tool reports average salaries, which are only rough estimates and likely based on skewed data.
+<br> 
+<br>
+Before moving to Jena, I compared 100 cities using the tool above. Nowhere else did I find a better trade-off between income and living costs. For example:
+	•	$1,000 in Jena ≈ ~$4,000 in New York, ~$2,000 in Munich, ~$1,400 in Rome.
+	•	With Jena’s average income of about ~$3,600, that translates to roughly:
+	•	$14,400 in New York
+	•	$7,200 in Munich
+	•	$5,040 in Rome
+
+Add free healthcare and social services on top, and you get a strong measure of quality of life for the many - not just the few.
 
 ---
 
