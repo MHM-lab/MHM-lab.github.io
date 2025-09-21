@@ -7,7 +7,7 @@ Large Language Models (LLMs) can be useful for structuring ideas or refining lan
 <br>
 We take a balanced view: LLMs can be helpful for editing, sketching ideas, coding and more, they also reduce barriers for researchers whose first language is not English. In addition they help manage increasing demands on researchers as major conferences now receive 20,000+ submissions, making review workloads extremely high. In our lab, LLMs are limited to editing and support roles.  
 <br>
-Below are the concrete rules I apply to myself and encourage my students and employees to follow as well:  
+Below are the concrete and specific determinations:  
 
 ---
 
