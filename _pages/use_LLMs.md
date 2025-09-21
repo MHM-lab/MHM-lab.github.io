@@ -11,10 +11,10 @@ Below are concrete and specific determinations:
 
 ---
 
-## 1. Students & PhD Candidats 
+## 1. Students & PhD Candidates 
 
 - **Permitted**: Brainstorming, outlining, and language polishing.<br>
-- **Compliance**: Students must follow the regulations of their program or graduate school, share these with the PI/supervisor, and ensure they are respected. <br>
+- **Compliance**: Students and PhD Candidates must follow the regulations of their program or graduate school, share these with the PI/supervisor, and ensure they are respected. <br>
 
 ---
 
