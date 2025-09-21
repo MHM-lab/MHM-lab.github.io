@@ -29,7 +29,7 @@ We focus on ***narrow AI-systems*** designed to solve concrete problems, rather 
 In dominance hierarchies, individuals with lower moral standards often rise disproportionately. Psychopaths, for instance, make up ~1% of the general population but are estimated at up to ~20% in positions of power, as history and many current world leaders illustrate. Those who bind themselves to ethical principles, e.g. Kant’s, are less competitive in such struggles, unless they can compensate, for instance, with extraordinary intelligence. If we impose strict guardrails on some AI systems, ethical systems, while others remain unconstrained, the unconstrained ones may dominate, especially as intelligence across systems will converge over time. Since I see no evidence that higher intelligence correlates with ethical action, this looks like an unsolvable problem. Please convince me otherwise.
 <br>
 <br>
-Our lab works on narrow AI that hopefully helps people, while also developing better tools to understand AI. Whether "general AI" is possible remains an open question — but not one I have any interest in pursuing.
+Our lab works on narrow AI that hopefully helps people either now or in the future, while also developing better tools to understand AI. Whether "general AI" is possible remains an open question — but not one I have any interest in pursuing.
 <br>
 <br>
-Large Language Models (LLMs) are currently still one such narrow AI application, despite claims to the opposite, and a useful tool! Here is our [lab’s policy on the use of LLMs](https://mhm-lab.github.io/use_LLMs/).
+Large Language Models (LLMs) are currently still a narrow AI application, despite claims to the contrary, and a useful tool! Here is our [lab’s policy on the use of LLMs](https://mhm-lab.github.io/use_LLMs/).
