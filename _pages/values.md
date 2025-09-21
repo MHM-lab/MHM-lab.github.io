@@ -32,4 +32,4 @@ In dominance hierarchies, individuals with lower moral standards often rise disp
 Our lab works on narrow AI that hopefully helps people, while also developing better tools to understand AI. Whether "general AI" is possible remains an open question — but not one I have any interest in pursuing.
 <br>
 <br>
-Large Language Models (LLMs) are one such narrow AI application and a useful tool! Here is our [lab’s policy on the use of LLMs](https://mhm-lab.github.io/use_LLMs/).
+Large Language Models (LLMs) are currently still one such narrow AI application, despite claims to the opposite, and a useful tool! Here is our [lab’s policy on the use of LLMs](https://mhm-lab.github.io/use_LLMs/).
