@@ -20,3 +20,18 @@ We value diversity and try to minimise biases. This is not always easy therefore
 ## Acknowledge and learn from failure(s)
 
 We help each other failing towards our goals and acknowledge that every new path requires trial and error. This is the foundation of learning.
+
+## Statement on Artifical Intelligence 
+
+We focus on ***narrow AI—systems*** designed to solve concrete problems—rather than what is often called “general AI.” The idea that “once we solve intelligence, we solve everything else” strikes me as hubris.
+<br>
+<br>
+In dominance hierarchies, individuals with lower moral standards often rise disproportionately. Psychopaths, for instance, make up ~1% of the general population but are estimated at up to ~20% in positions of power, as history and many current world leaders illustrate. Those who bind themselves to ethical principles thus most humans —e.g. Kant’s— are less competitive in such struggles, unless they can compensate, for instance, with extraordinary intelligence. If we impose strict guardrails on some AI systems while others remain unconstrained, the unconstrained ones may dominate, especially as intelligence across systems will converge over time. Since I see no evidence that higher intelligence correlates with moral action, this looks like an unsolvable problem. Please convince me otherwise.
+<br>
+<br>
+Our lab therefore works on narrow AI that hopefully helps people, while also developing better tools to understand and steer AI. Whether AGI is possible remains an open question—but not one I have any interest in pursuing.
+<br>
+<br>
+Large Language Models (LLMs) are one such narrow AI application and a useful tool, and here is our policy for their use.
+
+
