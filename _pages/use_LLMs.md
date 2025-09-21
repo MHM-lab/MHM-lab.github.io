@@ -22,7 +22,7 @@ Below are concrete and specific determinations:
 
 - **Permitted**: Language refinement (grammar, style, conciseness).<br>
 - **Accountability**: Authors remain fully responsible for accuracy, originality, and ethical standards. Only verified content may be published.<br>
-- **Compliance**: LLM use must follow (a) the journal or conference policies and (b) the graduate school rules, if the work is part of a thesis. Where required, LLM use should be declared. 
+- **Compliance**: LLM use must follow (a) the policies imposed by a journal or conference and (b) the graduate school rules, if the work is part of a thesis. Where required, the use of LLMs should be declared. 
 
 ---
 
