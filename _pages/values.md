@@ -23,13 +23,7 @@ We help each other failing towards our goals and acknowledge that every new path
 
 ## Statement on Artifical Intelligence 
 
-We focus on ***narrow AI-systems*** designed to solve concrete problems, rather than what is often called “general AI.” The idea that “once we solve intelligence, we solve everything else” strikes me as hubris.
-<br>
-<br>
-In dominance hierarchies, individuals with lower moral standards often rise disproportionately. Psychopaths, for instance, make up ~1% of the general population but are estimated at up to ~20% in positions of power, as history and many current world leaders illustrate. Those who bind themselves to ethical principles, e.g. Kant’s, are less competitive in such struggles, unless they can compensate, for instance, with extraordinary intelligence. If we impose strict guardrails on some AI systems, ethical systems, while others remain unconstrained, the unconstrained ones may dominate, especially as intelligence across systems will converge over time. Since I see no evidence that higher intelligence correlates with ethical action, this looks like an unsolvable problem. Please convince me otherwise.
-<br>
-<br>
-Our lab works on narrow AI that hopefully helps people either now or in the future, while also developing better tools to understand AI. Whether "general AI" is possible remains an open question — but not one I have any interest in pursuing.
+We focus on ***narrow Artificial Intelligence (nAI)*** aimed at solving concrete problems, rather than what is often called Artificial General Intelligence (AGI). The belief that “once we solve intelligence, we solve everything” strikes us as hubris. In dominance hierarchies, individuals with lower moral standards often rise disproportionately. Psychopaths, for instance, make up ~1% of the general population but up to ~20% of those in power. Those who bind themselves to ethical principles (e.g., Kant’s) are less competitive unless offset by extraordinary intelligence or creativity. If some AGI systems were bound by strict ethical guardrails while others remained unconstrained, the latter would likely dominate. Intelligence and other advantages converge over time—through shared weights, mutual learning, and replication—so constraints become handicaps. Since higher intelligence does not appear to correlate with stronger ethics, unconstrained systems would almost inevitably prevail. In humans, ethical behavior is reinforced by group dynamics. Artificial systems, however, face no such constraints: they can be copied, scaled, and deployed across time and space without limits. This makes dominance of a single system far more likely.
 <br>
 <br>
 Large Language Models (LLMs) are currently still a narrow AI application, despite claims to the contrary, and a useful tool! Here is our [lab’s policy on the use of LLMs](https://mhm-lab.github.io/use_LLMs/).
