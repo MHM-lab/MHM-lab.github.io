@@ -27,7 +27,7 @@ Jena offers an internationally recognized research environment with strengths in
 
 The Friedrich Schiller University Jena holds the [HR Excellence in Research Award](https://www.uni-jena.de/en/243628/hr-excellence-in-research-award). Two Clusters of Excellence further strengthen the research landscape.  
 
-The University is a site of the **German Center for Mental Health**. My professorship bridges the University and University Hospital, where I am also a PI.  
+The University is a site of the **German Center for Mental Health**, where I am a PI. My professorship bridges the University and University Hospital.  
 
 Several **Max Planck Institutes**, **Leibniz institutes**, and **Fraunhofer institutes** contribute to an interdisciplinary ecosystem.  
 
