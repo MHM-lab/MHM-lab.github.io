@@ -8,7 +8,7 @@ We are located @ The University of Jena. You can get in touch by email if you li
 ## Postdoc & PhD positions
 All currently available PostDoc & PhD positions are listed here.
 
-***PostDoc in [Jena](https://mhm-lab.github.io/moving_to_jena/), Germany***
+***PostDoc in Jena, Germany***
 <br>
 We are recruiting a Postdoctoral Researcher to [join our team in Jena](https://mhm-lab.github.io/moving_to_jena/), Germany. Candidates should have strong expertise in neuroscience especially neuroimaging and machine learning, with a clear interest in [our research directions especially under selected publications](https://mhm-lab.github.io/research).
 <br>
