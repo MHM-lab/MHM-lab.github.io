@@ -2,6 +2,7 @@
 permalink: /community/
 title: "Community"
 ---
+
 In this section you find ways in which our lab contributes to a thriving science community.
 
 ## In Jena, Germany
