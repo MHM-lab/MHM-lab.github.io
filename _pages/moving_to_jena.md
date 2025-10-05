@@ -82,7 +82,7 @@ Jena is a lively city that supports its residents. We managed all city-related p
 
 ## 5) How German is it, and how much German do you need?
 
-Academic life is highly international, and English is widely spoken in research. However, daily life and bureaucracy are primarily in German. Learning German helps with integration and social life. The University Language Centre offers free or affordable courses for researchers and students.  
+Academic life is highly international, and English is widely spoken in research. There is absolutely no need to learn German for the work in our team. However, daily life and bureaucracy are primarily in German. Learning German helps with integration and social life. The University Language Centre offers free or affordable courses for researchers and students.  
 
 ---
 
