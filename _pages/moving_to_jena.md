@@ -23,9 +23,7 @@ If you would like to suggest additional information, please [contact me](mailto:
 - [JenaWirtschaft: Research strengths](https://www.jenawirtschaft.de/en/location/research/)
 
 **Overview**  
-Jena offers an internationally recognized research environment with strengths in **optics & photonics, life & health sciences, biodiversity, materials & energy, and climate research**.  
-
-The Friedrich Schiller University Jena holds the [HR Excellence in Research Award](https://www.uni-jena.de/en/243628/hr-excellence-in-research-award). Two Clusters of Excellence further strengthen the research landscape.  
+Jena offers an internationally recognized research environment with many strengths. The Friedrich Schiller University Jena holds the [HR Excellence in Research Award](https://www.uni-jena.de/en/243628/hr-excellence-in-research-award). Two Clusters of Excellence further strengthen the research landscape.  
 
 The University is a site of the **German Center for Mental Health**, where I am a PI. My professorship bridges the University and University Hospital.  
 
@@ -46,11 +44,11 @@ Jena is a lively city that supports its residents. We managed all city-related p
 - [Work-in-Jena Guide](https://www.work-in-jena.de/en/living-in-jena/)  
 - [City of Jena: Welcome Center](https://neu.jena.de/en/node/51) 
 
-**First steps after arrival**  
+**First steps before & after arrival**  
+- Contact the university’s International Office for visa and residence permits.
 - Register your residence (*Anmeldung*).  
 - Obtain health insurance (mandatory in Germany).  
 - Open a German bank account.  
-- Contact the university’s International Office for visa and residence permits.  
 
 ---
 
@@ -93,7 +91,7 @@ Academic life is highly international, and English is widely spoken in research.
 - [TV-L Salary Calculator](https://oeffentlicher-dienst.info/c/t/rechner/tv-l/west?id=tv-l-2025)  
 - [Numbeo: Cost of Living Jena](https://www.numbeo.com/cost-of-living/in/Jena)
   
-***You can check living costs in Jena for a data-driven overview***. What matters are living costs, median salaries, and returns on capital—figures that reflect conditions for most people, not just top earners. By this measure, Jena stands out: costs are about half of other cities in Germany (e.g. Munich), while average salaries are comparable or higher. Add reliable daycare, strong social services, healthcare, efficient local government, and affordable public spaces, and you get a city that thrives on balance—especially attractive for young professionals and families. Disclaimer: the tool reports average salaries, which are only rough estimates and likely based on skewed data.
+***You can check living costs in Jena for a data-driven overview***. What matters are living costs, median salaries, and returns on capital—figures that reflect conditions for most people, not just top earners. By this measure, Jena stands out: costs are about half of other cities in Germany, while average salaries are comparable or higher. Add reliable daycare, strong social services, healthcare, efficient local government, and affordable public spaces, and you get a city that thrives on balance—especially attractive for young professionals and families. Disclaimer: the tool reports average salaries, which are only rough estimates and likely based on skewed data.
 
 ---
 
