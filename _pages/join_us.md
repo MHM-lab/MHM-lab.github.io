@@ -12,7 +12,7 @@ All currently available PostDoc & PhD positions are listed here.
 All currently available positions are listed here.
 
 # 🎉 Join the MHM Lab at FSU Jena!  
-**Position:** Team Assistant & Happiness Manager (Student Job, 2 years)
+**Position:** Team Assistant & Happiness Manager (Student Job, at least for 2 years)
 <br>
 <br>
 The **Mental Health Mapping Lab (MHM Lab)**, is looking for a **motivated and curious B.Sc. student** (based in **Jena**) who is excited about **science management, organization, and teamwork**.
