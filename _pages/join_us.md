@@ -15,7 +15,7 @@ All currently available positions are listed here.
 **Position:** Team Assistant & Happiness Manager (Student Job, 2 years)
 <br>
 <br>
-The **Mental Health & Machine Learning Lab (MHM Lab)**, led by **Thomas Wolfers**, is looking for a **motivated and curious B.Sc. student** (based in **Jena**) who is excited about **science management, organization, and teamwork**.
+The **Mental Health Mapping Lab (MHM Lab)**, is looking for a **motivated and curious B.Sc. student** (based in **Jena**) who is excited about **science management, organization, and teamwork**.
 <br>
 <br>
 We’re not just looking for an assistant - we’re looking for someone who wants to **learn how to manage a research lab from the ground up**:
