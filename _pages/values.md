@@ -23,7 +23,7 @@ We help each other failing towards our goals and acknowledge that every new path
 
 ## Statement on Artifical Intelligence 
 
-We focus on narrow artificial intelligence (AI) designed to solve specific, well-defined problems, rather than the more speculative notion of artificial general intelligence (AGI). Hence, our focus remains on narrow AI that augment human understanding and supports scientific discovery. We develop systems that aim to help humans. 
+We focus on narrow artificial intelligence (AI) designed to solve specific, well-defined problems, rather than the more speculative notion of artificial general intelligence (AGI). We develop systems that aim to help humans. 
 <br>
 <br>
 Large Language Models (LLMs) are currently a narrow AI application, despite claims to the contrary, and a useful tool! Here is our [lab’s policy on the use of LLMs](https://mhm-lab.github.io/use_LLMs/).
