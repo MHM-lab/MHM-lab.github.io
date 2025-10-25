@@ -10,7 +10,7 @@ Jena has a rich scientific and cultural heritage. It is the birthplace of **the 
 In essence, Jena is a place where the **discovery of the stars** (through optics) and the **study of the brain** (through EEG) first emerged and intersected. At this crossroads, one might say, magic unfolds as the brain, through mysterious processes, creates experience, subjectivity, and ultimately the capacity to witness the universe itself. To me, that remains both awe-inspiring and profoundly fascinating.
 
 Below you will find practical information about moving to **Jena** and Germany.  
-If you would like to suggest additional information, please [contact me](mailto:dr.thomas.wolfers@gmail.com).
+If you would like to suggest additional information, please [contact](mailto:dr.thomas.wolfers@gmail.com).
 
 ---
 
