@@ -3,7 +3,7 @@ permalink: /selected/
 title: "Selected Publications"
 ---
 
-Here we present selected or upcoming peer-reviewed publications, drawn from a subjective subset of all work contributed to by members of the lab. The full list of publications is available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=4f2rdMcAAAAJ&view_op=list_works&sortby=pubdate). The relevance of each listed work is briefly summarized below.
+On this page, we present selected peer-reviewed or upcoming publications, drawn from a subset of all the work contributed to by members of the lab. The complete list of publications is available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=4f2rdMcAAAAJ&view_op=list_works&sortby=pubdate). The relevance of each listed paper is briefly summarized below.
 <br>
 <br>
 
