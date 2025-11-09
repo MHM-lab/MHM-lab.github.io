@@ -4,13 +4,19 @@ main:
     url: /people/
 
   - title: "Research"
-    url: /research/   
+    url: /research/
+    
+  - title: "Selected Publications"
+    url: /selected/  
 
   - title: "Values"
     url: /values/
     
   - title: "Community"
     url: /community/
+
+  - title: "Teaching and Seminars"
+    url: /teaching/ 
   
   - title: "Join Us"
     url: /join_us/
