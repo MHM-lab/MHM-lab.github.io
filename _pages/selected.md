@@ -1,23 +1,14 @@
 ---
-permalink: /research/
-title: "Research"
+permalink: /selected/
+title: "Selected Publications"
 ---
 
-## Foundations of Mental Health Mapping  
-<img align="left" src="https://mhm-lab.github.io/images/foundations_of_mental_health_mapping.png" width="200 px" style="padding: 10px"> What constitutes a disorder and what is healthy or normative, especially if the disorder is a consequence of unwholesome mental states, can be unclear. We explore the foundations of what constitutes health, disorder, or disease and explore questions such as: What is healthy? What is the right reference group to compare disease with? Can we utilize systematic explorations of the mind as tools to understand it? In the long run, this work contributes to the theoretical foundation of mental health mapping, incorporating first and third person perspectives. We work together with philosophers, clinicians and patients who provide insights into clinical practice and inform our science in theoretical and practical ways.
-
-## Structures of Mental Health Mapping
-<img align="left" src="https://mhm-lab.github.io/images/structures_of_mental_health_mapping.png" width="200 px" style="padding: 10px"> Mental disorders are heritable (passed down through generations in families), comorbid, and heterogenous. Sometimes an impaired biology in a single individual is the structure underlying illness, in other cases the psychodynamics between individuals, groups or different parts of society as well as environmental stressors. We are guided by questions such as what makes one sibling with a disorder different from another who is healthy? What are the interpersonal factors contributing to mental health in families? When does it make sense to treat a group of individuals instead of the individual patient? What is the role of society and which policies, and treatments are improving our mental health? We work on large scale studies that contain necessary data for answering these questions and collaborate with scientists and clinicians.
-
-## Markers for Mental Health Mapping
-<img align="left" src="https://mhm-lab.github.io/images/markers_for_mental_health_mapping.png" width="200 px" style="padding: 10px"> The factors underlying mental health or disorder are not well understood and a complex web of biological and non-biological variables interact producing symptoms in any given individual. This is one of the reasons why we have limited insights into the markers linked to illness. Through multimodal approaches we aim to detect hidden factors underlying illness and are guided by questions such as what makes one person different from another when diagnosed with the same disorder? How can we uncover predictive markers for illness? Which data modalities are informative for which disorder or disease process? We work together with scientists and clinicians interested in different disorders and diseases.
-
-## Models for Mental Health Mapping 
-<img align="left" src="https://mhm-lab.github.io/images/models_for_mental_ health_mapping.png" width="200 px" style="padding: 10px"> Most of the research directions described above involve machine learning tools. Therefore, we apply and develop these approaches for large scale imaging, electrophysiological, genetic, sensor, cognitive and behavioural data. Our methods are adapted to high dimensional data and often very unreliable labels. Our work is guided by questions such as how can we utilize machine learning across modalities? What methods are best to parse heterogeneity? Which longitudinal modelling procedures are suited to deal with the properties of the underlying data structures? How can we increase the interpretability of our models and ultimately how can we take machine learning from the lab to clinical practice? We work together with scientists working on innovative data acquisition methods and are interested in method development (e.g., machine learning, statistics) as well as in establishing best practices in curating complex, large datasets required for our research agenda.
-
-P.S.: In many cases, regression performs just as well as AI for brain readouts.
-
-## Selected Publications
+Here we present selected or upcoming peer-reviewed publications, based on a subjective subset of all available work.  
+All publications can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=4f2rdMcAAAAJ&view_op=list_works&sortby=pubdate).  
+The relevance of each listed work is briefly summarized below.
+<br>
+<br>
+<br>
 
 **2025** Return of the GEDAI: Unsupervised EEG Denoising based on Leadfield Filtering. ***under review***. [link](https://www.biorxiv.org/content/10.1101/2025.10.04.680449v1)
 * SUMMARY: EEG denoising is hindered by physiological and environmental artifacts that limit signal fidelity. We introduce GEDAI (Generalized Eigenvalue De-Artifacting Instrument), a leadfield-based method that removes artifacts diverging from the theoretical EEG forward model. GEDAI cleans corrupted data without references, corrects bad channels and epochs in one step, and separates brain from noise using the SENSAI index. Across simulations and real data with strong EOG, EMG, and noise contamination, it outperformed PCA- and ICA-based methods (ASR, ICLabel, MARA), boosting ERP classification and brain fingerprinting. Fast, autonomous, and robust it is ideal for clinical, mobile, and dry-electrode EEG, MEG, and real-time BCIs.
@@ -67,4 +58,4 @@ P.S.: In many cases, regression performs just as well as AI for brain readouts.
 **2015** From estimating activation locality to predicting disorder: a review of pattern recognition for neuroimaging-based psychiatric diagnostics. **Neuroscience & Biobehavioural Reviews**. [link](https://doi.org/10.1016/j.neubiorev.2015.08.001) 
 * SUMMARY: In this paper, we showed that with increasing sample size the accuracy of pattern classification approaches for the prediction of mental disorders decreased. This is counterintuitive and in conflict with evidence in other fields that use pattern recognition approaches to predict e.g., image classes, likes cats and dogs. Generally, supervised machine learning algorithms tend to perform better with more training data. Therefore, this finding was very surprising. We could attribute it in parts to the high heterogeneity of mental disorders and a publication bias for better performing but not representative models. This work contributed to a debate on cross-validation failures and provides important evidence for the development of methods to map heterogeneity of mental disorders.
 
-### All publications can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=4f2rdMcAAAAJ&view_op=list_works&sortby=pubdate)
+
