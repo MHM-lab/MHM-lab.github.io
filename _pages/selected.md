@@ -3,10 +3,7 @@ permalink: /selected/
 title: "Selected Publications"
 ---
 
-Here we present selected or upcoming peer-reviewed publications, based on a subjective subset of all available work.  
-All publications can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=4f2rdMcAAAAJ&view_op=list_works&sortby=pubdate).  
-The relevance of each listed work is briefly summarized below.
-<br>
+Here we present selected or upcoming peer-reviewed publications, based on a subjective subset of all available work. All publications can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=4f2rdMcAAAAJ&view_op=list_works&sortby=pubdate). The relevance of each listed work is briefly summarized below.
 <br>
 <br>
 
