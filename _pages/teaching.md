@@ -1,6 +1,6 @@
 ---
 permalink: /teaching/
-title: "Teaching"
+title: "Teaching and Seminars"
 ---
 
 As a Carl-Zeiss Professor, my primary contribution to the University of Jena is the pursuit of research excellence—particularly in bridging university-based science with clinical practice and contributing to the German Center for Mental Health. At the same time, I am committed to building and strengthening the teaching portfolio at FSU by introducing a coherent, thoughtfully designed set of courses, modules and seminar formats. This teaching program is currently under development and will continue to expand and mature over the coming years. My objective is to establish a high-quality, interdisciplinary instructional stack—spanning Psychology, Cognitive Neuroscience, Brain Imaging, Machine Learning, and related domains—relevant not only for FSU students but also for national and international participants.
