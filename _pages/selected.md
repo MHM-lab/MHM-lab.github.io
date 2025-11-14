@@ -3,12 +3,9 @@ permalink: /selected/
 title: "Selected Publications"
 ---
 
-On this page, we present selected peer-reviewed or upcoming publications, drawn from a subset of all the work contributed to by members of the lab. The complete list of publications is available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=4f2rdMcAAAAJ&view_op=list_works&sortby=pubdate). The relevance of each listed paper is briefly summarized below.
-<br>
-Because our work is highly interdisciplinary, it does not fit neatly into the categories of a single field. For instance, between 2023 and 2025 we publish across leading machine learning and artificial intelligence conferences (e.g., AAAI), leading medical machine learning venues (e.g., MICCAI), major medical and psychiatry journals (e.g., JAMA Psychiatry), high-impact general-science journals (e.g., Nature family), respected philosophy journals (e.g., Synthese), and core neuroscience outlets (e.g., eLife).
+On this page, we present selected peer-reviewed or upcoming publications, drawn from a subset of all the work contributed to by members of the lab. The complete list of publications is available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=4f2rdMcAAAAJ&view_op=list_works&sortby=pubdate). The relevance of each listed paper is briefly summarized below. Because our work is interdisciplinary, it does not fit neatly into the categories of a single field. For instance, between 2023 and 2025 we publish across leading machine learning and artificial intelligence conferences (e.g., AAAI), first-class medical machine learning venues (e.g., MICCAI), major medical and psychiatry journals (e.g., JAMA Psychiatry), high-impact general-science journals (e.g., Nature family), respected philosophy journals (e.g., Synthese), and core neuroscience outlets (e.g., eLife).
 <br>
 <br>
-
 **2025** Return of the GEDAI: Unsupervised EEG Denoising based on Leadfield Filtering. ***under review***. [link](https://www.biorxiv.org/content/10.1101/2025.10.04.680449v1)
 * SUMMARY: EEG denoising is hindered by physiological and environmental artifacts that limit signal fidelity. We introduce GEDAI (Generalized Eigenvalue De-Artifacting Instrument), a leadfield-based method that removes artifacts diverging from the theoretical EEG forward model. GEDAI cleans corrupted data without references, corrects bad channels and epochs in one step, and separates brain from noise using the SENSAI index. Across simulations and real data with strong EOG, EMG, and noise contamination, it outperformed PCA- and ICA-based methods (ASR, ICLabel, MARA), boosting ERP classification and brain fingerprinting. Fast, autonomous, and robust it is ideal for clinical, mobile, and dry-electrode EEG, MEG, and real-time BCIs.
  
