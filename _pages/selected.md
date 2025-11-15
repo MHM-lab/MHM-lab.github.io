@@ -3,7 +3,10 @@ permalink: /selected/
 title: "Selected Publications"
 ---
 
-On this page, we present selected peer-reviewed or upcoming publications, drawn from a subset of all the work contributed to by members of the lab. The complete list of publications is available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=4f2rdMcAAAAJ&view_op=list_works&sortby=pubdate). The relevance of each listed paper is briefly summarized below. Because our work is interdisciplinary, we publish across leading machine learning and artificial intelligence conferences (e.g., AAAI, 2026), first-class medical machine learning venues (e.g., MICCAI, 2025), major medical and psychiatry journals (e.g., JAMA Psychiatry, 2023), high-impact general-science journals (e.g., Nature family, 2024), respected philosophy journals (e.g., Synthese, 2024), and core neuroscience outlets (e.g., eLife, 2022).
+On this page, we present selected peer-reviewed or upcoming publications, drawn from a subset of all the work contributed to by members of the lab. The complete list of publications is available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=4f2rdMcAAAAJ&view_op=list_works&sortby=pubdate). The relevance of each listed paper is briefly summarized below. 
+<br>
+<br>
+As our work is interdisciplinary, we publish across leading machine learning and artificial intelligence conferences (e.g., AAAI, 2026), first-class medical machine learning venues (e.g., MICCAI, 2025), major medical and psychiatry journals (e.g., JAMA Psychiatry, 2023), high-impact general-science journals (e.g., Nature family, 2024), respected philosophy journals (e.g., Synthese, 2024), and core neuroscience outlets (e.g., eLife, 2022).
 <br>
 <br>
 
