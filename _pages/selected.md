@@ -7,7 +7,7 @@ On this page, we present selected peer-reviewed or upcoming publications, drawn 
 <br>
 <br>
 
-**2025** MedSAMix: A Training-Free Model Merging Approach for Medical Image Segmentation. ***AAAI - Main  Track***. [link](https://arxiv.org/abs/2508.11032)
+**2026** MedSAMix: A Training-Free Model Merging Approach for Medical Image Segmentation. ***AAAI - Main  Track***. [link](https://arxiv.org/abs/2508.11032)
 * SUMMARY: Universal medical segmentation models promise broad utility but struggle with scarce, heterogeneous data. We present MedSAMix, a training-free method that automatically merges generalist (SAM) and specialist (MedSAM) models for optimal performance. Across 25 tasks, MedSAMix reduces bias and improves both generalization and domain-specific accuracy by up to 6.7%.
   
 **2025** Hierarchical Characterization of Brain Dynamics via State Space-based Vector Quantization. ***MICCAI - Main Track***. [link](https://arxiv.org/abs/2506.22952)
