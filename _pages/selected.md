@@ -10,6 +10,8 @@ As our work is interdisciplinary, we publish across leading machine learning and
 <br>
 <br>
 We support open science and believe that publication fees should be proportional to the real value created. At the same time, we recognise that journal prestige still plays a major role especially in early-career trajectories. To support our young researchers, we also publish in high-impact venues when needed, while actively encouraging efforts to disentangle scientific quality, visibility, and prestige from publication fees.
+<br>
+<br>
 
 **2026** MedSAMix: A Training-Free Model Merging Approach for Medical Image Segmentation. ***AAAI - Main  Track***. [link](https://arxiv.org/abs/2508.11032)
 * SUMMARY: Universal medical segmentation models promise broad utility but struggle with scarce, heterogeneous data. We present MedSAMix, a training-free method that automatically merges generalist (SAM) and specialist (MedSAM) models for optimal performance. Across 25 tasks, MedSAMix reduces bias and improves both generalization and domain-specific accuracy by up to 6.7%.
