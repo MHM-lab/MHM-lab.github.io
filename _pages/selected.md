@@ -9,7 +9,7 @@ On this page, we present selected peer-reviewed or upcoming publications, drawn 
 As our work is interdisciplinary, we publish across leading machine learning and artificial intelligence conferences (e.g., AAAI, 2026), first-class medical machine learning venues (e.g., MICCAI, 2025), major medical and psychiatry journals (e.g., JAMA Psychiatry, 2023), high-impact general-science journals (e.g., Nature family, 2024), respected philosophy journals (e.g., Synthese, 2024), and core neuroscience outlets (e.g., eLife, 2022).
 <br>
 <br>
-In general, we support open science and believe that publication fees should be proportional to the real value created. At the same time, we recognise that journal prestige still plays a major role especially in early-career trajectories. To support our young researchers, we also publish in high-impact venues, while encouraging efforts to disentangle visibility and prestige from the need to pay high publication fees.
+In general, we support open science and believe that publication fees should be proportional to the real value created. At the same time, we recognise that journal and conference prestige still plays a major role especially in early-career trajectories. To support our young researchers, we also publish in high-impact venues, while encouraging efforts to disentangle visibility and prestige from the need to pay high publication fees.
 <br>
 <br>
 **2026** MedSAMix: A Training-Free Model Merging Approach for Medical Image Segmentation. ***AAAI - Main  Track***. [link](https://arxiv.org/abs/2508.11032)
