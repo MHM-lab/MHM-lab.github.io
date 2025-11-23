@@ -29,5 +29,5 @@ We focus on narrow artificial intelligence (AI) designed to solve specific, well
 Large Language Models (LLMs) are currently a narrow AI application, despite claims to the contrary, and a useful tool! Here is our [lab’s policy on the use of LLMs](https://mhm-lab.github.io/use_LLMs/).
 
 ## Where do we publish and why?
-Publication fees should be proportional to the real value created. At the same time, we recognise that journal and conference prestige still plays a major role especially in early-career trajectories. To support our young researchers, we also publish in high-impact venues, while encouraging efforts to disentangle visibility and prestige from the need to pay high publication fees.
-<br>
+
+We publish across leading venues in machine learning, psychiatry/psychology and neuroscience because (Mental) Health Mapping is inherently interdisciplinary and benefits from visibility in all three communities. High-impact ML conferences and medical or neuroscience journals ensure our work reaches both methodological innovators and clinical scientists. At the same time, we aim to balance impact and accessibility. While we support open science and believe publication fees should reflect real value, we also recognise that journal and conference prestige remains important especially for early-career researchers. Our publication strategy therefore prioritises scientific reach and career support, while encouraging a culture that decouples this from high fees or in-group favourtism. 
