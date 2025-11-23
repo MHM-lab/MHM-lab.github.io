@@ -27,3 +27,7 @@ We focus on narrow artificial intelligence (AI) designed to solve specific, well
 <br>
 <br>
 Large Language Models (LLMs) are currently a narrow AI application, despite claims to the contrary, and a useful tool! Here is our [lab’s policy on the use of LLMs](https://mhm-lab.github.io/use_LLMs/).
+
+## Where do we publish and why?
+Publication fees should be proportional to the real value created. At the same time, we recognise that journal and conference prestige still plays a major role especially in early-career trajectories. To support our young researchers, we also publish in high-impact venues, while encouraging efforts to disentangle visibility and prestige from the need to pay high publication fees.
+<br>
