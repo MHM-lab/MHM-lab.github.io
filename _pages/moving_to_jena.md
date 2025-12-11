@@ -21,9 +21,7 @@ If you would like to suggest additional information, please [contact](mailto:dr.
 - [JenaWirtschaft: Research strengths](https://www.jenawirtschaft.de/en/location/research/)
 
 **Overview**  
-Jena offers an internationally recognized research environment with many strengths. The Friedrich Schiller University Jena holds the [HR Excellence in Research Award](https://www.uni-jena.de/en/243628/hr-excellence-in-research-award). Two Clusters of Excellence further strengthen the research landscape.  
-
-The University is a site of the **German Center for Mental Health**, where I am a PI. My professorship bridges the University and University Hospital.  
+Jena offers an internationally recognized research environment with many strengths. The University is a site of the **German Center for Mental Health**, where I am a PI. My professorship bridges the University and University Hospital. Two Clusters of Excellence further strengthen the research landscape.  
 
 Several **Max Planck Institutes**, **Leibniz institutes**, and **Fraunhofer institutes** contribute to an interdisciplinary ecosystem.  
 
