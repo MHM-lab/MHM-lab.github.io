@@ -110,7 +110,8 @@ Hao-Chun(Chad) Yang (2022-24) -> Works in industry (@Aptiv) <br>
 
 ***Completed PhD***
 <br>
-Esten Leonardsen (2020-24) -> Continued with Postdoc @ University of Oslo & [StartUp Founder of BabaVision](https://www.baba-vision.com)<br>
+Esten Leonardsen (2020-24) -> Continued with Postdoc @ University of Oslo & StartUp Founder
+<br>
 Rikka Kjelkenes (2019-23) -> Continued with Postdoc @ University of Oslo <br>
 
 ***Completed MSc/HiWi***
