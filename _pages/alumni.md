@@ -1,3 +1,12 @@
+---
+permalink: /alumni/
+title: "Alumni"
+---
+
+<br>
+Thanks to everyone who contributed to the progress of the work and the success of the team!
+<br>
+<br>
 
 ***Completed PostDoc/Data-Scientist***
 <br>
