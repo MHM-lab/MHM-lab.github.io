@@ -31,12 +31,7 @@ As a PhD candidate, I explore how individual brain structure and function diverg
 My research focuses on the development of the cerebellum across the lifespan and its role in neurological and psychiatric disorders. I use machine learning and neuroimaging from large populations to map cerebellar trajectories. Prior to my PhD at Oslo University Hospital, I studied psychology at Seoul National University and cognitive neuroscience at the University of Oslo. I enjoy exploring Norwegian nature, baking macarons, and reading.
 <br><br><br><br>
 
-## Gülce Lale, PhD Candidate 
-<img align="left" src="https://mhm-lab.github.io/images/guelce.png" width="150 px" style="padding: 10px"> <br>
-With a dual background in Computer Science and Psychology, I pursued an MSc in Systemic Neurosciences in Munich to deepen my interest in neuroscience. Now in my PhD, I study how individual differences in brain structure and function influence cognition in mental health disorders, using neuroimaging and machine learning. In my free time, I enjoy nature, yoga, and writing short stories.
-<br><br><br><br>
-
-## Marc Lemnitzer, BSc Student
+## Marc Lemnitzer, HiWi
 <img align="left" src="https://mhm-lab.github.io/images/marc.png" width="150 px" style="padding: 10px"> <br>
 I am a BSc student in Bioinformatics contributing to the development and validation of a machine learning package for mapping complex biomarker configurations. My main interests lie at the intersection of machine learning and biology. Despite a demanding schedule, I value time spent with friends.
 <br><br><br><br>
@@ -139,6 +134,7 @@ Sacha ten Broeke (2023) -> Continued with MSc @ Radboud University of Nijmegen <
 
 ***Completed Labrotation/Internship/Research Scientist***
 <br>
+Gülce Lale (2024-25) -> Continued with PhD @ University of Tübingen <br>
 Mylla Marsiglia (2024) -> Continued with PhD @ Max Planck Institute Leipzig <br>
 Shun-chin Wu (Jim) (2023) -> Continued with MSc @ University College London<br>
 Can Demircan (2023) -> Continued with MSc @ University of Tübingen <br>
