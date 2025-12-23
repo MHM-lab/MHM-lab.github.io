@@ -97,3 +97,4 @@ We’re always looking for motivated individuals to join our team! Check current
 <br><br><br><br>
 
 ## Alumni
+Our alumni have taken a wide range of paths after leaving the lab. Many continue in academia, often through postdoctoral positions at universities and research institutes in the EU and beyond. Others have moved into industry, working in areas such as data science, machine learning, and healthcare. Some have chosen entrepreneurial routes, contributing to or starting start-ups, while others work in related fields. A list of all alumni and their subsequent positions can be found [here]().
