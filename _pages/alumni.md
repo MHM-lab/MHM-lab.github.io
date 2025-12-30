@@ -23,7 +23,6 @@ Rikka Kjelkenes (2019-23) -> Continued with Postdoc @ University of Oslo <br>
 <br>
 Nitin Sharma (2022-25) -> Continued as Research Scientist @ University of Tübingen with Thomas <br>
 Gokul Vijayakrishnan (2024-25) -> Works in industry (@Mercedes-Benz) <br>
-Samira Hajizadeh (2024-25) -> Continued with PhD @ Columbia University <br>
 Ayush-kumar Chaudhary (2025) -> Continued with MSc @ University of Tübingen <br>
 Melis Oktayoglu (2025) -> Works in industry (@StartUp) <br>
 Chiara (Jonathan) Möller (2024) -> Travels <br>
@@ -43,6 +42,7 @@ Ponnuru Mahesh Datta Sai (2024) -> Continued with BSc @ SRM Institute of Science
 Sacha ten Broeke (2023) -> Continued with MSc @ Radboud University of Nijmegen <br>
 
 ***Completed Labrotation/Internship/Research Scientist***
+Samira Hajizadeh (2024-25) -> Continued with MSc @ Columbia University <br>
 <br>
 Gülce Lale (2024-25) -> Continued with PhD @ University of Tübingen <br>
 Mylla Marsiglia (2024) -> Continued with PhD @ Max Planck Institute Leipzig <br>
