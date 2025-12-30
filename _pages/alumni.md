@@ -42,6 +42,7 @@ Ponnuru Mahesh Datta Sai (2024) -> Continued with BSc @ SRM Institute of Science
 Sacha ten Broeke (2023) -> Continued with MSc @ Radboud University of Nijmegen <br>
 
 ***Completed Labrotation/Internship/Research Scientist***
+<br>
 Samira Hajizadeh (2024-25) -> Continued with MSc @ Columbia University <br>
 <br>
 Gülce Lale (2024-25) -> Continued with PhD @ University of Tübingen <br>
