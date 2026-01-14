@@ -5,7 +5,7 @@ title: "Community"
 
 In this section you find ways in which our lab contributes to a thriving science community.
 
-## 🍻 Beers, Brains & Backpropagation – Jena NeuroML Meetup
+## 🍻 Beers, Brains & Backpropagation - The Jena NeuroML Meetup
 Every **last Thursday of the month**, we meet **after work around 6:00 pm** (or a bit later, once the kids are asleep 😉) in one of the bars in **Jena** *(location TBA)*. The idea is simple: a relaxed, informal get-together for anyone interested in **neuroscience, machine learning, and mental health**. No talks, no slides, no agenda—just good conversations with fellow researchers over **beers, brains, and backpropagation**. Whether you’re a **PhD student, postdoc, PI, clinician, or simply curious**, feel free to join, bring friends, and come as you are. We’ll help kick things off, but the goal is for this to be an open, community-driven meetup that grows organically. Looking forward to seeing you.
 
 ## In Jena, Germany
