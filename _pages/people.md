@@ -18,7 +18,7 @@ My research centers on machine learning and unsupervised anomaly detection in ne
 
 ## Mebin Muhammed Hamzakoya Sulaikha, PhD Candidate
 <img align="left" src="https://mhm-lab.github.io/images/mebin.png" width="150 px" style="padding: 10px"> <br>
-I focus on reconstructing dynamic biological and behavioral systems using machine learning. My research includes predicting postpartum depression using digital phenotyping and evaluating model reliability. My M.Tech at IIT Ropar focused on embryo image analysis for IVF outcomes. I also enjoy traveling, social work, and public speaking.
+My research focuses on estimating longitudinal normative models in neuroimaging and other modalities, combined with perspectives from dynamic modeling. Previously, during my M.Tech at IIT Ropar, I worked on embryo image analysis to predict IVF outcomes. Beyond research, I enjoy traveling, engaging in social work, and public speaking.
 <br><br><br><br>
 
 ## Atharva (Athu) Kand, PhD Candidate
@@ -38,7 +38,7 @@ I am a BSc student in Bioinformatics contributing to the development and validat
 
 ## Alia Mahama-Rodriguez, PhD Candidate
 <img align="left" src="https://mhm-lab.github.io/images/alia.png" width="150 px" style="padding: 10px"> <br>
-My research investigates psychiatric disorder and their heterogeneity through the integration of neuroimaging, transcriptomics, and behavioral data. I apply machine learning to identify individual-level deviations in disorders like depression and schizophrenia. Previously, I developed scalable pipelines in computational psychiatry and bioinformatics. Outside research, I enjoy yoga, hiking with my Borzoi Donatella, and experimental music through violin and theremin.
+My research investigates psychiatric disorder and their heterogeneity through the integration of neuroimaging and behavioral data. I apply machine learning to identify individual-level deviations in disorders like schizophrenia. Previously, I developed scalable pipelines in computational psychiatry and bioinformatics. Outside research, I enjoy yoga, hiking with my Borzoi Donatella, and experimental music through violin and theremin.
 <br><br><br><br>
 
 ## Francesco Mallus, PhD Candidate
