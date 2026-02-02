@@ -56,11 +56,6 @@ I develop computational models to study learning and decision-making processes, 
 As a master's student in Cognitive Science, I’m currently optimizing the use of brain scans for normative modeling, trying to make norms more robust to preprocessing strategies. I’m passionate about brain science, hardware and technology. I spend my free time hiking, gaming, and discovering new foods.
 <br><br><br><br>
 
-## Francesco Sammarco, PhD Candidate
-<img align="left" src="https://mhm-lab.github.io/images/francescos.png" width="150 px" style="padding: 10px"> <br>
-I am a Computer Science Engineer focused on explainability in machine learning, particularly for mental health applications. I aim to make machine learning tools more transparent and trustworthy for clinical use. Outside research, I enjoy balancing intellectual challenges with physical ones through sports and gaming. 
-<br><br><br><br>
-
 ## Elias Schreiner, Data Scientist & IT Infrastructure
 <img align="left" src="https://mhm-lab.github.io/images/elias.png" width="150 px" style="padding: 10px"> <br>
 I am a bioinformatics enthusiast working at the intersection of IT infrastructure and science. I apply deep learning to complex biological data to better understand neurodegenerative conditions and comorbid mental disorders. 
