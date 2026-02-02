@@ -8,45 +8,43 @@ Thanks to everyone who contributed to the progress of the work and the success o
 <br>
 <br>
 
-***Completed PostDoc/Data-Scientist***
-<br>
-Philipp Seidel (2023-25) -> Continued with PostDoc @ University of Tübingen <br>
-Hao-Chun(Chad) Yang (2022-24) -> Works in industry (@Aptiv) <br>
+## Completed Positions & Alumni
 
-***Completed PhD***
-<br>
-Esten Leonardsen (2020-24) -> Continued with Postdoc @ University of Oslo & StartUp Founder
-<br>
-Rikka Kjelkenes (2019-23) -> Continued with Postdoc @ University of Oslo <br>
+### **Postdoctoral Researchers**
+- **Philipp Seidel** (2023–2025) → Continued as Postdoc, University of Tübingen  
+- **Hao-Chun (Chad) Yang** (2022–2024) → Now in industry (Aptiv)
 
-***Completed MSc/HiWi***
-<br>
-Nitin Sharma (2022-25) -> Continued as Research Scientist @ University of Tübingen with Thomas <br>
-Gokul Vijayakrishnan (2024-25) -> Works in industry (@Mercedes-Benz) <br>
-Ayush-kumar Chaudhary (2025) -> Continued with MSc @ University of Tübingen <br>
-Melis Oktayoglu (2025) -> Works in industry (@StartUp) <br>
-Chiara (Jonathan) Möller (2024) -> Travels <br>
-Alexander Frotscher (2022-23) -> Continued with PhD @ University of Tübingen with Thomas <br>
-Minh-Hieu Nguyen (2022-23) -> Continued with PhD @ University of Tübingen with Thomas <br>
-Sarah Sobotta (2023) -> Continued with a PhD @ Max Planck Institute Leipzig <br>
-Mai Han Hoang (2022) -> Works in industry (@StartUp) <br>
-Milin Kim (2020-21) -> Continued with PhD @ University of Oslo with Thomas <br>
-Victória Trindade (2019) -> Continued with PhD @ University Medical Center Groningen <br>
-Christina Isakoglou (2017) ->  Continued with PhD @ Radboud University of Nijmegen <br>
-Maria Paraskevopoulou (2016) -> Continued with PhD @ Radboud University of Nijmegen <br>
+### **PhD Graduates**
+- **Esten Leonardsen** (2020–2024) → Postdoc, University of Oslo & Startup Founder  
+- **Rikka Kjelkenes** (2019–2023) → Postdoc, University of Oslo
 
-***Completed BSc/Honors/DAAD***
-<br>
-Xinyun Yuan (2025) -> Continued with MSc @ Shandong University <br>
-Ponnuru Mahesh Datta Sai (2024) -> Continued with BSc @ SRM Institute of Science and Technology <br>
-Sacha ten Broeke (2023) -> Continued with MSc @ Radboud University of Nijmegen <br>
+### **MSc Students / Research Assistants**
+- **Nitin Sharma** (2022–2025) → Research Scientist, University of Tübingen (with Thomas)
+- **Gokul Vijayakrishnan** (2024–2025) → Now in industry (Mercedes-Benz)  
+- **Ayush-Kumar Chaudhary** (2025) → Continued with MSc, University of Tübingen  
+- **Melis Oktayoglu** (2025) → Now in industry (Startup)  
+- **Chiara (Jonathan) Möller** (2024) → Travel / exploration year  
+- **Alexander Frotscher** (2022–2023) → Continued with PhD, University of Tübingen (with Thomas)  
+- **Minh-Hieu Nguyen** (2022–2023) → Continued with PhD, University of Tübingen (with Thomas)  
+- **Sarah Sobotta** (2023) → Continued with PhD, Max Planck Institute Leipzig  
+- **Mai Han Hoang** (2022) → Now in industry (Startup)  
+- **Milin Kim** (2020–2021) → Continued with PhD, University of Oslo (with Thomas)  
+- **Victória Trindade** (2019) → Continued with PhD, University Medical Center Groningen  
+- **Christina Isakoglou** (2017) → Continued with PhD, Radboud University Nijmegen  
+- **Maria Paraskevopoulou** (2016) → Continued with PhD, Radboud University Nijmegen
 
-***Completed Labrotation/Internship/Research Scientist***
-<br>
-Samira Hajizadeh (2024-25) -> Continued with MSc @ Columbia University <br>
-<br>
-Gülce Lale (2024-25) -> Continued with PhD @ University of Tübingen <br>
-Mylla Marsiglia (2024) -> Continued with PhD @ Max Planck Institute Leipzig <br>
-Shun-chin Wu (Jim) (2023) -> Continued with MSc @ University College London<br>
-Can Demircan (2023) -> Continued with MSc @ University of Tübingen <br>
-María Berjano (2022) -> Continued with Labrotation @ University of Duisburg-Essen <br>
+### **BSc / Honors / DAAD**
+- **Xinyun Yuan** (2025) → Continued with MSc, Shandong University  
+- **Ponnuru Mahesh Datta Sai** (2024) → Continued with BSc, SRM Institute of Science and Technology  
+- **Sacha ten Broeke** (2023) → Continued with MSc, Radboud University Nijmegen
+
+### **Research Scientist / Data Scientist**
+- **Francesco Sammarco** (2024–2026) → Now in industry (Startup)  
+- **Gülce Lale** (2024–2025) → Continued with PhD, University of Tübingen  
+
+### **Lab Rotations / Internships**
+- **Samira Hajizadeh** (2024–2025) → Continued with MSc, Columbia University  
+- **Mylla Marsiglia** (2024) → Continued with PhD, Max Planck Institute Leipzig  
+- **Shun-Chin Wu (Jim)** (2023) → Continued with MSc, University College London  
+- **Can Demircan** (2023) → Continued with MSc, University of Tübingen  
+- **María Berjano** (2022) → Continued with Lab Rotation, University of Duisburg-Essen
