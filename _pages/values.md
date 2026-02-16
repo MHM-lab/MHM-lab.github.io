@@ -3,8 +3,9 @@ permalink: /values/
 title: "Values"
 ---
 
-These values are not a claim of moral perfection and not meant for virtue signalling. We are all deeply different, sometimes fail, say the wrong things, miss context, or fall short of the standards we care about. That is part of being human. Our values serve as guiding lights under uncertainty, not rigid rules.
-They evolve over tim and shaped by new insights.
+We are all different and imperfect: we fail, misjudge context, and occasionally violate our own standards. This is not a bug but a feature of being human.
+Our values are guiding principles under uncertainty, not rigid rules or signals of virtue. They evolve with new evidence.
+Human fallibility is therefore both the reason values fail and the reason they are needed.
 
 ## Attentive, kind, and honest in communication
 
