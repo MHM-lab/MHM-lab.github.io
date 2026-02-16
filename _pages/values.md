@@ -3,7 +3,8 @@ permalink: /values/
 title: "Values"
 ---
 
-The lab values are listed below.
+These values are not a claim of moral perfection and not meant for virtue signalling. We are all deeply different, sometimes fail, say the wrong things, miss context, or fall short of the standards we care about. That is part of being human. Our values serve as guiding lights under uncertainty, not rigid rules.
+They evolve over tim and shaped by new insights.
 
 ## Attentive, kind, and honest in communication
 
