@@ -3,9 +3,7 @@ permalink: /values/
 title: "Values"
 ---
 
-We are all different and imperfect: we fail, misjudge context, and occasionally violate our own standards. This is not a bug but a feature of being human.
-Our values are guiding principles under uncertainty, not rigid rules or signals of virtue. They evolve with new evidence.
-Human fallibility is therefore both the reason values fail and the reason they are needed.
+We are all different and imperfect: we fail, misjudge context, and occasionally violate our own standards. This is not a bug but a feature of being human. Human fallibility is therefore both the reason values fail and the reason they are needed. Our values are guiding principles under uncertainty, not rigid rules or signals of virtue. 
 
 ## Attentive, kind, and honest in communication
 
