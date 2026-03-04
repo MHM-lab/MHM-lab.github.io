@@ -76,7 +76,7 @@ My research develops machine learning approaches to identify individual-level fa
 I studied Mathematics at Imperial College London, focusing on adversarial robustness and explainability in machine learning. Now, I’m applying mathematical tools to psychiatry, with a particular interest in improving understaning of complex brain disorders. In my free time, I enjoy brewing coffee, bouldering, and photography.
 <br><br><br><br>
 
-## Yanwu Yang, PostDoc & Humboldt Research Fellow
+## Yanwu Yang, PostDoc & Humboldt Fellow
 <img align="left" src="https://mhm-lab.github.io/images/yanwu.jpg" width="150 px" style="padding: 10px"> <br>
 My research interests include neuroimaging analysis and computational neuroscience. I focus on large-scale analysis of brain development and aging, integrating deep learning for clinical applications and examining foundational model behavior. I earned my MSc and PhD from Harbin Institute of Technology. I enjoy gaming, travel, and coffee culture.
 <br><br><br><br>
