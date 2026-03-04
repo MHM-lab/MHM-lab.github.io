@@ -76,12 +76,12 @@ My research develops machine learning approaches to identify individual-level fa
 I studied Mathematics at Imperial College London, focusing on adversarial robustness and explainability in machine learning. Now, I’m applying mathematical tools to psychiatry, with a particular interest in improving understaning of complex brain disorders. In my free time, I enjoy brewing coffee, bouldering, and photography.
 <br><br><br><br>
 
-## Yanwu Yang, PostDoc
+## Yanwu Yang, PostDoc & Humboldt Research Fellow
 <img align="left" src="https://mhm-lab.github.io/images/yanwu.jpg" width="150 px" style="padding: 10px"> <br>
 My research interests include neuroimaging analysis and computational neuroscience. I focus on large-scale analysis of brain development and aging, integrating deep learning for clinical applications and examining foundational model behavior. I earned my MSc and PhD from Harbin Institute of Technology. I enjoy gaming, travel, and coffee culture.
 <br><br><br><br>
 
-## Mariam Zabihi, PostDoc
+## Mariam Zabihi, PostDoc & Boehringer Ingelheim Fellow
 <img align="left" src="https://mhm-lab.github.io/images/mariam.png" width="150 px" style="padding: 10px"> <br>
 I hold a PhD in Statistical Neuroimaging from Radboud University Medical Center and specialize in normative modeling to address heterogeneity in psychiatric disorders. As a BI research fellow and postdoc, I advance generative modeling methods for neuroimaging analysis. My role contributes to both methodological innovation and the broader understanding of psychiatric diversity.
 <br><br><br><br>
