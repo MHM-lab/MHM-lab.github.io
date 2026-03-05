@@ -9,13 +9,16 @@ On this page, we present selected peer-reviewed or upcoming publications, drawn 
 As our work is interdisciplinary, we publish across leading machine learning and artificial intelligence conferences (e.g., AAAI, 2026), first-class medical machine learning venues (e.g., MICCAI, 2025), major medical and psychiatry journals (e.g., JAMA Psychiatry, 2023), high-impact general-science journals (e.g., Nature family, 2024), respected philosophy journals (e.g., Synthese, 2024), and core neuroscience outlets (e.g., eLife, 2022).
 <br>
 <br>
+**2026** A normative reference for large-scale human brain dynamics across the lifespan. ***under review***. [link]()
+* SUMMARY: We establish a population-scale normative reference framework for intrinsic human brain dynamics using resting-state fMRI data from more than 10,000 individuals across the lifespan and 91 imaging sites. By identifying a compact set of recurring brain states that capture large-scale network reconfigurations, we anchor dynamic brain activity to normative lifespan models and quantify individual deviations from population norms. This framework reveals systematic developmental and ageing-related changes in brain dynamics and uncovers heterogeneous alterations across mental health conditions, extending normative brain mapping from static brain features to the temporal domain.
+
 **2025** Deep Unsupervised Anomaly Detection in Brain Imaging: Large-Scale Benchmarking and Bias Analysis. ***under review***. [link](https://arxiv.org/abs/2512.01534)
 * SUMMARY: We created a large, multi-center benchmark for deep unsupervised anomaly detection in brain imaging based on state-of-art methods developed for brain science and industry, using about 460.000 slices from healthy brains for training. Our systematic evaluation across scanners, lesion types, and demographics reveals substantial performance variability and highlights key methodological limitations that future algorithms must overcome, in addition to systematic biases.
   
 **2025** MedSAMix: A Training-Free Model Merging Approach for Medical Image Segmentation. ***AAAI - Main  Track***. [link](https://arxiv.org/abs/2508.11032)
 * SUMMARY: Universal medical segmentation models promise broad utility but struggle with scarce, heterogeneous data. We present MedSAMix, a training-free method that automatically merges generalist (SAM) and specialist (MedSAM) models for optimal performance. Across 25 tasks, MedSAMix reduces bias and improves both generalization and domain-specific accuracy by up to 6.7%.
   
-**2025** Hierarchical Characterization of Brain Dynamics via State Space-based Vector Quantization. ***MICCAI - Main Track***. [link](https://arxiv.org/abs/2506.22952)
+**2025** Hierarchical Characterization of Brain Dynamics via State Space-based Vector Quantization. ***MICCAI - Main Track***. [link](https://papers.miccai.org/miccai-2025/0405-Paper0118.html)
 * SUMMARY: We introduce a Hierarchical State-space Tokenization network (HST), which breaks brain activity into stable “tokens,” like building blocks, and tracks how the brain moves between them. Tested on two independent datasets our method captures these dynamics more clearly than existing approaches and shows promise for understanding dynamic brain functions in health and disease.
 
 **2025** Return of the GEDAI: Unsupervised EEG Denoising based on Leadfield Filtering. ***under review***. [link](https://www.biorxiv.org/content/10.1101/2025.10.04.680449v1)
@@ -27,22 +30,22 @@ As our work is interdisciplinary, we publish across leading machine learning and
 **2024** Computational psychiatry and the evolving concept of a mental disorder. ***Synthese***. [link](https://doi.org/10.1007/s11229-024-04741-6)
 * SUMMARY: We explore the pursuit of a coherent framework for research and treatment in psychiatry, driven by growing dissatisfaction with traditional concepts of mental disorders. This exploration incorporates various computational paradigms, including normative modeling, network theory, and learning-theoretic approaches. Each of these paradigms offers unique methodologies and visions for reconceptualizing mental disorders. In this discussion, we examine their similarities, differences, and potential conceptual conflicts.
 
-**2024** Characterising personalized neuropathology in dementia and mild cognitive impairment with explainable artificial intelligence. ***Nature Partner Journals Digital Medicine***. [link](https://doi.org/10.1101/2023.06.22.23291592)
+**2024** Characterising personalized neuropathology in dementia and mild cognitive impairment with explainable artificial intelligence. ***Nature Partner Journals Digital Medicine***. [link](https://doi.org/10.1038/s41746-024-01123-7)
 *	SUMMARY: We trained a deep neural network to predict dementias. We use explainable machine learning to tease apart individual differences and make predictions (over time) on whether a specific individual develops dementia. We can do that up to 7 years early with good reliability.
 
-**2024** Mapping Cerebellar Anatomical Heterogeneity in Mental and Neurological Illnesses. ***Nature Mental Health***. [link](https://doi.org/10.1101/2023.11.18.567647)
+**2024** Mapping Cerebellar Anatomical Heterogeneity in Mental and Neurological Illnesses. ***Nature Mental Health***. [link](https://doi.org/10.1038/s44220-024-00297-z)
 *	SUMMARY: We trained normative models on more than 50k individuals, charting the development of the cerebellum over the lifespan. We tease apart individual differences in patients with mental and neurological illness.
 
 **2023** Regional, circuit and network heterogeneity of brain abnormalities in psychiatric disorders. ***Nature Neuroscience***. [link](https://www.nature.com/articles/s41593-023-01404-6) 
 *	SUMMARY: We developed normative models and applied them to analyze various mental disorders. Our study meticulously characterized the resulting deviations at the voxel, regional, and network levels of the human brain. Notably, our findings reveal a higher degree of overlap across individuals at the network level.
 
-**2022** Deep neural networks learn general and clinically relevant representations of the ageing brain. ***NeuroImage***. [link](https://doi.org/10.1101/2021.10.29.21265645)
+**2022** Deep neural networks learn general and clinically relevant representations of the ageing brain. ***NeuroImage***. [link](https://doi.org/10.1016/j.neuroimage.2022.119210)
 * SUMMARY: We trained a deep neural network on N > 50k individuals to predict the aging brain. We transferred this model to make clinical predictions. We show that scale matters also in deep machine learning based imaging. Our model has been benchmarked by another group to be the-state-of-the-art brain age model. It demonstrates increased robustness to domain shifts, albeit with the previously observed brain-age accuracy vs. disease detection trade-off.
   
 **2022** Charting brain growth and aging at high spatial precision. ***eLife***. [link](https://doi.org/10.7554/eLife.72904)
 * SUMMARY: We charted normative models of the human brain at high spatial precision for a sample larger than 50k individuals. This is a massive population scale neuroimaging based normative modeling approach that can be translated to new samples and is freely available online for other scientists to use.
   
-**2022** The normative modeling framework for computational psychiatry. ***Nature Protocols***. [link](https://pubmed.ncbi.nlm.nih.gov/35650452/)
+**2022** The normative modeling framework for computational psychiatry. ***Nature Protocols***. [link](https://doi.org/10.1038/s41596-022-00696-5)
 * SUMMARY: We describe the normative modeling framework for computational psychiatry, providing a comprehensive exploration of its principles and significance within the discipline, while also offering accessible tools for analyzing data within this framework.
 
 **2021** Replicating extensive brain structural heterogeneity in individuals with schizophrenia and bipolar disorder. ***Human Brain Mapping***. [link](https://doi.org/10.1101/2020.05.08.20095091)
