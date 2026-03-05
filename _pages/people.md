@@ -46,6 +46,11 @@ My research investigates psychiatric disorder and their heterogeneity through th
 My research focuses on understanding brain function across conscious and pathological states to identify reliable biomarkers of functional connectivity. Trained as a biomedical engineer at the Polytechnic University of Turin, I specialized in device design and bio-signal/image processing. I’m passionate about merging technology with neuropsychology. In my free time, I enjoy photography, tinkering, and sailing.
 <br><br><br><br>
 
+## Madhumitha Sivakumar Punitha, HiWi & Team Assistant
+<img align="left" src="https://mhm-lab.github.io/images/mad.png" width="150 px" style="padding: 10px"> <br>
+I’m Madhumitha, a Master’s student in Photonics at Friedrich Schiller University Jena. In the MHM Lab, I support administrative coordination and are involved in research activities. In my free time, I enjoy cinema, exploring cities and cafés, and reading mystery novels.
+<br><br><br><br>
+
 ## Minh-Hieu Nguyen, PhD Candidate
 <img align="left" src="https://mhm-lab.github.io/images/mh_pic.png" width="150 px" style="padding: 10px"> <br>
 I develop computational models to study learning and decision-making processes, especially in individuals with mental health disorders. My academic journey began in Chemistry at the National University of Singapore, followed by a master's in Neural Information Processing at the University of Tübingen. Outside the lab, I enjoy cooking, music, and reading.
