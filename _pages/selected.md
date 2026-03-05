@@ -48,7 +48,7 @@ As our work is interdisciplinary, we publish across leading machine learning and
 **2022** The normative modeling framework for computational psychiatry. ***Nature Protocols***. [link](https://doi.org/10.1038/s41596-022-00696-5)
 * SUMMARY: We describe the normative modeling framework for computational psychiatry, providing a comprehensive exploration of its principles and significance within the discipline, while also offering accessible tools for analyzing data within this framework.
 
-**2021** Replicating extensive brain structural heterogeneity in individuals with schizophrenia and bipolar disorder. ***Human Brain Mapping***. [link](https://doi.org/10.1101/2020.05.08.20095091)
+**2021** Replicating extensive brain structural heterogeneity in individuals with schizophrenia and bipolar disorder. ***Human Brain Mapping***. [link](https://doi.org/10.1002/hbm.25386)
 * SUMMARY: We replicated our earlier finding that patients in schizophrenia and bipolar disorder and showed an individualized profile of normative brain deviations. This has been replicated by various groups and extends to different mental and neurological conditions.
 
 **2019** Inter-individual differences in human brain structure and morphometry link to population variation in demographics and behavior. ***eLife***. [link](https://doi.org/10.7554/eLife.44443.001)
