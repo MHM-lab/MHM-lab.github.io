@@ -52,7 +52,7 @@ I develop computational models to study learning and decision-making processes, 
 <br><br><br><br>
 
 ## Nikolaos Pahakis, HiWi & IT Infrastructure
-<img align="left" src="https://mhm-lab.github.io/images/nikolaos.png" width="150 px" style="padding: 10px"> <br>
+<img align="left" src="https://mhm-lab.github.io/images/nikolaos1.png" width="150 px" style="padding: 10px"> <br>
 As a master's student in Cognitive Science, I’m currently optimizing the use of brain scans for normative modeling, trying to make norms more robust to preprocessing strategies. I’m passionate about brain science, hardware and technology. I spend my free time hiking, gaming, and discovering new foods.
 <br><br><br><br>
 
