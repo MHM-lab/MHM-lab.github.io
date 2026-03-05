@@ -12,12 +12,12 @@ As our work is interdisciplinary, we publish across leading machine learning and
 **2026** A normative reference for large-scale human brain dynamics across the lifespan. ***under review***.
 * SUMMARY: We establish a population-scale normative reference framework for intrinsic human brain dynamics using resting-state fMRI data from more than 10,000 individuals across the lifespan and 91 imaging sites. By identifying a compact set of recurring brain states that capture large-scale network reconfigurations, we anchor brain dynamics to normative lifespan models. This framework reveals systematic developmental and ageing-related changes and uncovers heterogeneous alterations across mental health conditions, extending normative brain mapping from static brain features to the temporal domain and enabling individualized assessment of brain dynamics.
 
-**2025** Deep Unsupervised Anomaly Detection in Brain Imaging: Large-Scale Benchmarking and Bias Analysis. ***under review***. [link](https://arxiv.org/abs/2512.01534)
-* SUMMARY: We created a large, multi-center benchmark for deep unsupervised anomaly detection in brain imaging based on state-of-art methods developed for brain science and industry, using about 460.000 slices from healthy brains for training. Our systematic evaluation across scanners, lesion types, and demographics reveals substantial performance variability and highlights key methodological limitations that future algorithms must overcome, in addition to systematic biases.
-  
-**2025** MedSAMix: A Training-Free Model Merging Approach for Medical Image Segmentation. ***AAAI - Main  Track***. [link](https://arxiv.org/abs/2508.11032)
+**2026** MedSAMix: A Training-Free Model Merging Approach for Medical Image Segmentation. ***AAAI - Main  Track***. [link](https://arxiv.org/abs/2508.11032)
 * SUMMARY: Universal medical segmentation models promise broad utility but struggle with scarce, heterogeneous data. We present MedSAMix, a training-free method that automatically merges generalist (SAM) and specialist (MedSAM) models for optimal performance. Across 25 tasks, MedSAMix reduces bias and improves both generalization and domain-specific accuracy by up to 6.7%.
-  
+
+**2026** Deep Unsupervised Anomaly Detection in Brain Imaging: Large-Scale Benchmarking and Bias Analysis. ***under review***. [link](https://arxiv.org/abs/2512.01534)
+* SUMMARY: We created a large, multi-center benchmark for deep unsupervised anomaly detection in brain imaging based on state-of-art methods developed for brain science and industry, using about 460.000 slices from healthy brains for training. Our systematic evaluation across scanners, lesion types, and demographics reveals substantial performance variability and highlights key methodological limitations that future algorithms must overcome, in addition to systematic biases.
+
 **2025** Hierarchical Characterization of Brain Dynamics via State Space-based Vector Quantization. ***MICCAI - Main Track***. [link](https://papers.miccai.org/miccai-2025/0405-Paper0118.html)
 * SUMMARY: We introduce a Hierarchical State-space Tokenization network (HST), which breaks brain activity into stable “tokens,” like building blocks, and tracks how the brain moves between them. Tested on two independent datasets our method captures these dynamics more clearly than existing approaches and shows promise for understanding dynamic brain functions in health and disease.
 
