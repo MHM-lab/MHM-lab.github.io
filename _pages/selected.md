@@ -30,7 +30,7 @@ As our work is interdisciplinary, we publish across leading machine learning and
 **2024** Computational psychiatry and the evolving concept of a mental disorder. ***Synthese***. [link](https://doi.org/10.1007/s11229-024-04741-6)
 * SUMMARY: We explore the pursuit of a coherent framework for research and treatment in psychiatry, driven by growing dissatisfaction with traditional concepts of mental disorders. This exploration incorporates various computational paradigms, including normative modeling, network theory, and learning-theoretic approaches. Each of these paradigms offers unique methodologies and visions for reconceptualizing mental disorders. In this discussion, we examine their similarities, differences, and potential conceptual conflicts.
 
-**2024** Characterising personalized neuropathology in dementia and mild cognitive impairment with explainable artificial intelligence. ***Nature Partner Journals Digital Medicine***. [link](https://doi.org/10.1038/s41746-024-01123-7)
+**2024** Characterising personalized neuropathology in dementia and mild cognitive impairment with explainable artificial intelligence. ***Nature PJ Digital Medicine***. [link](https://doi.org/10.1038/s41746-024-01123-7)
 *	SUMMARY: We trained a deep neural network to predict dementias. We use explainable machine learning to tease apart individual differences and make predictions (over time) on whether a specific individual develops dementia. We can do that up to 7 years early with good reliability.
 
 **2024** Mapping Cerebellar Anatomical Heterogeneity in Mental and Neurological Illnesses. ***Nature Mental Health***. [link](https://doi.org/10.1038/s44220-024-00297-z)
