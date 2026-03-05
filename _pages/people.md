@@ -56,6 +56,11 @@ I develop computational models to study learning and decision-making processes, 
 As a master's student in Cognitive Science, I’m currently optimizing the use of brain scans for normative modeling, trying to make norms more robust to preprocessing strategies. I’m passionate about brain science, hardware and technology. I spend my free time hiking, gaming, and discovering new foods.
 <br><br><br><br>
 
+## Gokul Perumbayil Vijayakrishnan, MSc & HiWi
+<img align="left" src="https://mhm-lab.github.io/images/gokul.png" width="150 px" style="padding: 10px"> <br>
+I am a master’s student in Artificial Intelligence currently completing my thesis at the MHM Lab. My work focuses on self-supervised learning of latent EEG representations for mental health analysis, aiming to improve how brain signals are modeled and interpreted. Before my master’s, I gained several years of industry experience in embedded systems and the automotive sector, which shaped my practical approach to applied AI and problem solving. Outside research, I enjoy traveling, exploring new technologies, and spending time with my family.
+<br><br><br><br>
+
 ## Elias Schreiner, Data Scientist & IT Infrastructure
 <img align="left" src="https://mhm-lab.github.io/images/elias.png" width="150 px" style="padding: 10px"> <br>
 I am a bioinformatics enthusiast working at the intersection of IT infrastructure and science. I apply deep learning to complex biological data to better understand neurodegenerative conditions and comorbid mental disorders. 
@@ -70,6 +75,8 @@ I am pursuing a master's in Neural Information Processing with a focus on machin
 <img align="left" src="https://mhm-lab.github.io/images/thomas_pic.png" width="150 px" style="padding: 10px"> <br>
 My research develops machine learning approaches to identify individual-level factors in mental health and other complex medical conditions. I earned my PhD from Radboud University and held research roles in the Netherlands, Norway, and the UK before founding the MHM Lab. My long-term goal is to translate technological advances into clinical practice. Outside of work, I enjoy yoga, meditation, socializing, and music. [Thomas's email](mailto:dr.thomas.wolfers@gmail.com) & [Homepage](https://thomaswolfers.github.io)
 <br><br><br><br>
+
+
 
 ## Jijia Xing, PhD Candidate
 <img align="left" src="https://mhm-lab.github.io/images/jijla.png" width="150 px" style="padding: 10px"> <br>
