@@ -9,7 +9,7 @@ On this page, we present selected peer-reviewed or upcoming publications, drawn 
 As our work is interdisciplinary, we publish across leading machine learning and artificial intelligence conferences (e.g., AAAI, 2026), first-class medical machine learning venues (e.g., MICCAI, 2025), major medical and psychiatry journals (e.g., JAMA Psychiatry, 2023), high-impact general-science journals (e.g., Nature family, 2024), respected philosophy journals (e.g., Synthese, 2024), and core neuroscience outlets (e.g., eLife, 2022).
 <br>
 <br>
-**2026** A normative reference for large-scale human brain dynamics across the lifespan. ***under review***. [link]()
+**2026** A normative reference for large-scale human brain dynamics across the lifespan. ***under review***.
 * SUMMARY: We establish a population-scale normative reference framework for intrinsic human brain dynamics using resting-state fMRI data from more than 10,000 individuals across the lifespan and 91 imaging sites. By identifying a compact set of recurring brain states that capture large-scale network reconfigurations, we anchor dynamic brain activity to normative lifespan models and quantify individual deviations from population norms. This framework reveals systematic developmental and ageing-related changes in brain dynamics and uncovers heterogeneous alterations across mental health conditions, extending normative brain mapping from static brain features to the temporal domain.
 
 **2025** Deep Unsupervised Anomaly Detection in Brain Imaging: Large-Scale Benchmarking and Bias Analysis. ***under review***. [link](https://arxiv.org/abs/2512.01534)
