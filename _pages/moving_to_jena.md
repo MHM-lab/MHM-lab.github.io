@@ -53,24 +53,16 @@ Jena is a lively city that supports its residents. We managed all city-related p
 **Useful links**  
 - [Kulturarena Festival](https://de.wikipedia.org/wiki/Kulturarena)  
 - [Zeiss Planetarium Jena](https://planetarium-jena.de/)  
-- If you enjoy **mountainbiking or hiking**, the [Saale Horizontale](https://www.saalehorizontalehike.de) is a fantastic trail right on Jena's doorstep.
+- If you enjoy ***mountainbiking or hiking***, the [Saale Horizontale](https://www.saalehorizontalehike.de) is a fantastic trail right on Jena's doorstep.
 - When there's snow, a [cross-country ski area in the Thuringian Forest](https://www.tourenportal-thueringer-wald.de/en/cross-country-ski-trails/thuringian-forest/cross-country-ski-trails-in-the-thuringian-forest/1445333/) is just a short drive away.
-- The **Czech Republic** is closer than you might think — the [West Bohemian Spa Triangle](https://www.visitczechia.com/en-us/things-to-do/places/landmarks/unesco/a-west-bohemian-spa-triangle) (Karlovy Vary, Mariánské Lázně, Františkovy Lázně) makes for a perfect extended weekend.
-- We are only just beginning to explore, there is plenty more to discover!
+- The ***Czech Republic*** is closer than you might think, the [West Bohemian Spa Triangle](https://www.visitczechia.com/en-us/things-to-do/places/landmarks/unesco/a-west-bohemian-spa-triangle) (Karlovy Vary, Mariánské Lázně, Františkovy Lázně) makes for a perfect extended weekend.
 
-## And Much More
-- We are only just beginning to explore — there is plenty more to discover! Sonnet 4.6Claude is AI and can make mistakes. Please double-check responses.Jena tips · MDCopyExploring the Region
-Outdoor Activities
-
-If you enjoy mountainbiking or hiking, the Saale Horizontale is a fantastic trail right on Jena's doorstep.
-When there's snow, a cross-country ski area in the Thuringian Forest is just a short drive away.
-
-Da
 **Highlights**  
 - Annual **Kulturarena** with international music and theater.  
 - The **Zeiss Planetarium**, the oldest in the world still in operation.  
 - Saale valley and Thuringian Forest for hiking, cycling, and outdoor activities.  
-- A lively student scene with cafés, clubs, and cultural venues.  
+- A lively student scene with cafés, clubs, and cultural venues.
+- We are only just beginning to explore, there is plenty more to discover!
 
 ---
 
