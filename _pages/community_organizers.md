@@ -35,16 +35,6 @@ Various researchers, labs, and institutes contribute to this workshop.
 <br>
 <br>
 
-## Workshop Steering Committee
-Christos Davatzikos (University of Pennsylvania, USA)
-<br>
-Seyed Mostafa Kia (University of Tilburg, Netherlands)
-<br>
-Andre Marquand (Donders Institute, Netherlands)
-<br>
-Jonas Richiardi (Lausanne University Hospital, Switzerland)
-<br>
-
 ## Reviewers 2024
 Alexander Frotscher
 <br>
