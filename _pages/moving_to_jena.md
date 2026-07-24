@@ -33,7 +33,7 @@ Carl Zeiss remains omnipresent. The largest [Carl Zeiss research campus worldwid
 
 Housing can be competitive but manageable, and the daycare infrastructure is excellent. Our children enjoy attending *Kita* until late afternoon, which makes balancing work and family life much easier.  
 
-Jena is a lively city that supports its residents. We managed all city-related paperwork **online**, received an appointment the same day, and completed everything within hours – almost unheard of in Germany.  
+Jena is a lively city that supports its residents. We managed all city-related paperwork **online**, received an appointment the same day, and completed everything within hours, almost unheard of in Germany.  
 
 **Useful links**  
 - [University of Jena: Living in Jena](https://www.uni-jena.de/en/1965/living-in-jena) 
@@ -90,7 +90,7 @@ Academic life is highly international, and English is widely spoken in research.
 - [TV-L Salary Calculator](https://oeffentlicher-dienst.info/c/t/rechner/tv-l/west?id=tv-l-2025)  
 - [Numbeo: Cost of Living](https://www.numbeo.com/cost-of-living)
   
-***You can check living costs in Jena for a data-driven overview***. What matters are living costs, median salaries, and returns on capital—figures that reflect conditions for most people, not just top earners. By this measure, Jena stands out: costs are about half of other cities in Germany ([compare yourself](https://livingcost.org/cost)) while average salaries are comparable or higher. Add reliable daycare, strong social services, healthcare, efficient local government, and affordable public spaces, and you get a city that thrives on balance—especially attractive for young professionals and families. Disclaimer: the tool reports average salaries, which are only rough estimates and likely based on skewed data.
+***You can check living costs in Jena for a data-driven overview***. What matters are living costs, median salaries, and returns on capital-figures that reflect conditions for most people, not just top earners. By this measure, Jena stands out: costs are about half of other cities in Germany ([compare yourself](https://livingcost.org/cost)) while average salaries are comparable or higher. Add reliable daycare, strong social services, healthcare, efficient local government, and affordable public spaces, and you get a city that thrives on balance, especially attractive for young professionals and families. Disclaimer: the tool reports average salaries, which are only rough estimates and likely based on skewed data.
 
 ---
 
