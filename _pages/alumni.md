@@ -15,12 +15,12 @@ Thanks to everyone who contributed to the progress of the work and the success o
 - **Hao-Chun (Chad) Yang** (2022–2024) → Now in industry (Aptiv)
 
 ### **PhD Graduates**
-- **Milin Kim** (2021-2026) → Now in industry (New York)
+- **Milin Kim** (2021-2026) → Now in industry (Startup)
 - **Esten Leonardsen** (2020–2024) → Postdoc, University of Oslo & Startup Founder  
 - **Rikka Kjelkenes** (2019–2023) → Postdoc, University of Oslo
 
 ### **MSc Students / Research Assistants**
-- **Nikolaos Pahakis** (2024-2026) → Now in industry
+- **Nikolaos Pahakis** (2024-2026) → Now in industry (Startup) 
 - **Nitin Sharma** (2022–2025) → Research Scientist, University of Tübingen (with Thomas)
 - **Gokul Vijayakrishnan** (2024–2025) → Now in industry (Mercedes-Benz)  
 - **Ayush-Kumar Chaudhary** (2025) → Continued with MSc, University of Tübingen  
