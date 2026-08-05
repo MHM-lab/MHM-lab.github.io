@@ -26,11 +26,6 @@ My research focuses on estimating longitudinal normative models in neuroimaging 
 As a PhD candidate, I explore how individual brain structure and function diverge over time, aiming to model these trajectories to identify dysfunction and underlying mechanisms. I hold a degree in Cognitive Neuroscience from the Donders Institute. My research now focuses on stochastic, biologically informed models to capture the uncertainty inherent in psychiatric conditions. Outside the lab, I enjoy long walks, racquet sports, and contemplative art. I believe the best science is like the best art. It is porous, subversive and elegant. I try to meet both with alacrity.
 <br><br><br><br>
 
-## Milin Kim, PhD Candidate
-<img align="left" src="https://mhm-lab.github.io/images/milin.png" width="150 px" style="padding: 10px"> <br>
-My research focuses on the development of the cerebellum across the lifespan and its role in neurological and psychiatric disorders. I use machine learning and neuroimaging from large populations to map cerebellar trajectories. Prior to my PhD at Oslo University Hospital, I studied psychology at Seoul National University and cognitive neuroscience at the University of Oslo. I enjoy exploring Norwegian nature, baking macarons, and reading.
-<br><br><br><br>
-
 ## Marc Lemnitzer, HiWi
 <img align="left" src="https://mhm-lab.github.io/images/marc.png" width="150 px" style="padding: 10px"> <br>
 I am a BSc student in Bioinformatics contributing to the development and validation of a machine learning package for mapping complex biomarker configurations. My main interests lie at the intersection of machine learning and biology. Despite a demanding schedule, I value time spent with friends.
@@ -51,11 +46,6 @@ My research focuses on understanding brain function across conscious and patholo
 I develop computational models to study learning and decision-making processes, especially in individuals with mental health disorders. My academic journey began in Chemistry at the National University of Singapore, followed by a master's in Neural Information Processing at the University of Tübingen. Outside the lab, I enjoy cooking, music, and reading.
 <br><br><br><br>
 
-## Nikolaos Pahakis, HiWi & IT Infrastructure
-<img align="left" src="https://mhm-lab.github.io/images/nikolaos1.png" width="150 px" style="padding: 10px"> <br>
-As a master's student in Cognitive Science, I’m currently optimizing the use of brain scans for normative modeling, trying to make norms more robust to preprocessing strategies. I’m passionate about brain science, hardware and technology. I spend my free time hiking, gaming, and discovering new foods.
-<br><br><br><br>
-
 ## Gokul Perumbayil Vijayakrishnan, MSc & HiWi
 <img align="left" src="https://mhm-lab.github.io/images/gokul.png" width="150 px" style="padding: 10px"> <br>
 I am a master’s student in Artificial Intelligence currently completing my thesis at the MHM Lab. My work focuses on self-supervised learning of latent EEG representations for mental health analysis, aiming to improve how brain signals are modeled and interpreted. Before my master’s, I gained several years of industry experience in embedded systems and the automotive sector, which shaped my practical approach to applied AI and problem solving. Outside research, I enjoy traveling, exploring new technologies, and spending time with my family.
@@ -66,7 +56,7 @@ I am a master’s student in Artificial Intelligence currently completing my the
 I am a bioinformatics enthusiast working at the intersection of IT infrastructure and science. I apply deep learning to complex biological data to better understand neurodegenerative conditions and comorbid mental disorders. 
 <br><br><br><br>
 
-## Nitin Sharma, Research Scientist
+## Nitin Sharma, PhD Candidate
 <img align="left" src="https://mhm-lab.github.io/images/nit_pic.jpg" width="150 px" style="padding: 10px"> <br>
 I am pursuing a master's in Neural Information Processing with a focus on machine learning for understanding mental disorders. My work involves analyzing multimodal data, including domain adaptation for multi-site depression datasets. I also explore normative modeling and individual differences as well as mechanistic interpretability in large language models. Outside the lab, I enjoy music, hiking, and time with friends.
 <br><br><br><br>
@@ -80,8 +70,6 @@ I’m Madhumitha, a Master’s student in Photonics at Friedrich Schiller Univer
 <img align="left" src="https://mhm-lab.github.io/images/thomas_pic.png" width="150 px" style="padding: 10px"> <br>
 My research develops machine learning approaches to identify individual-level factors in mental health and other complex medical conditions. I earned my PhD from Radboud University and held research roles in the Netherlands, Norway, and the UK before founding the MHM Lab. My long-term goal is to translate technological advances into clinical practice. Outside of work, I enjoy yoga, meditation, socializing, and music. [Thomas's email](mailto:dr.thomas.wolfers@gmail.com) & [Homepage](https://thomaswolfers.github.io)
 <br><br><br><br>
-
-
 
 ## Jijia Xing, PhD Candidate
 <img align="left" src="https://mhm-lab.github.io/images/jijla.png" width="150 px" style="padding: 10px"> <br>
