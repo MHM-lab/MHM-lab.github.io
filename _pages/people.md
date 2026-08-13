@@ -31,11 +31,6 @@ As a PhD candidate, I explore how individual brain structure and function diverg
 I am a BSc student in Bioinformatics contributing to the development and validation of a machine learning package for mapping complex biomarker configurations. My main interests lie at the intersection of machine learning and biology. Despite a demanding schedule, I value time spent with friends.
 <br><br><br><br>
 
-## Alia Mahama-Rodriguez, Researcher
-<img align="left" src="https://mhm-lab.github.io/images/alia.png" width="150 px" style="padding: 10px"> <br>
-My research investigates psychiatric disorder and their heterogeneity through the integration of neuroimaging and behavioral data. I apply machine learning to identify individual-level deviations in disorders like schizophrenia. Previously, I developed scalable pipelines in computational psychiatry and bioinformatics. Outside research, I enjoy yoga, hiking with my Borzoi Donatella, and experimental music through violin and theremin.
-<br><br><br><br>
-
 ## Francesco Mallus, PhD Candidate
 <img align="left" src="https://mhm-lab.github.io/images/mallus.png" width="150 px" style="padding: 10px"> <br>
 My research focuses on understanding brain function across conscious and pathological states to identify reliable biomarkers of functional connectivity. Trained as a biomedical engineer at the Polytechnic University of Turin, I specialized in device design and bio-signal/image processing. I’m passionate about merging technology with neuropsychology. In my free time, I enjoy photography, tinkering, and sailing.
