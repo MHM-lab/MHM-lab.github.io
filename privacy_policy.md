@@ -3,28 +3,19 @@ permalink: /privacy_policy/
 title: "Privacy Policy"
 ---
 
-Here you will find all information regarding our privacy policy.
-
-## What are your rights regarding data protection?
-We would like to make sure that you are fully aware of all your data protection rights:
-
-- You have the right to request copies of your personal data from websites or companies.
-- You have the right to request that your personal data is erased.
+This page explains what happens to your data when you visit this website.
 
 ## What data do we collect?
-This website does not collect any data.
+We do not collect, store, or process any personal data. The website has no contact forms, user accounts, or comment functions.
 
-## How do we store your data?
-We do not store any data.
+## Cookies, analytics, and tracking
+This website does not set cookies and does not use analytics or tracking tools (e.g., Google Analytics).
 
-## Do we use analytics software?
-We do not use any analytics software (e.g., Google Analytics).
+## Hosting
+The website is hosted on GitHub Pages, a service of GitHub, Inc. When you visit the site, GitHub may record technical information such as your IP address in its server logs for security and operational purposes. For details, see the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
-## What are cookies?
-Cookies are text files placed on your computer to collect standard internet log information and visitor behavior information. For further information you can visit allaboutcookies.org.
+## External links
+Pages on this website link to other websites (e.g., journals, universities, social media). Their own privacy policies apply once you follow such a link.
 
-## How to manage cookies?
-You can set your browser to refuse cookies. For further information you can visit allaboutcookies.org.
-
-## What types of cookies do we use?
-If we use cookies at all, these are from your browser and functional.
+## Your rights
+Under the GDPR, you have the right to request information about, correction of, and deletion of your personal data. For any questions, please contact [Thomas Wolfers](mailto:dr.thomas.wolfers@gmail.com).

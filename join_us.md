@@ -21,4 +21,4 @@ While science often requires periods of focused, solitary work, we actively crea
 We welcome people from all backgrounds and value diverse perspectives, experiences, and paths. What we ask of everyone is curiosity and a willingness to work and grow.
 
 ## Mentorship
-Competences change with time and topic, so the relationship between mentor and student is dynamic, not fixed. The ego, ideally, stays outside.
+Competences change with time and topic, so the relationship between mentor and student is dynamic, not fixed. We aim to keep ego out of it.

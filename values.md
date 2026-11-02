@@ -3,14 +3,14 @@ permalink: /values/
 title: "Values"
 ---
 
-We are all different and imperfect: we fail, misjudge context, and occasionally violate our own standards. This is not a bug but a feature of being human. Human fallibility is therefore both the reason values fail and the reason they are needed. Our values are guiding principles under uncertainty, not rigid rules or signals of virtue.
+We are all different and imperfect: we fail, misjudge context, and occasionally violate our own standards. This is part of being human. Human fallibility is therefore both the reason values fail and the reason they are needed. Our values are guiding principles under uncertainty, not rigid rules or signals of virtue.
 
 ## Attentive, kind, and honest communication
 
 Communication is one of the most difficult, yet one of the most important interpersonal skills. Skillful communication can be cultivated. We try to foster a laboratory based on attentive, kind, and honest communication. We take time to think about what it means for us individually and as a group and support each other in becoming better communicators with ourselves and each other.
 
 ## Celebrate and support each other
-Science today rewards the individual rather than the group, yet we rejoice in the success of others. We have limited influence on current reward systems, so it is important to acknowledge that we are part of a collective striving towards a larger goal. Without the people in our environment nothing is possible, and nothing would be achieved.
+Science today rewards the individual rather than the group, yet we rejoice in the success of others. We have limited influence on current reward systems, so it is important to acknowledge that we are part of a collective striving towards a larger goal. None of our work would be possible without the people around us.
 
 ## Embrace diversity
 
@@ -24,7 +24,7 @@ We help each other fail forward towards our goals and acknowledge that every new
 
 We focus on developing systems that help humans.
 
-Large Language Models (LLMs) are currently a narrow AI application, despite claims to the contrary, and a useful tool! Here is our [lab's policy on the use of LLMs](/use_LLMs/).
+We see large language models as useful tools with clear limits. Our [lab's policy on the use of LLMs](/use_LLMs/) sets out how we use them.
 
 ## Where do we publish and why?
 

@@ -4,7 +4,7 @@ permalink: /research/
 ---
 <!-- The four themes are in _data/research.yml -->
 
-<p>Mental health mapping is interdisciplinary by nature. Since the group was founded in 2022, we have published in leading machine learning venues and in psychiatry and neuroscience journals; see our <a href="/selected/">Selected Publications</a>. Our work is organized in four connected themes.</p>
+<p>Mental health mapping sits at the intersection of machine learning, neuroscience, psychiatry, and philosophy. Since its founding in 2022, the lab has published in leading venues across these fields (see <a href="/selected/">Selected Publications</a>). Our work is organized into four connected themes.</p>
 
 {% for theme in site.data.research %}
 <h2 id="{{ theme.name | downcase }}">{{ theme.title }}</h2>
@@ -12,4 +12,4 @@ permalink: /research/
 {{ theme.text | markdownify }}
 {% endfor %}
 
-<p><em>A note of humility: for many brain readouts, simple regression models perform as well as methods based on artificial intelligence.</em></p>
+<p><em>We also hold ourselves to a simple benchmark: for many brain readouts, well-specified regression models perform as well as more complex AI methods, and we report this honestly.</em></p>

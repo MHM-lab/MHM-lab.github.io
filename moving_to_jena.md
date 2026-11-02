@@ -7,9 +7,9 @@ title: "Moving to Jena"
 
 **Jena in Germany** is a city of about 110,000 people, located close to Leipzig (about 1–1.5 h by train) and Berlin (about 2.5–3 h by train). This allows you to enjoy the cultural and social opportunities of larger cities while living in a quieter environment with fewer daily distractions.
 
-Jena has a rich scientific and cultural heritage. It is the birthplace of **the planetarium** and of **modern optics** through Ernst Abbe, Carl Zeiss, and others. Less well known is that the **electroencephalogram (EEG)** was invented here in Jena by Prof. Berger, whose actions during the Nazi regime remind us that scientific achievement does not ensure moral integrity. His story also may tell us that in totalitarian regimes, moral courage becomes rare and costly. His suicide is both a cry of anguish and a warning that those silent today may be forced into unbearable circumstances tomorrow. Independent of Berger's actions, his pioneering work in **functional brain recordings** made Jena a birthplace of **human brain mapping** and the scientific study of the human mind. Generally, the University of Jena has been home to many [historical figures](https://www.uni-jena.de/en/109868/famous-university-teachers-and-students-from-the-history-of-the-university-of-jena-selection), including the first [female professor at a German university](https://www.uni-jena.de/en/213543/the-first-female-professor-at-a-german-university). The city has ties to [Humboldt, Schiller, and Goethe](https://communities.springernature.com/posts/humboldt-s-living-legacy-in-jena-germany), and their intellectual and cultural spirit is still felt today. Nearby Weimar, the birthplace of Germany's first democracy, and [Buchenwald](https://www.buchenwald.de/en/geschichte/chronologie/konzentrationslager), a stark reminder of its collapse and what followed, provide important historical lessons that remain relevant.
+Jena has a rich scientific and cultural heritage. It is the birthplace of **the planetarium** and of **modern optics** through Ernst Abbe, Carl Zeiss, and others. Less well known is that the **electroencephalogram (EEG)** was invented here by Hans Berger, whose conduct during the Nazi era is a reminder that scientific achievement does not guarantee moral integrity. His pioneering recordings nonetheless made Jena a birthplace of **human brain mapping** and the scientific study of the human mind. Generally, the University of Jena has been home to many [historical figures](https://www.uni-jena.de/en/109868/famous-university-teachers-and-students-from-the-history-of-the-university-of-jena-selection), including the first [female professor at a German university](https://www.uni-jena.de/en/213543/the-first-female-professor-at-a-german-university). The city has ties to [Humboldt, Schiller, and Goethe](https://communities.springernature.com/posts/humboldt-s-living-legacy-in-jena-germany), and their intellectual and cultural spirit is still felt today. Nearby Weimar, the birthplace of Germany's first democracy, and [Buchenwald](https://www.buchenwald.de/en/geschichte/chronologie/konzentrationslager), a stark reminder of its collapse and what followed, provide important historical lessons that remain relevant.
 
-In essence, Jena is a place where the **discovery of the stars** (through optics) and the **study of the brain** (through EEG) first emerged and intersected. At this crossroads, one might say, magic unfolds as the brain, through mysterious processes, creates experience, subjectivity, and ultimately the capacity to witness the universe itself. To me, that remains both awe-inspiring and profoundly fascinating.
+Jena is where the study of the stars, through optics, and the study of the brain, through EEG, first met, a connection I still find remarkable.
 
 Below you will find practical information about moving to **Jena** and Germany.
 If you would like to suggest additional information, please [get in touch](mailto:dr.thomas.wolfers@gmail.com).
@@ -64,7 +64,6 @@ Jena is a lively city that supports its residents. We managed all city-related p
 - The **Zeiss Planetarium**, the oldest in the world still in operation.
 - Saale valley and Thuringian Forest for hiking, cycling, and outdoor activities.
 - A lively student scene with cafés, clubs, and cultural venues.
-- We are only just beginning to explore, there is plenty more to discover!
 
 ## How to find an apartment in Jena?
 
@@ -78,7 +77,7 @@ Jena is a lively city that supports its residents. We managed all city-related p
 
 ## How German is it, and how much German do you need?
 
-Academic life is highly international, and English is widely spoken in research. There is absolutely no need to learn German for the work in our team. However, daily life and bureaucracy are primarily in German. Learning German helps with integration and social life. The University Language Centre offers free or affordable courses for researchers and students.
+Academic life is highly international, and English is widely spoken in research. German is not required for work in our team. However, daily life and bureaucracy are primarily in German. Learning German helps with integration and social life. The University Language Centre offers free or affordable courses for researchers and students.
 
 ## How to calculate your income and what are the living costs?
 
