@@ -1,0 +1,107 @@
+# ALUMNI, grouped by position. "next" = where they went afterwards (optional).
+
+- group: Postdoctoral researchers
+  people:
+  - name: Philipp Seidel
+    years: 2023–2025
+    next: Continued as Postdoc, University of Tübingen
+  - name: Hao-Chun (Chad) Yang
+    years: 2022–2024
+    next: Now in industry (Aptiv)
+- group: PhD graduates
+  people:
+  - name: Milin Kim
+    years: 2021–2026
+    next: Now in industry (Startup)
+  - name: Esten Leonardsen
+    years: 2020–2024
+    next: Postdoc, University of Oslo & Startup Founder
+  - name: Rikka Kjelkenes
+    years: 2019–2023
+    next: Postdoc, University of Oslo
+- group: MSc students / research assistants
+  people:
+  - name: Nikolaos Pahakis
+    years: 2024–2026
+    next: Now in industry (Startup)
+  - name: Nitin Sharma
+    years: 2022–2025
+    next: Research Scientist, University of Tübingen (with Thomas)
+  - name: Gokul Vijayakrishnan
+    years: 2024–2025
+    next: Now in industry (Mercedes-Benz)
+  - name: Ayush-Kumar Chaudhary
+    years: '2025'
+    next: Continued with MSc, University of Tübingen
+  - name: Melis Oktayoglu
+    years: '2025'
+    next: Now in industry (Startup)
+  - name: Chiara (Jonathan) Möller
+    years: '2024'
+    next: Travel / exploration year
+  - name: Alexander Frotscher
+    years: 2022–2023
+    next: Continued with PhD, University of Tübingen (with Thomas)
+  - name: Minh-Hieu Nguyen
+    years: 2022–2023
+    next: Continued with PhD, University of Tübingen (with Thomas)
+  - name: Sarah Sobotta
+    years: '2023'
+    next: Continued with PhD, Max Planck Institute Leipzig
+  - name: Mai Han Hoang
+    years: '2022'
+    next: Now in industry (Startup)
+  - name: Milin Kim
+    years: 2020–2021
+    next: Continued with PhD, University of Oslo (with Thomas)
+  - name: Victória Trindade
+    years: '2019'
+    next: Continued with PhD, University Medical Center Groningen
+  - name: Christina Isakoglou
+    years: '2017'
+    next: Continued with PhD, Radboud University Nijmegen
+  - name: Maria Paraskevopoulou
+    years: '2016'
+    next: Continued with PhD, Radboud University Nijmegen
+- group: BSc / Honors / DAAD
+  people:
+  - name: Xinyun Yuan
+    years: '2025'
+    next: Continued with MSc, Shandong University
+  - name: Ponnuru Mahesh Datta Sai
+    years: '2024'
+    next: Continued with BSc, SRM Institute of Science and Technology
+  - name: Sacha ten Broeke
+    years: '2023'
+    next: Continued with MSc, Radboud University Nijmegen
+- group: Research scientists / data scientists
+  people:
+  - name: Nitin Sharma
+    years: 2025–2026
+    next: PhD Candidate, University of Jena (with Thomas)
+  - name: Francesco Sammarco
+    years: 2024–2026
+    next: Now in industry (Startup)
+  - name: Alia Mahama-Rodriguez
+    years: '2026'
+    next: Now in industry
+  - name: Gülce Lale
+    years: 2024–2025
+    next: Continued with PhD, University of Tübingen
+- group: Lab rotations / internships
+  people:
+  - name: Samira Hajizadeh
+    years: 2024–2025
+    next: Continued with MSc, Columbia University
+  - name: Mylla Marsiglia
+    years: '2024'
+    next: Continued with PhD, Max Planck Institute Leipzig
+  - name: Shun-Chin Wu (Jim)
+    years: '2023'
+    next: Continued with MSc, University College London
+  - name: Can Demircan
+    years: '2023'
+    next: Continued with MSc, University of Tübingen
+  - name: María Berjano
+    years: '2022'
+    next: Continued with Lab Rotation, University of Duisburg-Essen

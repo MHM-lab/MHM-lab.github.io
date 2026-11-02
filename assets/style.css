@@ -1,0 +1,135 @@
+/* =============================================================
+   Mental Health Mapping – the only stylesheet for the site.
+   Colours are defined once here; change them in one place.
+   ============================================================= */
+
+:root {
+  --green: #4f7a37;        /* buttons, roles, accents */
+  --green-light: #74a155;  /* hover borders */
+  --ink: #1d1d1f;          /* headings */
+  --text: #3d4144;         /* body text */
+  --muted: #6e7378;        /* secondary text */
+  --line: #e6e8ea;         /* dividers */
+  --bg: #ffffff;
+  --link: #2f6f9f;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 17px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+img { max-width: 100%; height: auto; }
+a { color: var(--link); }
+a:hover { color: var(--green); }
+h1, h2, h3 { color: var(--ink); line-height: 1.2; text-wrap: balance; }
+h1 { font-size: 2.1rem; margin: 0 0 0.6em; letter-spacing: -0.01em; }
+h2 { font-size: 1.35rem; margin: 2em 0 0.5em; }
+h3 { font-size: 1.1rem; margin: 1.5em 0 0.4em; }
+
+/* ---------- header ---------- */
+.site-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem 2rem;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 1rem max(16px, env(safe-area-inset-left));
+  border-bottom: 1px solid var(--line);
+}
+.site-logo {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  color: var(--ink);
+  font-weight: 700;
+  text-decoration: none;
+}
+.site-nav { display: flex; flex-wrap: wrap; gap: 0.25rem 1.25rem; }
+.site-nav a { color: var(--muted); text-decoration: none; font-size: 0.95rem; }
+.site-nav a:hover, .site-nav a[aria-current] { color: var(--green); }
+
+/* ---------- main content ---------- */
+.content {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 2.5rem max(16px, env(safe-area-inset-left)) 4rem;
+}
+
+/* ---------- footer ---------- */
+.site-footer {
+  padding: 1.5rem 16px 2rem;
+  border-top: 1px solid var(--line);
+  background: #f6f7f8;
+  color: var(--muted);
+  font-size: 0.85rem;
+  text-align: center;
+}
+.site-footer p { margin: 0.3rem 0; }
+.site-footer a { color: var(--muted); }
+
+/* ---------- homepage ---------- */
+.lead { font-size: 1.2rem; line-height: 1.55; }
+.buttons { display: flex; flex-wrap: wrap; gap: 0.75rem; margin: 1.75rem 0 3rem; }
+.button {
+  padding: 0.65em 1.4em;
+  border: 1px solid var(--green);
+  border-radius: 999px;
+  background: var(--green);
+  color: #fff;
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-decoration: none;
+}
+.button:hover { background: #3f6229; color: #fff; }
+.button.secondary { background: transparent; color: var(--green); }
+.button.secondary:hover { background: var(--green); color: #fff; }
+
+.cards { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1.25rem; }
+.card { color: var(--text); text-decoration: none; }
+.card img { display: block; width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 10px; margin-bottom: 0.6rem; }
+.card strong { display: block; color: var(--ink); }
+.card span { display: block; color: var(--muted); font-size: 0.85rem; line-height: 1.4; }
+.card:hover strong { color: var(--green); }
+@media (max-width: 700px) { .cards { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+
+.note { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--line); color: var(--muted); font-size: 0.9rem; }
+
+/* ---------- people ---------- */
+.person { display: flex; gap: 1.5rem; padding: 1.75rem 0; border-top: 1px solid var(--line); }
+.person img { flex: 0 0 130px; width: 130px; height: 130px; object-fit: cover; object-position: center 20%; border-radius: 50%; background: #f0f1f2; }
+.person h2 { margin: 0; font-size: 1.2rem; }
+.role { margin: 0.15rem 0 0.6rem; color: var(--green); font-size: 0.85rem; font-weight: 700; }
+.person p { margin: 0 0 0.5rem; }
+@media (max-width: 600px) { .person { flex-direction: column; gap: 1rem; } }
+
+/* ---------- research ---------- */
+.theme-image { float: right; width: 180px; margin: 0 0 1rem 1.5rem; border-radius: 8px; }
+h2 { clear: both; }
+@media (max-width: 600px) { .theme-image { float: none; display: block; width: 100%; max-width: 320px; margin: 0 0 1rem; } }
+
+/* ---------- publications ---------- */
+.pub { padding: 1rem 0; border-bottom: 1px solid var(--line); }
+.pub strong { color: var(--ink); }
+.pub p { margin: 0.25rem 0; }
+.venue { color: var(--green); font-size: 0.75rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; }
+.summary { color: var(--muted); font-size: 0.92rem; }
+
+/* ---------- small helpers ---------- */
+.highlight {
+  margin: 1.5rem 0;
+  padding: 1rem 1.25rem;
+  border-left: 4px solid var(--green-light);
+  border-radius: 6px;
+  background: #f1f6ee;
+  color: var(--ink);
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+.meta { margin-top: -0.3rem; color: var(--green); font-size: 0.85rem; font-weight: 700; }

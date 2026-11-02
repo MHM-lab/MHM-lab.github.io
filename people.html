@@ -1,0 +1,24 @@
+---
+title: People
+permalink: /people/
+---
+<!-- Team members are listed in _data/people.yml -->
+
+<p>Our team, in alphabetical order.</p>
+
+{% for person in site.data.people %}
+<div class="person">
+<img src="/images/{{ person.photo }}" alt="Photo of {{ person.name }}" loading="lazy">
+<div>
+<h2>{{ person.name }}</h2>
+<p class="role">{{ person.role }}</p>
+{{ person.bio | markdownify }}
+</div>
+</div>
+{% endfor %}
+
+<h2>Join Us</h2>
+<p>We are always looking for motivated people. See <a href="/join_us/">Join Us</a> for open positions; if none are listed, feel free to get in touch about future openings.</p>
+
+<h2>Alumni</h2>
+<p>Our alumni have gone on to postdoctoral positions in Europe and beyond, to industry roles in data science, machine learning, and healthcare, and to start-ups. See the <a href="/alumni/">full list of alumni</a>.</p>

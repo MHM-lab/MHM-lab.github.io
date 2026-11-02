@@ -1,0 +1,16 @@
+---
+title: Alumni
+permalink: /alumni/
+---
+<!-- Alumni are listed in _data/alumni.yml -->
+
+<p>Thank you to everyone who has contributed to our work and to the success of the team. Below are our alumni and where they went next.</p>
+
+{% for group in site.data.alumni %}
+<h2>{{ group.group }}</h2>
+<ul>
+{% for p in group.people %}
+<li><strong>{{ p.name }}</strong> ({{ p.years }}){% if p.next %} → {{ p.next }}{% endif %}</li>
+{% endfor %}
+</ul>
+{% endfor %}

@@ -1,0 +1,53 @@
+# RESEARCH THEMES (shown on the homepage as cards and on the Research page in full)
+# short: one line for the homepage card. text: the full paragraph for the Research page.
+
+- name: Foundations
+  title: Foundations of Mental Health Mapping
+  image: foundations_of_mental_health_mapping.png
+  short: What is healthy, and what is a disorder?
+  text: >-
+    What counts as a disorder, and what is healthy or normative, is often unclear. We study the foundations
+    of health, disorder, and disease and ask questions such as: What is healthy? What is the right reference
+    group to compare disease with? Can systematic exploration of the mind help us understand it? In the
+    long run, this work contributes to the theoretical foundation of mental health mapping, incorporating
+    first- and third-person perspectives. We work together with philosophers, clinicians, and patients who
+    provide insights into clinical practice and inform our science in theoretical and practical ways.
+- name: Structures
+  title: Structures of Mental Health Mapping
+  image: structures_of_mental_health_mapping.png
+  short: From biology to families and society.
+  text: >-
+    Mental disorders are heritable, comorbid, and heterogeneous. Sometimes the structure underlying illness
+    is an impaired biology within one person; in other cases it lies in the dynamics between individuals,
+    groups or parts of society, or in environmental stressors. We ask questions such as: What makes one
+    sibling with a disorder different from another who is healthy? What are the interpersonal factors
+    contributing to mental health in families? When does it make sense to treat a group of individuals
+    instead of the individual patient? What is the role of society, and which policies and treatments
+    improve mental health? We work on large-scale studies that contain necessary data for answering these
+    questions and collaborate with scientists and clinicians.
+- name: Markers
+  title: Markers for Mental Health Mapping
+  image: markers_for_mental_health_mapping.png
+  short: The hidden factors behind illness.
+  text: >-
+    The factors underlying mental health and disorder are not well understood: a complex web of biological
+    and non-biological variables interacts to produce symptoms in each individual, which is one reason
+    we know little about markers of illness. With multimodal approaches we aim to detect the hidden factors
+    underlying illness, guided by questions such as: What makes one person different from another when
+    diagnosed with the same disorder? How can we uncover predictive markers for illness? Which data modalities
+    are informative for which disorder or disease process? We work together with scientists and clinicians
+    interested in different disorders and diseases.
+- name: Models
+  title: Models for Mental Health Mapping
+  image: models_for_mental_health_mapping.png
+  short: Machine learning, from lab to clinic.
+  text: >-
+    Most of our research relies on machine learning. We apply and develop methods for large-scale imaging,
+    electrophysiological, genetic, sensor, cognitive, and behavioral data. Our methods are built for high-dimensional
+    data and often unreliable labels. We ask questions such as: How can we use machine learning across
+    modalities? What methods are best to parse heterogeneity? Which longitudinal modeling procedures
+    are suited to deal with the properties of the underlying data structures? How can we increase the
+    interpretability of our models and ultimately how can we take machine learning from the lab to clinical
+    practice? We work together with scientists working on innovative data acquisition methods and are
+    interested in method development (e.g., machine learning, statistics) as well as in establishing best
+    practices in curating complex, large datasets required for our research agenda.

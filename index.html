@@ -1,0 +1,31 @@
+---
+permalink: /
+show_title: false
+---
+<!-- HOMEPAGE. The four research cards come from _data/research.yml -->
+
+<h1>Mental Health Mapping</h1>
+
+<p class="lead">
+We combine large, diverse datasets with machine learning to map how biological, social, and environmental factors shape each person's path, and we work with patients and clinicians to bring this into clinical practice.
+</p>
+
+<div class="buttons">
+<a class="button" href="/research/">Our research</a>
+<a class="button secondary" href="/join_us/">Join Us</a>
+</div>
+
+<div class="cards">
+{% for theme in site.data.research %}
+<a class="card" href="/research/#{{ theme.name | downcase }}">
+<img src="/images/{{ theme.image }}" alt="" loading="lazy">
+<strong>{{ theme.name }}</strong>
+<span>{{ theme.short }}</span>
+</a>
+{% endfor %}
+</div>
+
+<p class="note">
+Led by <a href="https://thomaswolfers.github.io">Thomas Wolfers</a> at the <a href="https://www.uni-jena.de/en/">University of Jena</a>.
+Follow us on <a href="https://www.linkedin.com/in/thomas-wolfers-5b96694b/">LinkedIn</a> and <a href="https://bsky.app/profile/thomaswolfers.bsky.social">Bluesky</a>.
+</p>

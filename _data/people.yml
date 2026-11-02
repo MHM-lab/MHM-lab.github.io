@@ -1,0 +1,154 @@
+# TEAM MEMBERS (shown on the People page, in this order)
+# To add someone: copy one block, put their photo in /images/, and fill in the fields.
+# To remove someone: delete their block (and add them to alumni.yml).
+# The bio can contain markdown, e.g. [link text](https://...).
+
+- name: Sicheng Dai
+  role: PostDoc
+  photo: dai.png
+  bio: >-
+    My research explores brain network modeling in health and disease by integrating Network Science and
+    Machine Learning. I earned my PhD in Computer Science from ENS Lyon, focusing on dynamic patterns
+    in large-scale temporal social networks. Outside of academia, I am an avid nature enthusiast and animal
+    lover.
+- name: Alexander Frotscher
+  role: PhD Candidate
+  photo: alex.jpg
+  bio: >-
+    My research centers on machine learning and unsupervised anomaly detection in neuroimaging data. I
+    strive to enhance methodological rigor in clinical applications by developing robust models that illuminate
+    biological variations and disease mechanisms. In my spare time, I enjoy various sports.
+- name: Mebin Muhammed Hamzakoya Sulaikha
+  role: PhD Candidate
+  photo: mebin.png
+  bio: >-
+    My research focuses on estimating longitudinal normative models in neuroimaging and other modalities,
+    combined with perspectives from dynamic modeling. Previously, during my M.Tech at IIT Ropar, I worked
+    on embryo image analysis to predict IVF outcomes. Beyond research, I enjoy traveling, engaging in
+    social work, and public speaking.
+- name: Atharva (Athu) Kand
+  role: PhD Candidate
+  photo: athu.png
+  bio: >-
+    As a PhD candidate, I explore how individual brain structure and function diverge over time, aiming
+    to model these trajectories to identify dysfunction and underlying mechanisms. I hold a degree in
+    Cognitive Neuroscience from the Donders Institute. My research now focuses on stochastic, biologically
+    informed models to capture the uncertainty inherent in psychiatric conditions. Outside the lab, I
+    enjoy long walks, racquet sports, and contemplative art. I believe the best science is like the best
+    art. It is porous, subversive, and elegant. I try to meet both with alacrity.
+- name: Marc Lemnitzer
+  role: HiWi
+  photo: marc.png
+  bio: >-
+    I am a BSc student in Bioinformatics contributing to the development and validation of a machine learning
+    package for mapping complex biomarker configurations. My main interests lie at the intersection of
+    machine learning and biology. Despite a demanding schedule, I value time spent with friends.
+- name: Francesco Mallus
+  role: PhD Candidate
+  photo: mallus.png
+  bio: >-
+    My research focuses on understanding brain function across conscious and pathological states to identify
+    reliable biomarkers of functional connectivity. Trained as a biomedical engineer at the Polytechnic
+    University of Turin, I specialized in device design and bio-signal/image processing. I am passionate
+    about merging technology with neuropsychology. In my free time, I enjoy photography, tinkering, and
+    sailing.
+- name: Minh-Hieu Nguyen
+  role: PhD Candidate
+  photo: mh_pic.png
+  bio: >-
+    I develop computational models to study learning and decision-making processes, especially in individuals
+    with mental health disorders. My academic journey began in Chemistry at the National University of
+    Singapore, followed by a master's in Neural Information Processing at the University of Tübingen.
+    Outside the lab, I enjoy cooking, music, and reading.
+- name: Gokul Perumbayil Vijayakrishnan
+  role: MSc & HiWi
+  photo: gokul.png
+  bio: >-
+    I am a master's student in Artificial Intelligence currently completing my thesis at the MHM Lab.
+    My work focuses on self-supervised learning of latent EEG representations for mental health analysis,
+    aiming to improve how brain signals are modeled and interpreted. Before my master's, I gained several
+    years of industry experience in embedded systems and the automotive sector, which shaped my practical
+    approach to applied AI and problem solving. Outside research, I enjoy traveling, exploring new technologies,
+    and spending time with my family.
+- name: Tanishka Randive
+  role: BSc Student
+  photo: tanishka.jpg
+  bio: >-
+    I am an undergraduate student in AI & Data Engineering, exploring the intersection of artificial intelligence, neuroscience, and mental health at the MHM Lab. My research uses machine learning and computer vision
+    to uncover patterns in neuroimaging data and better understand how the brain works. I am curious about
+    how we can turn complex data into meaningful insights about the human mind. Beyond research, I enjoy
+    exploring new places, chasing new ideas, and connecting with people who see the world differently.
+- name: David Redmer
+  role: MSc Student
+  photo: david.jpg
+  bio: >-
+    I am a master's student in Psychology and Cognitive Neuroscience at FSU Jena, currently completing
+    an internship at the MHM Lab. I am interested in the mechanisms underlying neurodegenerative and psychiatric
+    disorders and in how research findings can be translated into clinical practice. I enjoy reading single-case
+    reports, going to the gym, and deliberately stepping out of my comfort zone.
+- name: Elias Schreiner
+  role: Data Scientist & IT Infrastructure
+  photo: elias.png
+  bio: >-
+    I am a bioinformatics enthusiast working at the intersection of IT infrastructure and science. I apply
+    deep learning to complex biological data to better understand neurodegenerative conditions and comorbid
+    mental disorders.
+- name: Nitin Sharma
+  role: PhD Candidate
+  photo: nit_pic.jpg
+  bio: >-
+    I am pursuing a master's in Neural Information Processing with a focus on machine learning for understanding
+    mental disorders. My work involves analyzing multimodal data, including domain adaptation for multi-site
+    depression datasets. I also explore normative modeling and individual differences as well as mechanistic
+    interpretability in large language models. Outside the lab, I enjoy music, hiking, and time with friends.
+- name: Madhumitha Sivakumar Punitha
+  role: HiWi & Research Assistant
+  photo: mad.png
+  bio: >-
+    I am a master's student in Photonics at Friedrich Schiller University Jena. In the MHM
+    Lab, I support teaching and research activities. In my free time,
+    I enjoy cinema, exploring cities and cafés, and reading mystery novels.
+- name: Thomas Wolfers
+  role: PI
+  photo: thomas_pic.png
+  bio: >-
+    My research develops machine learning approaches to identify individual-level factors in mental health
+    and other complex medical conditions. I earned my PhD from Radboud University and held research roles
+    in the Netherlands, Norway, and the UK before founding the MHM Lab. My long-term goal is to translate
+    technological advances into clinical practice. Outside of work, I enjoy yoga, meditation, socializing,
+    and music. [Email](mailto:dr.thomas.wolfers@gmail.com) · [Homepage](https://thomaswolfers.github.io)
+- name: Jijia Xing
+  role: PhD Candidate
+  photo: jijia.jpg
+  bio: >-
+    My research focuses on large language models for psychiatry, particularly how these models encode
+    clinical and psychological knowledge. I am especially interested in their longer-term implicit risks,
+    such as how sycophantic models may lead to users' emotional dependence on conversational AI. I hope
+    to understand how these systems can be evaluated and designed so that they support, rather than harm,
+    people's mental health. Outside of work, I enjoy brewing coffee, photography, and tennis.
+- name: Yanwu Yang
+  role: PostDoc & Humboldt Fellow
+  photo: yanwu.jpg
+  bio: >-
+    My research interests include neuroimaging analysis and computational neuroscience. I focus on large-scale
+    analysis of brain development and aging, integrating deep learning for clinical applications and examining
+    foundational model behavior. I earned my MSc and PhD from Harbin Institute of Technology. I enjoy
+    gaming, travel, and coffee culture.
+- name: Çağatay Yıldız
+  role: PostDoc
+  photo: cagatay.jpg
+  bio: >-
+    I study how large language models learn new knowledge after pretraining, and why they forget old knowledge
+    along the way. My work combines continued pretraining and domain adaptation with mechanistic interpretability:
+    I look inside models to see where and how knowledge changes, and use that to design training methods
+    that add new knowledge efficiently without erasing what is already there. Before Jena, I was a postdoc
+    at the Cluster of Excellence "Machine Learning for Science" and the Tübingen AI Center. I did my PhD
+    at Aalto University, Finland.
+- name: Mariam Zabihi
+  role: PostDoc & Boehringer Ingelheim Fellow
+  photo: mariam.png
+  bio: >-
+    I hold a PhD in Statistical Neuroimaging from Radboud University Medical Center and specialize in
+    normative modeling to address heterogeneity in psychiatric disorders. As a BI research fellow and
+    postdoc, I advance generative modeling methods for neuroimaging analysis. My role contributes to both
+    methodological innovation and the broader understanding of psychiatric diversity.

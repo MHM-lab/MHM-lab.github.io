@@ -1,31 +1,79 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+# Mental Health Mapping – website
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+Live at **https://mhm-lab.github.io**. GitHub Pages rebuilds the site automatically about a minute after every change.
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+## What is where
 
-# Instructions
+| To change…                         | Edit this file                 |
+|------------------------------------|--------------------------------|
+| Team members (name, role, bio)     | `_data/people.yml` + photo in `images/` |
+| Alumni                             | `_data/alumni.yml`             |
+| Selected publications              | `_data/publications.yml`       |
+| Research themes (homepage + Research page) | `_data/research.yml`   |
+| Homepage text                      | `index.html`                   |
+| Menu, footer links, site title     | `_config.yml`                  |
+| Any other page                     | the `.md` file with its name (e.g. `teaching.md`, `join_us.md`) |
+| Colours, fonts, spacing            | `assets/style.css`             |
+| Page frame (header/footer)         | `_layouts/default.html`        |
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+You can edit everything directly on github.com: open the file, click the pencil icon, change it, then "Commit changes".
 
-See more info at https://academicpages.github.io/
+## Common tasks
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+**Add a team member**
+1. Upload a photo to `images/` (square-ish, around 600 px, `.jpg`).
+2. In `_data/people.yml`, copy an existing block and fill it in (keep alphabetical order):
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+```yaml
+- name: Jane Doe
+  role: PhD Candidate
+  photo: jane.jpg
+  bio: >-
+    One paragraph in the first person. Markdown links work: [lab](https://example.org).
+```
 
-# Changelog -- bugfixes and enhancements
+Role wording used so far: PI, PostDoc, PhD Candidate, MSc Student, BSc Student, HiWi, MSc & HiWi.
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+**Someone leaves** – delete their block in `people.yml` and add a line to the right group in `alumni.yml`:
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+```yaml
+  - name: Jane Doe
+    years: 2024–2027
+    next: Postdoc, University of X
+```
+
+**Add a publication** – add a block at the top of `_data/publications.yml` (newest first; years are grouped automatically):
+
+```yaml
+- year: 2027
+  title: Title of the paper
+  venue: Nature Neuroscience
+  link: https://doi.org/...
+  link_text: Paper        # or Preprint
+  summary: >-
+    Two or three sentences on why it matters.
+```
+
+**Add a new page** – create `my_page.md` with this at the top, then add it to `nav` in `_config.yml` if it belongs in the menu:
+
+```markdown
+---
+title: My Page
+permalink: /my_page/
+---
+
+Text in markdown…
+```
+
+## Writing style (keep it consistent)
+- American English: *modeling, organize, behavior, aging*.
+- Serial comma in lists: *machine learning, neuroscience, and psychiatry*.
+- Section headings in sentence case (*Open positions*); names of courses, papers and themes keep their capitals.
+- Bios in the first person (*I am…*, *My research…*), no contractions, refer to the lab as *the MHM Lab*.
+- Use *and* rather than *&* in running text; en dash for ranges (*2024–2026*, *12:15–13:45*).
+- Role labels: PI, PostDoc, PhD Candidate, MSc Student, BSc Student, HiWi (combine with *&*, e.g. *MSc & HiWi*).
+
+## Tips
+- YAML is picky about indentation: use spaces (not tabs) and keep the same indentation as the block you copied.
+- If a change breaks the build, GitHub emails you; the previous version stays online until it is fixed.
+- To preview locally (optional): `gem install jekyll` then `jekyll serve` in this folder, and open http://localhost:4000.
