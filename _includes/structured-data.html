@@ -1,0 +1,62 @@
+{% comment %}
+  Machine-readable facts for search engines and AI assistants (schema.org JSON-LD).
+  Filled automatically from _config.yml and the _data files; nothing to edit here.
+{% endcomment %}
+{% capture lab %}{
+    "@type": "ResearchOrganization",
+    "@id": "{{ site.url }}/#lab",
+    "name": "Laboratory for Mental Health Mapping",
+    "alternateName": ["MHM Lab", "Mental Health Mapping Lab"],
+    "url": "{{ site.url }}/",
+    "logo": "{{ site.url }}/images/logo.png",
+    "description": {{ site.description | strip_newlines | jsonify }},
+    "parentOrganization": {"@type": "CollegeOrUniversity", "name": "Friedrich Schiller University Jena", "url": "https://www.uni-jena.de/en/"},
+    "address": {"@type": "PostalAddress", "streetAddress": "Inselplatz 1", "postalCode": "07743", "addressLocality": "Jena", "addressCountry": "DE"},
+    "founder": {"@type": "Person", "@id": "{{ site.url }}/people/#thomas-wolfers", "name": "Thomas Wolfers"},
+    "knowsAbout": ["mental health", "psychiatry", "machine learning", "normative modeling", "neuroimaging", "computational psychiatry", "individual differences", "brain mapping"],
+    "sameAs": [{% for link in site.social %}{{ link.url | jsonify }}{% unless forloop.last %}, {% endunless %}{% endfor %}]
+  }{% endcapture %}
+<script type="application/ld+json">
+{% if page.url == "/" %}{
+  "@context": "https://schema.org",
+  "@graph": [
+    {{ lab }},
+    {"@type": "WebSite", "@id": "{{ site.url }}/#website", "url": "{{ site.url }}/", "name": "Mental Health Mapping Lab", "publisher": {"@id": "{{ site.url }}/#lab"}, "inLanguage": "en"}
+  ]
+}{% elsif page.url == "/people/" %}{
+  "@context": "https://schema.org",
+  "@graph": [
+    {{ lab }},
+    {% for p in site.data.people %}{
+      "@type": "Person",
+      "@id": "{{ site.url }}/people/#{{ p.first | append: ' ' | append: p.last | slugify }}",
+      "name": {{ p.first | append: " " | append: p.last | jsonify }},
+      "jobTitle": {{ p.role | jsonify }},
+      "image": "{{ site.url }}/images/{{ p.photo }}",
+      "description": {{ p.bio | strip_newlines | jsonify }},
+      "affiliation": {"@id": "{{ site.url }}/#lab"}
+    }{% unless forloop.last %},{% endunless %}{% endfor %}
+  ]
+}{% elsif page.url == "/selected/" %}{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Selected publications of the Laboratory for Mental Health Mapping",
+  "itemListElement": [{% for pub in site.data.publications %}{
+    "@type": "ListItem", "position": {{ forloop.index }},
+    "item": {"@type": "ScholarlyArticle", "headline": {{ pub.title | jsonify }}, "datePublished": "{{ pub.year }}", "isPartOf": {{ pub.venue | jsonify }}, "url": {{ pub.link | jsonify }}, "abstract": {{ pub.summary | strip_newlines | jsonify }}, "sourceOrganization": {"@id": "{{ site.url }}/#lab"}}
+  }{% unless forloop.last %},{% endunless %}{% endfor %}]
+}{% elsif page.url == "/research/" %}{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Research",
+  "about": [{% for t in site.data.research %}{"@type": "Thing", "name": {{ t.title | jsonify }}, "description": {{ t.text | strip_newlines | jsonify }}}{% unless forloop.last %}, {% endunless %}{% endfor %}],
+  "publisher": {{ lab }}
+}{% else %}{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": {{ page.title | default: site.title | jsonify }},
+  "description": {{ page.description | default: site.description | strip_newlines | jsonify }},
+  "url": "{{ site.url }}{{ page.url }}",
+  "publisher": {{ lab }}
+}{% endif %}
+</script>

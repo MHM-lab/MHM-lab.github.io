@@ -15,6 +15,7 @@ Live at **https://mhm-lab.github.io**. GitHub Pages rebuilds the site automatica
 | Any other page                     | the `.md` file with its name (e.g. `teaching.md`, `join_us.md`) |
 | Colours, fonts, spacing            | `assets/style.css`             |
 | Page frame (header/footer)         | `_layouts/default.html`        |
+| Search engine / AI summary         | `llms.txt`, `robots.txt` (structured data in `_includes/structured-data.html` updates itself) |
 
 You can edit everything directly on github.com: open the file, click the pencil icon, change it, then "Commit changes".
 

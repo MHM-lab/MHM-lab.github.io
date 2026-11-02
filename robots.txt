@@ -1,0 +1,5 @@
+# Everyone, including AI search assistants, may read this site.
+User-agent: *
+Allow: /
+
+Sitemap: https://mhm-lab.github.io/sitemap.xml
