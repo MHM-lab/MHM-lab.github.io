@@ -25,7 +25,8 @@ You can edit everything directly on github.com: open the file, click the pencil 
 2. In `_data/people.yml`, copy an existing block and fill it in (keep alphabetical order):
 
 ```yaml
-- name: Jane Doe
+- first: Jane
+  last: Doe
   role: PhD Candidate
   photo: jane.jpg
   bio: >-

@@ -105,6 +105,8 @@ h3 { font-size: 1.1rem; margin: 1.5em 0 0.4em; }
 .person { display: flex; gap: 1.5rem; padding: 1.75rem 0; border-top: 1px solid var(--line); }
 .person img { flex: 0 0 130px; width: 130px; height: 130px; object-fit: cover; object-position: center 20%; border-radius: 50%; background: #f0f1f2; }
 .person h2 { margin: 0; font-size: 1.2rem; }
+.name .first { font-weight: 400; color: var(--muted); }
+.name .last { font-weight: 700; color: var(--ink); }
 .role { margin: 0.15rem 0 0.6rem; color: var(--green); font-size: 0.85rem; font-weight: 700; }
 .person p { margin: 0 0 0.5rem; }
 @media (max-width: 600px) { .person { flex-direction: column; gap: 1rem; } }
