@@ -13,8 +13,6 @@ Open calls for postdoc, PhD, data scientist, and HiWi positions will be posted h
 
 Students interested in a master's thesis or an internship are welcome to apply directly, or to first join our [selective seminar](/teaching/) to get to know the lab.
 
-Thinking about relocating? Read our guide to [moving to Jena](/moving_to_jena/).
-
 ## How we learn
 Our lab aims to provide an environment in which learning is joyful, while recognizing that meaningful challenges inevitably come with both internal resistance (e.g., procrastination, self-doubt, fear of failure) and external resistance (e.g., critical reviews, rejection, or less-than-positive feedback). We treat these experiences not as obstacles to avoid, but as integral parts of scientific growth.
 
@@ -24,3 +22,6 @@ We welcome people from all backgrounds and value diverse perspectives, experienc
 
 ## Mentorship
 Competences change with time and topic, so the relationship between mentor and student is dynamic, not fixed. We aim to keep ego out of it.
+
+## Moving to Jena
+Thinking about relocating? Read our guide to [moving to Jena](/moving_to_jena/).
