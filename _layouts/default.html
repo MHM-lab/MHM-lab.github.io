@@ -20,7 +20,7 @@
     <img src="/images/logo4.png" alt="" width="40" height="33">
     <span>{{ site.title }}</span>
   </a>
-  <nav class="site-nav">
+  <nav class="site-nav" aria-label="Main">
     {% for item in site.nav %}
       <a href="{{ item.url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
     {% endfor %}

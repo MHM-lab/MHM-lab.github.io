@@ -3,6 +3,8 @@ permalink: /moving_to_jena/
 title: "Moving to Jena"
 ---
 
+*A personal guide by Thomas Wolfers.*
+
 **Jena in Germany** is a city of about 110,000 people, located close to Leipzig (about 1–1.5 h by train) and Berlin (about 2.5–3 h by train). This allows you to enjoy the cultural and social opportunities of larger cities while living in a quieter environment with fewer daily distractions.
 
 Jena has a rich scientific and cultural heritage. It is the birthplace of **the planetarium** and of **modern optics** through Ernst Abbe, Carl Zeiss, and others. Less well known is that the **electroencephalogram (EEG)** was invented here in Jena by Prof. Berger, whose actions during the Nazi regime remind us that scientific achievement does not ensure moral integrity. His story also may tell us that in totalitarian regimes, moral courage becomes rare and costly. His suicide is both a cry of anguish and a warning that those silent today may be forced into unbearable circumstances tomorrow. Independent of Berger's actions, his pioneering work in **functional brain recordings** made Jena a birthplace of **human brain mapping** and the scientific study of the human mind. Generally, the University of Jena has been home to many [historical figures](https://www.uni-jena.de/en/109868/famous-university-teachers-and-students-from-the-history-of-the-university-of-jena-selection), including the first [female professor at a German university](https://www.uni-jena.de/en/213543/the-first-female-professor-at-a-german-university). The city has ties to [Humboldt, Schiller, and Goethe](https://communities.springernature.com/posts/humboldt-s-living-legacy-in-jena-germany), and their intellectual and cultural spirit is still felt today. Nearby Weimar, the birthplace of Germany's first democracy, and [Buchenwald](https://www.buchenwald.de/en/geschichte/chronologie/konzentrationslager), a stark reminder of its collapse and what followed, provide important historical lessons that remain relevant.
@@ -12,22 +14,20 @@ In essence, Jena is a place where the **discovery of the stars** (through optics
 Below you will find practical information about moving to **Jena** and Germany.
 If you would like to suggest additional information, please [get in touch](mailto:dr.thomas.wolfers@gmail.com).
 
----
-
 ## How is the research environment in Jena?
 
 **Useful links**
+
 - [University of Jena: Research Environment](https://www.jenaversum.de/jenaversum/research/?lang=en)
 - [JenaWirtschaft: Research strengths](https://www.jenawirtschaft.de/en/location/research/)
 
 **Overview**
+
 Jena offers an internationally recognized research environment with many strengths. The University is a site of the **German Center for Mental Health**, where I am a PI. My professorship bridges the University and University Hospital. Two Clusters of Excellence further strengthen the research landscape.
 
 Several **Max Planck Institutes**, **Leibniz institutes**, and **Fraunhofer institutes** contribute to an interdisciplinary ecosystem.
 
 Carl Zeiss remains omnipresent. The largest [Carl Zeiss research campus worldwide](https://www.zeiss.de/corporate/ueber-zeiss/gegenwart/daten-fakten/zeiss-standorte/jena.html) is currently being built. As Carl Zeiss Professor, I aim to foster strong collaborations with the Carl Zeiss Foundation & Company, especially on relevant topics in machine learning.
-
----
 
 ## Getting started in Jena
 
@@ -36,21 +36,22 @@ Housing can be competitive but manageable, and the daycare infrastructure is exc
 Jena is a lively city that supports its residents. We managed all city-related paperwork **online**, received an appointment the same day, and completed everything within hours, almost unheard of in Germany.
 
 **Useful links**
+
 - [University of Jena: Living in Jena](https://www.uni-jena.de/en/1965/living-in-jena)
 - [Work-in-Jena Guide](https://www.work-in-jena.de/en/living-in-jena/)
 - [City of Jena: Welcome Center](https://neu.jena.de/en/node/51)
 
-**First steps before & after arrival**
+**First steps before and after arrival**
+
 - Contact the university's International Office for visa and residence permits.
 - Register your residence (*Anmeldung*).
 - Obtain health insurance (mandatory in Germany).
 - Open a German bank account.
 
----
-
 ## What can you do in and around Jena?
 
 **Useful links**
+
 - [Kulturarena Festival](https://de.wikipedia.org/wiki/Kulturarena)
 - [Zeiss Planetarium Jena](https://planetarium-jena.de/)
 - If you enjoy **mountainbiking or hiking**, the [Saale Horizontale](https://www.saalehorizontalehike.de) is a fantastic trail right on Jena's doorstep.
@@ -58,61 +59,54 @@ Jena is a lively city that supports its residents. We managed all city-related p
 - The **Czech Republic** is closer than you might think, the [West Bohemian Spa Triangle](https://www.visitczechia.com/en-us/things-to-do/places/landmarks/unesco/a-west-bohemian-spa-triangle) (Karlovy Vary, Mariánské Lázně, Františkovy Lázně) makes for a perfect extended weekend.
 
 **Highlights**
+
 - Annual **Kulturarena** with international music and theater.
 - The **Zeiss Planetarium**, the oldest in the world still in operation.
 - Saale valley and Thuringian Forest for hiking, cycling, and outdoor activities.
 - A lively student scene with cafés, clubs, and cultural venues.
 - We are only just beginning to explore, there is plenty more to discover!
 
----
-
 ## How to find an apartment in Jena?
 
 **Useful links**
+
 - [University: Housing information](https://www.uni-jena.de/en/59378/finding-an-accomodation-in-jena)
 - [WG-Gesucht (Shared flats)](https://www.wg-gesucht.de/en/)
 - [Studierendenwerk Thüringen: Student Housing](https://www.stw-thueringen.de/en/housing/)
 
 **Note**: Many private flats are rented **unfurnished**, sometimes without kitchens. Apply early and use university networks.
 
----
-
 ## How German is it, and how much German do you need?
 
 Academic life is highly international, and English is widely spoken in research. There is absolutely no need to learn German for the work in our team. However, daily life and bureaucracy are primarily in German. Learning German helps with integration and social life. The University Language Centre offers free or affordable courses for researchers and students.
 
----
-
 ## How to calculate your income and what are the living costs?
 
 **Useful links**
+
 - [Living costs in Jena](https://livingcost.org/cost)
 - [TV-L Salary Calculator](https://oeffentlicher-dienst.info/c/t/rechner/tv-l/west?id=tv-l-2025)
 - [Numbeo: Cost of Living](https://www.numbeo.com/cost-of-living)
 
 **You can check living costs in Jena for a data-driven overview**. What matters are living costs, median salaries, and returns on capital: figures that reflect conditions for most people, not just top earners. By this measure, Jena stands out: costs are about half of other cities in Germany ([compare yourself](https://livingcost.org/cost)) while average salaries are comparable or higher. Add reliable daycare, strong social services, healthcare, efficient local government, and affordable public spaces, and you get a city that thrives on balance, especially attractive for young professionals and families. Disclaimer: the tool reports average salaries, which are only rough estimates and likely based on skewed data.
 
----
-
 ## Social support systems
 
 Germany provides comprehensive social protection: health insurance, unemployment insurance, pensions, and public healthcare, automatically covered through employment. The University also offers counseling, mentoring, and integration services for international staff and students.
 
----
-
 ## Family and child support
 
 **Useful links**
+
 - [Work-in-Jena: Family Support](https://www.work-in-jena.de/en/living-in-jena/family/)
 - [City of Jena: Day-care & parental fees](https://service.jena.de/en/day-care-fees-and-parental-fee-calculation)
 - [Kindergeld (Federal Family Benefits Office)](https://www.arbeitsagentur.de/familie-und-kinder/kindergeld)
 
 **Overview**
+
 - Parental leave: up to 14 months at ~60% of last income.
 - Kindergarten and childcare: affordable, high quality (most with gardens and well-trained staff).
 - Public schools: free and good. International schools exist in nearby cities but are usually unnecessary.
-
----
 
 ## Vacation days
 

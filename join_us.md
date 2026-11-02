@@ -9,9 +9,7 @@ We are based at the University of Jena. If you would like to apply for individua
 
 ## Open positions
 
-**Postdoc and PhD positions.** No positions are advertised at the moment. Open calls will be posted here.
-
-**HiWi positions and master's projects.** No positions are advertised at the moment. Students interested in a thesis with us can also join our [selective seminar](/teaching/).
+No positions are advertised at the moment. Open calls for postdoc, PhD, and HiWi positions will be posted here. Students interested in a master's thesis with us can apply for our [selective seminar](/teaching/).
 
 Thinking about relocating? Read our guide to [moving to Jena](/moving_to_jena/).
 
