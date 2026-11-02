@@ -20,7 +20,7 @@ Our lab aims to provide an environment in which learning is joyful, while recogn
 
 While science often requires periods of focused, solitary work, we actively create opportunities for collaborative learning and shared reflection whenever possible. Our goal is to educate competent, confident researchers who are able to take on difficult problems and contribute responsibly to society. In our lab, you will be encouraged to develop both the technical skills and personal qualities needed to pursue ambitious goals, whether academic or beyond.
 
-We welcome people from all backgrounds and value diverse perspectives, experiences, and paths. What we ask of everyone is curiosity and a willingness to work hard.
+We welcome people from all backgrounds and value diverse perspectives, experiences, and paths. What we ask of everyone is curiosity and a willingness to work and grow.
 
 ## Mentorship
 Competences change with time and topic, so the relationship between mentor and student is dynamic, not fixed. The ego, ideally, stays outside.
