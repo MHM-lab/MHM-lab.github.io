@@ -3,7 +3,7 @@ permalink: /join_us/
 title: "Join Us"
 ---
 
-<p class="highlight">Curious, motivated, and ready to work hard? Then we would love to hear from you.</p>
+<p class="highlight">Curious, driven, and ready to put in the work? We would love to hear from you.</p>
 
 We are based at the University of Jena. If you would like to apply for individual funding with us (e.g., a Marie Curie fellowship) or have any other questions, email [Thomas Wolfers](mailto:dr.thomas.wolfers@gmail.com).
 
