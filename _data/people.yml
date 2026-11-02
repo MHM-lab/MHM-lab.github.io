@@ -7,7 +7,7 @@
 - first: Sicheng
   last: Dai
   role: PostDoc
-  photo: dai.png
+  photo: dai.jpg
   bio: >-
     My research explores brain network modeling in health and disease by integrating Network Science and
     Machine Learning. I earned my PhD in Computer Science from ENS Lyon, focusing on dynamic patterns
@@ -24,7 +24,7 @@
 - first: Mebin Muhammed
   last: Hamzakoya Sulaikha
   role: PhD Candidate
-  photo: mebin.png
+  photo: mebin.jpg
   bio: >-
     My research focuses on estimating longitudinal normative models in neuroimaging and other modalities,
     combined with perspectives from dynamic modeling. Previously, during my M.Tech at IIT Ropar, I worked
@@ -33,7 +33,7 @@
 - first: Atharva (Athu)
   last: Kand
   role: PhD Candidate
-  photo: athu.png
+  photo: athu.jpg
   bio: >-
     As a PhD candidate, I explore how individual brain structure and function diverge over time, aiming
     to model these trajectories to identify dysfunction and underlying mechanisms. I hold a degree in
@@ -44,7 +44,7 @@
 - first: Marc
   last: Lemnitzer
   role: HiWi
-  photo: marc.png
+  photo: marc.jpg
   bio: >-
     I am a BSc student in Bioinformatics contributing to the development and validation of a machine learning
     package for mapping complex biomarker configurations. My main interests lie at the intersection of
@@ -52,7 +52,7 @@
 - first: Francesco
   last: Mallus
   role: PhD Candidate
-  photo: mallus.png
+  photo: mallus.jpg
   bio: >-
     My research focuses on understanding brain function across conscious and pathological states to identify
     reliable biomarkers of functional connectivity. Trained as a biomedical engineer at the Polytechnic
@@ -62,7 +62,7 @@
 - first: Minh-Hieu
   last: Nguyen
   role: PhD Candidate
-  photo: mh_pic.png
+  photo: mh_pic.jpg
   bio: >-
     I develop computational models to study learning and decision-making processes, especially in individuals
     with mental health disorders. My academic journey began in Chemistry at the National University of
@@ -71,7 +71,7 @@
 - first: Gokul
   last: Perumbayil Vijayakrishnan
   role: MSc & HiWi
-  photo: gokul.png
+  photo: gokul.jpg
   bio: >-
     I am a master's student in Artificial Intelligence currently completing my thesis at the MHM Lab.
     My work focuses on self-supervised learning of latent EEG representations for mental health analysis,
@@ -100,7 +100,7 @@
 - first: Elias
   last: Schreiner
   role: Data Scientist & IT Infrastructure
-  photo: elias.png
+  photo: elias.jpg
   bio: >-
     I am a bioinformatics enthusiast working at the intersection of IT infrastructure and science. I apply
     deep learning to complex biological data to better understand neurodegenerative conditions and comorbid
@@ -117,7 +117,7 @@
 - first: Madhumitha
   last: Sivakumar Punitha
   role: HiWi & Research Assistant
-  photo: mad.png
+  photo: mad.jpg
   bio: >-
     I am a master's student in Photonics at Friedrich Schiller University Jena. In the MHM
     Lab, I support teaching and research activities. In my free time,
@@ -125,7 +125,7 @@
 - first: Thomas
   last: Wolfers
   role: PI
-  photo: thomas_pic.png
+  photo: thomas_pic.jpg
   bio: >-
     My research develops machine learning approaches to identify individual-level factors in mental health
     and other complex medical conditions. I earned my PhD from Radboud University and held research roles
@@ -165,7 +165,7 @@
 - first: Mariam
   last: Zabihi
   role: PostDoc & Boehringer Ingelheim Fellow
-  photo: mariam.png
+  photo: mariam.jpg
   bio: >-
     I hold a PhD in Statistical Neuroimaging from Radboud University Medical Center and specialize in
     normative modeling to address heterogeneity in psychiatric disorders. As a BI research fellow and

@@ -8,7 +8,7 @@ permalink: /research/
 
 {% for theme in site.data.research %}
 <h2 id="{{ theme.name | downcase }}">{{ theme.title }}</h2>
-<img class="theme-image" src="/images/{{ theme.image }}" alt="" loading="lazy">
+<img class="theme-image" src="/images/{{ theme.image }}" alt="" width="400" height="400">
 {{ theme.text | markdownify }}
 {% endfor %}
 

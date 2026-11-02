@@ -21,7 +21,7 @@ You can edit everything directly on github.com: open the file, click the pencil 
 ## Common tasks
 
 **Add a team member**
-1. Upload a photo to `images/` (square-ish, around 600 px, `.jpg`).
+1. Upload a photo to `images/`: square, 400 × 400 px, `.jpg`, on the shared light sage background (RGB 232, 237, 230), face roughly centered.
 2. In `_data/people.yml`, copy an existing block and fill it in (keep alphabetical order):
 
 ```yaml

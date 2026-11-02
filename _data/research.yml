@@ -3,7 +3,7 @@
 
 - name: Foundations
   title: Foundations of Mental Health Mapping
-  image: foundations_of_mental_health_mapping.png
+  image: theme_foundations.jpg
   short: What is healthy, and what is a disorder?
   text: >-
     What counts as a disorder, and what is healthy or normative, is often unclear. We study the foundations
@@ -14,7 +14,7 @@
     provide insights into clinical practice and inform our science in theoretical and practical ways.
 - name: Structures
   title: Structures of Mental Health Mapping
-  image: structures_of_mental_health_mapping.png
+  image: theme_structures.jpg
   short: From biology to families and society.
   text: >-
     Mental disorders are heritable, comorbid, and heterogeneous. Sometimes the structure underlying illness
@@ -27,7 +27,7 @@
     questions and collaborate with scientists and clinicians.
 - name: Markers
   title: Markers for Mental Health Mapping
-  image: markers_for_mental_health_mapping.png
+  image: theme_markers.jpg
   short: The hidden factors behind illness.
   text: >-
     The factors underlying mental health and disorder are not well understood: a complex web of biological
@@ -39,7 +39,7 @@
     interested in different disorders and diseases.
 - name: Models
   title: Models for Mental Health Mapping
-  image: models_for_mental_health_mapping.png
+  image: theme_models.jpg
   short: Machine learning, from lab to clinic.
   text: >-
     Most of our research relies on machine learning. We apply and develop methods for large-scale imaging,
