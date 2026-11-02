@@ -9,7 +9,7 @@ Our institutional home, our networks, and our contributions to the wider scienti
 ## Talks, courses, workshops, and conferences
 Talks, courses, workshops, and conferences are central to a thriving scientific community. Our current contributions:
 
-- **Workshop on Machine Learning in Clinical Neuroimaging** ([MLCN](https://mlcnworkshop.github.io)) at MICCAI: co-organizer.
+- **Workshop on Machine Learning in Clinical Neuroimaging** ([MLCN](https://mlcnworkshop.github.io)) at MICCAI: one of the main organizers since 2020.
 - **[ECNP](https://www.ecnp.eu), 2026–2029 and beyond:** Scientific Program Committee, abstract committee, and research network on machine learning for mental health.
 - **[ELLIS Unit Jena](https://www.ellis-jena.ai/thomas-wolfers/):** member of the European Laboratory for Learning and Intelligent Systems network.
 - **[Digital Academy](https://www.uni-jena.de/388487/digital-academy)** at Friedrich Schiller University Jena.
