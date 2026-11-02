@@ -6,9 +6,10 @@ This is a non-commercial website presenting the scientific work of the laborator
 
 ## Contact
 
-Thomas Wolfers,
-Calwerstraße 14,
-72076 Tübingen
+Thomas Wolfers<br>
+Friedrich Schiller University Jena<br>
+Inselplatz 1<br>
+07743 Jena, Germany
 
 E-Mail: dr.thomas.wolfers@gmail.com
 
