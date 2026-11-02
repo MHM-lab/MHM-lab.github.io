@@ -17,7 +17,7 @@ Talks, courses, workshops, and conferences are central to a thriving scientific 
 - **Workshop on Machine Learning in Clinical Neuroimaging** ([MLCN](https://mlcnworkshop.github.io)) at MICCAI: co-organizer.
 - **Teaching:** the [Computational Psychiatry Course at ETH Zurich](https://www.translationalneuromodeling.org/cpcourse/), [Machine Learning for Neuroimaging at Stanford University](https://web.stanford.edu/class/psyc221/), and LMU's computational psychiatry course.
 - **[Computational Psychiatry Conference](https://www.cpconf.org) 2025:** local organizing committee.
-- **[ECNP 2026 in Munich](https://www.ecnp.eu):** Scientific Program Committee, abstract committee, and helping to establish a research network on machine learning for mental health.
+- **[ECNP 2026 in Munich](https://www.ecnp.eu):** Scientific Program Committee, abstract committee, and research network on machine learning for mental health.
 - **Invited talks** at Biological Psychiatry (USA) and at machine learning conferences.
 
 For questions or requests, get in touch by [email](mailto:dr.thomas.wolfers@gmail.com).
