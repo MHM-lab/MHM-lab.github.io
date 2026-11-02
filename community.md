@@ -18,7 +18,6 @@ Talks, courses, workshops, and conferences are central to a thriving scientific 
 - **[ECNP](https://www.ecnp.eu), 2026–2029 and beyond:** Scientific Program Committee, abstract committee, and research network on machine learning for mental health.
 - **[ELLIS Unit Jena](https://www.ellis-jena.ai/thomas-wolfers/):** member of the European Laboratory for Learning and Intelligent Systems network.
 - **[Digital Academy](https://www.uni-jena.de/388487/digital-academy)** at the University of Jena.
-- **SysBrain:** contributing to its development and joining as one of its principal investigators.
 - **[German Center for Mental Health (DZPG)](https://www.dzpg.org), Jena site:** contributing to its development.
 
 For questions or requests, get in touch by [email](mailto:dr.thomas.wolfers@gmail.com).
