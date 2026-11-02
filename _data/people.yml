@@ -31,8 +31,7 @@
   photo: athu.jpg
   bio: >-
     I model how individual brain structure and function diverge over time, using stochastic, biologically
-    informed models to capture uncertainty in psychiatric conditions. I studied Cognitive Neuroscience
-    at the Donders Institute.
+    informed models to capture uncertainty in psychiatric conditions. I hold a master's in Cognitive Neuroscience from the Donders Institute, Radboud University.
 - first: Lina (Evangelia Sofia)
   last: Kornaraki
   role: MSc Student
@@ -53,7 +52,7 @@
   photo: mallus.jpg
   bio: >-
     I study brain function across conscious and pathological states to identify reliable functional connectivity
-    biomarkers. I trained as a biomedical engineer at the Polytechnic University of Turin.
+    biomarkers. I hold a master's in Biomedical Engineering from the Polytechnic University of Turin.
 - first: Minh-Hieu
   last: Nguyen
   role: PhD Candidate
@@ -109,7 +108,7 @@
   photo: thomas_pic.jpg
   bio: >-
     I lead the MHM Lab and develop machine learning approaches to identify individual-level factors in
-    mental health and other complex conditions. I received my PhD from Radboud University and held research
+    mental health and other complex conditions. I hold a PhD from Radboud University and held research
     positions in the Netherlands, Norway, and the UK.
 - first: Jijia
   last: Xing
@@ -117,27 +116,24 @@
   photo: jijia.jpg
   bio: >-
     I study how large language models encode clinical and psychological knowledge, and their longer-term
-    risks, such as emotional dependence on sycophantic conversational AI. I studied Mathematics at Imperial
-    College London.
+    risks, such as emotional dependence on sycophantic conversational AI. I hold a master's in Mathematics from Imperial College London.
 - first: Yanwu
   last: Yang
   role: PostDoc & Humboldt Fellow
   photo: yanwu.jpg
   bio: >-
     I study brain development and aging at scale, using deep learning for clinical applications and examining
-    the behavior of foundation models. I received my PhD from Harbin Institute of Technology.
+    the behavior of foundation models. I hold a PhD from Harbin Institute of Technology.
 - first: Çağatay
   last: Yıldız
   role: PostDoc
   photo: cagatay.jpg
   bio: >-
     I study how large language models acquire new knowledge after pretraining without forgetting existing
-    knowledge, combining continued pretraining with mechanistic interpretability. I received my PhD from
-    Aalto University and was previously a postdoc in Tübingen.
+    knowledge, combining continued pretraining with mechanistic interpretability. I hold a PhD from Aalto University and was previously a postdoc in Tübingen.
 - first: Mariam
   last: Zabihi
   role: PostDoc & Boehringer Ingelheim Fellow
   photo: mariam.jpg
   bio: >-
-    I develop generative normative models to address heterogeneity in psychiatric disorders. I received
-    my PhD in Statistical Neuroimaging from Radboud University Medical Center.
+    I develop generative normative models to address heterogeneity in psychiatric disorders. I hold a PhD in Statistical Neuroimaging from Radboud University Medical Center.
