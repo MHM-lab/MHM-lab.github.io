@@ -5,7 +5,7 @@ title: "Privacy Policy"
 
 This page explains what happens to your data when you visit this website.
 
-## What data do we collect?
+## Data we collect
 We do not collect, store, or process any personal data. The website has no contact forms, user accounts, or comment functions.
 
 ## Cookies, analytics, and tracking
@@ -18,4 +18,4 @@ The website is hosted on GitHub Pages, a service of GitHub, Inc. When you visit 
 Pages on this website link to other websites (e.g., journals, universities, social media). Their own privacy policies apply once you follow such a link.
 
 ## Your rights
-Under the GDPR, you have the right to request information about, correction of, and deletion of your personal data. For any questions, please contact [Thomas Wolfers](mailto:dr.thomas.wolfers@gmail.com).
+Under the GDPR, you have the right to request information about, correction of, and deletion of your personal data.

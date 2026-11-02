@@ -11,7 +11,7 @@ Talks, courses, workshops, and conferences are central to a thriving scientific 
 - **Workshop on Machine Learning in Clinical Neuroimaging** ([MLCN](https://mlcnworkshop.github.io)) at MICCAI: co-organizer.
 - **[ECNP](https://www.ecnp.eu), 2026–2029 and beyond:** Scientific Program Committee, abstract committee, and research network on machine learning for mental health.
 - **[ELLIS Unit Jena](https://www.ellis-jena.ai/thomas-wolfers/):** member of the European Laboratory for Learning and Intelligent Systems network.
-- **[Digital Academy](https://www.uni-jena.de/388487/digital-academy)** at the University of Jena.
+- **[Digital Academy](https://www.uni-jena.de/388487/digital-academy)** at Friedrich Schiller University Jena.
 - **[German Center for Mental Health (DZPG)](https://www.dzpg.org), Jena site:** contributing to its development.
 
 ## In Jena, Germany

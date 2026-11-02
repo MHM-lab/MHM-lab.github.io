@@ -42,10 +42,10 @@
     are coupled and whether this coupling can serve as a marker for psychiatric disorders.
 - first: Marc
   last: Lemnitzer
-  role: HiWi
+  role: MSc Student & HiWi
   photo: marc.jpg
   bio: >-
-    I am a BSc student in Bioinformatics and help develop and validate a machine learning package for
+    I am a master's student in Bioinformatics and help develop and validate a machine learning package for
     mapping complex biomarker configurations.
 - first: Francesco
   last: Mallus
@@ -63,7 +63,7 @@
     I hold a master's in Neural Information Processing from the University of Tübingen.
 - first: Gokul
   last: Perumbayil Vijayakrishnan
-  role: MSc & HiWi
+  role: MSc Student & HiWi
   photo: gokul.jpg
   bio: >-
     I am a master's student in Artificial Intelligence writing my thesis on self-supervised learning of
@@ -81,7 +81,7 @@
   role: MSc Student
   photo: david.jpg
   bio: >-
-    I am a master's student in Psychology and Cognitive Neuroscience at FSU Jena, interested in the mechanisms
+    I am a master's student in Psychology and Cognitive Neuroscience at Friedrich Schiller University Jena, interested in the mechanisms
     of neurodegenerative and psychiatric disorders and their translation into clinical practice.
 - first: Elias
   last: Schreiner
@@ -102,7 +102,7 @@
   role: HiWi & Research Assistant
   photo: mad.jpg
   bio: >-
-    I am a master's student in Photonics at FSU Jena and support the lab's teaching and research activities.
+    I am a master's student in Photonics at Friedrich Schiller University Jena and support the lab's teaching and research activities.
 - first: Thomas
   last: Wolfers
   role: PI

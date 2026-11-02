@@ -26,6 +26,6 @@ We focus on developing systems that help humans.
 
 We see large language models as useful tools with clear limits. Our [lab's policy on the use of LLMs](/use_LLMs/) sets out how we use them.
 
-## Where do we publish and why?
+## Where we publish and why
 
 We publish across leading venues in machine learning, psychiatry, psychology, and neuroscience because mental health mapping is inherently interdisciplinary and benefits from visibility in all of these communities. High-impact machine learning conferences and medical or neuroscience journals ensure our work reaches both methodological innovators and clinical scientists. At the same time, we aim to balance impact and accessibility. While we support open science and believe publication fees should reflect real value, we also recognize that journal and conference prestige remains important, especially for early-career researchers. Our publication strategy therefore prioritizes scientific reach and career support, while encouraging a culture that decouples this from high fees or in-group favoritism.

@@ -3,7 +3,7 @@ permalink: /teaching/
 title: "Teaching and Seminars"
 ---
 
-We contribute to the teaching portfolio at Friedrich Schiller University (FSU) by developing an integrated, interdisciplinary teaching program spanning cognitive neuroscience, brain imaging, and machine learning, aimed at FSU students as well as national and international participants.
+We contribute to the teaching portfolio at Friedrich Schiller University Jena by developing an integrated, interdisciplinary teaching program spanning cognitive neuroscience, brain imaging, and machine learning, aimed at its students as well as national and international participants.
 
 ## Parsing Individual Differences in Brain Disorders
 <p class="meta">Winter term · three weekends in November</p>
