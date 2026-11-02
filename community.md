@@ -1,6 +1,7 @@
 ---
 permalink: /community/
 title: "Community"
+description: "Current contributions of the laboratory for Mental Health Mapping to the scientific community in Jena and beyond."
 ---
 
 Our institutional home, our networks, and our contributions to the wider scientific community.

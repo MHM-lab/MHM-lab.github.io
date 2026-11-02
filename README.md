@@ -72,7 +72,7 @@ Text in markdown…
 - Section headings in sentence case (*Open positions*); names of courses, papers and themes keep their capitals.
 - Bios in the first person (*I am…*, *My research…*), no contractions, refer to the lab as *the MHM Lab*.
 - Use *and* rather than *&* in running text; en dash for ranges (*2024–2026*, *12:15–13:45*).
-- Role labels: PI, PostDoc, PhD Candidate, MSc Student, BSc Student, HiWi (combine with *&*, e.g. *MSc Student & HiWi*).
+- Role labels: Principal Investigator, PostDoc, PhD Candidate, MSc Student, BSc Student, HiWi (combine with *&*, e.g. *MSc Student & HiWi*).
 
 ## Tips
 - YAML is picky about indentation: use spaces (not tabs) and keep the same indentation as the block you copied.

@@ -1,6 +1,7 @@
 ---
 permalink: /teaching/
 title: "Teaching and Seminars"
+description: "Courses and seminars on individual differences, neuroscience, psychology, and machine learning at Friedrich Schiller University Jena."
 ---
 
 We contribute to the teaching portfolio at Friedrich Schiller University Jena by developing an integrated, interdisciplinary teaching program spanning cognitive neuroscience, brain imaging, and machine learning, aimed at its students as well as national and international participants.

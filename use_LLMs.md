@@ -1,6 +1,7 @@
 ---
 permalink: /use_LLMs/
 title: "Use of LLMs"
+description: "How the laboratory for Mental Health Mapping uses large language models in studies, publications, and peer review."
 ---
 
 Large Language Models (LLMs) can be useful for structuring ideas or refining language. At the same time, they raise important questions of academic integrity, transparency, and accountability.

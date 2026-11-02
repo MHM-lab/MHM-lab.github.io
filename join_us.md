@@ -1,11 +1,12 @@
 ---
 permalink: /join_us/
 title: "Join Us"
+description: "Open positions, theses, and internships at the laboratory for Mental Health Mapping, Friedrich Schiller University Jena."
 ---
 
 <p class="highlight">Curious, driven, kind, and ready to put in the work? We would love to hear from you.</p>
 
-We are based at Friedrich Schiller University Jena. If you would like to apply for individual funding with us (e.g., a Marie Curie fellowship) or have any other questions, email [Thomas Wolfers](mailto:dr.thomas.wolfers@gmail.com).
+We are based at Friedrich Schiller University Jena. To apply, email [Thomas Wolfers](mailto:dr.thomas.wolfers@gmail.com) your CV and a short statement of your interests. The same applies if you would like to apply for individual funding with us (e.g., a Marie Curie fellowship) or have any other questions.
 
 ## Open positions
 

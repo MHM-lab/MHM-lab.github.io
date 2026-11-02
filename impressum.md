@@ -1,6 +1,7 @@
 ---
 permalink: /impressum/
 title: "Impressum"
+description: "Legal notice for the website of the laboratory for Mental Health Mapping."
 ---
 This is a non-commercial website presenting the scientific work of the laboratory for Mental Health Mapping.
 

@@ -1,6 +1,7 @@
 ---
 permalink: /moving_to_jena/
 title: "Moving to Jena"
+description: "A personal guide to moving to Jena: research environment, housing, language, living costs, and family support."
 ---
 
 *A personal guide by Thomas Wolfers.*
@@ -103,7 +104,7 @@ Germany provides comprehensive social protection: health insurance, unemployment
 
 **Overview**
 
-- Parental leave: up to 14 months at about 60% of the last income.
+- Parental allowance (*Elterngeld*): 65–67% of net income for up to 14 months when both parents take leave (12 months for one parent).
 - Kindergarten and childcare: affordable, high quality (most with gardens and well-trained staff).
 - Public schools: free and good. International schools exist in nearby cities but are usually unnecessary.
 
