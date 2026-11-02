@@ -16,5 +16,7 @@ Talks, courses, workshops, and conferences are central to a thriving scientific 
 
 - **Workshop on Machine Learning in Clinical Neuroimaging** ([MLCN](https://mlcnworkshop.github.io)) at MICCAI: co-organizer.
 - **[ECNP 2026 in Munich](https://www.ecnp.eu):** Scientific Program Committee, abstract committee, and research network on machine learning for mental health.
+- **[ELLIS Unit Jena](https://www.ellis-jena.ai/thomas-wolfers/):** member of the European Laboratory for Learning and Intelligent Systems network.
+- **[Digital Academy](https://www.uni-jena.de/394735/creating-the-digital-academy)** at the University of Jena.
 
 For questions or requests, get in touch by [email](mailto:dr.thomas.wolfers@gmail.com).
