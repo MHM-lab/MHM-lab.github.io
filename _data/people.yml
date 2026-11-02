@@ -37,14 +37,14 @@
   role: MSc Student
   photo: lina.jpg
   bio: >-
-    I am a master's student in Psychology, studying how structural and functional brain connectivity
+    I am a master's student in Psychology at Friedrich Schiller University Jena, studying how structural and functional brain connectivity
     are coupled and whether this coupling can serve as a marker for psychiatric disorders.
 - first: Marc
   last: Lemnitzer
   role: MSc Student & HiWi
   photo: marc.jpg
   bio: >-
-    I am a master's student in Bioinformatics and help develop and validate a machine learning package for
+    I am a master's student in Bioinformatics at the University of Tübingen and help develop and validate a machine learning package for
     mapping complex biomarker configurations.
 - first: Francesco
   last: Mallus
@@ -73,7 +73,7 @@
   role: BSc Student
   photo: tanishka.jpg
   bio: >-
-    I am an undergraduate student in AI and Data Engineering, applying machine learning and computer vision
+    I am an undergraduate student in AI and Data Engineering at IIT Ropar, applying machine learning and computer vision
     to neuroimaging data.
 - first: David
   last: Redmer
@@ -88,7 +88,7 @@
   photo: elias.jpg
   bio: >-
     I run the lab's IT infrastructure and apply deep learning to biological data on neurodegenerative
-    conditions and comorbid mental disorders.
+    conditions and comorbid mental disorders. I hold a degree in Bioinformatics from the University of Tübingen.
 - first: Nitin
   last: Sharma
   role: PhD Candidate
