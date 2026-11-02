@@ -9,7 +9,7 @@ We are based at Friedrich Schiller University Jena. If you would like to apply f
 
 ## Open positions
 
-No positions are advertised at the moment. Open calls for postdoc, PhD, data scientist, and HiWi positions will be posted here.
+Open calls for postdoc, PhD, data scientist, and HiWi positions will be posted here.
 
 Students interested in a master's thesis or an internship are welcome to apply directly, or to first join our [selective seminar](/teaching/) to get to know the lab.
 
