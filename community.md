@@ -12,12 +12,9 @@ Funded by the [Carl-Zeiss-Stiftung](https://www.carl-zeiss-stiftung.de/en/), the
 We are a part of the [Department of Psychiatry at the University of Tübingen](https://www.medizin.uni-tuebingen.de/en-de/das-klinikum/einrichtungen/kliniken/psychiatrie-und-psychotherapie), which is one of the locations of the German Center for Mental Health. Our group is associated with the [IMPRS for Intelligent Systems](https://imprs.is.mpg.de/faculty) and the [IMPRS for Mechanisms of Mental Function and Dysfunction](https://imprs-mmfd.tuebingen.mpg.de/3866/faculty).
 
 ## Talks, courses, workshops, and conferences
-Talks, courses, workshops, and conferences are central to a thriving scientific community. Our recent contributions include:
+Talks, courses, workshops, and conferences are central to a thriving scientific community. Our current contributions:
 
 - **Workshop on Machine Learning in Clinical Neuroimaging** ([MLCN](https://mlcnworkshop.github.io)) at MICCAI: co-organizer.
-- **Teaching:** the [Computational Psychiatry Course at ETH Zurich](https://www.translationalneuromodeling.org/cpcourse/), [Machine Learning for Neuroimaging at Stanford University](https://web.stanford.edu/class/psyc221/), and LMU's computational psychiatry course.
-- **[Computational Psychiatry Conference](https://www.cpconf.org) 2025:** local organizing committee.
 - **[ECNP 2026 in Munich](https://www.ecnp.eu):** Scientific Program Committee, abstract committee, and research network on machine learning for mental health.
-- **Invited talks** at Biological Psychiatry (USA) and at machine learning conferences.
 
 For questions or requests, get in touch by [email](mailto:dr.thomas.wolfers@gmail.com).
