@@ -11,20 +11,28 @@ description: >-
 url: https://mhm-lab.github.io
 
 # Top menu (in this order)
+# (title_de = label on the German pages, which live under /de/)
 nav:
   - title: People
+    title_de: Team
     url: /people/
   - title: Research
+    title_de: Forschung
     url: /research/
   - title: Publications
+    title_de: Publikationen
     url: /selected/
   - title: Teaching
+    title_de: Lehre
     url: /teaching/
   - title: Community
+    title_de: Community
     url: /community/
   - title: Values
+    title_de: Werte
     url: /values/
   - title: Join Us
+    title_de: Mitmachen
     url: /join_us/
 
 # Links shown in the footer of every page
@@ -44,6 +52,11 @@ defaults:
       path: ""
     values:
       layout: default
+      lang: en
+  - scope:
+      path: "de"
+    values:
+      lang: de
 
 plugins:
   - jekyll-sitemap

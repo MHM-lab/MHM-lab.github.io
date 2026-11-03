@@ -1,22 +1,33 @@
 <!doctype html>
-<html lang="en">
+{% comment %} German pages live under /de/ and mirror the English URLs, e.g. /people/ and /de/people/. {% endcomment %}
+{% assign de = false %}{% if page.lang == "de" %}{% assign de = true %}{% endif %}
+{% assign url = page.url | replace: 'index.html', '' %}
+{% if de %}{% assign en_url = url | remove_first: '/de' %}{% assign de_url = url %}{% else %}{% assign en_url = url %}{% assign de_url = url | prepend: '/de' %}{% endif %}
+{% if url == "/404.html" %}{% assign de_url = "/de/" %}{% endif %}
+<html lang="{% if de %}de{% else %}en{% endif %}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% assign page_title = page.title | default: "Mental Health Mapping Lab" %}
-  <title>{% if page.title %}{{ page.title }} · {% endif %}Mental Health Mapping Lab · Friedrich Schiller University Jena</title>
+  <title>{% if page.title %}{{ page.title }} · {% endif %}Mental Health Mapping Lab · {% if de %}Friedrich-Schiller-Universität Jena{% else %}Friedrich Schiller University Jena{% endif %}</title>
   {% assign page_desc = page.description | default: site.description | strip_newlines | escape %}
   <meta name="description" content="{{ page_desc }}">
   <meta name="author" content="Laboratory for Mental Health Mapping">
   {% if page.noindex %}<meta name="robots" content="noindex">{% else %}<meta name="robots" content="index, follow, max-image-preview:large">{% endif %}
-  <link rel="canonical" href="{{ site.url }}{{ page.url | replace: 'index.html', '' }}">
+  <link rel="canonical" href="{{ site.url }}{{ url }}">
+  {% unless page.noindex or url == "/404.html" %}
+  <link rel="alternate" hreflang="en" href="{{ site.url }}{{ en_url }}">
+  <link rel="alternate" hreflang="de" href="{{ site.url }}{{ de_url }}">
+  <link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ en_url }}">
+  {% endunless %}
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Mental Health Mapping Lab">
   <meta property="og:title" content="{{ page_title }}">
   <meta property="og:description" content="{{ page_desc }}">
-  <meta property="og:url" content="{{ site.url }}{{ page.url | replace: 'index.html', '' }}">
+  <meta property="og:url" content="{{ site.url }}{{ url }}">
   <meta property="og:image" content="{{ site.url }}/images/og-image.png">
-  <meta property="og:locale" content="en_US">
+  <meta property="og:locale" content="{% if de %}de_DE{% else %}en_US{% endif %}">
+  <meta property="og:locale:alternate" content="{% if de %}en_US{% else %}de_DE{% endif %}">
   <meta name="twitter:card" content="summary_large_image">
   <link rel="sitemap" type="application/xml" href="/sitemap.xml">
   {% unless page.noindex %}{% include structured-data.html %}{% endunless %}
@@ -28,14 +39,17 @@
 
 <div class="header-bar">
 <header class="site-header">
-  <a class="site-logo" href="/">
+  <a class="site-logo" href="{% if de %}/de/{% else %}/{% endif %}">
     <img src="/images/logo.png" alt="" width="40" height="33">
     <span>{{ site.title }}</span>
   </a>
-  <nav class="site-nav" aria-label="Main">
+  <nav class="site-nav" aria-label="{% if de %}Hauptmenü{% else %}Main{% endif %}">
     {% for item in site.nav %}
-      <a href="{{ item.url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
+      {% if de %}{% assign item_url = item.url | prepend: '/de' %}{% assign item_title = item.title_de %}{% else %}{% assign item_url = item.url %}{% assign item_title = item.title %}{% endif %}
+      <a href="{{ item_url }}"{% if url == item_url %} aria-current="page"{% endif %}>{{ item_title }}</a>
     {% endfor %}
+    {% comment %} Language switch (same style as thomaswolfers.github.io) {% endcomment %}
+    {% if de %}<a class="lang" href="{{ en_url }}" hreflang="en" lang="en">English</a>{% else %}<a class="lang" href="{{ de_url }}" hreflang="de" lang="de">Deutsch</a>{% endif %}
   </nav>
 </header>
 </div>
@@ -50,8 +64,13 @@
     {% for link in site.social %}<a href="{{ link.url }}">{{ link.title }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}
   </p>
   <p>
+    {% if de %}
+    © {{ site.time | date: '%Y' }} Labor für Mental Health Mapping ·
+    <a href="/de/impressum/">Impressum</a> · <a href="/de/privacy_policy/">Datenschutz</a> · <a href="{{ en_url }}" hreflang="en" lang="en">English</a>
+    {% else %}
     © {{ site.time | date: '%Y' }} Laboratory for Mental Health Mapping ·
-    <a href="/impressum/">Impressum</a> · <a href="/privacy_policy/">Privacy Policy</a>
+    <a href="/impressum/">Impressum</a> · <a href="/privacy_policy/">Privacy Policy</a> · <a href="{{ de_url }}" hreflang="de" lang="de">Deutsch</a>
+    {% endif %}
   </p>
 </footer>
 

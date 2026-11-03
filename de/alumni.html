@@ -1,0 +1,20 @@
+---
+title: Alumni
+permalink: /de/alumni/
+lang: de
+sitemap: false
+noindex: true
+---
+<!-- Die Alumni stehen in _data/alumni.yml. Übliche Formulierungen im Feld "next" werden hier automatisch übersetzt. -->
+
+<p>Vielen Dank an alle, die zu unserer Arbeit und zum Erfolg des Teams beigetragen haben. Hier sind unsere Alumni und ihre nächsten Stationen.</p>
+
+{% for group in site.data.alumni %}
+<h2>{{ group.group_de | default: group.group }}</h2>
+<ul>
+{% for p in group.people %}
+{% assign next = p.next | replace: "Continued as postdoc", "Weiter als Postdoc" | replace: "Continued with PhD", "Anschließend Promotion" | replace: "Continued with MSc", "Anschließend Master" | replace: "Continued with BSc", "Anschließend Bachelor" | replace: "Continued with lab rotation", "Anschließend Laborrotation" | replace: "Now in industry", "Jetzt in der Industrie" | replace: "(startup)", "(Start-up)" | replace: "and startup founder", "und Start-up-Gründer" | replace: "Travel and exploration year", "Reise- und Orientierungsjahr" | replace: "(with Thomas)", "(bei Thomas)" | replace: "University of Tübingen", "Universität Tübingen" | replace: "Friedrich Schiller University Jena", "Friedrich-Schiller-Universität Jena" | replace: "Max Planck Institute Leipzig", "Max-Planck-Institut Leipzig" | replace: "University of Duisburg-Essen", "Universität Duisburg-Essen" %}
+<li><strong>{{ p.name }}</strong> ({{ p.years }}){% if p.next %} → {{ next }}{% endif %}</li>
+{% endfor %}
+</ul>
+{% endfor %}

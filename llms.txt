@@ -18,6 +18,7 @@ sitemap: false
 - [Join Us]({{ site.url }}/join_us/): positions, theses, internships, and how to apply
 - [Moving to Jena]({{ site.url }}/moving_to_jena/): practical guide for people relocating to Jena
 - [Use of LLMs]({{ site.url }}/use_LLMs/): the lab's policy on large language models
+- [Deutsche Version]({{ site.url }}/de/): every page is also available in German under /de/ (e.g. {{ site.url }}/de/people/)
 
 ## Research themes
 {% for t in site.data.research %}- {{ t.title }}: {{ t.short }}

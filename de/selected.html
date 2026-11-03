@@ -1,0 +1,23 @@
+---
+title: Ausgewählte Publikationen
+permalink: /de/selected/
+lang: de
+description: "Ausgewählte Publikationen des Labors für Mental Health Mapping aus maschinellem Lernen, Psychiatrie, Neurowissenschaften und Philosophie."
+---
+<!-- Die Publikationen stehen in _data/publications.yml (deutsche Zusammenfassung im Feld summary_de) -->
+
+<p>Eine Auswahl aktueller und einflussreicher Arbeiten, jeweils mit einer kurzen Zusammenfassung ihres Beitrags. Die Titel sind im englischen Original angegeben. Die vollständige Liste finden Sie bei <a href="https://scholar.google.com/citations?hl=de&user=4f2rdMcAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.</p>
+
+<p>Wir publizieren über Disziplinen hinweg: maschinelles Lernen (AAAI, MICCAI usw.), Psychiatrie und Medizin (JAMA Psychiatry, npj Digital Medicine usw.), Neurowissenschaften (Nature Neuroscience, eLife usw.) und Philosophie (Synthese usw.).</p>
+
+{% assign years = site.data.publications | group_by: "year" %}
+{% for year in years %}
+<h2>{{ year.name }}</h2>
+{% for pub in year.items %}
+<div class="pub">
+<p><strong lang="en">{{ pub.title }}</strong></p>
+<p><span class="venue">{{ pub.venue | replace: "(accepted)", "(angenommen)" }}</span> · <a href="{{ pub.link }}">{% if pub.link_text == "Paper" %}Artikel{% else %}{{ pub.link_text }}{% endif %}</a></p>
+<p class="summary">{{ pub.summary_de | default: pub.summary }}</p>
+</div>
+{% endfor %}
+{% endfor %}

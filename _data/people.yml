@@ -11,6 +11,9 @@
   bio: >-
     I model brain networks in health and disease by combining network science and machine learning. I
     hold a PhD in Computer Science from ENS Lyon.
+  bio_de: >-
+    Ich modelliere Gehirnnetzwerke in Gesundheit und Krankheit und verbinde dabei Netzwerkwissenschaft
+    mit maschinellem Lernen. Ich habe an der ENS Lyon in Informatik promoviert.
 - first: Alexander
   last: Frotscher
   role: PhD Candidate
@@ -18,6 +21,10 @@
   bio: >-
     I develop unsupervised anomaly detection methods for neuroimaging, with a focus on methodological
     rigor in clinical applications. I hold a master's in Bioinformatics from the University of Tübingen.
+  bio_de: >-
+    Ich entwickle unüberwachte Methoden zur Anomalieerkennung in der Neurobildgebung, mit einem Fokus
+    auf methodischer Strenge in klinischen Anwendungen. Ich habe einen Master in Bioinformatik an der
+    Universität Tübingen abgeschlossen.
 - first: Mebin Muhammed
   last: Hamzakoya Sulaikha
   role: PhD Candidate
@@ -25,6 +32,9 @@
   bio: >-
     I develop longitudinal normative models for neuroimaging and other modalities, drawing on dynamic
     modeling. I hold an M.Tech from IIT Ropar.
+  bio_de: >-
+    Ich entwickle longitudinale normative Modelle für die Neurobildgebung und weitere Modalitäten und
+    stütze mich dabei auf dynamische Modellierung. Ich habe einen M.Tech am IIT Ropar abgeschlossen.
 - first: Atharva (Athu)
   last: Kand
   role: PhD Candidate
@@ -32,6 +42,11 @@
   bio: >-
     I model how individual brain structure and function diverge over time, using stochastic, biologically
     informed models to capture uncertainty in psychiatric conditions. I hold a master's in Cognitive Neuroscience from the Donders Institute, Radboud University.
+  bio_de: >-
+    Ich modelliere, wie sich individuelle Hirnstruktur und -funktion im Zeitverlauf
+    auseinanderentwickeln, und nutze stochastische, biologisch fundierte Modelle, um Unsicherheit bei
+    psychiatrischen Erkrankungen abzubilden. Ich habe einen Master in Kognitiver Neurowissenschaft am
+    Donders Institute der Radboud University abgeschlossen.
 - first: Lina (Evangelia Sofia)
   last: Kornaraki
   role: MSc Student
@@ -39,6 +54,10 @@
   bio: >-
     I am a master's student in Psychology at Friedrich Schiller University Jena, studying how structural and functional brain connectivity
     are coupled and whether this coupling can serve as a marker for psychiatric disorders.
+  bio_de: >-
+    Ich studiere Psychologie im Master an der Friedrich-Schiller-Universität Jena und untersuche, wie
+    strukturelle und funktionelle Konnektivität des Gehirns gekoppelt sind und ob sich diese Kopplung
+    als Marker für psychiatrische Erkrankungen eignet.
 - first: Marc
   last: Lemnitzer
   role: MSc Student & HiWi
@@ -46,6 +65,9 @@
   bio: >-
     I am a master's student in Bioinformatics at the University of Tübingen and help develop and validate a machine learning package for
     mapping complex biomarker configurations.
+  bio_de: >-
+    Ich studiere Bioinformatik im Master an der Universität Tübingen und helfe bei der Entwicklung und
+    Validierung eines Machine-Learning-Pakets zur Abbildung komplexer Biomarker-Konfigurationen.
 - first: Francesco
   last: Mallus
   role: PhD Candidate
@@ -53,6 +75,10 @@
   bio: >-
     I study brain function across conscious and pathological states to identify reliable functional connectivity
     biomarkers. I hold a master's in Biomedical Engineering from the Polytechnic University of Turin.
+  bio_de: >-
+    Ich untersuche die Hirnfunktion in bewussten und pathologischen Zuständen, um verlässliche Biomarker
+    der funktionellen Konnektivität zu identifizieren. Ich habe einen Master in Biomedizintechnik an der
+    Polytechnic University of Turin abgeschlossen.
 - first: Minh-Hieu
   last: Nguyen
   role: PhD Candidate
@@ -60,6 +86,10 @@
   bio: >-
     I develop computational models of learning and decision-making in people with mental health conditions.
     I hold a master's in Neural Information Processing from the University of Tübingen.
+  bio_de: >-
+    Ich entwickle computationale Modelle des Lernens und Entscheidens bei Menschen mit psychischen
+    Erkrankungen. Ich habe einen Master in Neural Information Processing an der Universität Tübingen
+    abgeschlossen.
 - first: Gokul
   last: Perumbayil Vijayakrishnan
   role: MSc Student & HiWi
@@ -68,6 +98,11 @@
     I am a master's student in Artificial Intelligence at the Technical University of Applied Sciences Würzburg-Schweinfurt, writing my thesis on self-supervised learning of
     EEG representations for mental health. I bring several years of industry experience in embedded systems
     and the automotive sector.
+  bio_de: >-
+    Ich studiere Künstliche Intelligenz im Master an der Technischen Hochschule Würzburg-Schweinfurt und
+    schreibe meine Abschlussarbeit über selbstüberwachtes Lernen von EEG-Repräsentationen für die
+    psychische Gesundheit. Ich bringe mehrere Jahre Industrieerfahrung in eingebetteten Systemen und im
+    Automobilbereich mit.
 - first: Tanishka
   last: Randive
   role: BSc Student
@@ -75,6 +110,9 @@
   bio: >-
     I am an undergraduate student in AI and Data Engineering at IIT Ropar, applying machine learning and computer vision
     to neuroimaging data.
+  bio_de: >-
+    Ich studiere AI and Data Engineering im Bachelor am IIT Ropar und wende maschinelles Lernen und
+    Computer Vision auf Daten der Neurobildgebung an.
 - first: David
   last: Redmer
   role: MSc Student
@@ -82,6 +120,10 @@
   bio: >-
     I am a master's student in Psychology and Cognitive Neuroscience at Friedrich Schiller University Jena, interested in the mechanisms
     of neurodegenerative and psychiatric disorders and their translation into clinical practice.
+  bio_de: >-
+    Ich studiere Psychologie und Kognitive Neurowissenschaften im Master an der
+    Friedrich-Schiller-Universität Jena und interessiere mich für die Mechanismen neurodegenerativer und
+    psychiatrischer Erkrankungen und ihre Übertragung in die klinische Praxis.
 - first: Elias
   last: Schreiner
   role: Data Scientist & IT Infrastructure
@@ -89,6 +131,10 @@
   bio: >-
     I run the lab's IT infrastructure and apply deep learning to biological data on neurodegenerative
     conditions and comorbid mental disorders. I hold a master's in Bioinformatics from the University of Tübingen.
+  bio_de: >-
+    Ich betreue die IT-Infrastruktur des Labors und wende Deep Learning auf biologische Daten zu
+    neurodegenerativen Erkrankungen und komorbiden psychischen Störungen an. Ich habe einen Master in
+    Bioinformatik an der Universität Tübingen abgeschlossen.
 - first: Nitin
   last: Sharma
   role: PhD Candidate
@@ -96,12 +142,20 @@
   bio: >-
     I work with multimodal data in mental health, including domain adaptation for multi-site depression
     datasets, normative modeling, and mechanistic interpretability of large language models. I hold a master's in Neural Information Processing from the University of Tübingen.
+  bio_de: >-
+    Ich arbeite mit multimodalen Daten zur psychischen Gesundheit, unter anderem zu Domain Adaptation
+    für multizentrische Depressionsdatensätze, normativer Modellierung und mechanistischer
+    Interpretierbarkeit großer Sprachmodelle. Ich habe einen Master in Neural Information Processing an
+    der Universität Tübingen abgeschlossen.
 - first: Madhumitha
   last: Sivakumar Punitha
   role: HiWi & Research Assistant
   photo: mad.jpg
   bio: >-
     I am a master's student in Photonics at Friedrich Schiller University Jena and support the lab's teaching and research activities.
+  bio_de: >-
+    Ich studiere Photonik im Master an der Friedrich-Schiller-Universität Jena und unterstütze das Labor
+    in Lehre und Forschung.
 - first: Thomas
   last: Wolfers
   role: Principal Investigator
@@ -110,6 +164,11 @@
     I lead the MHM Lab and develop machine learning approaches to identify individual-level factors in
     mental health and other complex conditions. I hold a PhD from Radboud University and held research
     positions in the Netherlands, Norway, and the UK.
+  bio_de: >-
+    Ich leite das MHM Lab und entwickle Ansätze des maschinellen Lernens, um individuelle Faktoren der
+    psychischen Gesundheit und anderer komplexer Erkrankungen zu identifizieren. Ich habe an der Radboud
+    University promoviert und war als Forscher in den Niederlanden, in Norwegen und im Vereinigten
+    Königreich tätig.
 - first: Jijia
   last: Xing
   role: PhD Candidate
@@ -117,6 +176,10 @@
   bio: >-
     I study how large language models encode clinical and psychological knowledge, and their longer-term
     risks, such as emotional dependence on sycophantic conversational AI. I hold a master's in Mathematics from Imperial College London.
+  bio_de: >-
+    Ich untersuche, wie große Sprachmodelle klinisches und psychologisches Wissen repräsentieren und
+    welche längerfristigen Risiken sie bergen, etwa emotionale Abhängigkeit von sykophantischer
+    Konversations-KI. Ich habe einen Master in Mathematik am Imperial College London abgeschlossen.
 - first: Yanwu
   last: Yang
   role: PostDoc & Humboldt Fellow
@@ -124,6 +187,10 @@
   bio: >-
     I study brain development and aging at scale, using deep learning for clinical applications and examining
     the behavior of foundation models. I hold a PhD from Harbin Institute of Technology.
+  bio_de: >-
+    Ich untersuche Hirnentwicklung und -alterung in großem Maßstab, nutze Deep Learning für klinische
+    Anwendungen und analysiere das Verhalten von Foundation Models. Ich habe am Harbin Institute of
+    Technology promoviert.
 - first: Çağatay
   last: Yıldız
   role: PostDoc
@@ -131,9 +198,17 @@
   bio: >-
     I study how large language models acquire new knowledge after pretraining without forgetting existing
     knowledge, combining continued pretraining with mechanistic interpretability. I hold a PhD from Aalto University and was previously a postdoc in Tübingen.
+  bio_de: >-
+    Ich untersuche, wie große Sprachmodelle nach dem Pretraining neues Wissen erwerben, ohne vorhandenes
+    Wissen zu vergessen, und verbinde dazu Continued Pretraining mit mechanistischer
+    Interpretierbarkeit. Ich habe an der Aalto University promoviert und war zuvor Postdoc in Tübingen.
 - first: Mariam
   last: Zabihi
   role: PostDoc & Boehringer Ingelheim Fellow
   photo: mariam.jpg
   bio: >-
     I develop generative normative models to address heterogeneity in psychiatric disorders. I hold a PhD in Statistical Neuroimaging from Radboud University Medical Center.
+  bio_de: >-
+    Ich entwickle generative normative Modelle, um der Heterogenität psychiatrischer Erkrankungen
+    gerecht zu werden. Ich habe am Radboud University Medical Center in statistischer Neurobildgebung
+    promoviert.

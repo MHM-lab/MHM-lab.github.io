@@ -15,9 +15,19 @@ Live at **https://mhm-lab.github.io**. GitHub Pages rebuilds the site automatica
 | Any other page                     | the `.md` file with its name (e.g. `teaching.md`, `join_us.md`) |
 | Colours, fonts, spacing            | `assets/style.css`             |
 | Page frame (header/footer)         | `_layouts/default.html`        |
+| German version of a page          | the same file name in `de/` (e.g. `de/teaching.md`) |
 | Search engine / AI summary         | `llms.txt`, `robots.txt` (structured data in `_includes/structured-data.html` updates itself) |
 
 You can edit everything directly on github.com: open the file, click the pencil icon, change it, then "Commit changes".
+
+## English and German
+
+English is the default. Every page also exists in German under `/de/` with the same address (e.g. `/people/` and `/de/people/`); the EN/DE button in the header switches between them.
+
+- **Text pages**: the German text is in `de/` with the same file name. When you change an English page, update its German twin too.
+- **Data files**: German text sits next to the English one in fields ending in `_de` (`bio_de` in `people.yml`, `title_de`/`short_de`/`text_de`/`name_de` in `research.yml`, `summary_de` in `publications.yml`, `group_de` in `alumni.yml`). If a `_de` field is missing, the German page shows the English text.
+- **Menu**: `title_de` in `_config.yml`.
+- Names, roles (e.g. PostDoc), paper titles, and course titles stay in English on the German pages.
 
 ## Common tasks
 
@@ -32,9 +42,11 @@ You can edit everything directly on github.com: open the file, click the pencil 
   photo: jane.jpg
   bio: >-
     One paragraph in the first person. Markdown links work: [lab](https://example.org).
+  bio_de: >-
+    Derselbe Text auf Deutsch.
 ```
 
-Role wording used so far: PI, PostDoc, PhD Candidate, MSc Student, BSc Student, HiWi, MSc & HiWi.
+Role wording used so far: Principal Investigator, PostDoc, PostDoc & Humboldt Fellow, PostDoc & Boehringer Ingelheim Fellow, PhD Candidate, Data Scientist & IT Infrastructure, MSc Student & HiWi, MSc Student, BSc Student, HiWi & Research Assistant.
 
 **Someone leaves** – delete their block in `people.yml` and add a line to the right group in `alumni.yml`:
 
@@ -54,6 +66,8 @@ Role wording used so far: PI, PostDoc, PhD Candidate, MSc Student, BSc Student, 
   link_text: Paper        # or Preprint
   summary: >-
     Two or three sentences on why it matters.
+  summary_de: >-
+    Zwei oder drei Sätze auf Deutsch.
 ```
 
 **Add a new page** – create `my_page.md` with this at the top, then add it to `nav` in `_config.yml` if it belongs in the menu:

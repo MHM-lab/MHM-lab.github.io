@@ -76,6 +76,9 @@ html { scroll-padding-top: 5.5rem; }
 }
 .site-nav a:hover, .site-nav a:focus-visible { background: #dfecd6; color: var(--green); }
 .site-nav a[aria-current] { background: var(--green); color: #fff; }
+/* Language switch (English / Deutsch), last item in the menu, same style as thomaswolfers.github.io */
+.site-nav .lang { margin-left: 0.4rem; background: transparent; border: 1px solid var(--line); color: var(--muted); }
+.site-nav .lang:hover, .site-nav .lang:focus-visible { border-color: var(--green-light); background: transparent; color: var(--green); }
 @media (max-width: 700px) {
   html { scroll-padding-top: 7.5rem; }
   .site-nav { flex-wrap: nowrap; overflow-x: auto; width: 100%; margin: 0 -0.4em; padding-bottom: 2px; scrollbar-width: none; }

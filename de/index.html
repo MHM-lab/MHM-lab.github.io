@@ -1,0 +1,33 @@
+---
+permalink: /de/
+lang: de
+show_title: false
+description: "Das Labor für Mental Health Mapping an der Friedrich-Schiller-Universität Jena nutzt große, vielfältige Datensätze und maschinelles Lernen, um psychische Gesundheit und Krankheit zu kartieren und diese Arbeit in die klinische Praxis zu bringen."
+---
+<!-- STARTSEITE (deutsch). Die vier Forschungskarten kommen aus _data/research.yml (Felder *_de) -->
+
+<h1>Mental Health Mapping</h1>
+
+<p class="lead">
+Wir nutzen große, vielfältige Datensätze und maschinelles Lernen, um zu verstehen, wie biologische, soziale und umweltbedingte Faktoren die psychische Gesundheit jedes einzelnen Menschen prägen, und wir arbeiten mit Patientinnen und Patienten sowie Klinikerinnen und Klinikern zusammen, um diese Erkenntnisse in die klinische Versorgung zu übertragen.
+</p>
+
+<div class="buttons">
+<a class="button" href="/de/research/">Unsere Forschung</a>
+<a class="button secondary" href="/de/join_us/">Mitmachen</a>
+</div>
+
+<div class="cards">
+{% for theme in site.data.research %}
+<a class="card" href="/de/research/#{{ theme.name | downcase }}">
+<img src="/images/{{ theme.image }}" alt="" width="400" height="400">
+<strong>{{ theme.name_de | default: theme.name }}</strong>
+<span>{{ theme.short_de | default: theme.short }}</span>
+</a>
+{% endfor %}
+</div>
+
+<p class="note">
+Geleitet von <a href="https://thomaswolfers.github.io">Thomas Wolfers</a> an der <a href="https://www.uni-jena.de/">Friedrich-Schiller-Universität Jena</a>.
+Folgen Sie uns auf <a href="https://www.linkedin.com/in/thomas-wolfers-5b96694b/">LinkedIn</a> und <a href="https://bsky.app/profile/thomaswolfers.bsky.social">Bluesky</a>.
+</p>

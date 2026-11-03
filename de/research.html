@@ -1,0 +1,17 @@
+---
+title: Forschung
+permalink: /de/research/
+lang: de
+description: "Forschungsthemen des Labors für Mental Health Mapping: Grundlagen, Strukturen, Marker und Modelle der psychischen Gesundheit."
+---
+<!-- Die vier Themen stehen in _data/research.yml (Felder *_de) -->
+
+<p>Mental Health Mapping verbindet maschinelles Lernen, Neurowissenschaften, Psychiatrie und Philosophie. Seit seiner Gründung im Jahr 2022 hat das Labor in führenden Fachzeitschriften und auf führenden Konferenzen dieser Disziplinen publiziert (siehe <a href="/de/selected/">Ausgewählte Publikationen</a>). Unsere Arbeit gliedert sich in vier miteinander verbundene Themen.</p>
+
+{% for theme in site.data.research %}
+<h2 id="{{ theme.name | downcase }}">{{ theme.title_de | default: theme.title }}</h2>
+<img class="theme-image" src="/images/{{ theme.image }}" alt="" width="400" height="400">
+{{ theme.text_de | default: theme.text | markdownify }}
+{% endfor %}
+
+<p><em>Dabei halten wir uns an einen einfachen Maßstab: Für viele Messgrößen des Gehirns schneiden gut spezifizierte Regressionsmodelle ebenso gut ab wie komplexere KI-Methoden, und das berichten wir offen.</em></p>

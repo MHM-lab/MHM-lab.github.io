@@ -1,6 +1,9 @@
 # ALUMNI, grouped by position. "next" = where they went afterwards (optional).
+# group_de = heading on the German page. Common phrases in "next" (e.g. "Now in industry",
+# "Continued with PhD") are translated automatically on the German page (de/alumni.html).
 
 - group: Postdoctoral researchers
+  group_de: Postdocs
   people:
   - name: Philipp Seidel
     years: 2023–2025
@@ -9,6 +12,7 @@
     years: 2022–2024
     next: Now in industry (Aptiv)
 - group: PhD graduates
+  group_de: Abgeschlossene Promotionen
   people:
   - name: Milin Kim
     years: 2021–2026
@@ -20,6 +24,7 @@
     years: 2019–2023
     next: Postdoc, University of Oslo
 - group: MSc students / research assistants
+  group_de: MSc-Studierende / wissenschaftliche Hilfskräfte
   people:
   - name: Nikolaos Pahakis
     years: 2024–2026
@@ -64,6 +69,7 @@
     years: '2016'
     next: Continued with PhD, Radboud University Nijmegen
 - group: BSc / Honors / DAAD
+  group_de: BSc / Honors / DAAD
   people:
   - name: Xinyun Yuan
     years: '2025'
@@ -75,6 +81,7 @@
     years: '2023'
     next: Continued with MSc, Radboud University Nijmegen
 - group: Research scientists / data scientists
+  group_de: Research Scientists / Data Scientists
   people:
   - name: Nitin Sharma
     years: 2025–2026
@@ -89,6 +96,7 @@
     years: 2024–2025
     next: Continued with PhD, University of Tübingen
 - group: Lab rotations / internships
+  group_de: Laborrotationen / Praktika
   people:
   - name: Samira Hajizadeh
     years: 2024–2025
