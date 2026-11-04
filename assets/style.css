@@ -166,7 +166,7 @@ html { scroll-padding-top: 5.5rem; }
 .theme-panel h3 { margin-top: 0.2rem; }
 .theme-panel p:last-child { margin-bottom: 0; font-size: 0.9rem; }
 .section-label { margin-top: 1.5rem; font-size: 1.1rem; }
-h2.year { margin: 1.6rem 0 0.2rem; color: var(--muted); font-size: 1rem; }
+h2.year { margin: 1.8rem 0 0.2rem; color: var(--muted); font-size: 1.25rem; }
 h2 { clear: both; }
 @media (max-width: 420px) { .theme-icons { gap: 0.5rem; } .theme-icon img { width: 64px; height: 64px; } .theme-icon { font-size: 0.8rem; } }
 
