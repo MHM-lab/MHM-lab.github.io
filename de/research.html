@@ -6,10 +6,7 @@ description: "Forschung des Labors für Mental Health Mapping: vier Forschungsth
 ---
 <!-- FORSCHUNG (deutsch): Themen aus _data/research.yml (Felder *_de), Publikationen aus _data/publications.yml (summary_de) -->
 
-<p>Mental Health Mapping verbindet maschinelles Lernen, Neurowissenschaften, Psychiatrie und Philosophie. Seit seiner Gründung im Jahr 2022 hat das Labor in führenden Fachzeitschriften und auf führenden Konferenzen dieser Disziplinen publiziert. Unsere Arbeit gliedert sich in vier miteinander verbundene Themen.</p>
-
-<h2 id="themes" class="section-label">Themen</h2>
-<div class="theme-icons">
+<div class="theme-icons" id="themes">
 {% for theme in site.data.research %}
 <a class="theme-icon" href="#{{ theme.name | downcase }}">
 <img src="/images/{{ theme.image }}" alt="" width="400" height="400">
@@ -26,6 +23,8 @@ description: "Forschung des Labors für Mental Health Mapping: vier Forschungsth
 </section>
 {% endfor %}
 
+<p class="research-text">Mental Health Mapping verbindet maschinelles Lernen, Neurowissenschaften, Psychiatrie und Philosophie. Seit seiner Gründung im Jahr 2022 hat das Labor in führenden Fachzeitschriften und auf führenden Konferenzen dieser Disziplinen publiziert. Dabei halten wir uns an einen einfachen Maßstab: Für viele Messgrößen des Gehirns schneiden gut spezifizierte Regressionsmodelle ebenso gut ab wie komplexere KI-Methoden, und das berichten wir offen.</p>
+
 <h2 id="publications">Ausgewählte Publikationen</h2>
 <p>Eine Auswahl aktueller und einflussreicher Arbeiten, jeweils mit einer kurzen Zusammenfassung ihres Beitrags. Die Titel sind im englischen Original angegeben. Die vollständige Liste finden Sie bei <a href="https://scholar.google.com/citations?hl=de&user=4f2rdMcAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.</p>
 
@@ -40,5 +39,3 @@ description: "Forschung des Labors für Mental Health Mapping: vier Forschungsth
 </div>
 {% endfor %}
 {% endfor %}
-
-<p class="note"><em>Dabei halten wir uns an einen einfachen Maßstab: Für viele Messgrößen des Gehirns schneiden gut spezifizierte Regressionsmodelle ebenso gut ab wie komplexere KI-Methoden, und das berichten wir offen.</em></p>

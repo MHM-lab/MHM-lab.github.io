@@ -5,11 +5,7 @@ description: "Research of the laboratory for Mental Health Mapping: four researc
 ---
 <!-- RESEARCH PAGE: the four themes come from _data/research.yml, the publications from _data/publications.yml -->
 
-<p>Mental health mapping sits at the intersection of machine learning, neuroscience, psychiatry, and philosophy. Since its founding in 2022, the lab has published in leading venues across these fields. Our work is organized into four connected themes.</p>
-
-<!-- Themes: small icons; clicking one opens its text below the icons -->
-<h2 id="themes" class="section-label">Themes</h2>
-<div class="theme-icons">
+<div class="theme-icons" id="themes">
 {% for theme in site.data.research %}
 <a class="theme-icon" href="#{{ theme.name | downcase }}">
 <img src="/images/{{ theme.image }}" alt="" width="400" height="400">
@@ -26,6 +22,8 @@ description: "Research of the laboratory for Mental Health Mapping: four researc
 </section>
 {% endfor %}
 
+<p class="research-text">Mental health mapping sits at the intersection of machine learning, neuroscience, psychiatry, and philosophy. Since its founding in 2022, the lab has published in leading venues across these fields. We also hold ourselves to a simple benchmark: for many brain readouts, well-specified regression models perform as well as more complex AI methods, and we report this honestly.</p>
+
 <h2 id="publications">Selected publications</h2>
 <p>A selection of recent and influential work, each with a brief summary of its contribution. The complete list is on <a href="https://scholar.google.com/citations?hl=en&user=4f2rdMcAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.</p>
 
@@ -40,5 +38,3 @@ description: "Research of the laboratory for Mental Health Mapping: four researc
 </div>
 {% endfor %}
 {% endfor %}
-
-<p class="note"><em>We also hold ourselves to a simple benchmark: for many brain readouts, well-specified regression models perform as well as more complex AI methods, and we report this honestly.</em></p>

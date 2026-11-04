@@ -179,3 +179,5 @@ h2 { clear: both; }
   font-weight: 600;
 }
 .meta { margin-top: -0.3rem; color: var(--green); font-size: 0.85rem; font-weight: 700; }
+.theme-icons { margin-top: 0.5rem; }
+.research-text { margin: 2rem 0 0; }
