@@ -1,18 +1,33 @@
 {% comment %}
-  Highlights on the homepage (EN and DE). Data: _data/news.yml.
+  Highlights on the homepage (EN and DE). Data: _data/news.yml, plus every paper in
+  _data/publications.yml that has a "date" (it appears here automatically as "Paper").
   Shows up to eight entries from the last 6 months. A small script hides entries that become older
   than 6 months later on, even if the site has not been rebuilt; no recent entries = no section.
 {% endcomment %}
 {% assign de = false %}{% if page.lang == "de" %}{% assign de = true %}{% endif %}
 {% assign cutoff = site.time | date: '%s' | minus: 15778800 %}
 {% assign months_de = "Jan.,Feb.,März,Apr.,Mai,Juni,Juli,Aug.,Sept.,Okt.,Nov.,Dez." | split: "," %}
+{% comment %} Collect entries from news.yml and papers with a "date" from publications.yml, newest first {% endcomment %}
+{% capture keys %}{% for item in site.data.news %}{{ item.date }}~n~{{ 999 | minus: forloop.index0 }};{% endfor %}{% for p in site.data.publications %}{% if p.date %}{{ p.date }}~p~{{ 999 | minus: forloop.index0 }};{% endif %}{% endfor %}{% endcapture %}
+{% assign keys = keys | split: ';' | sort | reverse %}
 {% assign shown = 0 %}
-{% capture cards %}{% for item in site.data.news %}{% assign day = item.date | append: '-01' %}{% assign t = day | date: '%s' | plus: 0 %}{% if t >= cutoff and shown < 8 %}{% assign shown = shown | plus: 1 %}
+{% capture cards %}{% for key in keys %}{% if key != "" %}{% assign parts = key | split: '~' %}{% assign i = 999 | minus: parts[2] %}
+{% if parts[1] == "p" %}{% assign pub = site.data.publications[i] %}{% assign item = nil %}{% assign date = pub.date %}{% else %}{% assign item = site.data.news[i] %}{% assign date = item.date %}{% endif %}
+{% assign day = date | append: '-01' %}{% assign t = day | date: '%s' | plus: 0 %}{% if t >= cutoff and shown < 8 %}{% assign shown = shown | plus: 1 %}
 {% if de %}{% assign m = day | date: '%-m' | plus: 0 | minus: 1 %}{% assign month = months_de[m] | append: ' ' %}{% capture month %}{{ month }}{{ day | date: '%Y' }}{% endcapture %}{% else %}{% capture month %}{{ day | date: '%b %Y' }}{% endcapture %}{% endif %}
-{% if item.link %}{% if de and item.link contains '://' %}{% assign href = item.link %}{% elsif de %}{% assign href = item.link | prepend: '/de' %}{% else %}{% assign href = item.link %}{% endif %}<a class="news-item" href="{{ href }}" data-date="{{ item.date }}">{% else %}<div class="news-item" data-date="{{ item.date }}">{% endif %}
-<span class="news-label">{% if de %}{{ item.label_de | default: item.label }}{% else %}{{ item.label }}{% endif %} · {{ month }}</span>
-<span>{% if de %}{{ item.text_de | default: item.text }}{% else %}{{ item.text }}{% endif %}</span>
-{% if item.link %}</a>{% else %}</div>{% endif %}{% endif %}{% endfor %}{% endcapture %}
+{% if parts[1] == "p" %}
+{% capture plink %}/research/#{{ pub.id | default: pub.title | slugify }}{% endcapture %}
+{% assign venue_de = pub.venue | replace: "(accepted)", "(angenommen)" %}
+{% if de %}{% capture label %}Publikation{% endcapture %}{% capture text %}{% if pub.highlight_de %}{{ pub.highlight_de }}{% else %}Neu bei {{ venue_de }}: {{ pub.title }}{% endif %}{% endcapture %}{% assign href = plink | prepend: '/de' %}
+{% else %}{% capture label %}Paper{% endcapture %}{% capture text %}{% if pub.highlight %}{{ pub.highlight }}{% else %}New in {{ pub.venue }}: {{ pub.title }}{% endif %}{% endcapture %}{% assign href = plink %}{% endif %}
+{% else %}
+{% if de %}{% assign label = item.label_de | default: item.label %}{% assign text = item.text_de | default: item.text %}{% else %}{% assign label = item.label %}{% assign text = item.text %}{% endif %}
+{% assign href = item.link %}{% if de and item.link and item.link contains '://' %}{% elsif de and item.link %}{% assign href = item.link | prepend: '/de' %}{% endif %}
+{% endif %}
+{% if href %}<a class="news-item" href="{{ href }}" data-date="{{ date }}">{% else %}<div class="news-item" data-date="{{ date }}">{% endif %}
+<span class="news-label">{{ label }} · {{ month }}</span>
+<span>{{ text }}</span>
+{% if href %}</a>{% else %}</div>{% endif %}{% endif %}{% endif %}{% endfor %}{% endcapture %}
 {% if shown > 0 %}
 <section class="news-section">
 <h2 class="section-label">Highlights</h2>

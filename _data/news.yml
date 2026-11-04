@@ -1,19 +1,11 @@
-# HIGHLIGHTS (homepage). Shows the eight newest entries from the last 6 months;
+# HIGHLIGHTS (homepage). New papers do not need an entry here: give the paper a "date" in
+# publications.yml and it appears automatically.
+# Shows the eight newest entries from the last 6 months;
 # older entries disappear by themselves, and the section is hidden when nothing is recent.
 # date: year and month as "YYYY-MM" (in quotes). label: short tag (Paper, Talk, Award, ...);
 # label_de: the same in German. text / text_de: one sentence.
 # link: optional (a paper, a talk, or a page on this site, e.g. /research/#sigma-vae).
 
-- label: Paper
-  date: "2026-10"
-  label_de: Publikation
-  text: >-
-    Alexander Frotscher's large-scale benchmark of anomaly detection in brain imaging was accepted in
-    npj Digital Medicine.
-  text_de: >-
-    Alexander Frotschers groß angelegter Benchmark zur Anomalieerkennung in der Bildgebung des Gehirns
-    wurde bei npj Digital Medicine angenommen.
-  link: /research/#anomaly-detection
 - label: Talk
   date: "2026-10"
   label_de: Vortrag
@@ -50,16 +42,6 @@
     Als Mitglied des Scientific Program Committee hat Thomas Wolfers einen wunderbaren ECNP-Kongress
     2026 in München erlebt.
   link: https://www.ecnp.eu/congress2026/
-- label: Paper
-  date: "2026-08"
-  label_de: Publikation
-  text: >-
-    Yanwu Yang's normative reference for human brain dynamics across the lifespan was accepted in
-    Nature Neuroscience.
-  text_de: >-
-    Yanwu Yangs normative Referenz für die Dynamik des menschlichen Gehirns über die Lebensspanne
-    wurde bei Nature Neuroscience angenommen.
-  link: /research/#brain-dynamics
 - label: Talk
   date: "2026-06"
   label_de: Vortrag
