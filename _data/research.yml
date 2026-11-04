@@ -89,6 +89,8 @@
     practice? We work together with scientists working on innovative data acquisition methods and are
     interested in method development (e.g., machine learning, statistics) as well as in establishing best
     practices in curating complex, large datasets required for our research agenda.
+    We also hold ourselves to a simple benchmark: for many brain readouts, well-specified regression
+    models perform as well as more complex AI methods, and we report this honestly.
   name_de: Modelle
   title_de: Modelle für das Mental Health Mapping
   short_de: Maschinelles Lernen, vom Labor in die Klinik.
@@ -104,3 +106,5 @@
     Forschenden zusammen, die innovative Methoden der Datenerhebung entwickeln, und interessieren uns
     sowohl für Methodenentwicklung (z. B. maschinelles Lernen, Statistik) als auch für Best Practices
     bei der Kuratierung der komplexen, großen Datensätze, die unsere Forschungsagenda erfordert.
+    Wir halten uns außerdem an einen einfachen Maßstab: Für viele Messgrößen des Gehirns schneiden gut
+    spezifizierte Regressionsmodelle ebenso gut ab wie komplexere KI-Methoden, und das berichten wir offen.

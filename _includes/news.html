@@ -1,5 +1,5 @@
 {% comment %}
-  Recent updates on the homepage (EN and DE). Data: _data/news.yml.
+  Highlights on the homepage (EN and DE). Data: _data/news.yml.
   Shows up to four entries from the last 12 months. A small script hides entries that become older
   than 12 months later on, even if the site has not been rebuilt; no recent entries = no section.
 {% endcomment %}
@@ -15,7 +15,7 @@
 {% if item.link %}</a>{% else %}</div>{% endif %}{% endif %}{% endfor %}{% endcapture %}
 {% if shown > 0 %}
 <section class="news-section">
-<h2 class="section-label">{% if de %}Aktuelles{% else %}Recent updates{% endif %}</h2>
+<h2 class="section-label">Highlights</h2>
 <div class="news">{{ cards }}</div>
 </section>
 <script>
