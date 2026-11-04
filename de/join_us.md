@@ -9,6 +9,13 @@ description: "Offene Stellen, Abschlussarbeiten und Praktika im Labor für Menta
 
 Wir sind an der Friedrich-Schiller-Universität Jena. Für eine Bewerbung senden Sie [Thomas Wolfers](mailto:dr.thomas.wolfers@gmail.com) bitte Ihren Lebenslauf und eine kurze Darstellung Ihrer Interessen per E-Mail. Das gilt auch, wenn Sie sich mit uns um eine eigene Förderung bewerben möchten (z. B. ein Marie-Curie-Stipendium) oder andere Fragen haben.
 
+Wie wir zusammenarbeiten und wo wir uns einbringen:
+
+<div class="buttons compact">
+<a class="button secondary" href="/de/values/">Unsere Werte</a>
+<a class="button secondary" href="/de/community/">Community</a>
+</div>
+
 ## Offene Stellen
 
 Ausschreibungen für Postdoc-, Promotions-, Data-Scientist- und HiWi-Stellen veröffentlichen wir hier.

@@ -10,7 +10,7 @@ description: >-
   bring this work into clinical practice.
 url: https://mhm-lab.github.io
 
-# Top menu (in this order). Values and Community are linked from the People page and the footer.
+# Top menu (in this order). Values and Community are linked from the Join Us page and the footer.
 # (title_de = label on the German pages, which live under /de/)
 nav:
   - title: Research

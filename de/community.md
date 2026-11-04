@@ -1,7 +1,7 @@
 ---
 permalink: /de/community/
 lang: de
-nav_parent: /people/
+nav_parent: /join_us/
 title: "Community"
 description: "Aktuelle Beiträge des Labors für Mental Health Mapping zur wissenschaftlichen Gemeinschaft in Jena und darüber hinaus."
 ---

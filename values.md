@@ -1,6 +1,6 @@
 ---
 permalink: /values/
-nav_parent: /people/
+nav_parent: /join_us/
 title: "Values"
 description: "The values that guide the laboratory for Mental Health Mapping: communication, support, diversity, learning from failure, and responsible AI."
 ---

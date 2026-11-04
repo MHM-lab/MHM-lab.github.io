@@ -1,6 +1,6 @@
 ---
 permalink: /community/
-nav_parent: /people/
+nav_parent: /join_us/
 title: "Community"
 description: "Current contributions of the laboratory for Mental Health Mapping to the scientific community in Jena and beyond."
 ---

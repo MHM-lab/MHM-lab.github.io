@@ -1,7 +1,7 @@
 ---
 permalink: /de/values/
 lang: de
-nav_parent: /people/
+nav_parent: /join_us/
 title: "Werte"
 description: "Die Werte des Labors für Mental Health Mapping: Kommunikation, gegenseitige Unterstützung, Vielfalt, Lernen aus Fehlern und verantwortungsvolle KI."
 ---

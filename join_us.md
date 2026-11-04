@@ -8,6 +8,13 @@ description: "Open positions, theses, and internships at the laboratory for Ment
 
 We are based at Friedrich Schiller University Jena. To apply, email [Thomas Wolfers](mailto:dr.thomas.wolfers@gmail.com) your CV and a short statement of your interests. The same applies if you would like to apply for individual funding with us (e.g., a Marie Curie fellowship) or have any other questions.
 
+How we work together and where we contribute:
+
+<div class="buttons compact">
+<a class="button secondary" href="/values/">Our values</a>
+<a class="button secondary" href="/community/">Community</a>
+</div>
+
 ## Open positions
 
 Open calls for postdoc, PhD, data scientist, and HiWi positions will be posted here.
