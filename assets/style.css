@@ -7,11 +7,12 @@
   --green: #4f7a37;        /* buttons, roles, accents */
   --green-light: #74a155;  /* hover borders */
   --ink: #1d1d1f;          /* headings */
-  --text: #3d4144;         /* body text */
+  --text: #1d1d1f;         /* body text (near-black) */
   --muted: #6e7378;        /* secondary text */
   --line: #e6e8ea;         /* dividers */
   --bg: #ffffff;
-  --link: #2f6f9f;
+  --link: #3f6a2b;         /* links: dark green */
+  --link-hover: #74a155;   /* links on hover: light green */
 }
 
 * { box-sizing: border-box; }
@@ -24,8 +25,8 @@ body {
 }
 
 img { max-width: 100%; height: auto; }
-a { color: var(--link); }
-a:hover { color: var(--green); }
+a { color: var(--link); text-decoration-color: rgba(79, 122, 55, 0.45); text-underline-offset: 2px; }
+a:hover { color: var(--link-hover); text-decoration-color: currentColor; }
 h1, h2, h3 { color: var(--ink); line-height: 1.2; text-wrap: balance; }
 h1 { font-size: 2.1rem; margin: 0 0 0.6em; letter-spacing: -0.01em; }
 h2 { font-size: 1.35rem; margin: 2em 0 0.5em; }
