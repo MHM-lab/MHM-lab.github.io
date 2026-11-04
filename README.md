@@ -70,10 +70,10 @@ Role wording used so far: Principal Investigator, PostDoc, PostDoc & Humboldt Fe
   summary_de: >-
     Zwei oder drei Sätze auf Deutsch.
   date: "2027-01"          # optional: month accepted/published -> appears in the homepage Highlights for 6 months
-  highlight: >-            # optional: the highlight sentence (otherwise "New in <venue>: <title>")
-    Jane Doe's paper on ... was accepted in ...
+  highlight: >-            # optional: the highlight sentence (the journal is shown on the card; otherwise the title is used)
+    Accepted: Jane Doe's paper on ...
   highlight_de: >-
-    Die Arbeit von Jane Doe zu ... wurde bei ... angenommen.
+    Angenommen: die Arbeit von Jane Doe zu ...
 ```
 
 **Add a new page** – create `my_page.md` with this at the top, then add it to `nav` in `_config.yml` if it belongs in the menu:

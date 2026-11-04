@@ -201,3 +201,6 @@ a.news-item:hover { border-color: var(--green-light); background: #f7faf5; }
 .news-label { color: var(--green); font-size: 0.72rem; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; }
 @media (max-width: 700px) { .news { grid-template-columns: 1fr; } }
 .pub:target { margin: 0 -1rem; padding: 1rem; border-radius: 8px; background: #f1f6ee; }
+/* paper highlights: a thin accent line and the journal or conference in italics */
+.news-paper { border-left: 3px solid var(--green-light); }
+.news-venue { color: var(--ink); font-style: italic; font-weight: 600; }

@@ -17,15 +17,16 @@
 {% if de %}{% assign m = day | date: '%-m' | plus: 0 | minus: 1 %}{% assign month = months_de[m] | append: ' ' %}{% capture month %}{{ month }}{{ day | date: '%Y' }}{% endcapture %}{% else %}{% capture month %}{{ day | date: '%b %Y' }}{% endcapture %}{% endif %}
 {% if parts[1] == "p" %}
 {% capture plink %}/research/#{{ pub.id | default: pub.title | slugify }}{% endcapture %}
-{% assign venue_de = pub.venue | replace: "(accepted)", "(angenommen)" %}
-{% if de %}{% capture label %}Publikation{% endcapture %}{% capture text %}{% if pub.highlight_de %}{{ pub.highlight_de }}{% else %}Neu bei {{ venue_de }}: {{ pub.title }}{% endif %}{% endcapture %}{% assign href = plink | prepend: '/de' %}
-{% else %}{% capture label %}Paper{% endcapture %}{% capture text %}{% if pub.highlight %}{{ pub.highlight }}{% else %}New in {{ pub.venue }}: {{ pub.title }}{% endif %}{% endcapture %}{% assign href = plink %}{% endif %}
+{% if de %}{% capture label %}Publikation{% endcapture %}{% capture text %}{% if pub.highlight_de %}{{ pub.highlight_de }}{% else %}{{ pub.title }}{% endif %}{% endcapture %}{% assign href = plink | prepend: '/de' %}
+{% else %}{% capture label %}Paper{% endcapture %}{% capture text %}{% if pub.highlight %}{{ pub.highlight }}{% else %}{{ pub.title }}{% endif %}{% endcapture %}{% assign href = plink %}{% endif %}
 {% else %}
 {% if de %}{% assign label = item.label_de | default: item.label %}{% assign text = item.text_de | default: item.text %}{% else %}{% assign label = item.label %}{% assign text = item.text %}{% endif %}
 {% assign href = item.link %}{% if de and item.link and item.link contains '://' %}{% elsif de and item.link %}{% assign href = item.link | prepend: '/de' %}{% endif %}
 {% endif %}
-{% if href %}<a class="news-item" href="{{ href }}" data-date="{{ date }}">{% else %}<div class="news-item" data-date="{{ date }}">{% endif %}
+{% if parts[1] == "p" %}{% assign cls = "news-item news-paper" %}{% capture venue %}{{ pub.venue | remove: " (accepted)" }}{% endcapture %}{% else %}{% assign cls = "news-item" %}{% assign venue = "" %}{% endif %}
+{% if href %}<a class="{{ cls }}" href="{{ href }}" data-date="{{ date }}">{% else %}<div class="{{ cls }}" data-date="{{ date }}">{% endif %}
 <span class="news-label">{{ label }} · {{ month }}</span>
+{% if venue != "" %}<span class="news-venue">{{ venue }}</span>{% endif %}
 <span>{{ text }}</span>
 {% if href %}</a>{% else %}</div>{% endif %}{% endif %}{% endif %}{% endfor %}{% endcapture %}
 {% if shown > 0 %}
