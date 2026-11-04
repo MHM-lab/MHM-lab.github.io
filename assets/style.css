@@ -144,10 +144,21 @@ html { scroll-padding-top: 5.5rem; }
 .person p { margin: 0 0 0.5rem; }
 @media (max-width: 600px) { .person { flex-direction: column; gap: 1rem; } }
 
-/* ---------- research ---------- */
-.theme-image { float: right; width: 180px; margin: 0 0 1rem 1.5rem; border-radius: 8px; }
+/* ---------- research: small theme icons; a click opens the theme's text ---------- */
+.theme-icons { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1rem; max-width: 520px; }
+.theme-icon { display: flex; flex-direction: column; align-items: center; gap: 0.35rem; color: var(--ink); font-size: 0.9rem; font-weight: 600; text-decoration: none; }
+.theme-icon img { width: 76px; height: 76px; object-fit: cover; border-radius: 50%; border: 2px solid transparent; transition: border-color 0.15s, transform 0.15s; }
+.theme-icon:hover img, .theme-icon:focus-visible img { border-color: var(--green-light); transform: scale(1.05); }
+.theme-icon:hover { color: var(--green); }
+.hint { margin: 0.5rem 0 0; color: var(--muted); font-size: 0.85rem; }
+.theme-panel { display: none; margin-top: 1rem; padding: 1rem 1.25rem; border-left: 4px solid var(--green-light); border-radius: 6px; background: #f1f6ee; }
+.theme-panel:target { display: block; }
+.theme-panel h3 { margin-top: 0.2rem; }
+.theme-panel p:last-child { margin-bottom: 0; font-size: 0.9rem; }
+.section-label { margin-top: 1.5rem; font-size: 1.1rem; }
+h3.year { margin: 1.6rem 0 0.2rem; color: var(--muted); font-size: 1rem; }
 h2 { clear: both; }
-@media (max-width: 600px) { .theme-image { float: none; display: block; width: 100%; max-width: 320px; margin: 0 0 1rem; } }
+@media (max-width: 420px) { .theme-icons { gap: 0.5rem; } .theme-icon img { width: 64px; height: 64px; } .theme-icon { font-size: 0.8rem; } }
 
 /* ---------- publications ---------- */
 .pub { padding: 1rem 0; border-bottom: 1px solid var(--line); }

@@ -1,16 +1,45 @@
 ---
 title: Research
 permalink: /research/
-description: "Research themes of the laboratory for Mental Health Mapping: foundations, structures, markers, and models of mental health."
+description: "Research of the laboratory for Mental Health Mapping: four research themes (foundations, structures, markers, and models of mental health) and selected publications."
 ---
-<!-- The four themes are in _data/research.yml -->
+<!-- RESEARCH PAGE: the four themes come from _data/research.yml, the publications from _data/publications.yml -->
 
-<p>Mental health mapping sits at the intersection of machine learning, neuroscience, psychiatry, and philosophy. Since its founding in 2022, the lab has published in leading venues across these fields (see <a href="/selected/">Selected Publications</a>). Our work is organized into four connected themes.</p>
+<p>Mental health mapping sits at the intersection of machine learning, neuroscience, psychiatry, and philosophy. Since its founding in 2022, the lab has published in leading venues across these fields. Our work is organized into four connected themes.</p>
 
+<!-- Themes: small icons; clicking one opens its text below the icons -->
+<h2 id="themes" class="section-label">Themes</h2>
+<div class="theme-icons">
 {% for theme in site.data.research %}
-<h2 id="{{ theme.name | downcase }}">{{ theme.title }}</h2>
-<img class="theme-image" src="/images/{{ theme.image }}" alt="" width="400" height="400">
+<a class="theme-icon" href="#{{ theme.name | downcase }}">
+<img src="/images/{{ theme.image }}" alt="" width="400" height="400">
+<span>{{ theme.name }}</span>
+</a>
+{% endfor %}
+</div>
+<p class="hint">Click a theme to read more.</p>
+{% for theme in site.data.research %}
+<section class="theme-panel" id="{{ theme.name | downcase }}">
+<h3>{{ theme.title }}</h3>
 {{ theme.text | markdownify }}
+<p><a href="#themes">Close</a></p>
+</section>
 {% endfor %}
 
-<p><em>We also hold ourselves to a simple benchmark: for many brain readouts, well-specified regression models perform as well as more complex AI methods, and we report this honestly.</em></p>
+<h2 id="publications">Selected publications</h2>
+<p>A selection of recent and influential work, each with a brief summary of its contribution. The complete list is on <a href="https://scholar.google.com/citations?hl=en&user=4f2rdMcAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.</p>
+<p>We publish across disciplines: machine learning (AAAI, MICCAI, etc.), psychiatry and medicine (JAMA Psychiatry, npj Digital Medicine, etc.), neuroscience (Nature Neuroscience, eLife, etc.), and philosophy (Synthese, etc.).</p>
+
+{% assign years = site.data.publications | group_by: "year" %}
+{% for year in years %}
+<h3 class="year">{{ year.name }}</h3>
+{% for pub in year.items %}
+<div class="pub">
+<p><strong>{{ pub.title }}</strong></p>
+<p><span class="venue">{{ pub.venue }}</span> · <a href="{{ pub.link }}">{{ pub.link_text }}</a></p>
+<p class="summary">{{ pub.summary }}</p>
+</div>
+{% endfor %}
+{% endfor %}
+
+<p class="note"><em>We also hold ourselves to a simple benchmark: for many brain readouts, well-specified regression models perform as well as more complex AI methods, and we report this honestly.</em></p>

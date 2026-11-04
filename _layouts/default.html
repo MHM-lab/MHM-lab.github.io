@@ -13,6 +13,7 @@
   {% assign page_desc = page.description | default: site.description | strip_newlines | escape %}
   <meta name="description" content="{{ page_desc }}">
   <meta name="author" content="Laboratory for Mental Health Mapping">
+  {% if page.redirect_to %}<meta http-equiv="refresh" content="0; url={{ page.redirect_to }}">{% endif %}
   {% if page.noindex %}<meta name="robots" content="noindex">{% else %}<meta name="robots" content="index, follow, max-image-preview:large">{% endif %}
   <link rel="canonical" href="{{ site.url }}{{ url }}">
   {% unless page.noindex or url == "/404.html" %}

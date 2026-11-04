@@ -8,7 +8,7 @@ Live at **https://mhm-lab.github.io**. GitHub Pages rebuilds the site automatica
 |------------------------------------|--------------------------------|
 | Team members (name, role, bio)     | `_data/people.yml` + photo in `images/` |
 | Alumni                             | `_data/alumni.yml`             |
-| Selected publications              | `_data/publications.yml`       |
+| Selected publications (Research page) | `_data/publications.yml` |
 | Research themes (homepage + Research page) | `_data/research.yml`   |
 | Homepage text                      | `index.html`                   |
 | Menu, footer links, site title     | `_config.yml`                  |

@@ -2,16 +2,44 @@
 title: Forschung
 permalink: /de/research/
 lang: de
-description: "Forschungsthemen des Labors für Mental Health Mapping: Grundlagen, Strukturen, Marker und Modelle der psychischen Gesundheit."
+description: "Forschung des Labors für Mental Health Mapping: vier Forschungsthemen (Grundlagen, Strukturen, Marker und Modelle der psychischen Gesundheit) und ausgewählte Publikationen."
 ---
-<!-- Die vier Themen stehen in _data/research.yml (Felder *_de) -->
+<!-- FORSCHUNG (deutsch): Themen aus _data/research.yml (Felder *_de), Publikationen aus _data/publications.yml (summary_de) -->
 
-<p>Mental Health Mapping verbindet maschinelles Lernen, Neurowissenschaften, Psychiatrie und Philosophie. Seit seiner Gründung im Jahr 2022 hat das Labor in führenden Fachzeitschriften und auf führenden Konferenzen dieser Disziplinen publiziert (siehe <a href="/de/selected/">Ausgewählte Publikationen</a>). Unsere Arbeit gliedert sich in vier miteinander verbundene Themen.</p>
+<p>Mental Health Mapping verbindet maschinelles Lernen, Neurowissenschaften, Psychiatrie und Philosophie. Seit seiner Gründung im Jahr 2022 hat das Labor in führenden Fachzeitschriften und auf führenden Konferenzen dieser Disziplinen publiziert. Unsere Arbeit gliedert sich in vier miteinander verbundene Themen.</p>
 
+<h2 id="themes" class="section-label">Themen</h2>
+<div class="theme-icons">
 {% for theme in site.data.research %}
-<h2 id="{{ theme.name | downcase }}">{{ theme.title_de | default: theme.title }}</h2>
-<img class="theme-image" src="/images/{{ theme.image }}" alt="" width="400" height="400">
+<a class="theme-icon" href="#{{ theme.name | downcase }}">
+<img src="/images/{{ theme.image }}" alt="" width="400" height="400">
+<span>{{ theme.name_de | default: theme.name }}</span>
+</a>
+{% endfor %}
+</div>
+<p class="hint">Für mehr Informationen ein Thema anklicken.</p>
+{% for theme in site.data.research %}
+<section class="theme-panel" id="{{ theme.name | downcase }}">
+<h3>{{ theme.title_de | default: theme.title }}</h3>
 {{ theme.text_de | default: theme.text | markdownify }}
+<p><a href="#themes">Schließen</a></p>
+</section>
 {% endfor %}
 
-<p><em>Dabei halten wir uns an einen einfachen Maßstab: Für viele Messgrößen des Gehirns schneiden gut spezifizierte Regressionsmodelle ebenso gut ab wie komplexere KI-Methoden, und das berichten wir offen.</em></p>
+<h2 id="publications">Ausgewählte Publikationen</h2>
+<p>Eine Auswahl aktueller und einflussreicher Arbeiten, jeweils mit einer kurzen Zusammenfassung ihres Beitrags. Die Titel sind im englischen Original angegeben. Die vollständige Liste finden Sie bei <a href="https://scholar.google.com/citations?hl=de&user=4f2rdMcAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.</p>
+<p>Wir publizieren über Disziplinen hinweg: maschinelles Lernen (AAAI, MICCAI usw.), Psychiatrie und Medizin (JAMA Psychiatry, npj Digital Medicine usw.), Neurowissenschaften (Nature Neuroscience, eLife usw.) und Philosophie (Synthese usw.).</p>
+
+{% assign years = site.data.publications | group_by: "year" %}
+{% for year in years %}
+<h3 class="year">{{ year.name }}</h3>
+{% for pub in year.items %}
+<div class="pub">
+<p><strong lang="en">{{ pub.title }}</strong></p>
+<p><span class="venue">{{ pub.venue | replace: "(accepted)", "(angenommen)" }}</span> · <a href="{{ pub.link }}">{% if pub.link_text == "Paper" %}Artikel{% else %}{{ pub.link_text }}{% endif %}</a></p>
+<p class="summary">{{ pub.summary_de | default: pub.summary }}</p>
+</div>
+{% endfor %}
+{% endfor %}
+
+<p class="note"><em>Dabei halten wir uns an einen einfachen Maßstab: Für viele Messgrößen des Gehirns schneiden gut spezifizierte Regressionsmodelle ebenso gut ab wie komplexere KI-Methoden, und das berichten wir offen.</em></p>

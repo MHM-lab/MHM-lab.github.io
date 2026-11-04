@@ -10,8 +10,7 @@ sitemap: false
 ## Pages
 - [Home]({{ site.url }}/): overview of the lab and its four research themes
 - [People]({{ site.url }}/people/): current lab members, their roles, research, and degrees
-- [Research]({{ site.url }}/research/): foundations, structures, markers, and models of mental health mapping
-- [Selected publications]({{ site.url }}/selected/): key papers with summaries (full list on Google Scholar)
+- [Research]({{ site.url }}/research/): the four research themes (foundations, structures, markers, and models of mental health mapping) and selected publications with summaries (full list on Google Scholar)
 - [Teaching]({{ site.url }}/teaching/): courses and a selective seminar at Friedrich Schiller University Jena
 - [Community]({{ site.url }}/community/): current contributions (MLCN workshop, ECNP, ELLIS Unit Jena, Digital Academy, DZPG)
 - [Values]({{ site.url }}/values/): how the lab works together

@@ -1,22 +1,9 @@
 ---
 title: Selected Publications
 permalink: /selected/
-description: Selected publications from the laboratory for Mental Health Mapping, across machine learning, psychiatry, neuroscience, and philosophy.
+sitemap: false
+noindex: true
+redirect_to: /research/#publications
 ---
-<!-- Publications are listed in _data/publications.yml -->
-
-<p>A selection of recent and influential work, each with a brief summary of its contribution. The complete list is on <a href="https://scholar.google.com/citations?hl=en&user=4f2rdMcAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.</p>
-
-<p>We publish across disciplines: machine learning (AAAI, MICCAI, etc.), psychiatry and medicine (JAMA Psychiatry, npj Digital Medicine, etc.), neuroscience (Nature Neuroscience, eLife, etc.), and philosophy (Synthese, etc.).</p>
-
-{% assign years = site.data.publications | group_by: "year" %}
-{% for year in years %}
-<h2>{{ year.name }}</h2>
-{% for pub in year.items %}
-<div class="pub">
-<p><strong>{{ pub.title }}</strong></p>
-<p><span class="venue">{{ pub.venue }}</span> · <a href="{{ pub.link }}">{{ pub.link_text }}</a></p>
-<p class="summary">{{ pub.summary }}</p>
-</div>
-{% endfor %}
-{% endfor %}
+<!-- The publications moved to the Research page; this page forwards old links there. -->
+<p><a href="/research/#publications">Go to the selected publications</a></p>
