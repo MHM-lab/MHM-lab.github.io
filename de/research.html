@@ -32,7 +32,7 @@ description: "Forschung des Labors für Mental Health Mapping: vier Forschungsth
 {% for year in years %}
 <h3 class="year">{{ year.name }}</h3>
 {% for pub in year.items %}
-<div class="pub">
+<div class="pub" id="{{ pub.id | default: pub.title | slugify }}">
 <p><strong lang="en">{{ pub.title }}</strong></p>
 <p><span class="venue">{{ pub.venue | replace: "(accepted)", "(angenommen)" }}</span> · <a href="{{ pub.link }}">{% if pub.link_text == "Paper" %}Artikel{% else %}{{ pub.link_text }}{% endif %}</a></p>
 <p class="summary">{{ pub.summary_de | default: pub.summary }}</p>

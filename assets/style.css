@@ -190,3 +190,4 @@ h2 { clear: both; }
 a.news-item:hover { border-color: var(--green-light); background: #f7faf5; }
 .news-label { color: var(--green); font-size: 0.72rem; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; }
 @media (max-width: 700px) { .news { grid-template-columns: 1fr; } }
+.pub:target { margin: 0 -1rem; padding: 1rem; border-radius: 8px; background: #f1f6ee; }

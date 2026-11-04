@@ -10,7 +10,7 @@
   text_de: >-
     Yanwu Yangs normative Referenz für die Dynamik des menschlichen Gehirns über die Lebensspanne
     wurde bei Nature Neuroscience angenommen.
-  link: https://www.biorxiv.org/content/10.64898/2026.03.06.710057v1
+  link: /research/#brain-dynamics
 - label: Paper
   label_de: Publikation
   text: >-
@@ -19,7 +19,7 @@
   text_de: >-
     Alexander Frotschers groß angelegter Benchmark zur Anomalieerkennung in der Bildgebung des Gehirns
     wurde bei npj Digital Medicine angenommen.
-  link: https://arxiv.org/abs/2512.01534
+  link: /research/#anomaly-detection
 - label: Talk
   label_de: Vortrag
   text: >-

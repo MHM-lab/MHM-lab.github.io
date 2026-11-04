@@ -1,9 +1,11 @@
 # SELECTED PUBLICATIONS (newest first; grouped by year automatically)
 # link_text: "Paper" for the published version, "Preprint" for arXiv/bioRxiv.
 # summary_de: German summary for the German page (titles stay in English).
+# id: optional short name, so other pages can link to the paper (e.g. /research/#brain-dynamics).
 
 - year: 2026
   title: A normative reference for large-scale human brain dynamics across the lifespan
+  id: brain-dynamics
   venue: Nature Neuroscience (accepted)
   link: https://www.biorxiv.org/content/10.64898/2026.03.06.710057v1
   link_text: Preprint
@@ -26,6 +28,7 @@
     die zeitliche Dimension und ermöglicht eine individuelle Beurteilung der Hirndynamik.
 - year: 2026
   title: 'Deep Unsupervised Anomaly Detection in Brain Imaging: Large-Scale Benchmarking and Bias Analysis'
+  id: anomaly-detection
   venue: npj Digital Medicine (accepted)
   link: https://arxiv.org/abs/2512.01534
   link_text: Preprint
