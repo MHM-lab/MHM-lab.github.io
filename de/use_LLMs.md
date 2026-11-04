@@ -3,6 +3,7 @@ permalink: /de/use_LLMs/
 lang: de
 title: "Nutzung von LLMs"
 description: "Wie das Labor für Mental Health Mapping große Sprachmodelle in Studium, Publikationen und Peer Review einsetzt."
+sections: cards
 ---
 
 Große Sprachmodelle (Large Language Models, LLMs) können hilfreich sein, um Ideen zu strukturieren oder Texte sprachlich zu verbessern. Gleichzeitig werfen sie wichtige Fragen zu wissenschaftlicher Integrität, Transparenz und Verantwortlichkeit auf.

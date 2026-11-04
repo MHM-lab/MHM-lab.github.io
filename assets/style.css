@@ -246,3 +246,14 @@ a.news-item:hover { border-color: var(--green-light); background: #f7faf5; }
 .pub .venue { display: inline-block; padding: 0.15em 0.6em; border-radius: 999px; background: #eef4ea; color: var(--green); letter-spacing: 0.03em; }
 .pub-meta a { font-size: 0.85rem; }
 .pub { transition: background-color 0.15s; }
+
+/* ---------- one look for all pages ---------- */
+/* the first paragraph under a page title is the larger intro text */
+.content > h1 + p:not(.highlight):not(.byline), .content > .byline + p { font-size: 1.2rem; line-height: 1.55; }
+.byline { color: var(--muted); font-style: italic; margin-top: -0.3rem; }
+/* text pages: each section is a card, like the courses on the Teaching page */
+.section-card, .course { margin: 1.25rem 0; padding: 1.1rem 1.4rem 1rem; border: 1px solid var(--line); border-left: 4px solid var(--green-light); border-radius: 10px; }
+.section-card h2, .course h2 { margin: 0 0 0.5rem; font-size: 1.2rem; }
+.section-card > :last-child { margin-bottom: 0; }
+.section-card ul { padding-left: 1.2rem; }
+@media (max-width: 600px) { .section-card, .course { padding: 0.9rem 1rem 0.8rem; } }

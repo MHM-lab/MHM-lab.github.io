@@ -3,6 +3,7 @@ permalink: /values/
 nav_parent: /join_us/
 title: "Values"
 description: "The values that guide the laboratory for Mental Health Mapping: communication, support, diversity, learning from failure, and responsible AI."
+sections: cards
 ---
 
 We are all different and imperfect: we fail, misjudge context, and occasionally violate our own standards. This is part of being human. Human fallibility is therefore both the reason values fail and the reason they are needed. Our values are guiding principles under uncertainty, not rigid rules or signals of virtue.

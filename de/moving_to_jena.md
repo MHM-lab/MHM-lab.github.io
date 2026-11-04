@@ -3,9 +3,10 @@ permalink: /de/moving_to_jena/
 lang: de
 title: "Umzug nach Jena"
 description: "Ein persönlicher Leitfaden für den Umzug nach Jena: Forschungsumfeld, Wohnen, Sprache, Lebenshaltungskosten und Unterstützung für Familien."
+sections: cards
 ---
 
-*Ein persönlicher Leitfaden von Thomas Wolfers.*
+<p class="byline">Ein persönlicher Leitfaden von Thomas Wolfers.</p>
 
 **Jena** ist eine Stadt mit rund 110.000 Einwohnerinnen und Einwohnern in der Nähe von Leipzig (etwa 1–1,5 Stunden mit dem Zug) und Berlin (etwa 2,5–3 Stunden mit dem Zug). So lassen sich die kulturellen und sozialen Angebote größerer Städte nutzen, während man in einer ruhigeren Umgebung mit weniger Ablenkung im Alltag lebt.
 

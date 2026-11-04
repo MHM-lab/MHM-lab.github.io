@@ -2,9 +2,10 @@
 permalink: /moving_to_jena/
 title: "Moving to Jena"
 description: "A personal guide to moving to Jena: research environment, housing, language, living costs, and family support."
+sections: cards
 ---
 
-*A personal guide by Thomas Wolfers.*
+<p class="byline">A personal guide by Thomas Wolfers.</p>
 
 **Jena in Germany** is a city of about 110,000 people, located close to Leipzig (about 1–1.5 h by train) and Berlin (about 2.5–3 h by train). This allows you to enjoy the cultural and social opportunities of larger cities while living in a quieter environment with fewer daily distractions.
 

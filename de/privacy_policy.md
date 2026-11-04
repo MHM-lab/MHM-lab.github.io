@@ -3,6 +3,7 @@ permalink: /de/privacy_policy/
 lang: de
 title: "Datenschutzerklärung"
 description: "Datenschutzerklärung der Website des Labors für Mental Health Mapping."
+sections: cards
 ---
 
 Auf dieser Seite erfahren Sie, was mit Ihren Daten geschieht, wenn Sie diese Website besuchen.

@@ -4,6 +4,7 @@ lang: de
 nav_parent: /join_us/
 title: "Community"
 description: "Aktuelle Beiträge des Labors für Mental Health Mapping zur wissenschaftlichen Gemeinschaft in Jena und darüber hinaus."
+sections: cards
 ---
 
 Unsere institutionelle Heimat, unsere Netzwerke und unsere Beiträge zur wissenschaftlichen Gemeinschaft.

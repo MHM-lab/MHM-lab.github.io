@@ -58,7 +58,8 @@
 
 <main class="content">
   {% if page.title and page.show_title != false %}<h1>{{ page.title }}</h1>{% endif %}
-  {{ content }}
+  {% comment %} Pages with "sections: cards" show each section (## heading) as a card, like the courses {% endcomment %}
+  {% if page.sections == "cards" %}{% assign parts = content | split: '<h2' %}{{ parts | first }}{% for part in parts offset: 1 %}<section class="section-card"><h2{{ part }}</section>{% endfor %}{% else %}{{ content }}{% endif %}
 </main>
 
 <footer class="site-footer">

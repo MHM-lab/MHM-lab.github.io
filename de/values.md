@@ -4,6 +4,7 @@ lang: de
 nav_parent: /join_us/
 title: "Werte"
 description: "Die Werte des Labors für Mental Health Mapping: Kommunikation, gegenseitige Unterstützung, Vielfalt, Lernen aus Fehlern und verantwortungsvolle KI."
+sections: cards
 ---
 
 Wir sind alle verschieden und unvollkommen: Wir scheitern, schätzen Situationen falsch ein und verstoßen gelegentlich gegen unsere eigenen Maßstäbe. Das gehört zum Menschsein. Menschliche Fehlbarkeit ist daher sowohl der Grund, warum Werte scheitern, als auch der Grund, warum wir sie brauchen. Unsere Werte sind Leitlinien unter Unsicherheit, keine starren Regeln und keine Zurschaustellung von Tugend.
