@@ -1,17 +1,11 @@
-# RECENT UPDATES (homepage). The first four entries are shown, newest first.
-# label: short tag (Paper, Talk, Award, ...); label_de: the same in German.
-# text / text_de: one sentence. link: optional (a paper, a talk, or a page on this site).
+# RECENT UPDATES (homepage). Shows the four newest entries from the last 12 months;
+# older entries disappear by themselves, and the section is hidden when nothing is recent.
+# date: year and month as "YYYY-MM" (in quotes). label: short tag (Paper, Talk, Award, ...);
+# label_de: the same in German. text / text_de: one sentence.
+# link: optional (a paper, a talk, or a page on this site, e.g. /research/#sigma-vae).
 
 - label: Paper
-  label_de: Publikation
-  text: >-
-    Yanwu Yang's normative reference for human brain dynamics across the lifespan was accepted in
-    Nature Neuroscience.
-  text_de: >-
-    Yanwu Yangs normative Referenz für die Dynamik des menschlichen Gehirns über die Lebensspanne
-    wurde bei Nature Neuroscience angenommen.
-  link: /research/#brain-dynamics
-- label: Paper
+  date: "2026-10"
   label_de: Publikation
   text: >-
     Alexander Frotscher's large-scale benchmark of anomaly detection in brain imaging was accepted in
@@ -21,6 +15,7 @@
     wurde bei npj Digital Medicine angenommen.
   link: /research/#anomaly-detection
 - label: Talk
+  date: "2026-10"
   label_de: Vortrag
   text: >-
     Mariam Zabihi presented SIGMA-VAE, our multi-view autoencoder for normative modeling, at MICCAI 2026.
@@ -28,7 +23,18 @@
     Mariam Zabihi hat SIGMA-VAE, unseren Multi-View-Autoencoder für die normative Modellierung, auf der
     MICCAI 2026 vorgestellt.
   link: /research/#sigma-vae
+- label: Paper
+  date: "2026-08"
+  label_de: Publikation
+  text: >-
+    Yanwu Yang's normative reference for human brain dynamics across the lifespan was accepted in
+    Nature Neuroscience.
+  text_de: >-
+    Yanwu Yangs normative Referenz für die Dynamik des menschlichen Gehirns über die Lebensspanne
+    wurde bei Nature Neuroscience angenommen.
+  link: /research/#brain-dynamics
 - label: Talk
+  date: "2026-06"
   label_de: Vortrag
   text: >-
     Nitin Sharma presented transferable conditional brain charts, which link brain structure to

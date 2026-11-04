@@ -26,15 +26,7 @@ We use large, diverse datasets and machine learning to understand how biological
 {% endfor %}
 </div>
 
-<h2 class="section-label">Recent updates</h2>
-<div class="news">
-{% for item in site.data.news limit: 4 %}
-{% if item.link %}<a class="news-item" href="{{ item.link }}">{% else %}<div class="news-item">{% endif %}
-<span class="news-label">{{ item.label }}</span>
-<span>{{ item.text }}</span>
-{% if item.link %}</a>{% else %}</div>{% endif %}
-{% endfor %}
-</div>
+{% include news.html %}
 
 <p class="note">
 Led by <a href="https://thomaswolfers.github.io/en/">Thomas Wolfers</a> at <a href="https://www.uni-jena.de/en/">Friedrich Schiller University Jena</a>.
