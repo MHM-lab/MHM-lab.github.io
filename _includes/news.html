@@ -1,13 +1,13 @@
 {% comment %}
   Highlights on the homepage (EN and DE). Data: _data/news.yml.
-  Shows up to four entries from the last 12 months. A small script hides entries that become older
+  Shows up to six entries from the last 12 months. A small script hides entries that become older
   than 12 months later on, even if the site has not been rebuilt; no recent entries = no section.
 {% endcomment %}
 {% assign de = false %}{% if page.lang == "de" %}{% assign de = true %}{% endif %}
 {% assign cutoff = site.time | date: '%s' | minus: 31536000 %}
 {% assign months_de = "Jan.,Feb.,März,Apr.,Mai,Juni,Juli,Aug.,Sept.,Okt.,Nov.,Dez." | split: "," %}
 {% assign shown = 0 %}
-{% capture cards %}{% for item in site.data.news %}{% assign day = item.date | append: '-01' %}{% assign t = day | date: '%s' | plus: 0 %}{% if t >= cutoff and shown < 4 %}{% assign shown = shown | plus: 1 %}
+{% capture cards %}{% for item in site.data.news %}{% assign day = item.date | append: '-01' %}{% assign t = day | date: '%s' | plus: 0 %}{% if t >= cutoff and shown < 6 %}{% assign shown = shown | plus: 1 %}
 {% if de %}{% assign m = day | date: '%-m' | plus: 0 | minus: 1 %}{% assign month = months_de[m] | append: ' ' %}{% capture month %}{{ month }}{{ day | date: '%Y' }}{% endcapture %}{% else %}{% capture month %}{{ day | date: '%b %Y' }}{% endcapture %}{% endif %}
 {% if item.link %}{% if de and item.link contains '://' %}{% assign href = item.link %}{% elsif de %}{% assign href = item.link | prepend: '/de' %}{% else %}{% assign href = item.link %}{% endif %}<a class="news-item" href="{{ href }}" data-date="{{ item.date }}">{% else %}<div class="news-item" data-date="{{ item.date }}">{% endif %}
 <span class="news-label">{% if de %}{{ item.label_de | default: item.label }}{% else %}{{ item.label }}{% endif %} · {{ month }}</span>

@@ -10,22 +10,16 @@
   link: https://www.biorxiv.org/content/10.64898/2026.03.06.710057v1
   link_text: Preprint
   summary: >-
-    We establish a population-scale normative reference framework for intrinsic human brain dynamics using
-    resting-state fMRI data from more than 10,000 individuals across the lifespan and 91 imaging sites.
-    By identifying a compact set of recurring brain states that capture large-scale network reconfigurations,
-    we anchor brain dynamics to normative lifespan models. This framework reveals systematic developmental
-    and aging-related changes and uncovers heterogeneous alterations across mental health conditions,
-    extending normative brain mapping from static brain features to the temporal domain and enabling individualized
-    assessment of brain dynamics.
+    We build a population-scale normative reference for intrinsic brain dynamics from resting-state fMRI
+    of more than 10,000 people across the lifespan and 91 imaging sites. Recurring brain states anchor
+    these dynamics to lifespan norms, revealing developmental and aging trends and heterogeneous
+    alterations across mental health conditions, and enabling individual assessment of brain dynamics.
   summary_de: >-
-    Wir etablieren einen populationsbasierten normativen Referenzrahmen für die intrinsische Dynamik des
-    menschlichen Gehirns, basierend auf Ruhe-fMRT-Daten von mehr als 10.000 Personen über die gesamte
-    Lebensspanne und aus 91 Bildgebungsstandorten. Indem wir eine kompakte Menge wiederkehrender
-    Hirnzustände identifizieren, die großräumige Rekonfigurationen von Netzwerken abbilden, verankern
-    wir die Hirndynamik in normativen Lebensspannenmodellen. Dieser Rahmen zeigt systematische
-    Veränderungen in Entwicklung und Alterung und deckt heterogene Veränderungen bei psychischen
-    Erkrankungen auf. Damit erweitert er das normative Brain Mapping von statischen Hirnmerkmalen auf
-    die zeitliche Dimension und ermöglicht eine individuelle Beurteilung der Hirndynamik.
+    Wir erstellen eine populationsbasierte normative Referenz für die intrinsische Hirndynamik aus
+    Ruhe-fMRT-Daten von mehr als 10.000 Menschen über die Lebensspanne und aus 91 Bildgebungsstandorten.
+    Wiederkehrende Hirnzustände verankern diese Dynamik in Lebensspannennormen, zeigen Entwicklungs- und
+    Alterungstrends sowie heterogene Veränderungen bei psychischen Erkrankungen und ermöglichen eine
+    individuelle Beurteilung der Hirndynamik.
 - year: 2026
   title: 'Deep Unsupervised Anomaly Detection in Brain Imaging: Large-Scale Benchmarking and Bias Analysis'
   id: anomaly-detection
@@ -33,18 +27,15 @@
   link: https://arxiv.org/abs/2512.01534
   link_text: Preprint
   summary: >-
-    We created a large, multi-center benchmark for deep unsupervised anomaly detection in brain imaging
-    based on state-of-the-art methods developed for brain science and industry, using about 460,000 slices
-    from healthy brains for training. Our systematic evaluation across scanners, lesion types, and demographics
-    reveals substantial performance variability and highlights key methodological limitations that future
-    algorithms must overcome, in addition to systematic biases.
+    We build a large multi-center benchmark for deep unsupervised anomaly detection in brain imaging,
+    trained on about 460,000 slices from healthy brains. Performance varies substantially across
+    scanners, lesion types, and demographics, revealing systematic biases and methodological limits that
+    future algorithms must overcome.
   summary_de: >-
-    Wir haben einen großen, multizentrischen Benchmark für unüberwachte Anomalieerkennung mit Deep
-    Learning in der Bildgebung des Gehirns erstellt. Er basiert auf State-of-the-Art-Methoden aus
-    Hirnforschung und Industrie und nutzt rund 460.000 Schichtbilder gesunder Gehirne für das Training.
-    Unsere systematische Auswertung über Scanner, Läsionstypen und demografische Gruppen hinweg zeigt
-    eine erhebliche Variabilität der Leistung und macht neben systematischen Verzerrungen zentrale
-    methodische Grenzen deutlich, die künftige Algorithmen überwinden müssen.
+    Wir erstellen einen großen multizentrischen Benchmark für unüberwachte Anomalieerkennung mit Deep
+    Learning in der Bildgebung des Gehirns, trainiert auf rund 460.000 Schichtbildern gesunder Gehirne.
+    Die Leistung schwankt erheblich zwischen Scannern, Läsionstypen und demografischen Gruppen und zeigt
+    systematische Verzerrungen und methodische Grenzen, die künftige Algorithmen überwinden müssen.
 - year: 2026
   title: 'SIGMA-VAE: Sketched Isotropic Gaussian Multi-view Autoencoder for Normative Modeling'
   id: sigma-vae
@@ -52,34 +43,32 @@
   link: https://link.springer.com/chapter/10.1007/978-3-032-38239-9_51
   link_text: Paper
   summary: >-
-    We introduce SIGMA-VAE, a multi-view autoencoder for normative modeling that gives the latent space
-    a well-behaved geometry, learns sparse and interpretable representations, and weights deviations by
-    their uncertainty. Trained on more than 40,000 brain scans from 328 scanners, it detects individual-level
-    anomalies more sensitively, generalizes to unseen scanners, and discriminates Alzheimer's disease
-    with an AUC of 0.91 on held-out and 0.87 on external data.
+    We introduce SIGMA-VAE, a multi-view autoencoder for normative modeling with a well-behaved latent
+    geometry, sparse and interpretable representations, and uncertainty-weighted deviations. Trained on
+    more than 40,000 brain scans from 328 scanners, it detects individual anomalies more sensitively,
+    generalizes to unseen scanners, and discriminates Alzheimer's disease with an AUC of 0.91 on
+    held-out and 0.87 on external data.
   summary_de: >-
-    Wir stellen SIGMA-VAE vor, einen Multi-View-Autoencoder für die normative Modellierung, der dem
-    latenten Raum eine gut handhabbare Geometrie verleiht, dünnbesetzte und interpretierbare
-    Repräsentationen lernt und Abweichungen nach ihrer Unsicherheit gewichtet. Trainiert auf mehr als
-    40.000 Hirnscans von 328 Scannern, erkennt das Modell individuelle Anomalien empfindlicher,
-    generalisiert auf unbekannte Scanner und unterscheidet die Alzheimer-Krankheit mit einer AUC von
-    0,91 auf zurückgehaltenen und 0,87 auf externen Daten.
+    Wir stellen SIGMA-VAE vor, einen Multi-View-Autoencoder für die normative Modellierung mit gut
+    strukturiertem latentem Raum, dünnbesetzten und interpretierbaren Repräsentationen und nach
+    Unsicherheit gewichteten Abweichungen. Trainiert auf mehr als 40.000 Hirnscans von 328 Scannern,
+    erkennt er individuelle Anomalien empfindlicher, generalisiert auf unbekannte Scanner und
+    unterscheidet die Alzheimer-Krankheit mit einer AUC von 0,91 auf zurückgehaltenen und 0,87 auf
+    externen Daten.
 - year: 2026
   title: 'MedSAMix: A Training-Free Model Merging Approach for Medical Image Segmentation'
   venue: AAAI (Main Track)
   link: https://ojs.aaai.org/index.php/AAAI/article/view/38161
   link_text: Paper
   summary: >-
-    Universal medical segmentation models promise broad utility but struggle with scarce, heterogeneous
-    data. We present MedSAMix, a training-free method that automatically merges generalist (SAM) and specialist
-    (MedSAM) models for optimal performance. Across 25 tasks, MedSAMix reduces bias and improves both
-    generalization and domain-specific accuracy by up to 6.7%.
+    We present MedSAMix, a training-free method that automatically merges generalist (SAM) and
+    specialist (MedSAM) segmentation models. Across 25 medical segmentation tasks, it reduces bias and
+    improves both generalization and domain-specific accuracy by up to 6.7%.
   summary_de: >-
-    Universelle Segmentierungsmodelle für die Medizin versprechen breiten Nutzen, haben aber mit
-    knappen, heterogenen Daten zu kämpfen. Wir stellen MedSAMix vor, eine trainingsfreie Methode, die
-    generalistische (SAM) und spezialisierte (MedSAM) Modelle automatisch zusammenführt, um die
-    bestmögliche Leistung zu erzielen. Über 25 Aufgaben hinweg verringert MedSAMix Verzerrungen und
-    verbessert sowohl die Generalisierung als auch die domänenspezifische Genauigkeit um bis zu 6,7 %.
+    Wir stellen MedSAMix vor, eine trainingsfreie Methode, die generalistische (SAM) und spezialisierte
+    (MedSAM) Segmentierungsmodelle automatisch zusammenführt. Über 25 medizinische
+    Segmentierungsaufgaben hinweg verringert sie Verzerrungen und verbessert Generalisierung und
+    domänenspezifische Genauigkeit um bis zu 6,7 %.
 - year: 2026
   title: 'From early to contemporary normative modeling: Mapping individual differences in neurophysiological
     signals'
@@ -87,36 +76,29 @@
   link: https://doi.org/10.1162/IMAG.a.1269
   link_text: Paper
   summary: >-
-    Normative modeling has emerged as a transformative framework for detecting individual deviations from
-    typical brain function. This review charts its contemporary resurgence in brain electrophysiology,
-    driven by machine learning and large-scale datasets, as the field moves beyond small, age-based models
-    toward harmonized and more complex approaches. We argue the next step depends on international collaboration,
-    standardized pipelines, and novel features, positioning the field to advance from proof-of-concept
-    toward precise, individualized brain mapping towards clinical applications.
+    We review the resurgence of normative modeling in brain electrophysiology, driven by machine
+    learning and large datasets, as the field moves from small age-based models to harmonized, more
+    complex approaches. We argue that international collaboration, standardized pipelines, and new
+    features are needed to move from proof of concept to individualized clinical applications.
   summary_de: >-
-    Die normative Modellierung hat sich als wegweisender Ansatz etabliert, um individuelle Abweichungen
-    von typischer Hirnfunktion zu erkennen. Dieses Review zeichnet ihre heutige Renaissance in der
-    Elektrophysiologie des Gehirns nach, angetrieben durch maschinelles Lernen und große Datensätze,
-    während sich das Feld von kleinen, altersbasierten Modellen hin zu harmonisierten und komplexeren
-    Ansätzen bewegt. Wir argumentieren, dass der nächste Schritt von internationaler Zusammenarbeit,
-    standardisierten Pipelines und neuen Merkmalen abhängt, damit das Feld vom Proof of Concept zu
-    präzisem, individuellem Brain Mapping und schließlich zu klinischen Anwendungen gelangt.
+    Wir geben einen Überblick über die Renaissance der normativen Modellierung in der Elektrophysiologie
+    des Gehirns, angetrieben durch maschinelles Lernen und große Datensätze, während sich das Feld von
+    kleinen, altersbasierten Modellen zu harmonisierten, komplexeren Ansätzen entwickelt. Wir
+    argumentieren, dass internationale Zusammenarbeit, standardisierte Pipelines und neue Merkmale nötig
+    sind, um vom Proof of Concept zu individuellen klinischen Anwendungen zu gelangen.
 - year: 2025
   title: Hierarchical Characterization of Brain Dynamics via State Space-based Vector Quantization
   venue: MICCAI (Main Track)
   link: https://papers.miccai.org/miccai-2025/0405-Paper0118.html
   link_text: Paper
   summary: >-
-    We introduce a Hierarchical State-space Tokenization network (HST), which breaks brain activity into
-    stable "tokens," like building blocks, and tracks how the brain moves between them. Tested on two
-    independent datasets our method captures these dynamics more clearly than existing approaches and
-    shows promise for understanding dynamic brain functions in health and disease.
+    We introduce HST, a hierarchical state-space tokenization network that breaks brain activity into
+    stable "tokens" and tracks how the brain moves between them. In two independent datasets, it
+    captures these dynamics more clearly than existing approaches.
   summary_de: >-
-    Wir stellen ein Hierarchical State-space Tokenization Network (HST) vor, das Hirnaktivität in
-    stabile "Tokens" zerlegt, gleichsam Bausteine, und verfolgt, wie das Gehirn zwischen ihnen wechselt.
-    In zwei unabhängigen Datensätzen erfasst unsere Methode diese Dynamik deutlicher als bestehende
-    Ansätze und ist vielversprechend für das Verständnis dynamischer Hirnfunktionen in Gesundheit und
-    Krankheit.
+    Wir stellen HST vor, ein hierarchisches State-Space-Tokenisierungsnetzwerk, das Hirnaktivität in
+    stabile "Tokens" zerlegt und verfolgt, wie das Gehirn zwischen ihnen wechselt. In zwei unabhängigen
+    Datensätzen erfasst es diese Dynamik deutlicher als bestehende Ansätze.
 - year: 2025
   title: A 10-year longitudinal study of brain cortical thickness in people with first-episode psychosis
     using normative models
@@ -124,17 +106,15 @@
   link: https://doi.org/10.1093/schbul/sbae107
   link_text: Paper
   summary: >-
-    We demonstrate that, in some cases, brain abnormalities associated with schizophrenia show signs of
-    normalization over time. Additionally, we underscore the critical importance of modeling site-specific
-    variability to ensure accurate inference. This is especially relevant in longitudinal neuroimaging
-    studies, where changes in scanning protocols and equipment over time can introduce significant confounds
-    if not properly accounted for.
+    Using normative models, we show that in some people with first-episode psychosis, brain
+    abnormalities show signs of normalization over ten years. We also show that modeling site-specific
+    variability is essential in longitudinal studies, where changes in scanners and protocols can
+    otherwise confound the results.
   summary_de: >-
-    Wir zeigen, dass sich mit Schizophrenie assoziierte Hirnauffälligkeiten in manchen Fällen im
-    Zeitverlauf normalisieren. Zudem unterstreichen wir, wie wichtig es ist, standortspezifische
-    Variabilität zu modellieren, um verlässliche Schlüsse zu ziehen. Das ist besonders relevant für
-    longitudinale Bildgebungsstudien, in denen sich Messprotokolle und Geräte im Laufe der Zeit ändern
-    und erhebliche Störfaktoren einbringen können, wenn sie nicht angemessen berücksichtigt werden.
+    Mit normativen Modellen zeigen wir, dass Hirnauffälligkeiten bei manchen Menschen mit erster
+    psychotischer Episode über zehn Jahre Anzeichen einer Normalisierung zeigen. Zudem zeigen wir, dass
+    die Modellierung standortspezifischer Variabilität in Längsschnittstudien unverzichtbar ist, da
+    Wechsel von Scannern und Protokollen die Ergebnisse sonst verzerren können.
 - year: 2024
   title: Characterising personalized neuropathology in dementia and mild cognitive impairment with explainable
     artificial intelligence
@@ -142,105 +122,93 @@
   link: https://doi.org/10.1038/s41746-024-01123-7
   link_text: Paper
   summary: >-
-    We trained a deep neural network to predict dementias. We use explainable machine learning to tease
-    apart individual differences and make predictions (over time) on whether a specific individual develops
-    dementia. We can do that up to 7 years early with good reliability.
+    We trained a deep neural network to predict dementia and used explainable AI to characterize
+    individual differences. It predicts whether a person will develop dementia up to seven years in
+    advance with good reliability.
   summary_de: >-
-    Wir haben ein tiefes neuronales Netz trainiert, um Demenzen vorherzusagen. Mit erklärbarem
-    maschinellem Lernen schlüsseln wir individuelle Unterschiede auf und sagen (im Zeitverlauf) vorher,
-    ob eine bestimmte Person eine Demenz entwickelt. Das gelingt bis zu sieben Jahre im Voraus mit guter
-    Zuverlässigkeit.
+    Wir haben ein tiefes neuronales Netz zur Vorhersage von Demenz trainiert und individuelle
+    Unterschiede mit erklärbarer KI charakterisiert. Es sagt bis zu sieben Jahre im Voraus mit guter
+    Zuverlässigkeit vorher, ob eine Person eine Demenz entwickelt.
 - year: 2024
   title: Computational psychiatry and the evolving concept of a mental disorder
   venue: Synthese
   link: https://doi.org/10.1007/s11229-024-04741-6
   link_text: Paper
   summary: >-
-    We explore the pursuit of a coherent framework for research and treatment in psychiatry, driven by
-    growing dissatisfaction with traditional concepts of mental disorders. This exploration incorporates
-    various computational paradigms, including normative modeling, network theory, and learning-theoretic
-    approaches. Each of these paradigms offers unique methodologies and visions for reconceptualizing
-    mental disorders. In this discussion, we examine their similarities, differences, and potential conceptual
-    conflicts.
+    Growing dissatisfaction with traditional concepts of mental disorder has prompted a search for a
+    coherent framework for psychiatric research and treatment. We compare computational paradigms such
+    as normative modeling, network theory, and learning-theoretic approaches, and examine their
+    similarities, differences, and potential conceptual conflicts.
   summary_de: >-
-    Wir untersuchen das Streben nach einem kohärenten Rahmen für Forschung und Behandlung in der
-    Psychiatrie, das aus wachsender Unzufriedenheit mit traditionellen Konzepten psychischer Störungen
-    erwächst. Dabei betrachten wir verschiedene computationale Paradigmen, darunter normative
-    Modellierung, Netzwerktheorie und lerntheoretische Ansätze. Jedes dieser Paradigmen bietet eigene
-    Methoden und Visionen für eine Neukonzeption psychischer Störungen. Wir diskutieren ihre
-    Gemeinsamkeiten, Unterschiede und möglichen konzeptuellen Konflikte.
+    Wachsende Unzufriedenheit mit traditionellen Konzepten psychischer Störungen hat die Suche nach
+    einem kohärenten Rahmen für psychiatrische Forschung und Behandlung angestoßen. Wir vergleichen
+    computationale Paradigmen wie normative Modellierung, Netzwerktheorie und lerntheoretische Ansätze
+    und untersuchen ihre Gemeinsamkeiten, Unterschiede und möglichen konzeptuellen Konflikte.
 - year: 2024
   title: Mapping Cerebellar Anatomical Heterogeneity in Mental and Neurological Illnesses
   venue: Nature Mental Health
   link: https://doi.org/10.1038/s44220-024-00297-z
   link_text: Paper
   summary: >-
-    We trained normative models on more than 50k individuals, charting the development of the cerebellum
-    over the lifespan. We tease apart individual differences in patients with mental and neurological
-    illness.
+    We trained normative models on more than 50,000 people to chart the development of the cerebellum
+    across the lifespan. These models reveal individual differences in people with mental and
+    neurological illnesses.
   summary_de: >-
-    Wir haben normative Modelle an mehr als 50.000 Personen trainiert und die Entwicklung des Kleinhirns
-    über die Lebensspanne kartiert. Damit schlüsseln wir individuelle Unterschiede bei Patientinnen und
-    Patienten mit psychischen und neurologischen Erkrankungen auf.
+    Wir haben normative Modelle an mehr als 50.000 Menschen trainiert, um die Entwicklung des Kleinhirns
+    über die Lebensspanne zu kartieren. Die Modelle zeigen individuelle Unterschiede bei Menschen mit
+    psychischen und neurologischen Erkrankungen.
 - year: 2023
   title: Regional, circuit and network heterogeneity of brain abnormalities in psychiatric disorders
   venue: Nature Neuroscience
   link: https://www.nature.com/articles/s41593-023-01404-6
   link_text: Paper
   summary: >-
-    We developed normative models and applied them to analyze various mental disorders. Our study meticulously
-    characterized the resulting deviations at the voxel, regional, and network levels of the human brain.
-    Notably, our findings reveal a higher degree of overlap across individuals at the network level.
+    We applied normative models across several mental disorders and characterized individual deviations
+    at the voxel, regional, and network levels of the brain. Deviations overlap more across individuals
+    at the network level.
   summary_de: >-
-    Wir haben normative Modelle entwickelt und auf verschiedene psychische Störungen angewendet. Unsere
-    Studie charakterisiert die resultierenden Abweichungen detailliert auf Voxel-, Regions- und
-    Netzwerkebene des menschlichen Gehirns. Bemerkenswert ist, dass sich die Abweichungen zwischen
-    Personen auf Netzwerkebene stärker überschneiden.
+    Wir haben normative Modelle auf mehrere psychische Störungen angewendet und individuelle
+    Abweichungen auf Voxel-, Regions- und Netzwerkebene des Gehirns charakterisiert. Auf Netzwerkebene
+    überschneiden sich die Abweichungen zwischen Personen stärker.
 - year: 2022
   title: Deep neural networks learn general and clinically relevant representations of the ageing brain
   venue: NeuroImage
   link: https://doi.org/10.1016/j.neuroimage.2022.119210
   link_text: Paper
   summary: >-
-    We trained a deep neural network on N > 50k individuals to predict the aging brain. We transferred
-    this model to make clinical predictions. We show that scale matters also in deep machine learning
-    based imaging. Our model has been benchmarked by another group to be the-state-of-the-art brain age
-    model. It demonstrates increased robustness to domain shifts, albeit with the previously observed
-    brain-age accuracy vs. disease detection trade-off.
+    We trained a deep neural network on more than 50,000 people to predict brain age and transferred it
+    to clinical prediction tasks, showing that scale matters for deep learning in neuroimaging.
+    Independently benchmarked as a state-of-the-art brain-age model, it is robust to domain shifts but
+    shows the known trade-off between brain-age accuracy and disease detection.
   summary_de: >-
-    Wir haben ein tiefes neuronales Netz an mehr als 50.000 Personen trainiert, um das alternde Gehirn
-    vorherzusagen, und dieses Modell auf klinische Vorhersagen übertragen. Wir zeigen, dass Skalierung
-    auch beim bildgebungsbasierten Deep Learning zählt. Eine andere Arbeitsgruppe hat unser Modell in
-    einem Benchmark als State-of-the-Art-Modell für das Hirnalter bestätigt. Es ist robuster gegenüber
-    Domänenverschiebungen, zeigt aber den bereits bekannten Zielkonflikt zwischen der Genauigkeit des
-    Hirnalters und der Erkennung von Erkrankungen.
+    Wir haben ein tiefes neuronales Netz an mehr als 50.000 Menschen zur Vorhersage des Hirnalters
+    trainiert und auf klinische Vorhersagen übertragen. Das zeigt, dass Skalierung auch beim Deep
+    Learning in der Bildgebung zählt. In einem unabhängigen Benchmark erwies es sich als
+    State-of-the-Art-Modell für das Hirnalter; es ist robust gegenüber Domänenverschiebungen, zeigt aber
+    den bekannten Zielkonflikt zwischen Genauigkeit des Hirnalters und Erkennung von Erkrankungen.
 - year: 2022
   title: Charting brain growth and aging at high spatial precision
   venue: eLife
   link: https://doi.org/10.7554/eLife.72904
   link_text: Paper
   summary: >-
-    We charted normative models of the human brain at high spatial precision for a sample larger than
-    50k individuals. This is a massive population scale neuroimaging based normative modeling approach
-    that can be translated to new samples and is freely available online for other scientists to use.
+    We charted normative models of the human brain at high spatial precision from more than 50,000
+    people. The models transfer to new samples and are freely available online for other researchers.
   summary_de: >-
-    Wir haben normative Modelle des menschlichen Gehirns mit hoher räumlicher Präzision für eine
-    Stichprobe von mehr als 50.000 Personen erstellt. Dieser normative Modellierungsansatz auf Basis von
-    Bildgebungsdaten im Populationsmaßstab lässt sich auf neue Stichproben übertragen und steht anderen
-    Forschenden frei online zur Verfügung.
+    Wir haben normative Modelle des menschlichen Gehirns mit hoher räumlicher Präzision aus Daten von
+    mehr als 50.000 Menschen erstellt. Die Modelle lassen sich auf neue Stichproben übertragen und
+    stehen anderen Forschenden frei online zur Verfügung.
 - year: 2022
   title: The normative modeling framework for computational psychiatry
   venue: Nature Protocols
   link: https://doi.org/10.1038/s41596-022-00696-5
   link_text: Paper
   summary: >-
-    We describe the normative modeling framework for computational psychiatry, providing a comprehensive
-    exploration of its principles and significance within the discipline, while also offering accessible
+    We describe the principles of normative modeling for computational psychiatry and provide accessible
     tools for analyzing data within this framework.
   summary_de: >-
-    Wir beschreiben den Rahmen der normativen Modellierung für die computationale Psychiatrie, erläutern
-    umfassend seine Prinzipien und seine Bedeutung für das Fach und stellen zugängliche Werkzeuge zur
-    Analyse von Daten in diesem Rahmen bereit.
+    Wir beschreiben die Prinzipien der normativen Modellierung für die computationale Psychiatrie und
+    stellen zugängliche Werkzeuge zur Datenanalyse in diesem Rahmen bereit.
 - year: 2021
   title: Replicating extensive brain structural heterogeneity in individuals with schizophrenia and bipolar
     disorder
@@ -248,13 +216,13 @@
   link: https://doi.org/10.1002/hbm.25386
   link_text: Paper
   summary: >-
-    We replicated our earlier finding that patients with schizophrenia and bipolar disorder show an individualized
-    profile of normative brain deviations. This has been replicated by various groups and extends to different
-    mental and neurological conditions.
+    We replicated our earlier finding that people with schizophrenia and bipolar disorder show
+    individual profiles of deviation from the normative brain. Other groups have since replicated this,
+    and it extends to further mental and neurological conditions.
   summary_de: >-
-    Wir haben unseren früheren Befund repliziert, dass Patientinnen und Patienten mit Schizophrenie und
-    bipolarer Störung ein individuelles Profil normativer Hirnabweichungen zeigen. Dies wurde von
-    verschiedenen Gruppen bestätigt und gilt auch für weitere psychische und neurologische Erkrankungen.
+    Wir haben unseren früheren Befund repliziert, dass Menschen mit Schizophrenie und bipolarer Störung
+    individuelle Profile von Abweichungen vom normativen Gehirn zeigen. Andere Gruppen haben dies
+    bestätigt, und der Befund gilt auch für weitere psychische und neurologische Erkrankungen.
 - year: 2019
   title: Inter-individual differences in human brain structure and morphometry link to population variation
     in demographics and behavior
@@ -262,11 +230,11 @@
   link: https://doi.org/10.7554/eLife.44443.001
   link_text: Paper
   summary: >-
-    We could show that brain structure explains a large proportion of functional interactions between
-    different regions in the healthy human brain.
+    We show that brain structure explains a large proportion of the functional interactions between
+    regions in the healthy human brain.
   summary_de: >-
-    Wir konnten zeigen, dass die Hirnstruktur einen großen Teil der funktionellen Interaktionen zwischen
-    verschiedenen Regionen im gesunden menschlichen Gehirn erklärt.
+    Wir zeigen, dass die Hirnstruktur einen großen Teil der funktionellen Interaktionen zwischen
+    Regionen im gesunden menschlichen Gehirn erklärt.
 - year: 2019
   title: 'Individual differences v. the average patient: mapping the heterogeneity in ADHD using normative
     models'
@@ -274,28 +242,28 @@
   link: https://doi.org/10.1017/S0033291719000084
   link_text: Paper
   summary: >-
-    We mapped the heterogeneity of ADHD at the level of the individual patient, showing that each patient
-    had a distinct profile of deviations from the normative brain extending our finding in schizophrenia.
+    We mapped the heterogeneity of ADHD at the level of the individual patient: each patient showed a
+    distinct profile of deviations from the normative brain, extending our finding in schizophrenia.
   summary_de: >-
-    Wir haben die Heterogenität der ADHS auf der Ebene einzelner Patientinnen und Patienten kartiert und
-    gezeigt, dass jede Person ein eigenes Profil von Abweichungen vom normativen Gehirn aufweist. Damit
-    erweitern wir unseren Befund zur Schizophrenie.
+    Wir haben die Heterogenität der ADHS auf der Ebene einzelner Patientinnen und Patienten kartiert:
+    Jede Person zeigte ein eigenes Profil von Abweichungen vom normativen Gehirn. Damit erweitern wir
+    unseren Befund zur Schizophrenie.
 - year: 2018
   title: Mapping the heterogeneous phenotype of schizophrenia and bipolar disorder using normative models
   venue: JAMA Psychiatry
   link: https://doi.org/10.1001/jamapsychiatry.2018.2467
   link_text: Paper
   summary: >-
-    We mapped the heterogeneity of schizophrenia and bipolar disorder showing an individualized profile
-    of deviations from the normative structural brain. These results were very surprising and framed by
-    the media as "Who is the average patient in psychiatry?". The results have been frequently replicated
-    by us and other groups using various data modalities, algorithms, and samples.
+    We mapped the heterogeneity of schizophrenia and bipolar disorder and found that each patient shows
+    an individual profile of deviations from the normative brain structure. The media framed the finding
+    as "Who is the average patient in psychiatry?", and it has since been replicated many times across
+    data modalities, algorithms, and samples.
   summary_de: >-
-    Wir haben die Heterogenität von Schizophrenie und bipolarer Störung kartiert und ein individuelles
-    Profil von Abweichungen vom normativen Gehirn auf struktureller Ebene gezeigt. Diese Ergebnisse
-    waren sehr überraschend und wurden in den Medien unter der Frage "Wer ist der durchschnittliche
-    Patient in der Psychiatrie?" aufgegriffen. Sie wurden seither vielfach von uns und anderen Gruppen
-    mit unterschiedlichen Datenmodalitäten, Algorithmen und Stichproben repliziert.
+    Wir haben die Heterogenität von Schizophrenie und bipolarer Störung kartiert und gezeigt, dass jede
+    Patientin und jeder Patient ein individuelles Profil von Abweichungen von der normativen
+    Hirnstruktur aufweist. Die Medien griffen den Befund unter der Frage "Wer ist der durchschnittliche
+    Patient in der Psychiatrie?" auf; er wurde seither vielfach mit unterschiedlichen Datenmodalitäten,
+    Algorithmen und Stichproben repliziert.
 - year: 2015
   title: 'From estimating activation locality to predicting disorder: a review of pattern recognition
     for neuroimaging-based psychiatric diagnostics'
@@ -303,20 +271,15 @@
   link: https://doi.org/10.1016/j.neubiorev.2015.08.001
   link_text: Paper
   summary: >-
-    In this paper, we showed that with increasing sample size the accuracy of pattern classification approaches
-    for the prediction of mental disorders decreased. This is counterintuitive and in conflict with evidence
-    in other fields that use pattern recognition approaches to predict, e.g., image classes such as cats and dogs. Generally, supervised machine learning algorithms tend to perform better with more training
-    data. Therefore, this finding was very surprising. We could attribute it in parts to the high heterogeneity
-    of mental disorders and a publication bias for better performing but not representative models. This
-    work contributed to a debate on cross-validation failures and provides important evidence for the
-    development of methods to map heterogeneity of mental disorders.
+    We showed that the accuracy of pattern classification for predicting mental disorders decreases as
+    sample size increases, the opposite of what machine learning usually shows. We attribute this partly
+    to the heterogeneity of mental disorders and to publication bias toward well-performing but
+    unrepresentative models; the work contributed to a debate on cross-validation failures and motivated
+    methods that map this heterogeneity.
   summary_de: >-
-    In dieser Arbeit haben wir gezeigt, dass die Genauigkeit von Mustererkennungsverfahren zur
-    Vorhersage psychischer Störungen mit zunehmender Stichprobengröße abnahm. Das ist kontraintuitiv und
-    widerspricht Befunden aus anderen Feldern, in denen Mustererkennung etwa zur Klassifikation von
-    Bildern wie Katzen und Hunden eingesetzt wird. In der Regel schneiden überwachte Lernverfahren mit
-    mehr Trainingsdaten besser ab, daher war dieser Befund sehr überraschend. Wir konnten ihn teilweise
-    auf die hohe Heterogenität psychischer Störungen und auf einen Publikationsbias zugunsten
-    leistungsstärkerer, aber nicht repräsentativer Modelle zurückführen. Die Arbeit trug zu einer
-    Debatte über Fehler bei der Kreuzvalidierung bei und liefert wichtige Belege für die Entwicklung von
-    Methoden, die die Heterogenität psychischer Störungen abbilden.
+    Wir haben gezeigt, dass die Genauigkeit von Mustererkennungsverfahren zur Vorhersage psychischer
+    Störungen mit wachsender Stichprobengröße abnimmt, also das Gegenteil dessen, was maschinelles
+    Lernen üblicherweise zeigt. Wir führen dies teilweise auf die Heterogenität psychischer Störungen
+    und auf einen Publikationsbias zugunsten leistungsstarker, aber nicht repräsentativer Modelle
+    zurück; die Arbeit trug zu einer Debatte über Fehler bei der Kreuzvalidierung bei und motivierte
+    Methoden, die diese Heterogenität abbilden.

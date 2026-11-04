@@ -1,4 +1,4 @@
-# HIGHLIGHTS (homepage). Shows the four newest entries from the last 12 months;
+# HIGHLIGHTS (homepage). Shows the six newest entries from the last 12 months;
 # older entries disappear by themselves, and the section is hidden when nothing is recent.
 # date: year and month as "YYYY-MM" (in quotes). label: short tag (Paper, Talk, Award, ...);
 # label_de: the same in German. text / text_de: one sentence.
@@ -23,6 +23,23 @@
     Mariam Zabihi hat SIGMA-VAE, unseren Multi-View-Autoencoder für die normative Modellierung, auf der
     MICCAI 2026 vorgestellt.
   link: /research/#sigma-vae
+- label: Workshop
+  date: "2026-10"
+  label_de: Workshop
+  text: >-
+    We helped organize the Machine Learning in Clinical Neuroimaging (MLCN) workshop at MICCAI for the
+    eighth time.
+  text_de: >-
+    Wir haben zum achten Mal den Workshop Machine Learning in Clinical Neuroimaging (MLCN) auf der MICCAI
+    mitorganisiert.
+  link: https://mlcnworkshop.github.io
+- label: Lab life
+  date: "2026-10"
+  label_de: Laborleben
+  text: >-
+    We had a wonderful lab retreat with friends in Jena.
+  text_de: >-
+    Wir hatten ein wunderbares Lab-Retreat mit Freundinnen und Freunden in Jena.
 - label: Paper
   date: "2026-08"
   label_de: Publikation
