@@ -181,3 +181,4 @@ h2 { clear: both; }
 .meta { margin-top: -0.3rem; color: var(--green); font-size: 0.85rem; font-weight: 700; }
 .theme-icons { margin-top: 0.5rem; }
 .research-text { margin: 2rem 0 0; }
+.buttons.compact { margin: 0.75rem 0 1.5rem; }

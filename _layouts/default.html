@@ -47,7 +47,7 @@
   <nav class="site-nav" aria-label="{% if de %}Hauptmenü{% else %}Main{% endif %}">
     {% for item in site.nav %}
       {% if de %}{% assign item_url = item.url | prepend: '/de' %}{% assign item_title = item.title_de %}{% else %}{% assign item_url = item.url %}{% assign item_title = item.title %}{% endif %}
-      <a href="{{ item_url }}"{% if url == item_url %} aria-current="page"{% endif %}>{{ item_title }}</a>
+      <a href="{{ item_url }}"{% if url == item_url %} aria-current="page"{% elsif page.nav_parent == item.url %} aria-current="true"{% endif %}>{{ item_title }}</a>
     {% endfor %}
     {% comment %} Language switch (same style as thomaswolfers.github.io) {% endcomment %}
     {% if de %}<a class="lang" href="{{ en_url }}" hreflang="en" lang="en">English</a>{% else %}<a class="lang" href="{{ de_url }}" hreflang="de" lang="de">Deutsch</a>{% endif %}
@@ -67,9 +67,11 @@
   <p>
     {% if de %}
     © {{ site.time | date: '%Y' }} Labor für Mental Health Mapping ·
+    <a href="/de/values/">Werte</a> · <a href="/de/community/">Community</a> ·
     <a href="/de/impressum/">Impressum</a> · <a href="/de/privacy_policy/">Datenschutz</a> · <a href="{{ en_url }}" hreflang="en" lang="en">English</a>
     {% else %}
     © {{ site.time | date: '%Y' }} Laboratory for Mental Health Mapping ·
+    <a href="/values/">Values</a> · <a href="/community/">Community</a> ·
     <a href="/impressum/">Impressum</a> · <a href="/privacy_policy/">Privacy Policy</a> · <a href="{{ de_url }}" hreflang="de" lang="de">Deutsch</a>
     {% endif %}
   </p>
