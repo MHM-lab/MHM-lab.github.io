@@ -1,0 +1,25 @@
+# RECENT UPDATES (homepage). The first three entries are shown, newest first.
+# label: short tag (Paper, Talk, Award, ...); label_de: the same in German.
+# text / text_de: one sentence. link: optional (a paper, a talk, or a page on this site).
+
+- label: Papers
+  label_de: Publikationen
+  text: >-
+    Two papers accepted, in Nature Neuroscience and npj Digital Medicine.
+  text_de: >-
+    Zwei Publikationen angenommen, bei Nature Neuroscience und npj Digital Medicine.
+  link: /research/#publications
+- label: Talk
+  label_de: Vortrag
+  text: >-
+    Mariam Zabihi presented SIGMA-VAE, our multi-view autoencoder for normative modeling, at MICCAI 2026.
+  text_de: >-
+    Mariam Zabihi hat SIGMA-VAE, unseren Multi-View-Autoencoder für die normative Modellierung, auf der
+    MICCAI 2026 vorgestellt.
+  link: https://link.springer.com/chapter/10.1007/978-3-032-38239-9_51
+- label: Talk
+  label_de: Vortrag
+  text: >-
+    Nitin Sharma presented his work at OHBM 2026.
+  text_de: >-
+    Nitin Sharma hat seine Arbeit auf der OHBM 2026 vorgestellt.

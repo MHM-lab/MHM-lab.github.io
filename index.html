@@ -16,6 +16,16 @@ We use large, diverse datasets and machine learning to understand how biological
 <a class="button secondary" href="/join_us/">Join Us</a>
 </div>
 
+<h2 class="section-label">Recent updates</h2>
+<div class="news">
+{% for item in site.data.news limit: 3 %}
+{% if item.link %}<a class="news-item" href="{{ item.link }}">{% else %}<div class="news-item">{% endif %}
+<span class="news-label">{{ item.label }}</span>
+<span>{{ item.text }}</span>
+{% if item.link %}</a>{% else %}</div>{% endif %}
+{% endfor %}
+</div>
+
 <div class="cards">
 {% for theme in site.data.research %}
 <a class="card" href="/research/#{{ theme.name | downcase }}">
