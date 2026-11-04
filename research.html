@@ -1,5 +1,5 @@
 ---
-title: Research
+title: "Research & Selected Publications"
 permalink: /research/
 description: "Research of the laboratory for Mental Health Mapping: four research themes (foundations, structures, markers, and models of mental health) and selected publications."
 ---
@@ -48,14 +48,11 @@ description: "Research of the laboratory for Mental Health Mapping: four researc
 })();
 </script>
 
-<p class="research-text">Mental health mapping sits at the intersection of machine learning, neuroscience, psychiatry, and philosophy. Since its founding in 2022, the lab has published in leading venues across these fields.</p>
-
-<h2 id="publications">Selected publications</h2>
-<p>A selection of recent and influential work, each with a brief summary of its contribution. The complete list is on <a href="https://scholar.google.com/citations?hl=en&user=4f2rdMcAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.</p>
+<p class="research-text" id="publications">Mental health mapping sits at the intersection of machine learning, neuroscience, psychiatry, and philosophy. Since its founding in 2022, the lab has published in leading venues across these fields. Below is a selection of recent and influential work, each with a brief summary of its contribution; the complete list is on <a href="https://scholar.google.com/citations?hl=en&user=4f2rdMcAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.</p>
 
 {% assign years = site.data.publications | group_by: "year" %}
 {% for year in years %}
-<h3 class="year">{{ year.name }}</h3>
+<h2 class="year">{{ year.name }}</h2>
 {% for pub in year.items %}
 <div class="pub" id="{{ pub.id | default: pub.title | slugify }}">
 <p><strong>{{ pub.title }}</strong></p>

@@ -42,7 +42,7 @@
   "@graph": [
     {
       "@type": "WebPage",
-      "name": "Research",
+      "name": "Research & Selected Publications",
       "url": "{{ site.url }}/research/",
       "about": [{% for t in site.data.research %}{"@type": "Thing", "name": {{ t.title | jsonify }}, "description": {{ t.text | strip_newlines | jsonify }}}{% unless forloop.last %}, {% endunless %}{% endfor %}],
       "publisher": {{ lab }}
