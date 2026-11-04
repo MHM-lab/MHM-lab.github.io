@@ -81,8 +81,8 @@
 
 - id: seminar
   title: "Seminar: Neuroscience and Machine Learning"
-  when: "Selective, max. five students · Fridays, 14:15–15:30"
-  when_de: "Mit Auswahlverfahren, max. fünf Studierende · freitags, 14:15–15:30 Uhr"
+  when: "Summer & winter term · selective, max. five students · Fridays, 14:15–15:30"
+  when_de: "Sommer- & Wintersemester · mit Auswahlverfahren, max. fünf Studierende · freitags, 14:15–15:30 Uhr"
   teaser: >-
     This **seminar is designed for highly motivated students** who are considering joining our lab for a
     master's thesis or a related research project.

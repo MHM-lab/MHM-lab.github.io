@@ -230,3 +230,12 @@ a.news-item:hover { border-color: var(--green-light); background: #f7faf5; }
 .course-details[open] summary::after { content: " ▾"; }
 .course-details[open] summary { margin-bottom: 0.3rem; }
 @media (max-width: 600px) { .course { padding: 0.9rem 1rem 0.8rem; } }
+
+/* ---------- join us: buttons that open a section in place ---------- */
+.toggle-panel { display: none; margin: 0.5rem 0 1rem; padding: 1rem 1.25rem; border-left: 4px solid var(--green-light); border-radius: 6px; background: #f1f6ee; }
+.toggle-panel:target, .toggle-panel.open { display: block; }
+.toggle-panel h3 { margin-top: 0.2rem; }
+.toggle-panel p:last-child { margin-bottom: 0; }
+.toggle::after { content: " ▾"; }
+.toggle[aria-expanded="true"] { background: var(--green); color: #fff; }
+.toggle[aria-expanded="true"]::after { content: " ▴"; }
