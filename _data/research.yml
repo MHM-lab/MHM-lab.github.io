@@ -84,7 +84,7 @@
   short: Machine learning, from lab to clinic.
   short_de: Maschinelles Lernen, vom Labor in die Klinik.
   text: |-
-    Most of our research relies on machine learning. We apply and develop methods for large-scale imaging, electrophysiological, genetic, sensor, cognitive, and behavioral data, which are high-dimensional and often come with unreliable labels.
+    Most of our research relies on machine learning. We apply and develop methods for large-scale imaging, electrophysiological, genetic, sensor, cognitive, behavioral, and language data, which are high-dimensional and often come with unreliable labels.
 
     - How can we use machine learning across modalities?
     - Which methods best parse heterogeneity?
@@ -93,7 +93,7 @@
 
     We work together with scientists working on innovative data acquisition methods and are interested in method development (e.g., machine learning, statistics) as well as in establishing best practices in curating complex, large datasets required for our research agenda. We also hold ourselves to a simple benchmark: for many brain readouts, well-specified regression models perform as well as more complex AI methods, and we report this honestly.
   text_de: |-
-    Der Großteil unserer Forschung beruht auf maschinellem Lernen. Wir wenden Methoden für groß angelegte Bildgebungs-, elektrophysiologische, genetische, Sensor-, kognitive und Verhaltensdaten an und entwickeln sie weiter; diese Daten sind hochdimensional und oft mit unzuverlässigen Labels versehen.
+    Der Großteil unserer Forschung beruht auf maschinellem Lernen. Wir wenden Methoden für groß angelegte Bildgebungs-, elektrophysiologische, genetische, Sensor-, kognitive, Verhaltens- und Sprachdaten an und entwickeln sie weiter; diese Daten sind hochdimensional und oft mit unzuverlässigen Labels versehen.
 
     - Wie können wir maschinelles Lernen über Modalitäten hinweg nutzen?
     - Welche Methoden schlüsseln Heterogenität am besten auf?
