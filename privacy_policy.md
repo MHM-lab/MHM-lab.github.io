@@ -2,7 +2,7 @@
 permalink: /privacy_policy/
 title: "Privacy Policy"
 description: "Privacy policy of the website of the laboratory for Mental Health Mapping."
-sections: cards
+sections: collapsible
 ---
 
 This page explains what happens to your data when you visit this website.

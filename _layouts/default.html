@@ -59,7 +59,8 @@
 <main class="content">
   {% if page.title and page.show_title != false %}<h1>{{ page.title }}</h1>{% endif %}
   {% comment %} Pages with "sections: cards" show each section (## heading) as a card, like the courses {% endcomment %}
-  {% if page.sections == "cards" %}{% assign parts = content | split: '<h2' %}{{ parts | first }}{% for part in parts offset: 1 %}<section class="section-card"><h2{{ part }}</section>{% endfor %}{% else %}{{ content }}{% endif %}
+  {% comment %} "sections: collapsible": each card shows only its heading and opens on click {% endcomment %}
+  {% if page.sections == "cards" or page.sections == "collapsible" %}{% assign parts = content | split: '<h2' %}{{ parts | first }}{% for part in parts offset: 1 %}{% if page.sections == "collapsible" %}{% assign head = part | split: '</h2>' | first %}{% assign body = part | remove_first: head | remove_first: '</h2>' %}<details class="section-card"><summary><h2{{ head }}</h2></summary>{{ body }}</details>{% else %}<section class="section-card"><h2{{ part }}</section>{% endif %}{% endfor %}{% else %}{{ content }}{% endif %}
 </main>
 
 <footer class="site-footer">
@@ -79,5 +80,32 @@
   </p>
 </footer>
 
+<script>
+// Site-wide: buttons with class "toggle" open the panel with the same id in place (click again to close);
+// a link to a collapsible section (#id) opens it.
+(function () {
+  var buttons = document.querySelectorAll('.toggle'), panels = document.querySelectorAll('.toggle-panel');
+  function show(id) {
+    panels.forEach(function (p) { p.classList.toggle('open', p.id === id); });
+    buttons.forEach(function (b) { b.setAttribute('aria-expanded', b.getAttribute('href') === '#' + id ? 'true' : 'false'); });
+  }
+  buttons.forEach(function (b) {
+    b.setAttribute('aria-expanded', 'false');
+    b.addEventListener('click', function (e) {
+      e.preventDefault();
+      var id = b.getAttribute('href').slice(1), isOpen = b.getAttribute('aria-expanded') === 'true';
+      show(isOpen ? '' : id);
+      history.replaceState(null, '', isOpen ? location.pathname : '#' + id);
+    });
+  });
+  function fromHash() {
+    var el = location.hash && document.getElementById(decodeURIComponent(location.hash.slice(1)));
+    if (!el) return;
+    if (el.classList.contains('toggle-panel')) show(el.id);
+    var d = el.closest('details'); if (d) d.open = true;
+  }
+  fromHash(); window.addEventListener('hashchange', fromHash);
+})();
+</script>
 </body>
 </html>

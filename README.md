@@ -31,6 +31,12 @@ English is the default. Every page also exists in German under `/de/` with the s
 - **Menu**: `title_de` in `_config.yml`.
 - Names, roles (e.g. PostDoc), paper titles, and course titles stay in English on the German pages.
 
+## Expandable sections (used across the site)
+
+- **Collapsible cards:** put `sections: collapsible` in a page's front matter (top block). Every `## Heading` becomes a card that opens on click. `sections: cards` shows the same cards always open.
+- **Buttons that open text in place:** a button `<a class="button secondary toggle" href="#name">Label</a>` opens `<section class="toggle-panel" id="name">…</section>` on the same page (see `join_us.md`).
+- **Courses** (Teaching) and **paper summaries** (Research) open with "Course details" / "Summary".
+
 ## Common tasks
 
 **Add a team member**

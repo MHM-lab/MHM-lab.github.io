@@ -12,7 +12,7 @@ We are based at Friedrich Schiller University Jena. To apply, email [Thomas Wolf
 
 Open calls for postdoc, PhD, data scientist, and HiWi positions will be posted here.
 
-<!-- The buttons below open the sections in place; edit the text inside each <section>. -->
+<!-- Buttons with class "toggle" open the <section class="toggle-panel"> with the same id, in place. -->
 <h2>Working with us</h2>
 <div class="buttons compact toggles">
 <a class="button secondary toggle" href="#students">Theses &amp; internships</a>
@@ -36,28 +36,50 @@ Open calls for postdoc, PhD, data scientist, and HiWi positions will be posted h
 
 <h2>Get to know us</h2>
 <div class="buttons compact">
-<a class="button secondary" href="/values/">Our values</a>
-<a class="button secondary" href="/community/">Community</a>
-<a class="button secondary" href="/moving_to_jena/">Moving to Jena</a>
+<a class="button secondary toggle" href="#values">Our values</a>
+<a class="button secondary toggle" href="#community">Community</a>
+<a class="button secondary toggle" href="#moving">Moving to Jena</a>
 </div>
+<section class="toggle-panel" id="values">
+<h3>Our values</h3>
+<p>Our values are guiding principles under uncertainty, not rigid rules:</p>
+<ul>
+<li>Attentive, kind, and honest communication</li>
+<li>Celebrate and support each other</li>
+<li>Embrace diversity</li>
+<li>Learn from failure</li>
+<li>Statement on artificial intelligence</li>
+<li>Where we publish and why</li>
+</ul>
+<p><a href="/values/">Read our values →</a></p>
+</section>
+<section class="toggle-panel" id="community">
+<h3>Community</h3>
+<p>Our institutional home, our networks, and our current contributions:</p>
+<ul>
+<li>Workshop on Machine Learning in Clinical Neuroimaging (MLCN) at MICCAI</li>
+<li>ECNP, 2026–2029 and beyond</li>
+<li>ELLIS Unit Jena</li>
+<li>Digital Academy at Friedrich Schiller University Jena</li>
+<li>German Center for Mental Health (DZPG), Jena site</li>
+</ul>
+<p><a href="/community/">Read more about our community →</a></p>
+</section>
+<section class="toggle-panel" id="moving">
+<h3>Moving to Jena</h3>
+<p>A personal guide by Thomas Wolfers, covering:</p>
+<ul>
+<li>Research environment</li>
+<li>Getting started</li>
+<li>Things to do in and around Jena</li>
+<li>Finding an apartment</li>
+<li>Language</li>
+<li>Income and living costs</li>
+<li>Social support</li>
+<li>Family and childcare</li>
+<li>Vacation</li>
+</ul>
+<p><a href="/moving_to_jena/">Read the guide →</a></p>
+</section>
 
-<script>
-// Buttons open their section in place; clicking again closes it. Without JavaScript the #links still work.
-(function () {
-  var buttons = document.querySelectorAll('.toggle'), panels = document.querySelectorAll('.toggle-panel');
-  function show(id) {
-    panels.forEach(function (p) { p.classList.toggle('open', p.id === id); });
-    buttons.forEach(function (b) { b.setAttribute('aria-expanded', b.getAttribute('href') === '#' + id ? 'true' : 'false'); });
-  }
-  buttons.forEach(function (b) {
-    b.setAttribute('aria-expanded', 'false');
-    b.addEventListener('click', function (e) {
-      e.preventDefault();
-      var id = b.getAttribute('href').slice(1), isOpen = b.getAttribute('aria-expanded') === 'true';
-      show(isOpen ? '' : id);
-      history.replaceState(null, '', isOpen ? location.pathname : '#' + id);
-    });
-  });
-  var h = location.hash.slice(1); if (h && document.getElementById(h) && document.getElementById(h).classList.contains('toggle-panel')) show(h);
-})();
-</script>
+

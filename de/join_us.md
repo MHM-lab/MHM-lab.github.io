@@ -13,7 +13,7 @@ Wir sind an der Friedrich-Schiller-Universität Jena. Für eine Bewerbung senden
 
 Ausschreibungen für Postdoc-, Promotions-, Data-Scientist- und HiWi-Stellen veröffentlichen wir hier.
 
-<!-- The buttons below open the sections in place; edit the text inside each <section>. -->
+<!-- Buttons with class "toggle" open the <section class="toggle-panel"> with the same id, in place. -->
 <h2>Arbeiten bei uns</h2>
 <div class="buttons compact toggles">
 <a class="button secondary toggle" href="#students">Abschlussarbeiten &amp; Praktika</a>
@@ -37,28 +37,50 @@ Ausschreibungen für Postdoc-, Promotions-, Data-Scientist- und HiWi-Stellen ver
 
 <h2>Lernen Sie uns kennen</h2>
 <div class="buttons compact">
-<a class="button secondary" href="/de/values/">Unsere Werte</a>
-<a class="button secondary" href="/de/community/">Community</a>
-<a class="button secondary" href="/de/moving_to_jena/">Umzug nach Jena</a>
+<a class="button secondary toggle" href="#values">Unsere Werte</a>
+<a class="button secondary toggle" href="#community">Community</a>
+<a class="button secondary toggle" href="#moving">Umzug nach Jena</a>
 </div>
+<section class="toggle-panel" id="values">
+<h3>Unsere Werte</h3>
+<p>Unsere Werte sind Leitlinien unter Unsicherheit, keine starren Regeln:</p>
+<ul>
+<li>Aufmerksam, freundlich und ehrlich kommunizieren</li>
+<li>Einander feiern und unterstützen</li>
+<li>Vielfalt leben</li>
+<li>Aus Fehlern lernen</li>
+<li>Unsere Haltung zu künstlicher Intelligenz</li>
+<li>Wo wir publizieren und warum</li>
+</ul>
+<p><a href="/de/values/">Zu unseren Werten →</a></p>
+</section>
+<section class="toggle-panel" id="community">
+<h3>Community</h3>
+<p>Unsere institutionelle Heimat, unsere Netzwerke und unsere aktuellen Beiträge:</p>
+<ul>
+<li>Workshop on Machine Learning in Clinical Neuroimaging (MLCN) auf der MICCAI</li>
+<li>ECNP, 2026–2029 und darüber hinaus</li>
+<li>ELLIS Unit Jena</li>
+<li>Digital Academy der Friedrich-Schiller-Universität Jena</li>
+<li>Deutsches Zentrum für Psychische Gesundheit (DZPG), Standort Jena</li>
+</ul>
+<p><a href="/de/community/">Mehr zu unserer Community →</a></p>
+</section>
+<section class="toggle-panel" id="moving">
+<h3>Umzug nach Jena</h3>
+<p>Ein persönlicher Leitfaden von Thomas Wolfers zu diesen Themen:</p>
+<ul>
+<li>Forschungsumfeld</li>
+<li>Ankommen</li>
+<li>Freizeit in und um Jena</li>
+<li>Wohnungssuche</li>
+<li>Sprache</li>
+<li>Einkommen und Lebenshaltungskosten</li>
+<li>Soziale Absicherung</li>
+<li>Familie und Kinderbetreuung</li>
+<li>Urlaub</li>
+</ul>
+<p><a href="/de/moving_to_jena/">Zum Leitfaden →</a></p>
+</section>
 
-<script>
-// Buttons open their section in place; clicking again closes it. Without JavaScript the #links still work.
-(function () {
-  var buttons = document.querySelectorAll('.toggle'), panels = document.querySelectorAll('.toggle-panel');
-  function show(id) {
-    panels.forEach(function (p) { p.classList.toggle('open', p.id === id); });
-    buttons.forEach(function (b) { b.setAttribute('aria-expanded', b.getAttribute('href') === '#' + id ? 'true' : 'false'); });
-  }
-  buttons.forEach(function (b) {
-    b.setAttribute('aria-expanded', 'false');
-    b.addEventListener('click', function (e) {
-      e.preventDefault();
-      var id = b.getAttribute('href').slice(1), isOpen = b.getAttribute('aria-expanded') === 'true';
-      show(isOpen ? '' : id);
-      history.replaceState(null, '', isOpen ? location.pathname : '#' + id);
-    });
-  });
-  var h = location.hash.slice(1); if (h && document.getElementById(h) && document.getElementById(h).classList.contains('toggle-panel')) show(h);
-})();
-</script>
+

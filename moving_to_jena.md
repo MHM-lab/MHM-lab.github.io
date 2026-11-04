@@ -2,7 +2,7 @@
 permalink: /moving_to_jena/
 title: "Moving to Jena"
 description: "A personal guide to moving to Jena: research environment, housing, language, living costs, and family support."
-sections: cards
+sections: collapsible
 ---
 
 <p class="byline">A personal guide by Thomas Wolfers.</p>

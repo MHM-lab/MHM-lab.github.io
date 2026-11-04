@@ -3,7 +3,7 @@ permalink: /de/moving_to_jena/
 lang: de
 title: "Umzug nach Jena"
 description: "Ein persönlicher Leitfaden für den Umzug nach Jena: Forschungsumfeld, Wohnen, Sprache, Lebenshaltungskosten und Unterstützung für Familien."
-sections: cards
+sections: collapsible
 ---
 
 <p class="byline">Ein persönlicher Leitfaden von Thomas Wolfers.</p>
