@@ -11,7 +11,7 @@ Live at **https://mhm-lab.github.io**. GitHub Pages rebuilds the site automatica
 | Selected publications (Research page) | `_data/publications.yml` |
 | Research themes (homepage + Research page) | `_data/research.yml`   |
 | Homepage text                      | `index.html`                   |
-| Highlights (homepage, 8 newest from the last 12 months) | `_data/news.yml` (newest first) |
+| Highlights (homepage, 8 newest from the last 6 months) | `_data/news.yml` (newest first) |
 | Menu, footer links, site title     | `_config.yml`                  |
 | Any other page                     | the `.md` file with its name (e.g. `teaching.md`, `join_us.md`) |
 | Colours, fonts, spacing            | `assets/style.css`             |

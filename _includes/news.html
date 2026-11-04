@@ -1,10 +1,10 @@
 {% comment %}
   Highlights on the homepage (EN and DE). Data: _data/news.yml.
-  Shows up to eight entries from the last 12 months. A small script hides entries that become older
-  than 12 months later on, even if the site has not been rebuilt; no recent entries = no section.
+  Shows up to eight entries from the last 6 months. A small script hides entries that become older
+  than 6 months later on, even if the site has not been rebuilt; no recent entries = no section.
 {% endcomment %}
 {% assign de = false %}{% if page.lang == "de" %}{% assign de = true %}{% endif %}
-{% assign cutoff = site.time | date: '%s' | minus: 31536000 %}
+{% assign cutoff = site.time | date: '%s' | minus: 15778800 %}
 {% assign months_de = "Jan.,Feb.,März,Apr.,Mai,Juni,Juli,Aug.,Sept.,Okt.,Nov.,Dez." | split: "," %}
 {% assign shown = 0 %}
 {% capture cards %}{% for item in site.data.news %}{% assign day = item.date | append: '-01' %}{% assign t = day | date: '%s' | plus: 0 %}{% if t >= cutoff and shown < 8 %}{% assign shown = shown | plus: 1 %}
@@ -20,7 +20,7 @@
 </section>
 <script>
 (function () {
-  var cutoff = new Date(); cutoff.setMonth(cutoff.getMonth() - 12);
+  var cutoff = new Date(); cutoff.setMonth(cutoff.getMonth() - 6);
   var section = document.querySelector('.news-section'), left = 0;
   section.querySelectorAll('[data-date]').forEach(function (el) {
     if (new Date(el.getAttribute('data-date') + '-01') < cutoff) el.remove(); else left++;

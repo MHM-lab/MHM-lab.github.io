@@ -1,4 +1,4 @@
-# HIGHLIGHTS (homepage). Shows the eight newest entries from the last 12 months;
+# HIGHLIGHTS (homepage). Shows the eight newest entries from the last 6 months;
 # older entries disappear by themselves, and the section is hidden when nothing is recent.
 # date: year and month as "YYYY-MM" (in quotes). label: short tag (Paper, Talk, Award, ...);
 # label_de: the same in German. text / text_de: one sentence.
