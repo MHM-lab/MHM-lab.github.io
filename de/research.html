@@ -6,6 +6,8 @@ description: "Forschung des Labors für Mental Health Mapping: vier Forschungsth
 ---
 <!-- FORSCHUNG (deutsch): Themen aus _data/research.yml (Felder *_de), Publikationen aus _data/publications.yml (summary_de) -->
 
+<p class="lead research-lead">Mental Health Mapping verbindet maschinelles Lernen, Neurowissenschaften, Psychiatrie und Philosophie. Seit seiner Gründung im Jahr 2022 hat das Labor in führenden Fachzeitschriften und auf führenden Konferenzen dieser Disziplinen publiziert. Im Folgenden finden Sie eine Auswahl aktueller und einflussreicher Arbeiten, jeweils mit einer kurzen Zusammenfassung ihres Beitrags. Die Titel sind im englischen Original angegeben; die vollständige Liste finden Sie bei <a href="https://scholar.google.com/citations?hl=de&user=4f2rdMcAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.</p>
+
 <div class="theme-icons" id="themes">
 {% for theme in site.data.research %}
 <a class="theme-icon" href="#{{ theme.name | downcase }}">
@@ -49,7 +51,7 @@ description: "Forschung des Labors für Mental Health Mapping: vier Forschungsth
 })();
 </script>
 
-<p class="research-text" id="publications">Mental Health Mapping verbindet maschinelles Lernen, Neurowissenschaften, Psychiatrie und Philosophie. Seit seiner Gründung im Jahr 2022 hat das Labor in führenden Fachzeitschriften und auf führenden Konferenzen dieser Disziplinen publiziert. Im Folgenden finden Sie eine Auswahl aktueller und einflussreicher Arbeiten, jeweils mit einer kurzen Zusammenfassung ihres Beitrags. Die Titel sind im englischen Original angegeben; die vollständige Liste finden Sie bei <a href="https://scholar.google.com/citations?hl=de&user=4f2rdMcAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.</p>
+<div id="publications"></div>
 
 {% assign years = site.data.publications | group_by: "year" %}
 {% for year in years %}
@@ -57,8 +59,19 @@ description: "Forschung des Labors für Mental Health Mapping: vier Forschungsth
 {% for pub in year.items %}
 <div class="pub" id="{{ pub.id | default: pub.title | slugify }}">
 <p><strong lang="en">{{ pub.title }}</strong></p>
-<p><span class="venue">{{ pub.venue | replace: "(accepted)", "(angenommen)" }}</span> · <a href="{{ pub.link }}">{% if pub.link_text == "Paper" %}Artikel{% else %}{{ pub.link_text }}{% endif %}</a></p>
-<p class="summary">{{ pub.summary_de | default: pub.summary }}</p>
+<div class="pub-meta"><span class="venue">{{ pub.venue | replace: "(accepted)", "(angenommen)" }}</span> · <a href="{{ pub.link }}">{% if pub.link_text == "Paper" %}Artikel{% else %}{{ pub.link_text }}{% endif %}</a> ·
+<details class="pub-summary"><summary>Zusammenfassung</summary><p class="summary">{{ pub.summary_de | default: pub.summary }}</p></details></div>
 </div>
 {% endfor %}
 {% endfor %}
+
+<script>
+// When a paper is linked directly (e.g. from the homepage highlights), open its summary.
+(function () {
+  function openTarget() {
+    var el = location.hash && document.getElementById(location.hash.slice(1));
+    if (el && el.classList.contains('pub')) { var d = el.querySelector('details'); if (d) d.open = true; }
+  }
+  openTarget(); window.addEventListener('hashchange', openTarget);
+})();
+</script>

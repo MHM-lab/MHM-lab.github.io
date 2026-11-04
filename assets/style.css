@@ -190,7 +190,7 @@ h2 { clear: both; }
 }
 .meta { margin-top: -0.3rem; color: var(--green); font-size: 0.85rem; font-weight: 700; }
 .theme-icons { margin-top: 0.5rem; }
-.research-text { margin: 2rem 0 0; }
+
 .buttons.compact { margin: 0.75rem 0 1.5rem; }
 
 /* ---------- recent updates (homepage) ---------- */
@@ -205,3 +205,16 @@ a.news-item:hover { border-color: var(--green-light); background: #f7faf5; }
 .news-paper { border-left: 3px solid var(--green-light); }
 .news-venue { color: var(--ink); font-style: italic; font-weight: 600; }
 .alumni-note { margin-top: 0; padding-top: 1.75rem; border-top: 1px solid var(--line); }
+
+/* research page: intro as a lead, compact paper list with summaries that open on click */
+.research-lead { margin-bottom: 1.75rem; }
+.pub-summary summary { display: inline-block; color: var(--muted); font-size: 0.85rem; cursor: pointer; list-style: none; }
+.pub-summary summary::-webkit-details-marker { display: none; }
+.pub-summary summary::after { content: " ▸"; }
+.pub-summary[open] summary::after { content: " ▾"; }
+.pub-summary summary:hover { color: var(--green); }
+.pub-meta { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0 0.35rem; margin: 0.25rem 0; }
+.pub-summary[open] { flex-basis: 100%; }
+.pub-summary .summary { margin: 0.35rem 0 0; }
+.pub { padding: 0.8rem 0; }
+#publications { scroll-margin-top: 5.5rem; }

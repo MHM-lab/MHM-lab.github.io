@@ -5,6 +5,8 @@ description: "Research of the laboratory for Mental Health Mapping: four researc
 ---
 <!-- RESEARCH PAGE: the four themes come from _data/research.yml, the publications from _data/publications.yml -->
 
+<p class="lead research-lead">Mental health mapping sits at the intersection of machine learning, neuroscience, psychiatry, and philosophy. Since its founding in 2022, the lab has published in leading venues across these fields. Below is a selection of recent and influential work, each with a brief summary of its contribution; the complete list is on <a href="https://scholar.google.com/citations?hl=en&user=4f2rdMcAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.</p>
+
 <div class="theme-icons" id="themes">
 {% for theme in site.data.research %}
 <a class="theme-icon" href="#{{ theme.name | downcase }}">
@@ -48,7 +50,7 @@ description: "Research of the laboratory for Mental Health Mapping: four researc
 })();
 </script>
 
-<p class="research-text" id="publications">Mental health mapping sits at the intersection of machine learning, neuroscience, psychiatry, and philosophy. Since its founding in 2022, the lab has published in leading venues across these fields. Below is a selection of recent and influential work, each with a brief summary of its contribution; the complete list is on <a href="https://scholar.google.com/citations?hl=en&user=4f2rdMcAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.</p>
+<div id="publications"></div>
 
 {% assign years = site.data.publications | group_by: "year" %}
 {% for year in years %}
@@ -56,8 +58,19 @@ description: "Research of the laboratory for Mental Health Mapping: four researc
 {% for pub in year.items %}
 <div class="pub" id="{{ pub.id | default: pub.title | slugify }}">
 <p><strong>{{ pub.title }}</strong></p>
-<p><span class="venue">{{ pub.venue }}</span> · <a href="{{ pub.link }}">{{ pub.link_text }}</a></p>
-<p class="summary">{{ pub.summary }}</p>
+<div class="pub-meta"><span class="venue">{{ pub.venue }}</span> · <a href="{{ pub.link }}">{{ pub.link_text }}</a> ·
+<details class="pub-summary"><summary>Summary</summary><p class="summary">{{ pub.summary }}</p></details></div>
 </div>
 {% endfor %}
 {% endfor %}
+
+<script>
+// When a paper is linked directly (e.g. from the homepage highlights), open its summary.
+(function () {
+  function openTarget() {
+    var el = location.hash && document.getElementById(location.hash.slice(1));
+    if (el && el.classList.contains('pub')) { var d = el.querySelector('details'); if (d) d.open = true; }
+  }
+  openTarget(); window.addEventListener('hashchange', openTarget);
+})();
+</script>
