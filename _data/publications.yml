@@ -47,6 +47,7 @@
     methodische Grenzen deutlich, die künftige Algorithmen überwinden müssen.
 - year: 2026
   title: 'SIGMA-VAE: Sketched Isotropic Gaussian Multi-view Autoencoder for Normative Modeling'
+  id: sigma-vae
   venue: MICCAI (Main Track)
   link: https://link.springer.com/chapter/10.1007/978-3-032-38239-9_51
   link_text: Paper
