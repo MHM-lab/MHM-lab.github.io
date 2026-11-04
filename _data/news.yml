@@ -6,14 +6,15 @@
 # label_de: the same in German. text / text_de: one sentence.
 # link: optional (a paper, a talk, or a page on this site, e.g. /research/#sigma-vae).
 
-- label: Talk
+- label: Talk & paper
   date: "2026-10"
-  label_de: Vortrag
+  label_de: Vortrag & Publikation
   text: >-
-    Mariam Zabihi presented SIGMA-VAE, our multi-view autoencoder for normative modeling, at MICCAI 2026.
+    Mariam Zabihi presented SIGMA-VAE, our multi-view autoencoder for normative modeling, at MICCAI 2026,
+    where the paper appeared in the main track.
   text_de: >-
     Mariam Zabihi hat SIGMA-VAE, unseren Multi-View-Autoencoder für die normative Modellierung, auf der
-    MICCAI 2026 vorgestellt.
+    MICCAI 2026 vorgestellt; die Arbeit erschien im Main Track.
   link: /research/#sigma-vae
 - label: Workshop
   date: "2026-10"
@@ -40,13 +41,13 @@
   text_de: >-
     Als Mitglied des Scientific Program Committee hat Thomas Wolfers einen wunderbaren ECNP-Kongress 2026 mit 6.000 Teilnehmenden in München erlebt.
   link: https://www.ecnp.eu/congress2026/
-- label: Talk
+- label: Talk & preprint
   date: "2026-06"
-  label_de: Vortrag
+  label_de: Vortrag & Preprint
   text: >-
     Nitin Sharma presented transferable conditional brain charts, which link brain structure to
-    Alzheimer's disease progression, at OHBM 2026.
+    Alzheimer's disease progression, at OHBM 2026; the preprint is now on arXiv.
   text_de: >-
     Nitin Sharma hat auf der OHBM 2026 übertragbare konditionale Brain Charts vorgestellt, die
-    Hirnstruktur mit dem Verlauf der Alzheimer-Krankheit verknüpfen.
+    Hirnstruktur mit dem Verlauf der Alzheimer-Krankheit verknüpfen; das Preprint ist auf arXiv.
   link: https://arxiv.org/abs/2610.21660
