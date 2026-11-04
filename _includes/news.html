@@ -31,7 +31,7 @@
 {% if href %}</a>{% else %}</div>{% endif %}{% endif %}{% endif %}{% endfor %}{% endcapture %}
 {% if shown > 0 %}
 <section class="news-section">
-<h2 class="section-label">Highlights</h2>
+<h2 class="section-label">{% if de %}Aktuelle Highlights{% else %}Recent Highlights{% endif %}</h2>
 <div class="news">{{ cards }}</div>
 </section>
 <script>
