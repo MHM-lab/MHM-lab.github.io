@@ -55,7 +55,7 @@ Open calls for postdoc, PhD, data scientist, and HiWi positions will be posted h
 </section>
 <section class="toggle-panel" id="community">
 <h3>Community</h3>
-<p>Our institutional home, our networks, and our current contributions:</p>
+<p>Our institutional home and our current contributions:</p>
 <ul>
 <li>Workshop on Machine Learning in Clinical Neuroimaging (MLCN) at MICCAI</li>
 <li>ECNP, 2026–2029 and beyond</li>

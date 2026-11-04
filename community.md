@@ -6,7 +6,7 @@ description: "Current contributions of the laboratory for Mental Health Mapping 
 sections: collapsible
 ---
 
-Our institutional home, our networks, and our contributions to the wider scientific community.
+Our institutional home and our contributions to the wider scientific community.
 
 ## Talks, courses, workshops, and conferences
 Talks, courses, workshops, and conferences are central to a thriving scientific community. Our current contributions:

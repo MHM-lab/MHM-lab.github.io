@@ -7,7 +7,7 @@ description: "Aktuelle Beiträge des Labors für Mental Health Mapping zur wisse
 sections: collapsible
 ---
 
-Unsere institutionelle Heimat, unsere Netzwerke und unsere Beiträge zur wissenschaftlichen Gemeinschaft.
+Unsere institutionelle Heimat und unsere Beiträge zur wissenschaftlichen Gemeinschaft.
 
 ## Vorträge, Kurse, Workshops und Konferenzen
 Vorträge, Kurse, Workshops und Konferenzen sind zentral für eine lebendige wissenschaftliche Gemeinschaft. Unsere aktuellen Beiträge:
