@@ -23,7 +23,7 @@
 {% if de %}{% assign label = item.label_de | default: item.label %}{% assign text = item.text_de | default: item.text %}{% else %}{% assign label = item.label %}{% assign text = item.text %}{% endif %}
 {% assign href = item.link %}{% if de and item.link and item.link contains '://' %}{% elsif de and item.link %}{% assign href = item.link | prepend: '/de' %}{% endif %}
 {% endif %}
-{% if parts[1] == "p" %}{% assign cls = "news-item news-paper" %}{% capture venue %}{{ pub.venue | remove: " (accepted)" }}{% endcapture %}{% else %}{% assign cls = "news-item" %}{% assign venue = "" %}{% endif %}
+{% if parts[1] == "p" %}{% assign cls = "news-item news-paper" %}{% capture venue %}{{ pub.venue | remove: " (accepted)" }}{% endcapture %}{% elsif item.venue %}{% assign cls = "news-item news-paper" %}{% assign venue = item.venue %}{% else %}{% assign cls = "news-item" %}{% assign venue = "" %}{% endif %}
 {% if href %}<a class="{{ cls }}" href="{{ href }}" data-date="{{ date }}">{% else %}<div class="{{ cls }}" data-date="{{ date }}">{% endif %}
 <span class="news-label">{{ label }} · {{ month }}</span>
 {% if venue != "" %}<span class="news-venue">{{ venue }}</span>{% endif %}

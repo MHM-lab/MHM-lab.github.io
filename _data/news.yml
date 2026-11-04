@@ -5,16 +5,18 @@
 # date: year and month as "YYYY-MM" (in quotes). label: short tag (Paper, Talk, Award, ...);
 # label_de: the same in German. text / text_de: one sentence.
 # link: optional (a paper, a talk, or a page on this site, e.g. /research/#sigma-vae).
+# venue: optional, where it was published or presented (shown in italics with an accent line, like papers).
 
 - label: Talk & paper
   date: "2026-10"
   label_de: Vortrag & Publikation
+  venue: MICCAI 2026 (Main Track)
   text: >-
-    Mariam Zabihi presented SIGMA-VAE, our multi-view autoencoder for normative modeling, at MICCAI 2026,
-    where the paper appeared in the main track.
+    Mariam Zabihi presented SIGMA-VAE, our multi-view autoencoder for normative modeling, with a talk and
+    a paper in the main track.
   text_de: >-
-    Mariam Zabihi hat SIGMA-VAE, unseren Multi-View-Autoencoder für die normative Modellierung, auf der
-    MICCAI 2026 vorgestellt; die Arbeit erschien im Main Track.
+    Mariam Zabihi hat SIGMA-VAE, unseren Multi-View-Autoencoder für die normative Modellierung, mit einem
+    Vortrag und einer Publikation im Main Track vorgestellt.
   link: /research/#sigma-vae
 - label: Workshop
   date: "2026-10"
