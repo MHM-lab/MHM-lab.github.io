@@ -204,3 +204,4 @@ a.news-item:hover { border-color: var(--green-light); background: #f7faf5; }
 /* paper highlights: a thin accent line and the journal or conference in italics */
 .news-paper { border-left: 3px solid var(--green-light); }
 .news-venue { color: var(--ink); font-style: italic; font-weight: 600; }
+.alumni-note { margin-top: 0; padding-top: 1.75rem; border-top: 1px solid var(--line); }
