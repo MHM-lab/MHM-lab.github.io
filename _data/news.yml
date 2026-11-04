@@ -1,16 +1,25 @@
-# RECENT UPDATES (homepage). The first three entries are shown, newest first.
+# RECENT UPDATES (homepage). The first four entries are shown, newest first.
 # label: short tag (Paper, Talk, Award, ...); label_de: the same in German.
 # text / text_de: one sentence. link: optional (a paper, a talk, or a page on this site).
 
-- label: Papers
-  label_de: Publikationen
+- label: Paper
+  label_de: Publikation
   text: >-
-    Two papers accepted: Yanwu Yang's in Nature Neuroscience and Alexander Frotscher's in npj Digital
-    Medicine.
+    Yanwu Yang's normative reference for human brain dynamics across the lifespan was accepted in
+    Nature Neuroscience.
   text_de: >-
-    Zwei Publikationen angenommen: von Yanwu Yang bei Nature Neuroscience und von Alexander Frotscher
-    bei npj Digital Medicine.
-  link: /research/#publications
+    Yanwu Yangs normative Referenz für die Dynamik des menschlichen Gehirns über die Lebensspanne
+    wurde bei Nature Neuroscience angenommen.
+  link: https://www.biorxiv.org/content/10.64898/2026.03.06.710057v1
+- label: Paper
+  label_de: Publikation
+  text: >-
+    Alexander Frotscher's large-scale benchmark of anomaly detection in brain imaging was accepted in
+    npj Digital Medicine.
+  text_de: >-
+    Alexander Frotschers groß angelegter Benchmark zur Anomalieerkennung in der Bildgebung des Gehirns
+    wurde bei npj Digital Medicine angenommen.
+  link: https://arxiv.org/abs/2512.01534
 - label: Talk
   label_de: Vortrag
   text: >-

@@ -28,7 +28,7 @@ We use large, diverse datasets and machine learning to understand how biological
 
 <h2 class="section-label">Recent updates</h2>
 <div class="news">
-{% for item in site.data.news limit: 3 %}
+{% for item in site.data.news limit: 4 %}
 {% if item.link %}<a class="news-item" href="{{ item.link }}">{% else %}<div class="news-item">{% endif %}
 <span class="news-label">{{ item.label }}</span>
 <span>{{ item.text }}</span>

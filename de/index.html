@@ -30,7 +30,7 @@ Wir nutzen große, vielfältige Datensätze und maschinelles Lernen, um zu verst
 
 <h2 class="section-label">Aktuelles</h2>
 <div class="news">
-{% for item in site.data.news limit: 3 %}
+{% for item in site.data.news limit: 4 %}
 {% if item.link %}<a class="news-item" href="{% if item.link contains '://' %}{{ item.link }}{% else %}/de{{ item.link }}{% endif %}">{% else %}<div class="news-item">{% endif %}
 <span class="news-label">{{ item.label_de | default: item.label }}</span>
 <span>{{ item.text_de | default: item.text }}</span>
