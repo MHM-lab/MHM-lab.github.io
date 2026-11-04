@@ -172,7 +172,6 @@ h2 { clear: both; }
 
 /* ---------- publications ---------- */
 .pub { padding: 1rem 0; border-bottom: 1px solid var(--line); }
-.pub strong { color: var(--ink); }
 .pub p { margin: 0.25rem 0; }
 .venue { color: var(--green); font-size: 0.75rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; }
 .summary { color: var(--muted); font-size: 0.92rem; }
@@ -239,3 +238,11 @@ a.news-item:hover { border-color: var(--green-light); background: #f7faf5; }
 .toggle::after { content: " ▾"; }
 .toggle[aria-expanded="true"] { background: var(--green); color: #fff; }
 .toggle[aria-expanded="true"]::after { content: " ▴"; }
+
+/* publication list: titles link to the paper, journal shown as a soft label */
+.pub-title { font-size: 1.05rem; line-height: 1.4; }
+.pub-title a { color: var(--ink); text-decoration: none; font-weight: 500; }
+.pub-title a:hover { color: var(--green); text-decoration: underline; text-underline-offset: 3px; }
+.pub .venue { display: inline-block; padding: 0.15em 0.6em; border-radius: 999px; background: #eef4ea; color: var(--green); letter-spacing: 0.03em; }
+.pub-meta a { font-size: 0.85rem; }
+.pub { transition: background-color 0.15s; }

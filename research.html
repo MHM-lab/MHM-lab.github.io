@@ -57,7 +57,7 @@ description: "Research of the laboratory for Mental Health Mapping: four researc
 <h2 class="year">{{ year.name }}</h2>
 {% for pub in year.items %}
 <div class="pub" id="{{ pub.id | default: pub.title | slugify }}">
-<p><strong>{{ pub.title }}</strong></p>
+<p class="pub-title"><a href="{{ pub.link }}">{{ pub.title }}</a></p>
 <div class="pub-meta"><span class="venue">{{ pub.venue }}</span> · <a href="{{ pub.link }}">{{ pub.link_text }}</a> ·
 <details class="pub-summary"><summary>Summary</summary><p class="summary">{{ pub.summary }}</p></details></div>
 </div>
