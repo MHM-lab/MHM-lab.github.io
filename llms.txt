@@ -8,16 +8,16 @@ sitemap: false
 > {{ site.description | strip_newlines }} Led by Thomas Wolfers (Principal Investigator), Friedrich Schiller University Jena, Germany.
 
 ## Pages
-- [Home]({{ site.url }}/): overview of the lab and its four research themes
+- [Home]({{ site.url }}/): overview of the lab, its four research themes, and recent highlights
+- [Research & Selected Publications]({{ site.url }}/research/): the four research themes (foundations, structures, markers, and models of mental health mapping) and selected publications with summaries (full list on Google Scholar)
 - [People]({{ site.url }}/people/): current lab members, their roles, research, and degrees
-- [Research]({{ site.url }}/research/): the four research themes (foundations, structures, markers, and models of mental health mapping) and selected publications with summaries (full list on Google Scholar)
 - [Teaching]({{ site.url }}/teaching/): courses and a selective seminar at Friedrich Schiller University Jena
-- [Community]({{ site.url }}/community/): current contributions (MLCN workshop, ECNP, ELLIS Unit Jena, Digital Academy, DZPG)
+- [Join Us]({{ site.url }}/join_us/): open positions, theses, internships, how we learn, mentorship, and how to apply
 - [Values]({{ site.url }}/values/): how the lab works together
-- [Join Us]({{ site.url }}/join_us/): positions, theses, internships, and how to apply
+- [Community]({{ site.url }}/community/): current contributions (MLCN workshop at MICCAI, ECNP, ELLIS Unit Jena, Digital Academy, DZPG)
 - [Moving to Jena]({{ site.url }}/moving_to_jena/): practical guide for people relocating to Jena
 - [Use of LLMs]({{ site.url }}/use_LLMs/): the lab's policy on large language models
-- [Deutsche Version]({{ site.url }}/de/): every page is also available in German under /de/ (e.g. {{ site.url }}/de/people/)
+- [Deutsche Version]({{ site.url }}/de/): every page is also available in German under /de/ (e.g. {{ site.url }}/de/research/)
 
 ## Research themes
 {% for t in site.data.research %}- {{ t.title }}: {{ t.short }}
@@ -25,5 +25,12 @@ sitemap: false
 ## Selected publications
 {% for pub in site.data.publications %}- {{ pub.title }} ({{ pub.venue }}, {{ pub.year }}): {{ pub.link }}
 {% endfor %}
+## Courses
+{% for c in site.data.courses %}- {{ c.title }} ({{ c.when }}): {{ c.teaser | strip_html | remove: "**" }}
+{% endfor %}
+## Recent highlights
+{% for item in site.data.news %}- {{ item.date }} · {{ item.label }}: {{ item.text | strip_newlines }}
+{% endfor %}{% for pub in site.data.publications %}{% if pub.date %}- {{ pub.date }} · Paper: {{ pub.title }} ({{ pub.venue }})
+{% endif %}{% endfor %}
 ## Contact
 - Thomas Wolfers, Friedrich Schiller University Jena, Inselplatz 1, 07743 Jena, Germany
