@@ -12,44 +12,44 @@
   label_de: Vortrag & Publikation
   venue: MICCAI 2026 (Main Track)
   text: >-
-    Mariam Zabihi presented SIGMA-VAE, our multi-view autoencoder for normative modeling, with a talk and
+    Mariam Zabihi presents SIGMA-VAE, her multi-view autoencoder for normative modeling, with a talk and
     a paper in the main track.
   text_de: >-
-    Mariam Zabihi hat SIGMA-VAE, unseren Multi-View-Autoencoder für die normative Modellierung, mit einem
-    Vortrag und einer Publikation im Main Track vorgestellt.
+    Mariam Zabihi stellt SIGMA-VAE, ihren Multi-View-Autoencoder für die normative Modellierung, mit einem
+    Vortrag und einer Publikation im Main Track vor.
   link: /research/#sigma-vae
 - label: Workshop
   date: "2026-10"
   label_de: Workshop
   text: >-
-    We helped organize the Machine Learning in Clinical Neuroimaging (MLCN) workshop at MICCAI for the
+    We co-organize the Machine Learning in Clinical Neuroimaging (MLCN) workshop at MICCAI for the
     eighth time.
   text_de: >-
-    Wir haben zum achten Mal den Workshop Machine Learning in Clinical Neuroimaging (MLCN) auf der MICCAI
-    mitorganisiert.
+    Wir organisieren zum achten Mal den Workshop Machine Learning in Clinical Neuroimaging (MLCN) auf der MICCAI
+    mit.
   link: https://mlcnworkshop.github.io
 - label: Lab life
   date: "2026-10"
   label_de: Laborleben
   text: >-
-    We had a wonderful lab retreat with friends in Jena.
+    We enjoy a wonderful lab retreat with friends in Jena.
   text_de: >-
-    Wir hatten ein wunderbares Lab-Retreat mit Freundinnen und Freunden in Jena.
+    Wir genießen ein wunderbares Lab-Retreat mit Freundinnen und Freunden in Jena.
 - label: Conference
   date: "2026-10"
   label_de: Konferenz
   text: >-
-    As a member of the Scientific Program Committee, Thomas Wolfers enjoyed a wonderful ECNP Congress 2026 in Munich with 6,000 attendees.
+    As a member of the Scientific Program Committee, Thomas Wolfers enjoys a wonderful ECNP Congress 2026 in Munich with 6,000 attendees.
   text_de: >-
-    Als Mitglied des Scientific Program Committee hat Thomas Wolfers einen wunderbaren ECNP-Kongress 2026 mit 6.000 Teilnehmenden in München erlebt.
+    Als Mitglied des Scientific Program Committee erlebt Thomas Wolfers einen wunderbaren ECNP-Kongress 2026 mit 6.000 Teilnehmenden in München.
   link: https://www.ecnp.eu/congress2026/
 - label: Talk & preprint
   date: "2026-06"
   label_de: Vortrag & Preprint
   text: >-
-    Nitin Sharma presented transferable conditional brain charts, which link brain structure to
-    Alzheimer's disease progression, at OHBM 2026; the preprint is now on arXiv.
+    Nitin Sharma presents transferable conditional brain charts, which link brain structure to
+    Alzheimer's disease progression, at OHBM 2026; the preprint is on arXiv.
   text_de: >-
-    Nitin Sharma hat auf der OHBM 2026 übertragbare konditionale Brain Charts vorgestellt, die
+    Nitin Sharma stellt auf der OHBM 2026 übertragbare konditionale Brain Charts vor, die
     Hirnstruktur mit dem Verlauf der Alzheimer-Krankheit verknüpfen; das Preprint ist auf arXiv.
   link: https://arxiv.org/abs/2610.21660
