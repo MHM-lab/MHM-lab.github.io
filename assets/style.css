@@ -79,13 +79,21 @@ html { scroll-padding-top: 5.5rem; }
 /* Language switch (English / Deutsch), last item in the menu, same style as thomaswolfers.github.io */
 .site-nav .lang { margin-left: 0.4rem; background: transparent; border: 1px solid var(--line); color: var(--muted); }
 .site-nav .lang:hover, .site-nav .lang:focus-visible { border-color: var(--green-light); background: transparent; color: var(--green); }
+/* On phones the language switch sits next to the logo, so it is always visible */
+.lang-mobile { display: none; }
+.site-header .lang-mobile { padding: 0.35em 0.85em; border: 1px solid var(--line); border-radius: 999px; color: var(--muted); font-size: 0.85rem; font-weight: 500; text-decoration: none; }
 @media (max-width: 700px) {
+  .site-header .lang-mobile { display: inline-block; margin-left: auto; }
+  .site-nav .lang { display: none; }
+  .site-nav { gap: 0.25rem; }
+  .site-nav a { padding: 0.4em 0.75em; font-size: 0.88rem; }
   html { scroll-padding-top: 7.5rem; }
   .site-nav { flex-wrap: nowrap; overflow-x: auto; width: 100%; margin: 0 -0.4em; padding-bottom: 2px; scrollbar-width: none; }
   .site-nav::-webkit-scrollbar { display: none; }
   .site-nav a { flex: 0 0 auto; }
   /* soft fade on the right shows that the menu can be swiped */
-  .site-nav { -webkit-mask-image: linear-gradient(to right, #000 85%, transparent); mask-image: linear-gradient(to right, #000 85%, transparent); padding-right: 2rem; }
+  @media (max-width: 379px) {
+  .site-nav { -webkit-mask-image: linear-gradient(to right, #000 85%, transparent); mask-image: linear-gradient(to right, #000 85%, transparent); padding-right: 2rem; } }
 }
 
 /* ---------- main content ---------- */
@@ -152,7 +160,9 @@ html { scroll-padding-top: 5.5rem; }
 .theme-icon:hover { color: var(--green); }
 .hint { margin: 0.5rem 0 0; color: var(--muted); font-size: 0.85rem; }
 .theme-panel { display: none; margin-top: 1rem; padding: 1rem 1.25rem; border-left: 4px solid var(--green-light); border-radius: 6px; background: #f1f6ee; }
-.theme-panel:target { display: block; }
+.theme-panel:target, .theme-panel.open { display: block; }
+.theme-icon[aria-expanded="true"] img { border-color: var(--green); }
+.theme-icon[aria-expanded="true"] { color: var(--green); }
 .theme-panel h3 { margin-top: 0.2rem; }
 .theme-panel p:last-child { margin-bottom: 0; font-size: 0.9rem; }
 .section-label { margin-top: 1.5rem; font-size: 1.1rem; }

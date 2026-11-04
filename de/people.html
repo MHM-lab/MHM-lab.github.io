@@ -14,7 +14,7 @@ description: "Mitglieder des Labors für Mental Health Mapping an der Friedrich-
 
 {% for person in site.data.people %}
 <div class="person">
-<img src="/images/{{ person.photo }}" alt="Foto von {{ person.first }} {{ person.last }}" width="130" height="130">
+<img src="/images/{{ person.photo }}" alt="Foto von {{ person.first }} {{ person.last }}" width="130" height="130" loading="lazy" decoding="async">
 <div>
 <h2 class="name"><span class="first">{{ person.first }}</span> <span class="last">{{ person.last }}</span></h2>
 <p class="role">{{ person.role }}</p>

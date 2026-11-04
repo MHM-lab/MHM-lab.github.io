@@ -22,6 +22,32 @@ description: "Research of the laboratory for Mental Health Mapping: four researc
 </section>
 {% endfor %}
 
+<script>
+// Open a theme's text in place (no jump), mark the active icon, click again to close.
+// Without JavaScript the links still work and open the text via the #anchor.
+(function () {
+  var icons = document.querySelectorAll('.theme-icon'), panels = document.querySelectorAll('.theme-panel');
+  function show(id) {
+    panels.forEach(function (p) { p.classList.toggle('open', p.id === id); });
+    icons.forEach(function (a) { a.setAttribute('aria-expanded', a.getAttribute('href') === '#' + id ? 'true' : 'false'); });
+  }
+  icons.forEach(function (a) {
+    a.setAttribute('aria-expanded', 'false');
+    a.addEventListener('click', function (e) {
+      e.preventDefault();
+      var id = a.getAttribute('href').slice(1);
+      var open = a.getAttribute('aria-expanded') === 'true';
+      show(open ? '' : id);
+      history.replaceState(null, '', open ? location.pathname : '#' + id);
+    });
+  });
+  document.querySelectorAll('.theme-panel a[href="#themes"]').forEach(function (a) {
+    a.addEventListener('click', function (e) { e.preventDefault(); show(''); history.replaceState(null, '', location.pathname); });
+  });
+  if (location.hash && document.getElementById(location.hash.slice(1)) && document.getElementById(location.hash.slice(1)).classList.contains('theme-panel')) show(location.hash.slice(1));
+})();
+</script>
+
 <p class="research-text">Mental health mapping sits at the intersection of machine learning, neuroscience, psychiatry, and philosophy. Since its founding in 2022, the lab has published in leading venues across these fields.</p>
 
 <h2 id="publications">Selected publications</h2>
