@@ -11,12 +11,13 @@ Live at **https://mhm-lab.github.io**. GitHub Pages rebuilds the site automatica
 | Selected publications (Research page) | `_data/publications.yml` |
 | Research themes (homepage + Research page) | `_data/research.yml`   |
 | Homepage text                      | `index.html`                   |
+| Courses (Teaching page)            | `_data/courses.yml`            |
 | Highlights (homepage, 8 newest from the last 6 months) | `_data/news.yml` (newest first) |
 | Menu, footer links, site title     | `_config.yml`                  |
-| Any other page                     | the `.md` file with its name (e.g. `teaching.md`, `join_us.md`) |
+| Any other page                     | the `.md` file with its name (e.g. `join_us.md`, `values.md`) |
 | Colours, fonts, spacing            | `assets/style.css`             |
 | Page frame (header/footer)         | `_layouts/default.html`        |
-| German version of a page          | the same file name in `de/` (e.g. `de/teaching.md`) |
+| German version of a page          | the same file name in `de/` (e.g. `de/join_us.md`) |
 | Search engine / AI summary         | `llms.txt`, `robots.txt` (structured data in `_includes/structured-data.html` updates itself) |
 
 You can edit everything directly on github.com: open the file, click the pencil icon, change it, then "Commit changes".

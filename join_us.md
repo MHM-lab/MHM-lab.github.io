@@ -21,7 +21,7 @@ Open calls for postdoc, PhD, data scientist, and HiWi positions will be posted h
 
 ## Master's and bachelor's students
 
-Students interested in a bachelor's or master's thesis or an internship are welcome to apply directly, or to first join our [selective seminar](/teaching/) to get to know the lab.
+Students interested in a bachelor's or master's thesis or an internship are welcome to apply directly, or to first join our [selective seminar](/teaching/#seminar) to get to know the lab.
 
 ## How we learn
 Our lab aims to provide an environment in which learning is joyful, while recognizing that meaningful challenges inevitably come with both internal resistance (e.g., procrastination, self-doubt, fear of failure) and external resistance (e.g., critical reviews, rejection, or less-than-positive feedback). We treat these experiences not as obstacles to avoid, but as integral parts of scientific growth.

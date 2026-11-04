@@ -22,7 +22,7 @@ Ausschreibungen für Postdoc-, Promotions-, Data-Scientist- und HiWi-Stellen ver
 
 ## Master- und Bachelorstudierende
 
-Studierende, die sich für eine Bachelor- oder Masterarbeit oder ein Praktikum interessieren, können sich direkt bewerben oder zunächst an unserem [Seminar mit Auswahlverfahren](/de/teaching/) teilnehmen, um das Labor kennenzulernen.
+Studierende, die sich für eine Bachelor- oder Masterarbeit oder ein Praktikum interessieren, können sich direkt bewerben oder zunächst an unserem [Seminar mit Auswahlverfahren](/de/teaching/#seminar) teilnehmen, um das Labor kennenzulernen.
 
 ## Wie wir lernen
 Unser Labor möchte ein Umfeld bieten, in dem Lernen Freude macht, und erkennt zugleich an, dass anspruchsvolle Aufgaben unweigerlich mit innerem Widerstand (z. B. Aufschieben, Selbstzweifel, Angst vor dem Scheitern) und äußerem Widerstand (z. B. kritische Gutachten, Ablehnungen oder wenig positives Feedback) einhergehen. Wir betrachten diese Erfahrungen nicht als Hindernisse, die es zu vermeiden gilt, sondern als festen Bestandteil wissenschaftlicher Entwicklung.

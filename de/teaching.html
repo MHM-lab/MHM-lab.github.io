@@ -1,0 +1,32 @@
+---
+permalink: /de/teaching/
+lang: de
+title: "Lehre und Seminare"
+description: "Kurse und Seminare zu individuellen Unterschieden, Neurowissenschaften, Psychologie und maschinellem Lernen an der Friedrich-Schiller-Universität Jena."
+---
+<!-- Die Kurse stehen in _data/courses.yml (Felder *_de) -->
+
+<p class="lead">Wir tragen zum Lehrangebot der Friedrich-Schiller-Universität Jena bei, indem wir ein integriertes, interdisziplinäres Lehrprogramm aus kognitiver Neurowissenschaft, Bildgebung des Gehirns und maschinellem Lernen entwickeln. Es richtet sich an Studierende der Universität sowie an nationale und internationale Teilnehmende.</p>
+
+{% for course in site.data.courses %}
+<section class="course" id="{{ course.id }}">
+<h2>{{ course.title }}</h2>
+<p class="meta">{{ course.when_de }}</p>
+{{ course.teaser_de | markdownify }}
+<details class="course-details">
+<summary>Details zum Kurs</summary>
+{{ course.details_de | markdownify }}
+</details>
+</section>
+{% endfor %}
+
+<script>
+// A link to a course (e.g. /teaching/#seminar) opens its details.
+(function () {
+  function openTarget() {
+    var el = location.hash && document.getElementById(location.hash.slice(1));
+    if (el && el.classList.contains('course')) el.querySelector('details').open = true;
+  }
+  openTarget(); window.addEventListener('hashchange', openTarget);
+})();
+</script>

@@ -218,3 +218,15 @@ a.news-item:hover { border-color: var(--green-light); background: #f7faf5; }
 .pub-summary .summary { margin: 0.35rem 0 0; }
 .pub { padding: 0.8rem 0; }
 #publications { scroll-margin-top: 5.5rem; }
+
+/* ---------- teaching: one card per course, full description on click ---------- */
+.course { margin: 1.25rem 0; padding: 1.1rem 1.4rem 1rem; border: 1px solid var(--line); border-left: 4px solid var(--green-light); border-radius: 10px; }
+.course h2 { margin: 0 0 0.3rem; font-size: 1.2rem; }
+.course .meta { margin: 0 0 0.6rem; }
+.course p { margin: 0.4rem 0; }
+.course-details summary { display: inline-block; margin-top: 0.2rem; color: var(--green); font-size: 0.9rem; font-weight: 600; cursor: pointer; list-style: none; }
+.course-details summary::-webkit-details-marker { display: none; }
+.course-details summary::after { content: " ▸"; }
+.course-details[open] summary::after { content: " ▾"; }
+.course-details[open] summary { margin-bottom: 0.3rem; }
+@media (max-width: 600px) { .course { padding: 0.9rem 1rem 0.8rem; } }
