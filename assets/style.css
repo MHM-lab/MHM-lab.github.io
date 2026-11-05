@@ -203,8 +203,14 @@ a.news-item:hover { border-color: var(--green-light); background: #f7faf5; }
 @media (max-width: 700px) { .news { grid-template-columns: 1fr; } }
 .pub:target { margin: 0 -1rem; padding: 1rem; border-radius: 8px; background: #f1f6ee; }
 /* paper highlights: a thin accent line and the journal or conference in italics */
-.news-work { border-left: 4px solid var(--green); background: #f4f8f1; }
-a.news-work:hover { background: #ecf3e7; }
+/* Highlights by importance, darker green = more important */
+.news-important { background: var(--green); border-color: var(--green); color: #fff; }
+.news-important .news-label, .news-important .news-venue { color: #fff; }
+a.news-important:hover { background: #3f6a2b; border-color: #3f6a2b; }
+.news-paper { border-left: 5px solid var(--green); background: #e9f1e3; }
+a.news-paper:hover { background: #e1ecd9; }
+.news-talk { border-left: 5px solid #9cc185; background: #f5f9f2; }
+a.news-talk:hover { background: #edf4e8; }
 .news-venue { color: var(--ink); font-style: italic; font-weight: 600; }
 .news-other { background: #fff; }
 .news-other .news-label { color: var(--muted); }

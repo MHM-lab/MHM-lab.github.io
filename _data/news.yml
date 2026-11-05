@@ -5,6 +5,7 @@
 # date: year and month as "YYYY-MM" (in quotes). label: short tag (Paper, Talk, Award, ...);
 # label_de: the same in German. text / text_de: one sentence.
 # link: optional (a paper, a talk, or a page on this site, e.g. /research/#sigma-vae).
+# important: true  -> shown as an important update (strongest highlight). Optional.
 # venue: optional, where it was published or presented (shown in italics with an accent line, like papers).
 
 - label: Talk & paper
