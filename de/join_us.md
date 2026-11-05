@@ -59,7 +59,7 @@ Ausschreibungen für Postdoc-, Promotions-, Data-Scientist- und HiWi-Stellen ver
 <p>Unsere institutionelle Heimat und unsere aktuellen Beiträge:</p>
 <ul>
 <li>Workshop on Machine Learning in Clinical Neuroimaging (MLCN) auf der MICCAI</li>
-<li>ECNP, 2026–2029 und darüber hinaus</li>
+<li>ECNP: Scientific Program Committee (2026), Abstract and Poster Committee (2026–2029)</li>
 <li>ELLIS Unit Jena</li>
 <li>Digital Academy der Friedrich-Schiller-Universität Jena</li>
 <li>Deutsches Zentrum für Psychische Gesundheit (DZPG), Standort Jena</li>
