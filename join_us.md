@@ -58,7 +58,7 @@ Open calls for postdoc, PhD, data scientist, and HiWi positions will be posted h
 <p>Our institutional home and our current contributions:</p>
 <ul>
 <li>Workshop on Machine Learning in Clinical Neuroimaging (MLCN) at MICCAI</li>
-<li>ECNP conference and AI for Mental Health Network</li>
+<li>ECNP Congress and ECNP Network on AI in Mental Health</li>
 <li>ELLIS Unit Jena</li>
 <li>Digital Academy at Friedrich Schiller University Jena</li>
 <li>German Center for Mental Health (DZPG), Jena site</li>
