@@ -161,7 +161,8 @@ html { scroll-padding-top: 5.5rem; }
 .theme-icon:hover { color: var(--green); }
 .hint { margin: 0.5rem 0 0; color: var(--muted); font-size: 0.85rem; }
 .theme-panel { display: none; margin-top: 1rem; padding: 1rem 1.25rem; border-left: 4px solid var(--green-light); border-radius: 6px; background: #f1f6ee; }
-.theme-panel:target, .theme-panel.open { display: block; }
+/* With JavaScript, only the script opens and closes panels (a lingering #hash must not keep one open). */
+html:not(.js) .theme-panel:target, .theme-panel.open { display: block; }
 .theme-icon[aria-expanded="true"] img { border-color: var(--green); }
 .theme-icon[aria-expanded="true"] { color: var(--green); }
 .theme-panel h3 { margin-top: 0.2rem; }
@@ -233,7 +234,7 @@ a.news-item:hover { border-color: var(--green-light); background: #f7faf5; }
 
 /* ---------- join us: buttons that open a section in place ---------- */
 .toggle-panel { display: none; margin: 0.5rem 0 1rem; padding: 1rem 1.25rem; border-left: 4px solid var(--green-light); border-radius: 6px; background: #f1f6ee; }
-.toggle-panel:target, .toggle-panel.open { display: block; }
+html:not(.js) .toggle-panel:target, .toggle-panel.open { display: block; }
 .toggle-panel h3 { margin-top: 0.2rem; }
 .toggle-panel p:last-child { margin-bottom: 0; }
 .toggle::after { content: " ▾"; }

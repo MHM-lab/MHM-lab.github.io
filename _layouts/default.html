@@ -34,6 +34,8 @@
   {% unless page.noindex %}{% include structured-data.html %}{% endunless %}
   <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
   <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+  <script>document.documentElement.className += " js";</script>
+  <meta name="theme-color" content="#3f6a2b">
   <link rel="stylesheet" href="/assets/style.css">
 </head>
 <body>
@@ -105,6 +107,7 @@
     var d = el.closest('details'); if (d) d.open = true;
   }
   fromHash(); window.addEventListener('hashchange', fromHash);
+  window.addEventListener('pageshow', function (e) { if (e.persisted) fromHash(); });  // Back/Forward cache
 })();
 </script>
 </body>

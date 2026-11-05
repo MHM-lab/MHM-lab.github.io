@@ -18,7 +18,7 @@
       "description": {{ site.description | strip_newlines | jsonify }},
       "parentOrganization": {"@type": "CollegeOrUniversity", "name": "Friedrich Schiller University Jena", "alternateName": "Friedrich-Schiller-Universität Jena", "url": "https://www.uni-jena.de/en/"},
       "address": {"@type": "PostalAddress", "streetAddress": "Inselplatz 1", "postalCode": "07743", "addressLocality": "Jena", "addressCountry": "DE"},
-      "founder": {"@type": "Person", "@id": "{{ site.url }}/people/#thomas-wolfers", "name": "Thomas Wolfers"},
+      "founder": {"@type": "Person", "@id": "{{ site.url }}/people/#thomas-wolfers", "name": "Thomas Wolfers", "jobTitle": "Carl Zeiss Professor for Artificial Intelligence in Neural Systems Imaging", "url": "https://thomaswolfers.github.io/en/", "sameAs": ["https://thomaswolfers.github.io/en/", "https://scholar.google.com/citations?user=4f2rdMcAAAAJ", "https://www.linkedin.com/in/thomas-wolfers-5b96694b/", "https://bsky.app/profile/thomaswolfers.bsky.social", "https://www.ellis-jena.ai/thomas-wolfers/"]},
       "knowsAbout": ["mental disorders", "neurological disorders", "mental health", "brain health", "psychiatry", "machine learning", "normative modeling", "neuroimaging", "computational psychiatry", "individual differences", "brain mapping", "large language models", "neurology"],
       "sameAs": [{% for link in site.social %}{{ link.url | jsonify }}{% unless forloop.last %}, {% endunless %}{% endfor %}]
     }{% endcapture %}

@@ -11,7 +11,7 @@ description: "Forschung des Labors für Mental Health Mapping: vier Forschungsth
 <div class="theme-icons" id="themes">
 {% for theme in site.data.research %}
 <a class="theme-icon" href="#{{ theme.name | downcase }}">
-<img src="/images/{{ theme.image }}" alt="" width="400" height="400">
+<img src="/images/{{ theme.image }}" alt="{% if page.lang == 'de' %}{{ theme.title_de }}{% else %}{{ theme.title }}{% endif %}" width="400" height="400" decoding="async">
 <span>{{ theme.name_de | default: theme.name }}</span>
 </a>
 {% endfor %}
@@ -47,7 +47,14 @@ description: "Forschung des Labors für Mental Health Mapping: vier Forschungsth
   document.querySelectorAll('.theme-panel a[href="#themes"]').forEach(function (a) {
     a.addEventListener('click', function (e) { e.preventDefault(); show(''); history.replaceState(null, '', location.pathname); });
   });
-  if (location.hash && document.getElementById(location.hash.slice(1)) && document.getElementById(location.hash.slice(1)).classList.contains('theme-panel')) show(location.hash.slice(1));
+  // Follow the address bar: on load, on in-page links (#markers), and on Back/Forward.
+  function fromHash() {
+    var id = decodeURIComponent(location.hash.slice(1)), el = id && document.getElementById(id);
+    show(el && el.classList.contains('theme-panel') ? id : '');
+  }
+  fromHash();
+  window.addEventListener('hashchange', fromHash);
+  window.addEventListener('pageshow', fromHash);
 })();
 </script>
 

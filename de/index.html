@@ -21,7 +21,7 @@ Wir nutzen große, vielfältige Datensätze und maschinelles Lernen, um psychisc
 <div class="cards">
 {% for theme in site.data.research %}
 <a class="card" href="/de/research/#{{ theme.name | downcase }}">
-<img src="/images/{{ theme.image }}" alt="" width="400" height="400">
+<img src="/images/{{ theme.image }}" alt="{% if page.lang == 'de' %}{{ theme.title_de }}{% else %}{{ theme.title }}{% endif %}" width="400" height="400" decoding="async">
 <strong>{{ theme.name_de | default: theme.name }}</strong>
 <span>{{ theme.short_de | default: theme.short }}</span>
 </a>

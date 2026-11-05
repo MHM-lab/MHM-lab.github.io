@@ -20,7 +20,7 @@ We use large, diverse datasets and machine learning to understand mental and neu
 <div class="cards">
 {% for theme in site.data.research %}
 <a class="card" href="/research/#{{ theme.name | downcase }}">
-<img src="/images/{{ theme.image }}" alt="" width="400" height="400">
+<img src="/images/{{ theme.image }}" alt="{% if page.lang == 'de' %}{{ theme.title_de }}{% else %}{{ theme.title }}{% endif %}" width="400" height="400" decoding="async">
 <strong>{{ theme.name }}</strong>
 <span>{{ theme.short }}</span>
 </a>
