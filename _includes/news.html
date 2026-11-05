@@ -1,6 +1,7 @@
 {% comment %}
   Highlights on the homepage (EN and DE). Data: _data/news.yml, plus every paper in
   _data/publications.yml that has a "date" (it appears here automatically as "Paper").
+  Papers, preprints and talks are highlighted (green accent); workshops, conferences and lab life look quieter.
   Shows up to eight entries from the last 6 months. A small script hides entries that become older
   than 6 months later on, even if the site has not been rebuilt; no recent entries = no section.
 {% endcomment %}
@@ -23,7 +24,9 @@
 {% if de %}{% assign label = item.label_de | default: item.label %}{% assign text = item.text_de | default: item.text %}{% else %}{% assign label = item.label %}{% assign text = item.text %}{% endif %}
 {% assign href = item.link %}{% if de and item.link and item.link contains '://' %}{% elsif de and item.link %}{% assign href = item.link | prepend: '/de' %}{% endif %}
 {% endif %}
-{% if parts[1] == "p" %}{% assign cls = "news-item news-paper" %}{% capture venue %}{{ pub.venue | remove: " (accepted)" }}{% endcapture %}{% elsif item.venue %}{% assign cls = "news-item news-paper" %}{% assign venue = item.venue %}{% else %}{% assign cls = "news-item" %}{% assign venue = "" %}{% endif %}
+{% comment %} Papers, preprints and talks ("work") get the accent style; everything else (workshops, conferences, lab life) a quieter one. {% endcomment %}
+{% assign lbl = item.label | downcase %}
+{% if parts[1] == "p" %}{% assign cls = "news-item news-work" %}{% capture venue %}{{ pub.venue | remove: " (accepted)" }}{% endcapture %}{% elsif lbl contains "paper" or lbl contains "talk" or lbl contains "preprint" %}{% assign cls = "news-item news-work" %}{% assign venue = item.venue | default: "" %}{% else %}{% assign cls = "news-item news-other" %}{% assign venue = item.venue | default: "" %}{% endif %}
 {% if href %}<a class="{{ cls }}" href="{{ href }}" data-date="{{ date }}">{% else %}<div class="{{ cls }}" data-date="{{ date }}">{% endif %}
 <span class="news-label">{{ label }} · {{ month }}</span>
 {% if venue != "" %}<span class="news-venue">{{ venue }}</span>{% endif %}

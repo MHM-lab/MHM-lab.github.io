@@ -203,8 +203,12 @@ a.news-item:hover { border-color: var(--green-light); background: #f7faf5; }
 @media (max-width: 700px) { .news { grid-template-columns: 1fr; } }
 .pub:target { margin: 0 -1rem; padding: 1rem; border-radius: 8px; background: #f1f6ee; }
 /* paper highlights: a thin accent line and the journal or conference in italics */
-.news-paper { border-left: 3px solid var(--green-light); }
+.news-work { border-left: 4px solid var(--green); background: #f4f8f1; }
+a.news-work:hover { background: #ecf3e7; }
 .news-venue { color: var(--ink); font-style: italic; font-weight: 600; }
+.news-other { background: #fff; }
+.news-other .news-label { color: var(--muted); }
+.news-other .news-venue { color: var(--muted); font-weight: 400; }
 .alumni-note { margin-top: 0; padding-top: 1.75rem; border-top: 1px solid var(--line); }
 
 /* research page: intro as a lead, compact paper list with summaries that open on click */
