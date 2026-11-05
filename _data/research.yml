@@ -1,6 +1,6 @@
 # RESEARCH THEMES (homepage cards and the clickable icons on the Research page)
 # short: one line for the homepage card. text: opening sentences, guiding questions as a list ("- "),
-# then who we work with. *_de: the same in German. Keep a blank line before and after the list.
+# then at most two example questions (always last). *_de: the same in German. Keep a blank line before and after the list.
 
 - name: Foundations
   name_de: Grundlagen
@@ -10,21 +10,15 @@
   short: What is healthy, and what is a disorder?
   short_de: Was ist gesund, und was ist eine Störung?
   text: |-
-    We study the foundations of health, disorder, and disease, where what counts as healthy or normative is often unclear. In the long run, this work builds the theoretical foundation of mental health mapping, incorporating first- and third-person perspectives.
+    We study the foundations of health, disorder, and disease, where what counts as healthy or normative is often unclear. This work builds the theoretical foundation of mental health mapping, incorporating first- and third-person perspectives. Across all our themes, we work with people living with mental and neurological disorders, clinicians, philosophers, and scientists.
 
     - What is healthy?
     - What is the right reference group to compare disease with?
-    - Can systematic exploration of the mind help us understand it?
-
-    Across all our themes, we work together with people living with mental and neurological disorders, clinicians, philosophers, and scientists, who ground our research in clinical practice and inform it in theoretical and practical ways.
   text_de: |-
-    Wir untersuchen die Grundlagen von Gesundheit, Störung und Krankheit, denn was als gesund oder normativ gilt, ist oft unklar. Langfristig schafft diese Arbeit das theoretische Fundament des Mental Health Mapping und bezieht die Perspektive der ersten wie der dritten Person ein.
+    Wir untersuchen die Grundlagen von Gesundheit, Störung und Krankheit, denn was als gesund oder normativ gilt, ist oft unklar. Diese Arbeit schafft das theoretische Fundament des Mental Health Mapping und bezieht die Perspektive der ersten wie der dritten Person ein. In allen unseren Themen arbeiten wir mit Menschen mit psychischen und neurologischen Erkrankungen, Klinikerinnen und Klinikern, Philosophinnen und Philosophen sowie Forschenden zusammen.
 
     - Was ist gesund?
     - Welche Referenzgruppe ist die richtige, um Krankheit damit zu vergleichen?
-    - Kann die systematische Erkundung des Geistes helfen, ihn zu verstehen?
-
-    In allen unseren Themen arbeiten wir mit Menschen mit psychischen und neurologischen Erkrankungen, Klinikerinnen und Klinikern, Philosophinnen und Philosophen sowie Forschenden zusammen, die unsere Arbeit in der klinischen Praxis verankern und sie theoretisch und praktisch prägen.
 
 - name: Structures
   name_de: Strukturen
@@ -34,23 +28,15 @@
   short: From biology to families and society.
   short_de: Von der Biologie bis zu Familie und Gesellschaft.
   text: |-
-    Mental and neurological disorders are heritable, comorbid, and heterogeneous. Their structure can lie in an individual's biology, in the dynamics between people, groups, or parts of society, or in environmental stressors.
+    Mental and neurological disorders are heritable, comorbid, and heterogeneous. Their structure can lie in an individual's biology, in the dynamics between people, groups, or parts of society, or in environmental stressors. We work on large-scale studies that capture these levels.
 
     - What makes one sibling with a disorder different from another who is healthy?
-    - Which interpersonal factors contribute to mental health in families?
-    - When does it make sense to treat a group instead of the individual patient?
-    - What is the role of society, and which policies and treatments improve mental health?
-
-    We work on large-scale studies that contain the data needed to answer these questions.
+    - Which policies and treatments improve mental health in society?
   text_de: |-
-    Psychische und neurologische Erkrankungen sind erblich, treten häufig gemeinsam auf und sind heterogen. Ihre Struktur kann in der Biologie eines Menschen liegen, in der Dynamik zwischen Menschen, Gruppen oder Teilen der Gesellschaft oder in Belastungen aus der Umwelt.
+    Psychische und neurologische Erkrankungen sind erblich, treten häufig gemeinsam auf und sind heterogen. Ihre Struktur kann in der Biologie eines Menschen liegen, in der Dynamik zwischen Menschen, Gruppen oder Teilen der Gesellschaft oder in Belastungen aus der Umwelt. Wir arbeiten an groß angelegten Studien, die diese Ebenen erfassen.
 
     - Was unterscheidet ein Geschwisterkind mit einer Störung von einem gesunden?
-    - Welche zwischenmenschlichen Faktoren tragen in Familien zur psychischen Gesundheit bei?
-    - Wann ist es sinnvoll, eine Gruppe statt der einzelnen Patientin oder des einzelnen Patienten zu behandeln?
-    - Welche Rolle spielt die Gesellschaft, und welche politischen Maßnahmen und Behandlungen verbessern die psychische Gesundheit?
-
-    Wir arbeiten an groß angelegten Studien, die die nötigen Daten zur Beantwortung dieser Fragen enthalten.
+    - Welche politischen Maßnahmen und Behandlungen verbessern die psychische Gesundheit in der Gesellschaft?
 
 - name: Markers
   name_de: Marker
@@ -63,14 +49,12 @@
     A complex web of biological and non-biological factors produces symptoms in each individual, which is one reason we know little about markers of most mental and some neurological disorders. With multimodal approaches, we aim to detect the hidden factors underlying them.
 
     - What makes one person different from another with the same diagnosis?
-    - How can we uncover predictive markers for these disorders?
-    - Which data modalities are informative for which disorder or disease process?
+    - Which data modalities are informative for which disorder?
   text_de: |-
     Ein komplexes Geflecht biologischer und nicht-biologischer Faktoren erzeugt bei jedem Menschen Symptome. Das ist ein Grund, warum wir über Marker der meisten psychischen und mancher neurologischen Erkrankungen wenig wissen. Mit multimodalen Ansätzen wollen wir die verborgenen Faktoren hinter Erkrankungen aufdecken.
 
     - Was unterscheidet zwei Menschen mit derselben Diagnose voneinander?
-    - Wie lassen sich prädiktive Krankheitsmarker finden?
-    - Welche Datenmodalitäten sind für welche Störung oder welchen Krankheitsprozess aussagekräftig?
+    - Welche Datenmodalitäten sind für welche Erkrankung aussagekräftig?
 
 - name: Models
   name_de: Modelle
@@ -80,20 +64,12 @@
   short: Machine learning, from lab to clinic.
   short_de: Maschinelles Lernen, vom Labor in die Klinik.
   text: |-
-    Most of our research relies on machine learning. We apply and develop methods for large-scale imaging, electrophysiological, genetic, sensor, cognitive, behavioral, and language data, which are high-dimensional and often come with unreliable labels.
+    Most of our research relies on machine learning. We apply and develop methods for large-scale imaging, electrophysiological, genetic, sensor, cognitive, behavioral, and language data, which are high-dimensional and often come with unreliable labels. We hold ourselves to a simple benchmark: for many brain readouts, well-specified regression models perform as well as more complex AI methods, and we report this honestly.
 
-    - How can we use machine learning across modalities?
     - Which methods best parse heterogeneity?
-    - Which longitudinal models suit the structure of the data?
-    - How can we make models interpretable and take machine learning from the lab to clinical practice?
-
-    We work together with scientists working on innovative data acquisition methods and are interested in method development (e.g., machine learning, statistics) as well as in establishing best practices in curating complex, large datasets required for our research agenda. We also hold ourselves to a simple benchmark: for many brain readouts, well-specified regression models perform as well as more complex AI methods, and we report this honestly.
+    - How can we take interpretable models from the lab to clinical practice?
   text_de: |-
-    Der Großteil unserer Forschung beruht auf maschinellem Lernen. Wir wenden Methoden für groß angelegte Bildgebungs-, elektrophysiologische, genetische, Sensor-, kognitive, Verhaltens- und Sprachdaten an und entwickeln sie weiter; diese Daten sind hochdimensional und oft mit unzuverlässigen Labels versehen.
+    Der Großteil unserer Forschung beruht auf maschinellem Lernen. Wir wenden Methoden für groß angelegte Bildgebungs-, elektrophysiologische, genetische, Sensor-, kognitive, Verhaltens- und Sprachdaten an und entwickeln sie weiter; diese Daten sind hochdimensional und oft mit unzuverlässigen Labels versehen. Wir halten uns an einen einfachen Maßstab: Für viele Messgrößen des Gehirns schneiden gut spezifizierte Regressionsmodelle ebenso gut ab wie komplexere KI-Methoden, und das berichten wir offen.
 
-    - Wie können wir maschinelles Lernen über Modalitäten hinweg nutzen?
     - Welche Methoden schlüsseln Heterogenität am besten auf?
-    - Welche longitudinalen Modelle passen zur Struktur der Daten?
-    - Wie machen wir Modelle interpretierbar und bringen maschinelles Lernen vom Labor in die klinische Praxis?
-
-    Wir arbeiten mit Forschenden zusammen, die innovative Methoden der Datenerhebung entwickeln, und interessieren uns sowohl für Methodenentwicklung (z. B. maschinelles Lernen, Statistik) als auch für Best Practices bei der Kuratierung der komplexen, großen Datensätze, die unsere Forschungsagenda erfordert. Wir halten uns außerdem an einen einfachen Maßstab: Für viele Messgrößen des Gehirns schneiden gut spezifizierte Regressionsmodelle ebenso gut ab wie komplexere KI-Methoden, und das berichten wir offen.
+    - Wie bringen wir interpretierbare Modelle vom Labor in die klinische Praxis?
