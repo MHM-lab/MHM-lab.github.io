@@ -35,6 +35,17 @@
     We enjoy a wonderful lab retreat with friends in Jena.
   text_de: >-
     Wir genießen ein wunderbares Lab-Retreat mit Freundinnen und Freunden in Jena.
+- label: Conference
+  date: "2026-09"
+  label_de: Konferenz
+  venue: ECNP Congress 2026, Munich
+  text: >-
+    Thomas Wolfers joins more than 6,000 colleagues at ECNP 2026 and is grateful to serve on its
+    Scientific Program Committee.
+  text_de: >-
+    Thomas Wolfers ist mit mehr als 6.000 Kolleginnen und Kollegen beim ECNP 2026 und dankbar, im
+    Scientific Program Committee mitzuwirken.
+  link: https://www.ecnp.eu/congress2026/
 - label: Talk & preprint
   date: "2026-06"
   label_de: Vortrag & Preprint
