@@ -19,7 +19,7 @@
       "parentOrganization": {"@type": "CollegeOrUniversity", "name": "Friedrich Schiller University Jena", "alternateName": "Friedrich-Schiller-Universität Jena", "url": "https://www.uni-jena.de/en/"},
       "address": {"@type": "PostalAddress", "streetAddress": "Inselplatz 1", "postalCode": "07743", "addressLocality": "Jena", "addressCountry": "DE"},
       "founder": {"@type": "Person", "@id": "{{ site.url }}/people/#thomas-wolfers", "name": "Thomas Wolfers"},
-      "knowsAbout": ["mental health", "psychiatry", "machine learning", "normative modeling", "neuroimaging", "computational psychiatry", "individual differences", "brain mapping", "large language models", "neurology"],
+      "knowsAbout": ["mental disorders", "neurological disorders", "mental health", "brain health", "psychiatry", "machine learning", "normative modeling", "neuroimaging", "computational psychiatry", "individual differences", "brain mapping", "large language models", "neurology"],
       "sameAs": [{% for link in site.social %}{{ link.url | jsonify }}{% unless forloop.last %}, {% endunless %}{% endfor %}]
     }{% endcapture %}
 {% capture webpage %}{
