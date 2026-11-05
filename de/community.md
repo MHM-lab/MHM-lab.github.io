@@ -7,7 +7,7 @@ description: "Aktuelle Beiträge des Labors für Mental Health Mapping zur wisse
 sections: collapsible
 ---
 
-Unsere institutionelle Heimat und unsere Beiträge zur wissenschaftlichen Gemeinschaft.
+Unsere institutionelle Heimat und unsere Beiträge zur wissenschaftlichen Gemeinschaft. Bei Fragen oder Anliegen schreiben Sie uns gern eine [E-Mail](mailto:dr.thomas.wolfers@gmail.com).
 
 ## Vorträge, Kurse, Workshops und Konferenzen
 Vorträge, Kurse, Workshops und Konferenzen sind zentral für eine lebendige wissenschaftliche Gemeinschaft. Unsere aktuellen Beiträge:
@@ -23,5 +23,3 @@ Die von der [Carl-Zeiss-Stiftung](https://www.carl-zeiss-stiftung.de/) geförder
 
 ## In Tübingen
 Wir sind Teil der [Universitätsklinik für Psychiatrie und Psychotherapie Tübingen](https://www.medizin.uni-tuebingen.de/en-de/das-klinikum/einrichtungen/kliniken/psychiatrie-und-psychotherapie), eines der Standorte des Deutschen Zentrums für Psychische Gesundheit.
-
-Bei Fragen oder Anliegen schreiben Sie uns gern eine [E-Mail](mailto:dr.thomas.wolfers@gmail.com).

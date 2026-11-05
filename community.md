@@ -6,7 +6,7 @@ description: "Current contributions of the laboratory for Mental Health Mapping 
 sections: collapsible
 ---
 
-Our institutional home and our contributions to the wider scientific community.
+Our institutional home and our contributions to the wider scientific community. For questions or requests, get in touch by [email](mailto:dr.thomas.wolfers@gmail.com).
 
 ## Talks, courses, workshops, and conferences
 Talks, courses, workshops, and conferences are central to a thriving scientific community. Our current contributions:
@@ -22,5 +22,3 @@ Funded by the [Carl-Zeiss-Stiftung](https://www.carl-zeiss-stiftung.de/en/), the
 
 ## In Tübingen, Germany
 We are a part of the [Department of Psychiatry at the University of Tübingen](https://www.medizin.uni-tuebingen.de/en-de/das-klinikum/einrichtungen/kliniken/psychiatrie-und-psychotherapie), which is one of the locations of the German Center for Mental Health.
-
-For questions or requests, get in touch by [email](mailto:dr.thomas.wolfers@gmail.com).
