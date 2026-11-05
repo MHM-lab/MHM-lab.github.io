@@ -13,7 +13,7 @@ Unsere institutionelle Heimat und unsere Beiträge zur wissenschaftlichen Gemein
 Vorträge, Kurse, Workshops und Konferenzen sind zentral für eine lebendige wissenschaftliche Gemeinschaft. Unsere aktuellen Beiträge:
 
 - **Workshop on Machine Learning in Clinical Neuroimaging** ([MLCN](https://mlcnworkshop.github.io)) auf der MICCAI: seit 2020 einer der Hauptorganisatoren.
-- **[ECNP](https://www.ecnp.eu):** Scientific Program Committee (2026), Poster Committee (2026–2029) und Forschungsnetzwerk zu maschinellem Lernen für die psychische Gesundheit.
+- **[ECNP](https://www.ecnp.eu):** Scientific Program Committee (2026), Abstract and Poster Committee (2026–2029) und Forschungsnetzwerk zu maschinellem Lernen für die psychische Gesundheit.
 - **[ELLIS Unit Jena](https://www.ellis-jena.ai/thomas-wolfers/):** Mitglied des Netzwerks European Laboratory for Learning and Intelligent Systems.
 - **[Digital Academy](https://www.uni-jena.de/388487/digital-academy)** der Friedrich-Schiller-Universität Jena.
 - **[Deutsches Zentrum für Psychische Gesundheit (DZPG)](https://www.dzpg.org):** PI am Standort Jena, mit Beiträgen zu Forschung und Erfolg des DZPG.
