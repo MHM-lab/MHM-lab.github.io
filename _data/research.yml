@@ -14,15 +14,15 @@
 
     Example questions:
 
-    - What is healthy?
-    - What is the right reference group to compare disease with?
+    - Where does normal variation end and a disorder begin?
+    - Against which reference population should a person be compared?
   text_de: |-
     Wir untersuchen die Grundlagen von Gesundheit, Störung und Krankheit, denn was als gesund oder normativ gilt, ist oft unklar. Diese Arbeit schafft das theoretische Fundament des Mental Health Mapping und bezieht die Perspektive der ersten wie der dritten Person ein. In allen unseren Themen arbeiten wir mit Menschen mit psychischen und neurologischen Erkrankungen, Klinikerinnen und Klinikern, Philosophinnen und Philosophen sowie Forschenden zusammen.
 
     Beispielfragen:
 
-    - Was ist gesund?
-    - Welche Referenzgruppe ist die richtige, um Krankheit damit zu vergleichen?
+    - Wo endet normale Variation, und wo beginnt eine Erkrankung?
+    - Mit welcher Referenzpopulation sollte ein Mensch verglichen werden?
 
 - name: Structures
   name_de: Strukturen
@@ -36,15 +36,15 @@
 
     Example questions:
 
-    - What makes one sibling with a disorder different from another who is healthy?
-    - Which policies and treatments improve mental health in society?
+    - Why does one sibling develop a disorder while another stays healthy?
+    - How do families, society, and environment shape mental and neurological disorders?
   text_de: |-
     Psychische und neurologische Erkrankungen sind erblich, treten häufig gemeinsam auf und sind heterogen. Ihre Struktur kann in der Biologie eines Menschen liegen, in der Dynamik zwischen Menschen, Gruppen oder Teilen der Gesellschaft oder in Belastungen aus der Umwelt. Wir arbeiten an groß angelegten Studien, die diese Ebenen erfassen.
 
     Beispielfragen:
 
-    - Was unterscheidet ein Geschwisterkind mit einer Störung von einem gesunden?
-    - Welche politischen Maßnahmen und Behandlungen verbessern die psychische Gesundheit in der Gesellschaft?
+    - Warum erkrankt ein Geschwisterkind, während ein anderes gesund bleibt?
+    - Wie prägen Familie, Gesellschaft und Umwelt psychische und neurologische Erkrankungen?
 
 - name: Markers
   name_de: Marker
@@ -58,15 +58,15 @@
 
     Example questions:
 
-    - What makes one person different from another with the same diagnosis?
-    - Which data modalities are informative for which disorder?
+    - Why do two people with the same diagnosis differ so much?
+    - Which measurements (brain, genes, behavior, or language) predict how a disorder will develop?
   text_de: |-
     Ein komplexes Geflecht biologischer und nicht-biologischer Faktoren erzeugt bei jedem Menschen Symptome. Das ist ein Grund, warum wir über Marker der meisten psychischen und mancher neurologischen Erkrankungen wenig wissen. Mit multimodalen Ansätzen wollen wir die verborgenen Faktoren hinter Erkrankungen aufdecken.
 
     Beispielfragen:
 
-    - Was unterscheidet zwei Menschen mit derselben Diagnose voneinander?
-    - Welche Datenmodalitäten sind für welche Erkrankung aussagekräftig?
+    - Warum unterscheiden sich zwei Menschen mit derselben Diagnose so stark?
+    - Welche Messungen (Gehirn, Gene, Verhalten oder Sprache) sagen voraus, wie sich eine Erkrankung entwickelt?
 
 - name: Models
   name_de: Modelle
@@ -80,12 +80,12 @@
 
     Example questions:
 
-    - Which methods best parse heterogeneity?
-    - How can we take interpretable models from the lab to clinical practice?
+    - Which methods capture the heterogeneity within and across disorders?
+    - How do we build models interpretable enough to be used in the clinic?
   text_de: |-
     Der Großteil unserer Forschung beruht auf maschinellem Lernen. Wir wenden Methoden für groß angelegte Bildgebungs-, elektrophysiologische, genetische, Sensor-, kognitive, Verhaltens- und Sprachdaten an und entwickeln sie weiter; diese Daten sind hochdimensional und oft mit unzuverlässigen Labels versehen. Wir halten uns an einen einfachen Maßstab: Für viele Messgrößen des Gehirns schneiden gut spezifizierte Regressionsmodelle ebenso gut ab wie komplexere KI-Methoden, und das berichten wir offen.
 
     Beispielfragen:
 
-    - Welche Methoden schlüsseln Heterogenität am besten auf?
-    - Wie bringen wir interpretierbare Modelle vom Labor in die klinische Praxis?
+    - Welche Methoden erfassen die Heterogenität innerhalb von und zwischen Erkrankungen?
+    - Wie entwickeln wir Modelle, die interpretierbar genug für den Einsatz in der Klinik sind?
