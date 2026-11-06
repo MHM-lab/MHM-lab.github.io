@@ -203,16 +203,17 @@ a.news-item:hover { border-color: var(--green-light); background: #f7faf5; }
 @media (max-width: 700px) { .news { grid-template-columns: 1fr; } }
 .pub:target { margin: 0 -1rem; padding: 1rem; border-radius: 8px; background: #f1f6ee; }
 /* paper highlights: a thin accent line and the journal or conference in italics */
-/* Highlights by importance, darker green = more important */
-.news-important { background: var(--green); border-color: var(--green); color: #fff; }
-.news-important .news-label, .news-important .news-venue { color: #fff; }
-a.news-important:hover { background: #3f6a2b; border-color: #3f6a2b; }
-.news-paper { border-left: 5px solid var(--green); background: #e9f1e3; }
-a.news-paper:hover { background: #e1ecd9; }
-.news-talk { border-left: 5px solid #9cc185; background: #f5f9f2; }
-a.news-talk:hover { background: #edf4e8; }
+/* Highlights by importance: soft tints, a little darker = more important; never plain white */
+.news-item { border-left-width: 4px; }
+.news-important { background: #dbe8d0; border-color: #c5d9b5; border-left-color: var(--green); }
+a.news-important:hover { background: #d2e2c5; }
+.news-paper { background: #e9f1e3; border-left-color: #74a155; }
+a.news-paper:hover { background: #e2ecda; }
+.news-talk { background: #f1f6ec; border-left-color: #a9c896; }
+a.news-talk:hover { background: #eaf2e3; }
+.news-other { background: #faf8f1; border-left-color: #e3dfcf; }
+a.news-other:hover { background: #f5f2e8; }
 .news-venue { color: var(--ink); font-style: italic; font-weight: 600; }
-.news-other { background: #fff; }
 .news-other .news-label { color: var(--muted); }
 .news-other .news-venue { color: var(--muted); font-weight: 400; }
 .alumni-note { margin-top: 0; padding-top: 1.75rem; border-top: 1px solid var(--line); }
