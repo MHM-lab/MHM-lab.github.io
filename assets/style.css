@@ -195,6 +195,10 @@ h2 { clear: both; }
 .buttons.compact { margin: 0.75rem 0 1.5rem; }
 
 /* ---------- recent updates (homepage) ---------- */
+/* "Recent Highlights" heading: larger, with a short green accent line */
+.news-section .section-label { margin: 0 0 0.9rem; font-size: 1.6rem; font-weight: 700; letter-spacing: -0.01em; color: var(--ink); }
+.news-section .section-label::after { content: ""; display: block; width: 3rem; height: 4px; margin-top: 0.45rem; border-radius: 2px; background: var(--green); }
+@media (max-width: 600px) { .news-section .section-label { font-size: 1.35rem; } }
 .news { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; margin: 0.5rem 0 0; }
 .news-section { margin-top: 2.75rem; }
 .news-item { display: flex; flex-direction: column; gap: 0.35rem; padding: 0.9rem 1rem; border: 1px solid var(--line); border-radius: 10px; color: var(--text); font-size: 0.9rem; line-height: 1.45; text-decoration: none; }
