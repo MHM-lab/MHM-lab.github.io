@@ -8,6 +8,17 @@
 # important: true  -> shown as an important update (strongest highlight). Optional.
 # venue: optional, where it was published or presented (shown in italics with an accent line, like papers).
 
+- label: Thesis
+  date: "2026-11"
+  label_de: Abschlussarbeit
+  venue: MSc Artificial Intelligence, THWS Würzburg-Schweinfurt
+  text: >-
+    Gokul Perumbayil Vijayakrishnan defends his master's thesis on self-supervised learning of EEG
+    representations for mental health. Congratulations, Gokul, and thank you for your excellent work!
+  text_de: >-
+    Gokul Perumbayil Vijayakrishnan verteidigt seine Masterarbeit über selbstüberwachtes Lernen von
+    EEG-Repräsentationen für die psychische Gesundheit. Herzlichen Glückwunsch, Gokul, und danke für
+    deine hervorragende Arbeit!
 - label: Talk & paper
   date: "2026-10"
   label_de: Vortrag & Publikation
