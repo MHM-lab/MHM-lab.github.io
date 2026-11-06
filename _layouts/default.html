@@ -9,7 +9,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% assign page_title = page.title | default: "Mental Health Mapping Lab" %}
-  <title>{% if page.title %}{{ page.title }} · {% endif %}Mental Health Mapping Lab · {% if de %}Friedrich-Schiller-Universität Jena{% else %}Friedrich Schiller University Jena{% endif %}</title>
+  {% comment %} The homepage title names the PI, so searches for "Thomas Wolfers" also find the lab {% endcomment %}
+  <title>{% if page.title %}{{ page.title }} · {% endif %}Mental Health Mapping Lab · {% unless page.title %}Thomas Wolfers · {% endunless %}{% if de %}Friedrich-Schiller-Universität Jena{% else %}Friedrich Schiller University Jena{% endif %}</title>
   {% assign page_desc = page.description | default: site.description | strip_newlines | escape %}
   <meta name="description" content="{{ page_desc }}">
   <meta name="author" content="Laboratory for Mental Health Mapping">
@@ -36,7 +37,7 @@
   <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
   <script>document.documentElement.className += " js";</script>
   <meta name="theme-color" content="#3f6a2b">
-  <link rel="stylesheet" href="/assets/style.css">
+  <link rel="stylesheet" href="/assets/style.css?v={{ site.time | date: '%s' }}">
 </head>
 <body>
 
@@ -88,7 +89,7 @@
 (function () {
   var buttons = document.querySelectorAll('.toggle'), panels = document.querySelectorAll('.toggle-panel');
   function show(id) {
-    panels.forEach(function (p) { p.classList.toggle('open', p.id === id); });
+    panels.forEach(function (p) { var on = p.id === id; p.classList.toggle('open', on); p.style.display = on ? 'block' : 'none'; });
     buttons.forEach(function (b) { b.setAttribute('aria-expanded', b.getAttribute('href') === '#' + id ? 'true' : 'false'); });
   }
   buttons.forEach(function (b) {
