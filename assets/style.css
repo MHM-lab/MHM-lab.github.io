@@ -206,14 +206,14 @@ html:not(.js) .pub:target, .pub.linked { margin: 0 -1rem; padding: 1rem; border-
 /* paper highlights: a thin accent line and the journal or conference in italics */
 /* Highlights by importance, all green: clearly darker = more important; other news white with a light green edge */
 .news-item { border-left-width: 5px; }
-.news-important { background: #7aa462; border-color: #7aa462; border-left-color: #4f7a37; color: #fff; }
+.news-important { background: #87ae70; border-color: #87ae70; border-left-color: #5b8a40; color: #fff; }
 .news-important .news-label, .news-important .news-venue { color: #fff; }
-a.news-important:hover { background: #719b59; }
-.news-paper { background: #e8f1e0; border-left-color: #7fa865; }
-a.news-paper:hover { background: #e0ecd6; }
-.news-talk { background: #f8fbf6; border-left-color: #c2dab3; }
-a.news-talk:hover { background: #f1f7ed; }
-.news-other { background: #fff; border-left-color: #e2eddb; }
+a.news-important:hover { background: #7ea667; }
+.news-paper { background: #edf4e7; border-left-color: #8db376; }
+a.news-paper:hover { background: #e6f0de; }
+.news-talk { background: #fafcf8; border-left-color: #cce0bf; }
+a.news-talk:hover { background: #f3f8f0; }
+.news-other { background: #fff; border-left-color: #e7f0e1; }
 a.news-other:hover { background: #f8fbf6; }
 .news-venue { color: var(--ink); font-style: italic; font-weight: 600; }
 .news-other .news-label { color: var(--muted); }
