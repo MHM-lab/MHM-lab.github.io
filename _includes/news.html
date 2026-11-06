@@ -1,7 +1,7 @@
 {% comment %}
   Highlights on the homepage (EN and DE). Data: _data/news.yml, plus every paper in
   _data/publications.yml that has a "date" (it appears here automatically as "Paper").
-  Style by importance (darkest green first): important updates (add important: true) > papers & preprints > talks > everything else.
+  Style by importance (darkest green first): important updates (add important: true) > published papers > talks & preprints > everything else.
   Shows up to eight entries from the last 6 months. A small script hides entries that become older
   than 6 months later on, even if the site has not been rebuilt; no recent entries = no section.
 {% endcomment %}
@@ -24,13 +24,13 @@
 {% if de %}{% assign label = item.label_de | default: item.label %}{% assign text = item.text_de | default: item.text %}{% else %}{% assign label = item.label %}{% assign text = item.text %}{% endif %}
 {% assign href = item.link %}{% if de and item.link and item.link contains '://' %}{% elsif de and item.link %}{% assign href = item.link | prepend: '/de' %}{% endif %}
 {% endif %}
-{% comment %} Four levels, most important first: important update (important: true) > paper (incl. preprint) > talk > other.
+{% comment %} Four levels, most important first: important update (important: true) > paper > talk or preprint > other.
   An entry that is several things (e.g. "Talk & paper") takes the most important level. {% endcomment %}
 {% assign lbl = item.label | downcase %}{% assign venue = item.venue | default: "" %}
 {% if parts[1] == "p" %}{% assign cls = "news-item news-paper" %}{% capture venue %}{{ pub.venue | remove: " (accepted)" }}{% endcapture %}
 {% elsif item.important %}{% assign cls = "news-item news-important" %}
-{% elsif lbl contains "paper" or lbl contains "preprint" %}{% assign cls = "news-item news-paper" %}
-{% elsif lbl contains "talk" %}{% assign cls = "news-item news-talk" %}
+{% elsif lbl contains "paper" %}{% assign cls = "news-item news-paper" %}
+{% elsif lbl contains "talk" or lbl contains "preprint" %}{% assign cls = "news-item news-talk" %}
 {% else %}{% assign cls = "news-item news-other" %}{% endif %}
 {% if href %}<a class="{{ cls }}" href="{{ href }}" data-date="{{ date }}">{% else %}<div class="{{ cls }}" data-date="{{ date }}">{% endif %}
 <span class="news-label">{{ label }} · {{ month }}</span>
