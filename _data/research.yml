@@ -1,6 +1,6 @@
 # RESEARCH THEMES (homepage cards and the clickable icons on the Research page)
 # short: one line for the homepage card. text: opening sentences, guiding questions as a list ("- "),
-# then at most two example questions (always last). *_de: the same in German. Keep a blank line before and after the list.
+# then "Example questions:" and at most two questions (always last). *_de: the same in German. Keep a blank line before and after the list.
 
 - name: Foundations
   name_de: Grundlagen
@@ -12,10 +12,14 @@
   text: |-
     We study the foundations of health, disorder, and disease, where what counts as healthy or normative is often unclear. This work builds the theoretical foundation of mental health mapping, incorporating first- and third-person perspectives. Across all our themes, we work with people living with mental and neurological disorders, clinicians, philosophers, and scientists.
 
+    Example questions:
+
     - What is healthy?
     - What is the right reference group to compare disease with?
   text_de: |-
     Wir untersuchen die Grundlagen von Gesundheit, Störung und Krankheit, denn was als gesund oder normativ gilt, ist oft unklar. Diese Arbeit schafft das theoretische Fundament des Mental Health Mapping und bezieht die Perspektive der ersten wie der dritten Person ein. In allen unseren Themen arbeiten wir mit Menschen mit psychischen und neurologischen Erkrankungen, Klinikerinnen und Klinikern, Philosophinnen und Philosophen sowie Forschenden zusammen.
+
+    Beispielfragen:
 
     - Was ist gesund?
     - Welche Referenzgruppe ist die richtige, um Krankheit damit zu vergleichen?
@@ -30,10 +34,14 @@
   text: |-
     Mental and neurological disorders are heritable, comorbid, and heterogeneous. Their structure can lie in an individual's biology, in the dynamics between people, groups, or parts of society, or in environmental stressors. We work on large-scale studies that capture these levels.
 
+    Example questions:
+
     - What makes one sibling with a disorder different from another who is healthy?
     - Which policies and treatments improve mental health in society?
   text_de: |-
     Psychische und neurologische Erkrankungen sind erblich, treten häufig gemeinsam auf und sind heterogen. Ihre Struktur kann in der Biologie eines Menschen liegen, in der Dynamik zwischen Menschen, Gruppen oder Teilen der Gesellschaft oder in Belastungen aus der Umwelt. Wir arbeiten an groß angelegten Studien, die diese Ebenen erfassen.
+
+    Beispielfragen:
 
     - Was unterscheidet ein Geschwisterkind mit einer Störung von einem gesunden?
     - Welche politischen Maßnahmen und Behandlungen verbessern die psychische Gesundheit in der Gesellschaft?
@@ -48,10 +56,14 @@
   text: |-
     A complex web of biological and non-biological factors produces symptoms in each individual, which is one reason we know little about markers of most mental and some neurological disorders. With multimodal approaches, we aim to detect the hidden factors underlying them.
 
+    Example questions:
+
     - What makes one person different from another with the same diagnosis?
     - Which data modalities are informative for which disorder?
   text_de: |-
     Ein komplexes Geflecht biologischer und nicht-biologischer Faktoren erzeugt bei jedem Menschen Symptome. Das ist ein Grund, warum wir über Marker der meisten psychischen und mancher neurologischen Erkrankungen wenig wissen. Mit multimodalen Ansätzen wollen wir die verborgenen Faktoren hinter Erkrankungen aufdecken.
+
+    Beispielfragen:
 
     - Was unterscheidet zwei Menschen mit derselben Diagnose voneinander?
     - Welche Datenmodalitäten sind für welche Erkrankung aussagekräftig?
@@ -66,10 +78,14 @@
   text: |-
     Most of our research relies on machine learning. We apply and develop methods for large-scale imaging, electrophysiological, genetic, sensor, cognitive, behavioral, and language data, which are high-dimensional and often come with unreliable labels. We hold ourselves to a simple benchmark: for many brain readouts, well-specified regression models perform as well as more complex AI methods, and we report this honestly.
 
+    Example questions:
+
     - Which methods best parse heterogeneity?
     - How can we take interpretable models from the lab to clinical practice?
   text_de: |-
     Der Großteil unserer Forschung beruht auf maschinellem Lernen. Wir wenden Methoden für groß angelegte Bildgebungs-, elektrophysiologische, genetische, Sensor-, kognitive, Verhaltens- und Sprachdaten an und entwickeln sie weiter; diese Daten sind hochdimensional und oft mit unzuverlässigen Labels versehen. Wir halten uns an einen einfachen Maßstab: Für viele Messgrößen des Gehirns schneiden gut spezifizierte Regressionsmodelle ebenso gut ab wie komplexere KI-Methoden, und das berichten wir offen.
+
+    Beispielfragen:
 
     - Welche Methoden schlüsseln Heterogenität am besten auf?
     - Wie bringen wir interpretierbare Modelle vom Labor in die klinische Praxis?
