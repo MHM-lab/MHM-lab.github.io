@@ -76,9 +76,17 @@ description: "Research of the laboratory for Mental Health Mapping: four researc
 // When a paper is linked directly (e.g. from the homepage highlights), open its summary.
 (function () {
   function openTarget() {
-    var el = location.hash && document.getElementById(location.hash.slice(1));
-    if (el && el.classList.contains('pub')) { var d = el.querySelector('details'); if (d) d.open = true; }
+    document.querySelectorAll('.pub.linked').forEach(function (p) { p.classList.remove('linked'); });
+    var el = location.hash && document.getElementById(decodeURIComponent(location.hash.slice(1)));
+    if (el && el.classList.contains('pub')) { el.classList.add('linked'); var d = el.querySelector('details'); if (d) d.open = true; }
   }
+  // Closing the summary of the linked paper removes the green shading (and the #link).
+  document.querySelectorAll('.pub details').forEach(function (d) {
+    d.addEventListener('toggle', function () {
+      var pub = d.closest('.pub');
+      if (!d.open && pub.classList.contains('linked')) { pub.classList.remove('linked'); history.replaceState(null, '', location.pathname); }
+    });
+  });
   openTarget(); window.addEventListener('hashchange', openTarget);
 })();
 </script>

@@ -201,7 +201,8 @@ h2 { clear: both; }
 a.news-item:hover { border-color: var(--green-light); background: #f7faf5; }
 .news-label { color: var(--green); font-size: 0.72rem; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; }
 @media (max-width: 700px) { .news { grid-template-columns: 1fr; } }
-.pub:target { margin: 0 -1rem; padding: 1rem; border-radius: 8px; background: #f1f6ee; }
+/* A paper opened from a link (e.g. a homepage highlight) is shaded green until its summary is closed */
+html:not(.js) .pub:target, .pub.linked { margin: 0 -1rem; padding: 1rem; border-radius: 8px; background: #f1f6ee; }
 /* paper highlights: a thin accent line and the journal or conference in italics */
 /* Highlights by importance, all green: clearly darker = more important; other news white with a light green edge */
 .news-item { border-left-width: 5px; }
