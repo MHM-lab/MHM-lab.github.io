@@ -28,7 +28,7 @@ Ausschreibungen für Postdoc-, Promotions-, Data-Scientist- und HiWi-Stellen ver
 <h3>Wie wir lernen</h3>
 <p>Unser Labor möchte ein Umfeld bieten, in dem Lernen Freude macht, und erkennt zugleich an, dass anspruchsvolle Aufgaben unweigerlich mit innerem Widerstand (z. B. Aufschieben, Selbstzweifel, Angst vor dem Scheitern) und äußerem Widerstand (z. B. kritische Gutachten, Ablehnungen oder wenig positives Feedback) einhergehen. Wir betrachten diese Erfahrungen nicht als Hindernisse, die es zu vermeiden gilt, sondern als festen Bestandteil wissenschaftlicher Entwicklung.</p>
 <p>Auch wenn Wissenschaft oft Phasen konzentrierter Einzelarbeit erfordert, schaffen wir, wann immer möglich, Gelegenheiten für gemeinsames Lernen und Reflektieren. Unser Ziel ist es, kompetente, selbstbewusste Forschende auszubilden, die schwierige Probleme angehen und verantwortungsvoll zur Gesellschaft beitragen. Bei uns werden Sie darin bestärkt, sowohl die fachlichen Fähigkeiten als auch die persönlichen Eigenschaften zu entwickeln, die Sie für ehrgeizige Ziele brauchen, ob in der Wissenschaft oder darüber hinaus.</p>
-<p>Wir heißen Menschen aller Hintergründe willkommen und schätzen unterschiedliche Perspektiven, Erfahrungen und Wege. Von allen erwarten wir Neugier und die Bereitschaft, hart zu arbeiten; im Gegenzug unterstützen wir alle dabei, im eigenen Tempo und in die eigene Richtung zu wachsen.</p>
+<p>Wir heißen Menschen aller Hintergründe willkommen und schätzen unterschiedliche Perspektiven, Erfahrungen und Wege. Von allen erwarten wir Neugier und die Bereitschaft, hart zu arbeiten. Im Gegenzug unterstützen wir alle dabei, im eigenen Tempo und in die eigene Richtung zu wachsen.</p>
 </section>
 <section class="toggle-panel" id="mentorship">
 <h3>Mentoring</h3>

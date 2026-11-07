@@ -199,7 +199,7 @@
     Wir haben ein tiefes neuronales Netz an mehr als 50.000 Menschen zur Vorhersage des Hirnalters
     trainiert und auf klinische Vorhersagen übertragen. Das zeigt, dass Skalierung auch beim Deep
     Learning in der Bildgebung zählt. In einem unabhängigen Benchmark erwies es sich als
-    State-of-the-Art-Modell für das Hirnalter; es ist robust gegenüber Domänenverschiebungen, zeigt aber
+    State-of-the-Art-Modell für das Hirnalter. Es ist robust gegenüber Domänenverschiebungen, zeigt aber
     den bekannten Zielkonflikt zwischen Genauigkeit des Hirnalters und Erkennung von Erkrankungen.
 - year: 2022
   title: Charting brain growth and aging at high spatial precision
@@ -277,7 +277,7 @@
     Wir haben die Heterogenität von Schizophrenie und bipolarer Störung kartiert und gezeigt, dass jede
     Patientin und jeder Patient ein individuelles Profil von Abweichungen von der normativen
     Hirnstruktur aufweist. Die Medien griffen den Befund unter der Frage "Wer ist der durchschnittliche
-    Patient in der Psychiatrie?" auf; er wurde seither vielfach mit unterschiedlichen Datenmodalitäten,
+    Patient in der Psychiatrie?" auf. Er wurde seither vielfach mit unterschiedlichen Datenmodalitäten,
     Algorithmen und Stichproben repliziert.
 - year: 2015
   title: 'From estimating activation locality to predicting disorder: a review of pattern recognition
@@ -289,12 +289,12 @@
     We showed that the accuracy of pattern classification for predicting mental disorders decreases as
     sample size increases, the opposite of what machine learning usually shows. We attribute this partly
     to the heterogeneity of mental disorders and to publication bias toward well-performing but
-    unrepresentative models; the work contributed to a debate on cross-validation failures and motivated
+    unrepresentative models. The work contributed to a debate on cross-validation failures and motivated
     methods that map this heterogeneity.
   summary_de: >-
     Wir haben gezeigt, dass die Genauigkeit von Mustererkennungsverfahren zur Vorhersage psychischer
     Störungen mit wachsender Stichprobengröße abnimmt, also das Gegenteil dessen, was maschinelles
     Lernen üblicherweise zeigt. Wir führen dies teilweise auf die Heterogenität psychischer Störungen
     und auf einen Publikationsbias zugunsten leistungsstarker, aber nicht repräsentativer Modelle
-    zurück; die Arbeit trug zu einer Debatte über Fehler bei der Kreuzvalidierung bei und motivierte
+    zurück. Die Arbeit trug zu einer Debatte über Fehler bei der Kreuzvalidierung bei und motivierte
     Methoden, die diese Heterogenität abbilden.

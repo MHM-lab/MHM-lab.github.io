@@ -83,7 +83,7 @@
     - Which methods capture the heterogeneity within and across disorders?
     - How do we build models interpretable enough to be used in the clinic?
   text_de: |-
-    Der Großteil unserer Forschung beruht auf maschinellem Lernen. Wir wenden Methoden für groß angelegte Bildgebungs-, elektrophysiologische, genetische, Sensor-, kognitive, Verhaltens- und Sprachdaten an und entwickeln sie weiter; diese Daten sind hochdimensional und oft mit unzuverlässigen Labels versehen. Wir halten uns an einen einfachen Maßstab: Für viele Messgrößen des Gehirns schneiden gut spezifizierte Regressionsmodelle ebenso gut ab wie komplexere KI-Methoden, und das berichten wir offen.
+    Der Großteil unserer Forschung beruht auf maschinellem Lernen. Wir wenden Methoden für groß angelegte Bildgebungs-, elektrophysiologische, genetische, Sensor-, kognitive, Verhaltens- und Sprachdaten an und entwickeln sie weiter. Diese Daten sind hochdimensional und oft mit unzuverlässigen Labels versehen. Wir halten uns an einen einfachen Maßstab: Für viele Messgrößen des Gehirns schneiden gut spezifizierte Regressionsmodelle ebenso gut ab wie komplexere KI-Methoden, und das berichten wir offen.
 
     Beispielfragen:
 
