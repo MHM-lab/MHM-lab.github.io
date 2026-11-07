@@ -27,9 +27,9 @@ If you would like to suggest additional information, please [get in touch](mailt
 
 Jena offers an internationally recognized research environment with many strengths. Friedrich Schiller University Jena is a site of the **German Center for Mental Health**, where I am a PI. My professorship bridges the university and University Hospital Jena. Two Clusters of Excellence further strengthen the research landscape.
 
-Several **Max Planck Institutes**, **Leibniz institutes**, and **Fraunhofer institutes** contribute to an interdisciplinary ecosystem.
+Several **Max Planck Institutes**, **Leibniz institutes**, and **Fraunhofer institutes** are also based in Jena.
 
-Carl Zeiss remains omnipresent. The largest [Carl Zeiss research campus worldwide](https://www.zeiss.de/corporate/ueber-zeiss/gegenwart/daten-fakten/zeiss-standorte/jena.html) is currently being built. As Carl Zeiss Professor, I aim to foster strong collaborations with the Carl Zeiss Foundation and the ZEISS Group, especially on relevant topics in machine learning.
+Carl Zeiss is everywhere in Jena. The largest [Carl Zeiss research campus worldwide](https://www.zeiss.de/corporate/ueber-zeiss/gegenwart/daten-fakten/zeiss-standorte/jena.html) is currently being built. As Carl Zeiss Professor, I aim to foster strong collaborations with the Carl Zeiss Foundation and the ZEISS Group, especially on relevant topics in machine learning.
 
 ## Getting started
 
@@ -89,7 +89,7 @@ Academic life is highly international, and English is widely spoken in research.
 - [TV-L salary calculator](https://oeffentlicher-dienst.info/c/t/rechner/tv-l/west?id=tv-l-2025)
 - [Numbeo: Cost of living](https://www.numbeo.com/cost-of-living)
 
-**You can check living costs in Jena for a data-driven overview**. What matters are living costs, median salaries, and returns on capital: figures that reflect conditions for most people, not just top earners. By this measure, Jena stands out: costs are noticeably lower than in most large German cities ([compare yourself](https://livingcost.org/cost)) while average salaries are comparable or higher. Add reliable daycare, strong social services, healthcare, efficient local government, and affordable public spaces, and you get a city that thrives on balance, especially attractive for young professionals and families. Disclaimer: the tool reports average salaries, which are only rough estimates and likely based on skewed data.
+**Living costs in Jena are easy to compare online**. What matters are living costs, median salaries, and returns on capital: figures that reflect conditions for most people, not just top earners. By this measure, Jena stands out: costs are noticeably lower than in most large German cities ([compare yourself](https://livingcost.org/cost)) while average salaries are comparable or higher. Add reliable daycare, strong social services, healthcare, efficient local government, and affordable public spaces, and you get a city that thrives on balance, especially attractive for young professionals and families. Disclaimer: the tool reports average salaries, which are only rough estimates and likely based on skewed data.
 
 ## Social support
 

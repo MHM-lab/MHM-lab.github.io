@@ -28,9 +28,9 @@ Wenn Sie weitere Informationen vorschlagen möchten, [schreiben Sie mir gern](ma
 
 Jena bietet ein international anerkanntes Forschungsumfeld mit vielen Stärken. Die Friedrich-Schiller-Universität Jena ist Standort des **Deutschen Zentrums für Psychische Gesundheit**, an dem ich PI bin. Meine Professur verbindet die Universität und das Universitätsklinikum Jena. Zwei Exzellenzcluster stärken die Forschungslandschaft zusätzlich.
 
-Mehrere **Max-Planck-Institute**, **Leibniz-Institute** und **Fraunhofer-Institute** tragen zu einem interdisziplinären Ökosystem bei.
+Mehrere **Max-Planck-Institute**, **Leibniz-Institute** und **Fraunhofer-Institute** sind ebenfalls in Jena ansässig.
 
-Carl Zeiss ist allgegenwärtig. Derzeit entsteht der weltweit größte [Forschungscampus von Carl Zeiss](https://www.zeiss.de/corporate/ueber-zeiss/gegenwart/daten-fakten/zeiss-standorte/jena.html). Als Carl-Zeiss-Professor möchte ich enge Kooperationen mit der Carl-Zeiss-Stiftung und der ZEISS Gruppe fördern, insbesondere zu relevanten Themen des maschinellen Lernens.
+Carl Zeiss ist in Jena überall präsent. Derzeit entsteht der weltweit größte [Forschungscampus von Carl Zeiss](https://www.zeiss.de/corporate/ueber-zeiss/gegenwart/daten-fakten/zeiss-standorte/jena.html). Als Carl-Zeiss-Professor möchte ich enge Kooperationen mit der Carl-Zeiss-Stiftung und der ZEISS Gruppe fördern, insbesondere zu relevanten Themen des maschinellen Lernens.
 
 ## Ankommen
 
@@ -90,7 +90,7 @@ Das akademische Leben ist sehr international, und in der Forschung wird viel Eng
 - [TV-L-Gehaltsrechner](https://oeffentlicher-dienst.info/c/t/rechner/tv-l/west?id=tv-l-2025)
 - [Numbeo: Lebenshaltungskosten](https://www.numbeo.com/cost-of-living)
 
-**Für einen datenbasierten Überblick lohnt sich ein Blick auf die Lebenshaltungskosten in Jena**. Entscheidend sind Lebenshaltungskosten, mittlere Gehälter und Kapitalrenditen: Kennzahlen, die die Bedingungen für die meisten Menschen widerspiegeln, nicht nur für Spitzenverdiener. Gemessen daran sticht Jena hervor: Die Kosten liegen spürbar unter denen der meisten deutschen Großstädte ([selbst vergleichen](https://livingcost.org/cost)), während die Durchschnittsgehälter vergleichbar oder höher sind. Hinzu kommen verlässliche Kinderbetreuung, starke soziale Dienste, Gesundheitsversorgung, eine effiziente Stadtverwaltung und bezahlbare öffentliche Räume. Das Ergebnis ist eine Stadt, die von Ausgewogenheit lebt und besonders für junge Berufstätige und Familien attraktiv ist. Hinweis: Das Tool gibt Durchschnittsgehälter an, die nur grobe Schätzungen sind und vermutlich auf verzerrten Daten beruhen.
+**Die Lebenshaltungskosten in Jena lassen sich online leicht vergleichen**. Entscheidend sind Lebenshaltungskosten, mittlere Gehälter und Kapitalrenditen: Kennzahlen, die die Bedingungen für die meisten Menschen widerspiegeln, nicht nur für Spitzenverdiener. Gemessen daran sticht Jena hervor: Die Kosten liegen spürbar unter denen der meisten deutschen Großstädte ([selbst vergleichen](https://livingcost.org/cost)), während die Durchschnittsgehälter vergleichbar oder höher sind. Hinzu kommen verlässliche Kinderbetreuung, starke soziale Dienste, Gesundheitsversorgung, eine effiziente Stadtverwaltung und bezahlbare öffentliche Räume. Das Ergebnis ist eine Stadt, die von Ausgewogenheit lebt und besonders für junge Berufstätige und Familien attraktiv ist. Hinweis: Das Tool gibt Durchschnittsgehälter an, die nur grobe Schätzungen sind und vermutlich auf verzerrten Daten beruhen.
 
 ## Soziale Absicherung
 

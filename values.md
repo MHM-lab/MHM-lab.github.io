@@ -10,7 +10,7 @@ We are all different and imperfect: we fail, misjudge context, and occasionally 
 
 ## Attentive, kind, and honest communication
 
-Communication is one of the most difficult, yet one of the most important interpersonal skills. Skillful communication can be cultivated. We try to foster a laboratory based on attentive, kind, and honest communication. We take time to think about what it means for us individually and as a group and support each other in becoming better communicators with ourselves and each other.
+Communication is one of the most difficult, yet one of the most important interpersonal skills. Skillful communication can be cultivated. We try to build a lab based on attentive, kind, and honest communication. We take time to think about what it means for us individually and as a group and support each other in becoming better communicators with ourselves and each other.
 
 ## Celebrate and support each other
 Science today rewards the individual rather than the group, yet we rejoice in the success of others. We have limited influence on current reward systems, so it is important to acknowledge that we are part of a collective striving towards a larger goal. None of our work would be possible without the people around us.
