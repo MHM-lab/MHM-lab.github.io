@@ -11,13 +11,14 @@
 - label: Thesis
   date: "2026-11"
   label_de: Abschlussarbeit
-  venue: MSc Artificial Intelligence, THWS Würzburg-Schweinfurt
   text: >-
     Gokul Perumbayil Vijayakrishnan completes his master's thesis on self-supervised learning of EEG
-    representations for mental health. Congratulations, Gokul, and thank you for your excellent work!
+    representations for mental health in our lab, in collaboration with Prof. Dr. Magda Gregorová
+    (THWS Würzburg-Schweinfurt). Congratulations, Gokul, and thank you for your excellent work!
   text_de: >-
     Gokul Perumbayil Vijayakrishnan schließt seine Masterarbeit über selbstüberwachtes Lernen von
-    EEG-Repräsentationen für die psychische Gesundheit ab. Herzlichen Glückwunsch, Gokul, und danke für
+    EEG-Repräsentationen für die psychische Gesundheit in unserem Labor ab, in Kooperation mit
+    Prof. Dr. Magda Gregorová (THWS Würzburg-Schweinfurt). Herzlichen Glückwunsch, Gokul, und danke für
     deine hervorragende Arbeit!
 - label: Talk & paper
   date: "2026-10"
