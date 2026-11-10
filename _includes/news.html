@@ -50,6 +50,13 @@
     if (new Date(el.getAttribute('data-date') + '-01') < cutoff) el.remove(); else left++;
   });
   if (!left) { section.remove(); return; }
+  // Cards fade in when they scroll into view and fade out again when they leave it.
+  if (!('IntersectionObserver' in window) || window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  section.classList.add('reveal');
+  var io = new IntersectionObserver(function (entries) {
+    entries.forEach(function (e) { e.target.classList.toggle('in-view', e.isIntersecting); });
+  }, { threshold: 0.15 });
+  section.querySelectorAll('.news-item').forEach(function (el) { io.observe(el); });
 })();
 </script>
 {% endif %}

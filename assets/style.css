@@ -298,3 +298,7 @@ details.section-card { padding-bottom: 1.1rem; }
 .news-item[hidden] { display: none; }
 .news-more { margin-top: 1rem; padding: 0.55rem 1.1rem; border: 1px solid var(--green-light); border-radius: 999px; background: #fff; color: var(--green); font: inherit; font-size: 0.9rem; font-weight: 600; cursor: pointer; }
 .news-more:hover { background: #f4f8f1; }
+
+/* Highlights appear as you scroll down and fade again when they leave the screen (only with JavaScript, never with reduced motion) */
+.news-section.reveal .news-item { opacity: 0; transform: translateY(18px); transition: opacity 0.5s ease, transform 0.5s ease, background-color 0.2s; }
+.news-section.reveal .news-item.in-view { opacity: 1; transform: none; }
