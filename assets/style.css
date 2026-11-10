@@ -299,6 +299,22 @@ details.section-card { padding-bottom: 1.1rem; }
 .news-more { margin-top: 1rem; padding: 0.55rem 1.1rem; border: 1px solid var(--green-light); border-radius: 999px; background: #fff; color: var(--green); font: inherit; font-size: 0.9rem; font-weight: 600; cursor: pointer; }
 .news-more:hover { background: #f4f8f1; }
 
-/* Highlights appear as you scroll down and fade again when they leave the screen (only with JavaScript, never with reduced motion) */
-.news-section.reveal .news-item { opacity: 0; transform: translateY(18px); transition: opacity 0.5s ease, transform 0.5s ease, background-color 0.2s; }
-.news-section.reveal .news-item.in-view { opacity: 1; transform: none; }
+/* Highlights in story mode (set by the script): the section is tall, a sticky stage shows one large card
+   at a time, and scrolling moves through them. Small dots show where you are and can be clicked. */
+.news-section.story { height: calc(var(--n) * 70vh + 30vh); }
+.news-section.story .news-stage { position: sticky; top: 72px; height: calc(100vh - 90px); display: flex; flex-direction: column; justify-content: center; }
+.news-section.story .news { position: relative; display: block; flex: 0 1 auto; height: min(52vh, 420px); margin: 0; }
+.news-section.story .news-item { position: absolute; inset: 0; justify-content: center; gap: 0.7rem; padding: 2rem 2.4rem;
+  font-size: 1.2rem; line-height: 1.5; opacity: 0; transform: translateY(24px) scale(0.98); pointer-events: none;
+  transition: opacity 0.45s ease, transform 0.45s ease, background-color 0.2s; }
+.news-section.story .news-item.active { opacity: 1; transform: none; pointer-events: auto; }
+.news-section.story .news-label { font-size: 0.85rem; }
+.news-section.story .news-venue { font-size: 1.3rem; }
+.news-dots { display: flex; gap: 0.5rem; justify-content: center; margin-top: 1.1rem; }
+.news-dots button { width: 9px; height: 9px; padding: 0; border: 0; border-radius: 50%; background: #d3e2c8; cursor: pointer; }
+.news-dots button.on { background: var(--green); transform: scale(1.25); }
+@media (max-width: 600px) {
+  .news-section.story .news { height: min(60vh, 460px); }
+  .news-section.story .news-item { padding: 1.4rem 1.4rem; font-size: 1.05rem; }
+  .news-section.story .news-venue { font-size: 1.1rem; }
+}

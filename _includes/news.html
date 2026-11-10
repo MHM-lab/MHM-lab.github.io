@@ -50,13 +50,40 @@
     if (new Date(el.getAttribute('data-date') + '-01') < cutoff) el.remove(); else left++;
   });
   if (!left) { section.remove(); return; }
-  // Cards fade in when they scroll into view and fade out again when they leave it.
-  if (!('IntersectionObserver' in window) || window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
-  section.classList.add('reveal');
-  var io = new IntersectionObserver(function (entries) {
-    entries.forEach(function (e) { e.target.classList.toggle('in-view', e.isIntersecting); });
-  }, { threshold: 0.15 });
-  section.querySelectorAll('.news-item').forEach(function (el) { io.observe(el); });
+  // Story mode: one highlight at a time fills the screen; scrolling down or up switches to the next or
+  // previous one until all have been shown. Without JavaScript or with reduced motion: the normal grid.
+  var items = section.querySelectorAll('.news-item');
+  if (items.length < 2 || !window.requestAnimationFrame ||
+      window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  var stage = document.createElement('div'); stage.className = 'news-stage';
+  var title = section.querySelector('.section-label'), grid = section.querySelector('.news');
+  section.insertBefore(stage, title); stage.appendChild(title); stage.appendChild(grid);
+  var dots = document.createElement('div'); dots.className = 'news-dots';
+  items.forEach(function (el, i) {
+    var d = document.createElement('button'); d.type = 'button'; d.setAttribute('aria-label', (i + 1) + ' / ' + items.length);
+    d.addEventListener('click', function () { go(i); }); dots.appendChild(d);
+  });
+  stage.appendChild(dots);
+  section.classList.add('story'); section.style.setProperty('--n', items.length);
+  var current = -1;
+  function show(i) {
+    if (i === current) return; current = i;
+    items.forEach(function (el, k) { el.classList.toggle('active', k === i); el.setAttribute('aria-hidden', k === i ? 'false' : 'true'); });
+    dots.querySelectorAll('button').forEach(function (d, k) { d.classList.toggle('on', k === i); });
+  }
+  function step() {   // which highlight belongs to the current scroll position
+    var r = section.getBoundingClientRect(), run = section.offsetHeight - window.innerHeight;
+    var t = run > 0 ? Math.min(Math.max(-r.top / run, 0), 0.9999) : 0;
+    show(Math.floor(t * items.length));
+  }
+  function go(i) {
+    var run = section.offsetHeight - window.innerHeight;
+    window.scrollTo({ top: section.offsetTop + run * (i + 0.5) / items.length, behavior: 'smooth' });
+  }
+  var ticking = false;
+  window.addEventListener('scroll', function () { if (!ticking) { ticking = true; requestAnimationFrame(function () { ticking = false; step(); }); } }, { passive: true });
+  window.addEventListener('resize', step);
+  step();
 })();
 </script>
 {% endif %}
