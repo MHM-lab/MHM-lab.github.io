@@ -291,3 +291,10 @@ details.section-card { padding-bottom: 1.1rem; }
 /* "Example questions:" label above the questions in a research theme */
 .theme-panel p:has(+ ul) { margin: 0.9rem 0 0.2rem; color: var(--green); font-size: 0.78rem; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; }
 .theme-panel p:has(+ ul) + ul { margin-top: 0.2rem; }
+
+/* Homepage: one-line subtitle under the title, buttons between the research icons and the highlights */
+.subtitle { margin: -0.4rem 0 1rem; color: var(--green); font-size: 1.15rem; font-weight: 600; }
+.home-buttons { margin-top: 2rem; }
+.news-item[hidden] { display: none; }
+.news-more { margin-top: 1rem; padding: 0.55rem 1.1rem; border: 1px solid var(--green-light); border-radius: 999px; background: #fff; color: var(--green); font: inherit; font-size: 0.9rem; font-weight: 600; cursor: pointer; }
+.news-more:hover { background: #f4f8f1; }

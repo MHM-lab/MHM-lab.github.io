@@ -6,16 +6,12 @@ description: "The Mental Health Mapping Lab (MHM Lab), led by Thomas Wolfers at 
 <!-- HOMEPAGE. The four research cards come from _data/research.yml -->
 
 <h1>Mental Health Mapping</h1>
+<p class="subtitle">Machine learning for mental and neurological disorders</p>
 
 <p class="lead">
 Welcome, and thank you for stopping by. The icons below offer a short introduction to our research. To see what we have been working on, browse our <a href="#highlights">recent highlights</a> and <a href="/research/#publications">selected publications</a>.
 </p>
 
-<div class="buttons">
-<a class="button" href="/research/#publications">Publications</a>
-<a class="button secondary" href="/people/">People</a>
-<a class="button secondary" href="/join_us/">Join Us</a>
-</div>
 
 <div class="cards">
 {% for theme in site.data.research %}
@@ -25,6 +21,12 @@ Welcome, and thank you for stopping by. The icons below offer a short introducti
 <span>{{ theme.short }}</span>
 </a>
 {% endfor %}
+</div>
+
+<div class="buttons home-buttons">
+<a class="button" href="/research/#publications">Publications</a>
+<a class="button secondary" href="/people/">People</a>
+<a class="button secondary" href="/join_us/">Join Us</a>
 </div>
 
 {% include news.html %}

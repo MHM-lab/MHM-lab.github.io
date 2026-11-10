@@ -7,16 +7,12 @@ description: "Das Labor für Mental Health Mapping von Thomas Wolfers an der Fri
 <!-- STARTSEITE (deutsch). Die vier Forschungskarten kommen aus _data/research.yml (Felder *_de) -->
 
 <h1>Mental Health Mapping</h1>
+<p class="subtitle">Maschinelles Lernen für psychische und neurologische Erkrankungen</p>
 
 <p class="lead">
 Willkommen, und schön, dass Sie vorbeischauen. Die Symbole unten bieten eine kurze Einführung in unsere Forschung. Was wir zuletzt gemacht haben, zeigen unsere <a href="#highlights">aktuellen Highlights</a> und <a href="/de/research/#publications">ausgewählten Publikationen</a>.
 </p>
 
-<div class="buttons">
-<a class="button" href="/de/research/#publications">Publikationen</a>
-<a class="button secondary" href="/de/people/">Team</a>
-<a class="button secondary" href="/de/join_us/">Mitmachen</a>
-</div>
 
 <div class="cards">
 {% for theme in site.data.research %}
@@ -26,6 +22,12 @@ Willkommen, und schön, dass Sie vorbeischauen. Die Symbole unten bieten eine ku
 <span>{{ theme.short_de | default: theme.short }}</span>
 </a>
 {% endfor %}
+</div>
+
+<div class="buttons home-buttons">
+<a class="button" href="/de/research/#publications">Publikationen</a>
+<a class="button secondary" href="/de/people/">Team</a>
+<a class="button secondary" href="/de/join_us/">Mitmachen</a>
 </div>
 
 {% include news.html %}

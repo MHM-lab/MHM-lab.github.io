@@ -2,7 +2,7 @@
   Highlights on the homepage (EN and DE). Data: _data/news.yml, plus every paper in
   _data/publications.yml that has a "date" (it appears here automatically as "Paper").
   Style by importance (darkest green first): important updates (add important: true) > published papers > talks & preprints > everything else.
-  Shows up to eight entries from the last 6 months. A small script hides entries that become older
+  Shows up to eight entries from the last 6 months (the six newest at first, the rest behind "Show all highlights"). A small script hides entries that become older
   than 6 months later on, even if the site has not been rebuilt; no recent entries = no section.
 {% endcomment %}
 {% assign de = false %}{% if page.lang == "de" %}{% assign de = true %}{% endif %}
@@ -41,6 +41,7 @@
 <section class="news-section" id="highlights">
 <h2 class="section-label">{% if de %}Aktuelle Highlights{% else %}Recent Highlights{% endif %}</h2>
 <div class="news">{{ cards }}</div>
+<button type="button" class="news-more" hidden>{% if de %}Alle Highlights anzeigen{% else %}Show all highlights{% endif %}</button>
 </section>
 <script>
 (function () {
@@ -49,7 +50,14 @@
   section.querySelectorAll('[data-date]').forEach(function (el) {
     if (new Date(el.getAttribute('data-date') + '-01') < cutoff) el.remove(); else left++;
   });
-  if (!left) section.remove();
+  if (!left) { section.remove(); return; }
+  // Show the six newest; the rest appear after "Show all highlights".
+  var items = section.querySelectorAll('[data-date]'), more = section.querySelector('.news-more');
+  if (items.length > 6) {
+    for (var i = 6; i < items.length; i++) items[i].hidden = true;
+    more.hidden = false;
+    more.addEventListener('click', function () { items.forEach(function (el) { el.hidden = false; }); more.remove(); });
+  }
 })();
 </script>
 {% endif %}

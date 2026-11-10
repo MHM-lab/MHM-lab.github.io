@@ -23,28 +23,27 @@
   venue: MICCAI 2026 (Main Track)
   text: >-
     Mariam Zabihi presents SIGMA-VAE, her multi-view autoencoder for normative modeling, with a talk and
-    a paper in the main track.
+    a paper.
   text_de: >-
     Mariam Zabihi stellt SIGMA-VAE, ihren Multi-View-Autoencoder für die normative Modellierung, mit einem
-    Vortrag und einer Publikation im Main Track vor.
+    Vortrag und einer Publikation vor.
   link: /research/#sigma-vae
 - label: Workshop
   date: "2026-10"
   label_de: Workshop
+  venue: MICCAI 2026
   text: >-
-    We co-organize the Machine Learning in Clinical Neuroimaging (MLCN) workshop at MICCAI for the
-    eighth time.
+    We co-organize the Machine Learning in Clinical Neuroimaging (MLCN) workshop for the eighth time.
   text_de: >-
-    Wir organisieren zum achten Mal den Workshop Machine Learning in Clinical Neuroimaging (MLCN) auf der MICCAI
-    mit.
+    Wir organisieren zum achten Mal den Workshop Machine Learning in Clinical Neuroimaging (MLCN) mit.
   link: https://mlcnworkshop.github.io
 - label: Lab life
   date: "2026-10"
   label_de: Laborleben
   text: >-
-    We enjoy a wonderful lab retreat with friends in Jena.
+    We enjoy a lab retreat with friends in Jena.
   text_de: >-
-    Wir genießen ein wunderbares Lab-Retreat mit Freundinnen und Freunden in Jena.
+    Wir genießen ein Lab-Retreat mit Freundinnen und Freunden in Jena.
 - label: Conference
   date: "2026-10"
   label_de: Konferenz
@@ -62,8 +61,8 @@
   venue: OHBM 2026
   text: >-
     Nitin Sharma presents transferable conditional brain charts, which link brain structure to
-    Alzheimer's disease progression, at OHBM 2026. The preprint is on arXiv.
+    Alzheimer's disease progression. The preprint is on arXiv.
   text_de: >-
-    Nitin Sharma stellt auf der OHBM 2026 übertragbare konditionale Brain Charts vor, die
+    Nitin Sharma stellt übertragbare konditionale Brain Charts vor, die
     Hirnstruktur mit dem Verlauf der Alzheimer-Krankheit verknüpfen. Das Preprint ist auf arXiv.
   link: https://arxiv.org/abs/2610.21660
