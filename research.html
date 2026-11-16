@@ -90,3 +90,16 @@ description: "Research of the laboratory for Mental Health Mapping: four researc
   openTarget(); window.addEventListener('hashchange', openTarget);
 })();
 </script>
+
+<script>
+// The Research page always opens at the top, also from old links with #publications or a theme (the theme
+// still opens). Only a link to one specific paper (e.g. from a homepage highlight) jumps to that paper.
+(function () {
+  var id = decodeURIComponent(location.hash.slice(1)), el = id && document.getElementById(id);
+  if (!id || (el && el.classList.contains('pub'))) return;
+  if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
+  function top() { window.scrollTo(0, 0); }
+  top(); requestAnimationFrame(top);
+  window.addEventListener('load', function () { top(); setTimeout(top, 60); });
+})();
+</script>
