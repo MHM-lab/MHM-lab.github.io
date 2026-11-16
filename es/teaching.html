@@ -1,0 +1,32 @@
+---
+permalink: /es/teaching/
+lang: es
+title: "Docencia y seminarios"
+description: "Cursos y seminarios sobre neurociencia, imagen cerebral, aprendizaje automático y trastornos mentales y neurológicos en la Universidad Friedrich Schiller de Jena."
+---
+<!-- Los cursos están en _data/courses.yml (campos *_es) -->
+
+<p class="lead">En la Universidad Friedrich Schiller de Jena enseñamos allí donde la neurociencia, la imagen cerebral y el aprendizaje automático se encuentran con los trastornos mentales y neurológicos. Nuestros cursos están abiertos al estudiantado de Jena y a participantes de toda Alemania y del extranjero.</p>
+
+{% for course in site.data.courses %}
+<section class="course" id="{{ course.id }}">
+<h2>{{ course.title }}</h2>
+<p class="meta">{{ course.when_es | default: course.when }}</p>
+{{ course.teaser_es | default: course.teaser | markdownify }}
+<details class="course-details">
+<summary>Detalles del curso</summary>
+{{ course.details_es | default: course.details | markdownify }}
+</details>
+</section>
+{% endfor %}
+
+<script>
+// A link to a course (e.g. /teaching/#seminar) opens its details.
+(function () {
+  function openTarget() {
+    var el = location.hash && document.getElementById(location.hash.slice(1));
+    if (el && el.classList.contains('course')) el.querySelector('details').open = true;
+  }
+  openTarget(); window.addEventListener('hashchange', openTarget);
+})();
+</script>

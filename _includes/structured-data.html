@@ -4,8 +4,8 @@
   Every page gets a WebPage entry (with its language); the homepage, People, Research and
   Teaching pages also describe the lab, its members, papers and courses. Not used on noindex pages.
 {% endcomment %}
-{% assign de = false %}{% if page.lang == "de" %}{% assign de = true %}{% endif %}
-{% assign base = page.url | replace: 'index.html', '' | remove_first: '/de' %}{% if base == "" %}{% assign base = "/" %}{% endif %}
+{% assign L = page.lang | default: "en" %}{% assign ui = site.data.ui[L] %}{% assign sfx = "_" | append: L %}
+{% assign sd_base = page.url | replace: 'index.html', '' %}{% unless L == "en" %}{% assign pre = "/" | append: L %}{% assign sd_base = sd_base | remove_first: pre %}{% endunless %}{% if sd_base == "" %}{% assign sd_base = "/" %}{% endif %}
 {% assign url = page.url | replace: 'index.html', '' %}
 {% capture lab %}{
       "@type": "ResearchOrganization",
@@ -28,7 +28,7 @@
       "url": "{{ site.url }}{{ url }}",
       "name": {{ page.title | default: "Mental Health Mapping Lab" | jsonify }},
       "description": {{ page.description | default: site.description | strip_newlines | jsonify }},
-      "inLanguage": "{% if de %}de{% else %}en{% endif %}",
+      "inLanguage": "{{ ui.html_lang }}",
       "isPartOf": {"@id": "{{ site.url }}/#website"},
       "publisher": {"@id": "{{ site.url }}/#lab"}
     }{% endcapture %}
@@ -37,37 +37,37 @@
   "@context": "https://schema.org",
   "@graph": [
     {{ lab }},
-    {"@type": "WebSite", "@id": "{{ site.url }}/#website", "url": "{{ site.url }}/", "name": "Mental Health Mapping Lab", "publisher": {"@id": "{{ site.url }}/#lab"}, "inLanguage": ["en", "de"]},
-    {{ webpage }}{% if base == "/people/" %}{% for p in site.data.people %},
+    {"@type": "WebSite", "@id": "{{ site.url }}/#website", "url": "{{ site.url }}/", "name": "Mental Health Mapping Lab", "publisher": {"@id": "{{ site.url }}/#lab"}, "inLanguage": [{% for lang in site.data.ui %}"{{ lang[1].html_lang }}"{% unless forloop.last %}, {% endunless %}{% endfor %}]},
+    {{ webpage }}{% if sd_base == "/people/" %}{% for p in site.data.people %},
     {
       "@type": "Person",
       "@id": "{{ site.url }}/people/#{{ p.first | append: ' ' | append: p.last | slugify }}",
       "name": {{ p.first | append: " " | append: p.last | jsonify }},
       "jobTitle": {{ p.role | jsonify }},
       "image": "{{ site.url }}/images/{{ p.photo }}",
-      "description": {% if de %}{{ p.bio_de | default: p.bio | strip_newlines | jsonify }}{% else %}{{ p.bio | strip_newlines | jsonify }}{% endif %},
+      "description": {% assign kk = "bio" | append: sfx %}{{ p[kk] | default: p.bio | strip_newlines | jsonify }},
       "affiliation": {"@id": "{{ site.url }}/#lab"}
-    }{% endfor %}{% elsif base == "/research/" %},
+    }{% endfor %}{% elsif sd_base == "/research/" %},
     {
       "@type": "ItemList",
       "name": "Research themes of the Laboratory for Mental Health Mapping",
-      "itemListElement": [{% for t in site.data.research %}{"@type": "ListItem", "position": {{ forloop.index }}, "item": {"@type": "Thing", "name": {% if de %}{{ t.title_de | default: t.title | jsonify }}{% else %}{{ t.title | jsonify }}{% endif %}, "description": {% if de %}{{ t.text_de | default: t.text | strip_newlines | jsonify }}{% else %}{{ t.text | strip_newlines | jsonify }}{% endif %}}}{% unless forloop.last %}, {% endunless %}{% endfor %}]
+      "itemListElement": [{% for t in site.data.research %}{"@type": "ListItem", "position": {{ forloop.index }}, "item": {"@type": "Thing", "name": {% assign kk = "title" | append: sfx %}{{ t[kk] | default: t.title | jsonify }}, "description": {% assign kk = "text" | append: sfx %}{{ t[kk] | default: t.text | strip_newlines | jsonify }}}}{% unless forloop.last %}, {% endunless %}{% endfor %}]
     },
     {
       "@type": "ItemList",
       "name": "Selected publications of the Laboratory for Mental Health Mapping",
       "itemListElement": [{% for pub in site.data.publications %}{
         "@type": "ListItem", "position": {{ forloop.index }},
-        "item": {"@type": "ScholarlyArticle", "headline": {{ pub.title | jsonify }}, "datePublished": "{{ pub.year }}", "isPartOf": {"@type": "Periodical", "name": {{ pub.venue | remove: " (accepted)" | jsonify }}}, "url": {{ pub.link | jsonify }}, "abstract": {% if de %}{{ pub.summary_de | default: pub.summary | strip_newlines | jsonify }}{% else %}{{ pub.summary | strip_newlines | jsonify }}{% endif %}, "sourceOrganization": {"@id": "{{ site.url }}/#lab"}}
+        "item": {"@type": "ScholarlyArticle", "headline": {{ pub.title | jsonify }}, "datePublished": "{{ pub.year }}", "isPartOf": {"@type": "Periodical", "name": {{ pub.venue | remove: " (accepted)" | jsonify }}}, "url": {{ pub.link | jsonify }}, "abstract": {% assign kk = "summary" | append: sfx %}{{ pub[kk] | default: pub.summary | strip_newlines | jsonify }}, "sourceOrganization": {"@id": "{{ site.url }}/#lab"}}
       }{% unless forloop.last %},{% endunless %}{% endfor %}]
-    }{% elsif base == "/teaching/" %}{% for c in site.data.courses %},
+    }{% elsif sd_base == "/teaching/" %}{% for c in site.data.courses %},
     {
       "@type": "Course",
       "@id": "{{ site.url }}/teaching/#{{ c.id }}",
       "name": {{ c.title | jsonify }},
-      "description": {% if de %}{{ c.teaser_de | append: " " | append: c.details_de | strip_newlines | jsonify }}{% else %}{{ c.teaser | append: " " | append: c.details | strip_newlines | jsonify }}{% endif %},
+      "description": {% assign kt = "teaser" | append: sfx %}{% assign kd = "details" | append: sfx %}{% assign ct = c[kt] | default: c.teaser %}{% assign cd = c[kd] | default: c.details %}{{ ct | append: " " | append: cd | strip_newlines | jsonify }},
       "provider": {"@id": "{{ site.url }}/#lab"},
-      "hasCourseInstance": {"@type": "CourseInstance", "courseMode": "onsite", "location": {"@type": "Place", "name": "Friedrich Schiller University Jena", "address": "Jena, Germany"}, "courseSchedule": {"@type": "Schedule", "description": {% if de %}{{ c.when_de | jsonify }}{% else %}{{ c.when | jsonify }}{% endif %}}}
+      "hasCourseInstance": {"@type": "CourseInstance", "courseMode": "onsite", "location": {"@type": "Place", "name": "Friedrich Schiller University Jena", "address": "Jena, Germany"}, "courseSchedule": {"@type": "Schedule", "description": {% assign kw = "when" | append: sfx %}{{ c[kw] | default: c.when | jsonify }}}}
     }{% endfor %}{% endif %}
   ]
 }

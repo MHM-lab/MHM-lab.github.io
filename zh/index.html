@@ -1,0 +1,37 @@
+---
+permalink: /zh/
+lang: zh
+show_title: false
+description: "Mental Health Mapping 实验室（MHM Lab）由 Thomas Wolfers 在耶拿大学（弗里德里希·席勒大学）领导。我们利用大规模、多样化的数据集和机器学习，在个体层面理解精神与神经系统疾病，并与患者和临床医生合作，将研究成果带入临床诊疗。"
+---
+<!-- 首页（中文）。四张研究卡片来自 _data/research.yml（字段 *_zh） -->
+
+<h1>Mental Health Mapping</h1>
+<p class="subtitle">面向精神与神经系统疾病的机器学习</p>
+
+<p class="lead">
+欢迎来到 Mental Health Mapping（心理健康图谱）实验室，感谢您的来访。下方的图标简要介绍了我们的研究。<a href="#highlights">近期动态</a>和<a href="/zh/research/">代表性论文</a>展示了我们近来的一些工作。
+</p>
+
+
+<div class="cards">
+{% for theme in site.data.research %}
+<a class="card" href="/zh/research/#{{ theme.name | downcase }}">
+<img src="/images/{{ theme.image }}" alt="{{ theme.title_zh | default: theme.title }}" width="400" height="400" decoding="async">
+<strong>{{ theme.name_zh | default: theme.name }}</strong>
+<span>{{ theme.short_zh | default: theme.short }}</span>
+</a>
+{% endfor %}
+</div>
+
+<div class="buttons home-buttons">
+<a class="button" href="/zh/research/">论文</a>
+<a class="button secondary" href="/zh/people/">团队</a>
+<a class="button secondary" href="/zh/join_us/">加入我们</a>
+</div>
+
+{% include news.html %}
+
+<p class="note">
+由 <a href="https://thomaswolfers.github.io/en/">Thomas Wolfers</a> 在<a href="https://www.uni-jena.de/en/">耶拿大学（弗里德里希·席勒大学）</a>领导。
+</p>

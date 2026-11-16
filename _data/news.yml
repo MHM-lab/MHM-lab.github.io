@@ -17,6 +17,18 @@
   text_de: >-
     Gokul Perumbayil Vijayakrishnan schließt seine Masterarbeit zu selbstüberwachtem Lernen mit EEG in
     unserem Labor ab, gemeinsam mit Prof. Dr. Magda Gregorová (THWS). Gut gemacht, Gokul, und danke.
+  label_zh: 毕业论文
+  text_zh: >-
+    Gokul Perumbayil Vijayakrishnan 在我们实验室完成了关于 EEG 自监督学习的硕士论文，合作导师为 Magda Gregorová 教授（THWS）。恭喜 Gokul，也谢谢你。
+  label_hi: थीसिस
+  text_hi: >-
+    Gokul Perumbayil Vijayakrishnan ने हमारी प्रयोगशाला में प्रो. डॉ. Magda Gregorová (THWS) के साथ सेल्फ़-सुपरवाइज़्ड EEG लर्निंग पर अपनी मास्टर्स थीसिस पूरी की। बहुत बढ़िया, Gokul, और धन्यवाद।
+  label_es: Tesis
+  text_es: >-
+    Gokul Perumbayil Vijayakrishnan completa en nuestro laboratorio su tesis de máster sobre aprendizaje autosupervisado con EEG, junto con la profesora Magda Gregorová (THWS). Buen trabajo, Gokul, y gracias.
+  label_fr: Mémoire
+  text_fr: >-
+    Gokul Perumbayil Vijayakrishnan achève dans notre laboratoire son mémoire de master sur l’apprentissage auto-supervisé à partir de l’EEG, avec la professeure Magda Gregorová (THWS). Bravo, Gokul, et merci.
 - label: Talk & paper
   date: "2026-10"
   label_de: Vortrag & Publikation
@@ -28,6 +40,17 @@
     Mariam Zabihi stellt SIGMA-VAE, ihren Multi-View-Autoencoder für die normative Modellierung, mit einem
     Vortrag und einer Publikation vor.
   link: /research/#sigma-vae
+  label_zh: 报告与论文
+  text_zh: Mariam Zabihi 通过口头报告和论文介绍了 SIGMA-VAE，这是她为常模建模开发的多视图自编码器。
+  label_hi: व्याख्यान और शोध-पत्र
+  text_hi: >-
+    Mariam Zabihi ने नॉर्मेटिव मॉडलिंग के लिए अपना मल्टी-व्यू ऑटोएनकोडर SIGMA-VAE एक व्याख्यान और एक शोध-पत्र के साथ प्रस्तुत किया।
+  label_es: Charla y artículo
+  text_es: >-
+    Mariam Zabihi presenta SIGMA-VAE, su autocodificador multivista para el modelado normativo, con una charla y un artículo.
+  label_fr: Exposé et article
+  text_fr: >-
+    Mariam Zabihi présente SIGMA-VAE, son autoencodeur multivue pour la modélisation normative, avec un exposé et un article.
 - label: Workshop
   date: "2026-10"
   label_de: Workshop
@@ -37,6 +60,16 @@
   text_de: >-
     Wir organisieren zum achten Mal den Workshop Machine Learning in Clinical Neuroimaging (MLCN) mit.
   link: https://mlcnworkshop.github.io
+  label_zh: 研讨会
+  text_zh: 我们第八次参与组织 Machine Learning in Clinical Neuroimaging（MLCN）研讨会。
+  label_hi: कार्यशाला
+  text_hi: >-
+    हमने आठवीं बार Machine Learning in Clinical Neuroimaging (MLCN) कार्यशाला का सह-आयोजन किया।
+  label_es: Taller
+  text_es: Coorganizamos por octava vez el taller Machine Learning in Clinical Neuroimaging (MLCN).
+  label_fr: Atelier
+  text_fr: >-
+    Nous coorganisons pour la huitième fois l’atelier Machine Learning in Clinical Neuroimaging (MLCN).
 - label: Lab life
   date: "2026-10"
   label_de: Laborleben
@@ -44,6 +77,14 @@
     We enjoy a lab retreat with friends in Jena.
   text_de: >-
     Wir genießen ein Lab-Retreat mit Freundinnen und Freunden in Jena.
+  label_zh: 实验室生活
+  text_zh: 我们与朋友们在耶拿度过了一次愉快的实验室团建。
+  label_hi: लैब जीवन
+  text_hi: हमने येना में दोस्तों के साथ एक लैब रिट्रीट का आनंद लिया।
+  label_es: Vida del laboratorio
+  text_es: Disfrutamos de un retiro del laboratorio con amigos en Jena.
+  label_fr: Vie du labo
+  text_fr: Nous profitons d’un séjour d’équipe avec des amis à Iéna.
 - label: Conference
   date: "2026-10"
   label_de: Konferenz
@@ -55,6 +96,17 @@
     Thomas Wolfers ist vom 10. bis 13. Oktober mit mehr als 6.300 Kolleginnen und Kollegen dabei und
     dankbar, im Scientific Program Committee des Kongresses mitzuwirken.
   link: https://www.ecnp.eu/congress2026/
+  label_zh: 会议
+  text_zh: 10月10日至13日，Thomas Wolfers 与6300多位同行一同参会，并很荣幸担任本届大会科学程序委员会委员。
+  label_hi: सम्मेलन
+  text_hi: >-
+    Thomas Wolfers 10 से 13 अक्टूबर तक 6,300 से अधिक सहकर्मियों के साथ ECNP कांग्रेस में शामिल हुए, और वे कांग्रेस की Scientific Program Committee में योगदान का अवसर मिलने के लिए आभारी हैं।
+  label_es: Congreso
+  text_es: >-
+    Thomas Wolfers se reúne del 10 al 13 de octubre con más de 6300 colegas y agradece formar parte del Scientific Program Committee del congreso.
+  label_fr: Congrès
+  text_fr: >-
+    Thomas Wolfers retrouve plus de 6 300 collègues du 10 au 13 octobre et est reconnaissant de siéger au Scientific Program Committee du congrès.
 - label: Talk & preprint
   date: "2026-06"
   label_de: Vortrag & Preprint
@@ -66,3 +118,14 @@
     Nitin Sharma stellt übertragbare konditionale Brain Charts vor, die
     Hirnstruktur mit dem Verlauf der Alzheimer-Krankheit verknüpfen. Das Preprint ist auf arXiv.
   link: https://arxiv.org/abs/2610.21660
+  label_zh: 报告与预印本
+  text_zh: Nitin Sharma 介绍了可迁移的条件脑图谱（brain charts），将脑结构与阿尔茨海默病的进展联系起来。预印本已发布在 arXiv 上。
+  label_hi: व्याख्यान और प्रीप्रिंट
+  text_hi: >-
+    Nitin Sharma ने ट्रांसफ़रेबल कंडीशनल ब्रेन चार्ट प्रस्तुत किए, जो मस्तिष्क की संरचना को अल्ज़ाइमर रोग की प्रगति से जोड़ते हैं। प्रीप्रिंट arXiv पर उपलब्ध है।
+  label_es: Charla y preprint
+  text_es: >-
+    Nitin Sharma presenta gráficas cerebrales condicionales transferibles (brain charts), que relacionan la estructura cerebral con la progresión de la enfermedad de Alzheimer. El preprint está disponible en arXiv.
+  label_fr: Exposé et prépublication
+  text_fr: >-
+    Nitin Sharma présente des courbes de référence cérébrales (brain charts) conditionnelles et transférables, qui relient la structure cérébrale à l’évolution de la maladie d’Alzheimer. La prépublication est disponible sur arXiv.

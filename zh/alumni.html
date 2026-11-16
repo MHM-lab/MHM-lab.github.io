@@ -1,0 +1,21 @@
+---
+title: 往届成员
+permalink: /zh/alumni/
+lang: zh
+sitemap: false
+noindex: true
+sections: collapsible
+---
+<!-- 往届成员信息在 _data/alumni.yml 中。字段 "next" 中的常用短语在此自动翻译（较长的短语先替换，最后统一中文标点）。 -->
+
+<p>感谢每一位为我们的工作和团队发展作出贡献的人。以下是我们的往届成员及其后续去向。</p>
+
+{% for group in site.data.alumni %}
+<h2>{{ group.group_zh | default: group.group }}</h2>
+<ul>
+{% for p in group.people %}
+{% assign next = p.next | replace: "Continued as postdoc", "继续从事博士后研究" | replace: "Continued with PhD", "继续攻读博士学位" | replace: "Continued with MSc", "继续攻读硕士学位" | replace: "Continued with BSc", "继续本科学习" | replace: "Continued with lab rotation", "继续进行实验室轮转" | replace: "Now in industry (startup)", "现就职于初创企业" | replace: "Now in industry", "现就职于企业" | replace: "(startup)", "（初创企业）" | replace: ", and startup founder", "，并创办了初创企业" | replace: "and startup founder", "并创办了初创企业" | replace: "Travel and exploration year", "旅行与探索的间隔年" | replace: " (with Thomas)", "（Thomas 课题组）" | replace: "(with Thomas)", "（Thomas 课题组）" | replace: "Research Scientist", "研究科学家" | replace: "PhD Candidate", "博士研究生" | replace: "Postdoc", "博士后" | replace: "University of Tübingen", "图宾根大学" | replace: "Friedrich Schiller University Jena", "耶拿大学" | replace: "University of Oslo", "奥斯陆大学" | replace: "Max Planck Institute Leipzig", "莱比锡马克斯·普朗克研究所" | replace: "Radboud University Nijmegen", "奈梅亨拉德堡德大学" | replace: "University Medical Center Groningen", "格罗宁根大学医学中心" | replace: "Columbia University", "哥伦比亚大学" | replace: "University College London", "伦敦大学学院" | replace: "Shandong University", "山东大学" | replace: "University of Duisburg-Essen", "杜伊斯堡-埃森大学" | replace: " (", "（" | replace: "(", "（" | replace: ")", "）" | replace: ", ", "，" %}
+<li><strong>{{ p.name }}</strong>（{{ p.years }}）{% if p.next %} → {{ next }}{% endif %}</li>
+{% endfor %}
+</ul>
+{% endfor %}

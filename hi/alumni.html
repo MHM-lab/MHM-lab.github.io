@@ -1,0 +1,21 @@
+---
+title: पूर्व सदस्य
+permalink: /hi/alumni/
+lang: hi
+sitemap: false
+noindex: true
+sections: collapsible
+---
+<!-- Alumni are listed in _data/alumni.yml. Common phrases in the field "next" are translated here automatically. -->
+
+<p>हमारे काम और टीम की सफलता में योगदान देने वाले सभी लोगों का धन्यवाद। नीचे हमारे पूर्व सदस्य और उनके अगले पड़ाव दिए गए हैं।</p>
+
+{% for group in site.data.alumni %}
+<h2>{{ group.group_hi | default: group.group }}</h2>
+<ul>
+{% for p in group.people %}
+{% assign next = p.next | replace: "Continued as postdoc", "इसके बाद पोस्टडॉक" | replace: "Continued with PhD", "इसके बाद पीएचडी" | replace: "Continued with MSc", "इसके बाद एमएससी" | replace: "Continued with BSc", "इसके बाद बीएससी" | replace: "Continued with lab rotation", "इसके बाद लैब रोटेशन" | replace: "Now in industry", "अब उद्योग में" | replace: "(startup)", "(स्टार्टअप)" | replace: "and startup founder", "और स्टार्टअप संस्थापक" | replace: "Travel and exploration year", "यात्रा और नए अनुभवों का वर्ष" | replace: "(with Thomas)", "(Thomas के साथ)" | replace: "Research Scientist", "रिसर्च साइंटिस्ट" | replace: "PhD Candidate", "पीएचडी शोधार्थी" | replace: "Postdoc", "पोस्टडॉक" | replace: "University of Tübingen", "ट्यूबिंगन विश्वविद्यालय" | replace: "University of Oslo", "ओस्लो विश्वविद्यालय" | replace: "Friedrich Schiller University Jena", "फ्रेडरिक शिलर विश्वविद्यालय, येना" | replace: "Max Planck Institute Leipzig", "मैक्स प्लांक संस्थान, लाइपज़िग" | replace: "University of Duisburg-Essen", "डुइसबर्ग-एसेन विश्वविद्यालय" | replace: "University Medical Center Groningen", "ग्रोनिंगन विश्वविद्यालय चिकित्सा केंद्र" | replace: "Radboud University Nijmegen", "रैडबाउड विश्वविद्यालय, नाइमेगन" | replace: "Shandong University", "शानदोंग विश्वविद्यालय" | replace: "Columbia University", "कोलंबिया विश्वविद्यालय" | replace: "University College London", "यूनिवर्सिटी कॉलेज लंदन" %}
+<li><strong>{{ p.name }}</strong> ({{ p.years }}){% if p.next %} → {{ next }}{% endif %}</li>
+{% endfor %}
+</ul>
+{% endfor %}

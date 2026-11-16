@@ -1,0 +1,21 @@
+---
+title: Antiguos miembros
+permalink: /es/alumni/
+lang: es
+sitemap: false
+noindex: true
+sections: collapsible
+---
+<!-- Los antiguos miembros están en _data/alumni.yml. Las expresiones habituales del campo "next" se traducen aquí automáticamente, primero las más largas. -->
+
+<p>Gracias a todas las personas que han contribuido a nuestro trabajo y al éxito del equipo. A continuación figuran nuestros antiguos miembros y el siguiente paso de su trayectoria.</p>
+
+{% for group in site.data.alumni %}
+<h2>{{ group.group_es | default: group.group }}</h2>
+<ul>
+{% for p in group.people %}
+{% assign next = p.next | replace: "Continued with lab rotation", "Continuó con una rotación de laboratorio" | replace: "Travel and exploration year", "Año de viajes y exploración" | replace: "Now in industry (startup)", "Ahora en la industria (empresa emergente)" | replace: "Continued as postdoc", "Continuó como posdoc" | replace: "Continued with PhD", "Continuó con el doctorado" | replace: "Continued with MSc", "Continuó con el máster" | replace: "Continued with BSc", "Continuó con el grado" | replace: "Now in industry", "Ahora en la industria" | replace: ", and startup founder", " y fundador de una empresa emergente" | replace: "and startup founder", "y fundador de una empresa emergente" | replace: "(startup)", "(empresa emergente)" | replace: "(with Thomas)", "(con Thomas)" | replace: "Research Scientist", "Investigador" | replace: "PhD Candidate", "Estudiante de doctorado" | replace: "Postdoc", "Posdoc" | replace: "SRM Institute of Science and Technology", "Instituto SRM de Ciencia y Tecnología" | replace: "Friedrich Schiller University Jena", "Universidad Friedrich Schiller de Jena" | replace: "University Medical Center Groningen", "Centro Médico Universitario de Groninga" | replace: "Radboud University Nijmegen", "Universidad Radboud de Nimega" | replace: "University of Duisburg-Essen", "Universidad de Duisburgo-Essen" | replace: "Max Planck Institute Leipzig", "Instituto Max Planck de Leipzig" | replace: "University of Tübingen", "Universidad de Tubinga" | replace: "Shandong University", "Universidad de Shandong" | replace: "Columbia University", "Universidad de Columbia" | replace: "University of Oslo", "Universidad de Oslo" %}
+<li><strong>{{ p.name }}</strong> ({{ p.years }}){% if p.next %} → {{ next }}{% endif %}</li>
+{% endfor %}
+</ul>
+{% endfor %}

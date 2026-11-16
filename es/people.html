@@ -1,0 +1,26 @@
+---
+title: Equipo
+permalink: /es/people/
+lang: es
+description: "Miembros del laboratorio Mental Health Mapping de la Universidad Friedrich Schiller de Jena."
+---
+<!-- Los miembros del equipo están en _data/people.yml (texto en español en el campo bio_es). Los cargos se traducen aquí automáticamente, primero las expresiones más largas. -->
+
+<p>Miembros del laboratorio, por orden alfabético de apellido.</p>
+
+{% for person in site.data.people %}
+{% assign role = person.role | replace: "PostDoc & Boehringer Ingelheim Fellow", "Posdoc con beca Boehringer Ingelheim" | replace: "Data Scientist & IT Infrastructure", "Científico de datos e infraestructura informática" | replace: "PostDoc & Humboldt Fellow", "Posdoc con beca Humboldt" | replace: "HiWi & Research Assistant", "Asistente estudiantil (HiWi) y asistente de investigación" | replace: "Principal Investigator", "Investigador principal" | replace: "MSc Student & HiWi", "Estudiante de máster y asistente estudiantil (HiWi)" | replace: "PhD Candidate", "Estudiante de doctorado" | replace: "MSc Student", "Estudiante de máster" | replace: "BSc Student", "Estudiante de grado" | replace: "PostDoc", "Posdoc" %}
+<div class="person">
+<img src="/images/{{ person.photo }}" alt="Foto de {{ person.first }} {{ person.last }}" width="130" height="130" loading="lazy" decoding="async">
+<div>
+<h2 class="name"><span class="first">{{ person.first }}</span> <span class="last">{{ person.last }}</span></h2>
+<p class="role">{{ role }}</p>
+{{ person.bio_es | default: person.bio | markdownify }}
+</div>
+</div>
+{% endfor %}
+
+<p class="alumni-note">Nuestros antiguos miembros han pasado a puestos posdoctorales en Europa y otros lugares, a la industria en los ámbitos de la ciencia de datos, el aprendizaje automático y la salud, y a empresas emergentes.</p>
+<div class="buttons compact">
+<a class="button secondary" href="/es/alumni/" rel="nofollow">Ver todos los antiguos miembros</a>
+</div>

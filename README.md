@@ -24,7 +24,7 @@ You can edit everything directly on github.com: open the file, click the pencil 
 
 ## English and German
 
-English is the default. Every page also exists in German under `/de/` with the same address (e.g. `/people/` and `/de/people/`); the EN/DE button in the header switches between them.
+English is the default. Every page also exists in German (`/de/`), Simplified Chinese (`/zh/`), Hindi (`/hi/`), Spanish (`/es/`) and French (`/fr/`) with the same address (e.g. `/people/`, `/zh/people/`). The language menu in the header switches between them. Interface texts (menu, footer, highlights) are in `_data/ui.yml`. Texts in the data files have one field per language, e.g. `bio`, `bio_de`, `bio_zh`, `bio_hi`, `bio_es`, `bio_fr`; a missing translation falls back to English.
 
 - **Text pages**: the German text is in `de/` with the same file name. When you change an English page, update its German twin too.
 - **Data files**: German text sits next to the English one in fields ending in `_de` (`bio_de` in `people.yml`, `title_de`/`short_de`/`text_de`/`name_de` in `research.yml`, `summary_de` in `publications.yml`, `group_de` in `alumni.yml`). If a `_de` field is missing, the German page shows the English text.

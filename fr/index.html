@@ -1,0 +1,37 @@
+---
+permalink: /fr/
+lang: fr
+show_title: false
+description: "Le laboratoire Mental Health Mapping (MHM Lab), dirigé par Thomas Wolfers à l’Université Friedrich-Schiller d’Iéna, s’appuie sur de grands jeux de données variés et sur l’apprentissage automatique pour comprendre les troubles mentaux et neurologiques chez chaque personne. Avec les patients et les cliniciens, il travaille à intégrer ces résultats dans les soins."
+---
+<!-- PAGE D’ACCUEIL (français). Les quatre cartes de recherche proviennent de _data/research.yml (champs *_fr) -->
+
+<h1>Mental Health Mapping</h1>
+<p class="subtitle">Apprentissage automatique pour les troubles mentaux et neurologiques</p>
+
+<p class="lead">
+Bienvenue, et merci de votre visite. Les icônes ci-dessous présentent brièvement nos recherches. Nos <a href="#highlights">actualités récentes</a> et nos <a href="/fr/research/">publications choisies</a> donnent quelques exemples de nos travaux.
+</p>
+
+
+<div class="cards">
+{% for theme in site.data.research %}
+<a class="card" href="/fr/research/#{{ theme.name | downcase }}">
+<img src="/images/{{ theme.image }}" alt="{{ theme.title_fr | default: theme.title }}" width="400" height="400" decoding="async">
+<strong>{{ theme.name_fr | default: theme.name }}</strong>
+<span>{{ theme.short_fr | default: theme.short }}</span>
+</a>
+{% endfor %}
+</div>
+
+<div class="buttons home-buttons">
+<a class="button" href="/fr/research/">Publications</a>
+<a class="button secondary" href="/fr/people/">Équipe</a>
+<a class="button secondary" href="/fr/join_us/">Nous rejoindre</a>
+</div>
+
+{% include news.html %}
+
+<p class="note">
+Dirigé par <a href="https://thomaswolfers.github.io/en/">Thomas Wolfers</a> à l’<a href="https://www.uni-jena.de/en/">Université Friedrich-Schiller d’Iéna</a>.
+</p>

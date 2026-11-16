@@ -1,0 +1,32 @@
+---
+permalink: /hi/teaching/
+lang: hi
+title: "शिक्षण और सेमिनार"
+description: "फ्रेडरिक शिलर विश्वविद्यालय, येना में तंत्रिका विज्ञान, ब्रेन इमेजिंग, मशीन लर्निंग तथा मानसिक और तंत्रिका संबंधी विकारों पर पाठ्यक्रम और सेमिनार।"
+---
+<!-- The courses are listed in _data/courses.yml (fields *_hi) -->
+
+<p class="lead">फ्रेडरिक शिलर विश्वविद्यालय, येना में हम उन विषयों को पढ़ाते हैं जहाँ तंत्रिका विज्ञान, ब्रेन इमेजिंग और मशीन लर्निंग, मानसिक और तंत्रिका संबंधी विकारों से मिलते हैं। हमारे पाठ्यक्रम येना के विद्यार्थियों के साथ-साथ जर्मनी और विदेश के प्रतिभागियों के लिए भी खुले हैं।</p>
+
+{% for course in site.data.courses %}
+<section class="course" id="{{ course.id }}">
+<h2>{{ course.title }}</h2>
+<p class="meta">{{ course.when_hi | default: course.when }}</p>
+{{ course.teaser_hi | default: course.teaser | markdownify }}
+<details class="course-details">
+<summary>पाठ्यक्रम का विवरण</summary>
+{{ course.details_hi | default: course.details | markdownify }}
+</details>
+</section>
+{% endfor %}
+
+<script>
+// A link to a course (e.g. /teaching/#seminar) opens its details.
+(function () {
+  function openTarget() {
+    var el = location.hash && document.getElementById(location.hash.slice(1));
+    if (el && el.classList.contains('course')) el.querySelector('details').open = true;
+  }
+  openTarget(); window.addEventListener('hashchange', openTarget);
+})();
+</script>

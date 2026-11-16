@@ -17,7 +17,7 @@ sitemap: false
 - [Community]({{ site.url }}/community/): current contributions (MLCN workshop at MICCAI, ECNP, ELLIS Unit Jena, Digital Academy, DZPG)
 - [Moving to Jena]({{ site.url }}/moving_to_jena/): practical guide for people relocating to Jena
 - [Use of LLMs]({{ site.url }}/use_LLMs/): the lab's policy on large language models
-- [Deutsche Version]({{ site.url }}/de/): every page is also available in German under /de/ (e.g. {{ site.url }}/de/research/)
+- Other languages: every page is also available in German (/de/), Simplified Chinese (/zh/), Hindi (/hi/), Spanish (/es/) and French (/fr/), e.g. {{ site.url }}/zh/research/
 
 ## Research themes
 {% for t in site.data.research %}- {{ t.title }}: {{ t.short }}

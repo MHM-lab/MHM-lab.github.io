@@ -1,0 +1,37 @@
+---
+permalink: /hi/
+lang: hi
+show_title: false
+description: "फ्रेडरिक शिलर विश्वविद्यालय, येना में Thomas Wolfers के नेतृत्व वाली Mental Health Mapping प्रयोगशाला (MHM Lab) बड़े और विविध डेटासेट तथा मशीन लर्निंग की मदद से हर व्यक्ति में मानसिक और तंत्रिका संबंधी विकारों को समझने का प्रयास करती है, और मरीज़ों तथा चिकित्सकों के साथ मिलकर इस काम को नैदानिक देखभाल तक पहुँचाती है।"
+---
+<!-- HOMEPAGE (Hindi). The four research cards come from _data/research.yml (fields *_hi) -->
+
+<h1>Mental Health Mapping</h1>
+<p class="subtitle">मानसिक और तंत्रिका संबंधी विकारों के लिए मशीन लर्निंग</p>
+
+<p class="lead">
+स्वागत है, और यहाँ आने के लिए धन्यवाद। नीचे दिए गए आइकन हमारे शोध का संक्षिप्त परिचय देते हैं। हमारी <a href="#highlights">हाल की झलकियाँ</a> और <a href="/hi/research/">चुनिंदा प्रकाशन</a> कुछ उदाहरण दिखाते हैं कि हम किन विषयों पर काम करते रहे हैं।
+</p>
+
+
+<div class="cards">
+{% for theme in site.data.research %}
+<a class="card" href="/hi/research/#{{ theme.name | downcase }}">
+<img src="/images/{{ theme.image }}" alt="{{ theme.title_hi | default: theme.title }}" width="400" height="400" decoding="async">
+<strong>{{ theme.name_hi | default: theme.name }}</strong>
+<span>{{ theme.short_hi | default: theme.short }}</span>
+</a>
+{% endfor %}
+</div>
+
+<div class="buttons home-buttons">
+<a class="button" href="/hi/research/">प्रकाशन</a>
+<a class="button secondary" href="/hi/people/">टीम</a>
+<a class="button secondary" href="/hi/join_us/">हमसे जुड़ें</a>
+</div>
+
+{% include news.html %}
+
+<p class="note">
+<a href="https://www.uni-jena.de/en/">फ्रेडरिक शिलर विश्वविद्यालय, येना</a> में <a href="https://thomaswolfers.github.io/en/">Thomas Wolfers</a> के नेतृत्व में।
+</p>

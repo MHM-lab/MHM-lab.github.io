@@ -1,0 +1,200 @@
+# Interface texts for each language (menu, footer, highlights). Order = order in the language menu.
+# Pages for a language live under /<code>/ (English at the root). Data texts use fields like bio_zh, text_fr.
+en:
+  lang_name: English
+  html_lang: en
+  og_locale: en_US
+  nav:
+    Research: Research
+    People: People
+    Teaching: Teaching
+    Join Us: Join Us
+  nav_aria: Main
+  language: Language
+  values: Values
+  community: Community
+  impressum: Impressum
+  privacy: Privacy Policy
+  lab_full: Laboratory for Mental Health Mapping
+  university: Friedrich Schiller University Jena
+  highlights: Recent Highlights
+  paper_label: Paper
+  month_format: '{month} {y}'
+  months:
+  - Jan
+  - Feb
+  - Mar
+  - Apr
+  - May
+  - Jun
+  - Jul
+  - Aug
+  - Sep
+  - Oct
+  - Nov
+  - Dec
+de:
+  lang_name: Deutsch
+  html_lang: de
+  og_locale: de_DE
+  nav:
+    Research: Forschung
+    People: Team
+    Teaching: Lehre
+    Join Us: Mitmachen
+  nav_aria: Hauptmenü
+  language: Sprache
+  values: Werte
+  community: Community
+  impressum: Impressum
+  privacy: Datenschutz
+  lab_full: Labor für Mental Health Mapping
+  university: Friedrich-Schiller-Universität Jena
+  highlights: Aktuelle Highlights
+  paper_label: Publikation
+  month_format: '{month} {y}'
+  months:
+  - Jan.
+  - Feb.
+  - März
+  - Apr.
+  - Mai
+  - Juni
+  - Juli
+  - Aug.
+  - Sept.
+  - Okt.
+  - Nov.
+  - Dez.
+zh:
+  lang_name: 中文
+  html_lang: zh-Hans
+  og_locale: zh_CN
+  nav:
+    Research: 研究
+    People: 团队
+    Teaching: 教学
+    Join Us: 加入我们
+  nav_aria: 主导航
+  language: 语言
+  values: 价值观
+  community: 学术社区
+  impressum: 法律声明
+  privacy: 隐私政策
+  lab_full: Mental Health Mapping 实验室
+  university: 耶拿大学（弗里德里希·席勒大学）
+  highlights: 近期动态
+  paper_label: 论文
+  month_format: '{y}年{m}月'
+  months:
+  - 1月
+  - 2月
+  - 3月
+  - 4月
+  - 5月
+  - 6月
+  - 7月
+  - 8月
+  - 9月
+  - 10月
+  - 11月
+  - 12月
+hi:
+  lang_name: हिन्दी
+  html_lang: hi
+  og_locale: hi_IN
+  nav:
+    Research: शोध
+    People: टीम
+    Teaching: शिक्षण
+    Join Us: हमसे जुड़ें
+  nav_aria: मुख्य मेनू
+  language: भाषा
+  values: मूल्य
+  community: समुदाय
+  impressum: क़ानूनी सूचना
+  privacy: गोपनीयता नीति
+  lab_full: Mental Health Mapping प्रयोगशाला
+  university: फ्रेडरिक शिलर विश्वविद्यालय, येना
+  highlights: हाल की झलकियाँ
+  paper_label: शोध-पत्र
+  month_format: '{month} {y}'
+  months:
+  - जनवरी
+  - फ़रवरी
+  - मार्च
+  - अप्रैल
+  - मई
+  - जून
+  - जुलाई
+  - अगस्त
+  - सितंबर
+  - अक्टूबर
+  - नवंबर
+  - दिसंबर
+es:
+  lang_name: Español
+  html_lang: es
+  og_locale: es_ES
+  nav:
+    Research: Investigación
+    People: Equipo
+    Teaching: Docencia
+    Join Us: Únase a nosotros
+  nav_aria: Navegación principal
+  language: Idioma
+  values: Valores
+  community: Comunidad
+  impressum: Aviso legal
+  privacy: Política de privacidad
+  lab_full: Laboratorio Mental Health Mapping
+  university: Universidad Friedrich Schiller de Jena
+  highlights: Novedades recientes
+  paper_label: Artículo
+  month_format: '{month} de {y}'
+  months:
+  - enero
+  - febrero
+  - marzo
+  - abril
+  - mayo
+  - junio
+  - julio
+  - agosto
+  - septiembre
+  - octubre
+  - noviembre
+  - diciembre
+fr:
+  lang_name: Français
+  html_lang: fr
+  og_locale: fr_FR
+  nav:
+    Research: Recherche
+    People: Équipe
+    Teaching: Enseignement
+    Join Us: Nous rejoindre
+  nav_aria: Navigation principale
+  language: Langue
+  values: Valeurs
+  community: Communauté
+  impressum: Mentions légales
+  privacy: Politique de confidentialité
+  lab_full: Laboratoire Mental Health Mapping
+  university: Université Friedrich-Schiller d’Iéna
+  highlights: Actualités
+  paper_label: Article
+  month_format: '{month} {y}'
+  months:
+  - janvier
+  - février
+  - mars
+  - avril
+  - mai
+  - juin
+  - juillet
+  - août
+  - septembre
+  - octobre
+  - novembre
+  - décembre

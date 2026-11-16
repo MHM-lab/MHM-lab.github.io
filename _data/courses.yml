@@ -40,6 +40,26 @@
     werden und warum sie eine zentrale analytische Währung der modernen Forschung zur psychischen
     Gesundheit sind. Wer für den Kurs eine Note erhalten möchte, wird auf Grundlage aktiver Teilnahme,
     eines Referats und einer schriftlichen Reflexion darüber bewertet, was sie im Kurs gelernt haben.
+  when_zh: 冬季学期 · 11月的三个周末
+  teaser_zh: >-
+    本课程**介绍心理健康研究中个体层面推断的基础**，重点讲授常模建模，共分为三个部分。
+  details_zh: >-
+    在**第一部分**，学生阅读 Kay Redfield Jamison 的 *An Unquiet Mind*，这是一位患有双相障碍的科学家写的回忆录。学生将围绕亲身经历、心理健康问题在社会中的呈现方式，以及其表现形式的多样性展开讨论，从而推动思考超越基于平均值的病例对照框架。**第二部分**介绍个体差异的概念框架，包括 HiTOP、RDoC 和常模建模。通过讲授和由学生主导的论文讨论，学生将探讨偏离图谱（deviation mapping）、异质性，以及这些方法的前景与局限。在**第三部分**，学生学习什么是生物标志物以及如何构建生物标志物，编写 Python 脚本从功能磁共振成像数据中提取生物标志物，并估计常模模型，从而切实理解个体层面的偏离分数如何计算，以及它们为何成为现代心理健康研究中的核心分析指标。如需获得本课程成绩，考核将依据课堂参与情况、一次课堂报告，以及一篇关于课程所学内容的书面反思。
+  when_hi: शीतकालीन सत्र · नवंबर में तीन सप्ताहांत
+  teaser_hi: >-
+    यह पाठ्यक्रम **मानसिक स्वास्थ्य में व्यक्ति-स्तरीय अनुमान (इन्फ़रेंस) की बुनियादी बातों से परिचय कराता है**, जिसमें नॉर्मेटिव मॉडलिंग पर विशेष ध्यान है, और यह तीन भागों में बँटा है।
+  details_hi: >-
+    **भाग I** में विद्यार्थी Kay Redfield Jamison की पुस्तक *An Unquiet Mind* पढ़ते हैं, जो बाइपोलर डिसऑर्डर के साथ जी रही एक वैज्ञानिक का संस्मरण है। वे स्वयं जिए गए अनुभव, प्रतिनिधित्व और मानसिक स्वास्थ्य संबंधी स्थितियों के प्रकट होने के विविध रूपों पर चर्चा करते हैं, जिससे औसत पर आधारित केस-कंट्रोल सोच से आगे बढ़ने की प्रेरणा मिलती है। **भाग II** व्यक्तिगत अंतरों को समझने के वैचारिक ढाँचों से परिचय कराता है, जिनमें HiTOP, RDoC और नॉर्मेटिव मॉडलिंग शामिल हैं। व्याख्यानों और विद्यार्थियों द्वारा संचालित शोध-पत्र चर्चाओं के माध्यम से विद्यार्थी डेविएशन मैपिंग, विषमता, और इन दृष्टिकोणों की संभावनाओं और सीमाओं की पड़ताल करते हैं। **भाग III** में विद्यार्थी सीखते हैं कि बायोमार्कर क्या होते हैं और कैसे बनाए जाते हैं, फ़ंक्शनल MRI डेटा से बायोमार्कर निकालने के लिए Python स्क्रिप्ट लिखते हैं, और नॉर्मेटिव मॉडल तैयार करते हैं। इससे उन्हें व्यावहारिक समझ मिलती है कि व्यक्ति-स्तर के विचलन स्कोर कैसे निकाले जाते हैं और आधुनिक मानसिक स्वास्थ्य शोध में वे विश्लेषण का एक केंद्रीय आधार क्यों हैं। यदि विद्यार्थी इस पाठ्यक्रम के लिए ग्रेड पाना चाहते हैं, तो मूल्यांकन सक्रिय भागीदारी, एक प्रस्तुति और पाठ्यक्रम के दौरान सीखी गई बातों पर एक लिखित चिंतन के आधार पर होगा।
+  when_es: Semestre de invierno · tres fines de semana en noviembre
+  teaser_es: >-
+    Este curso **presenta los fundamentos de la inferencia a nivel individual en salud mental**, con especial atención al modelado normativo, y se estructura en tres partes.
+  details_es: >-
+    En la **Parte I**, los estudiantes leen *An Unquiet Mind* (*Una mente inquieta*) de Kay Redfield Jamison, las memorias de una científica que vive con trastorno bipolar, y debaten sobre la experiencia vivida, la representación y la diversidad de formas en que se expresan los problemas de salud mental, lo que invita a ir más allá del enfoque de casos y controles basado en promedios. La **Parte II** presenta marcos conceptuales para las diferencias individuales, como HiTOP, RDoC y el modelado normativo. Mediante clases y debates de artículos dirigidos por los propios estudiantes, se examinan el mapeo de desviaciones, la heterogeneidad y las promesas y limitaciones de estos enfoques. En la **Parte III**, los estudiantes aprenden qué son los biomarcadores y cómo se construyen, desarrollan scripts de Python para obtener biomarcadores a partir de datos de resonancia magnética funcional y estiman modelos normativos. Así adquieren una comprensión práctica de cómo se calculan las puntuaciones de desviación a nivel individual y de por qué constituyen una moneda analítica central en la investigación actual en salud mental. Si se desea obtener una calificación en este curso, la evaluación se basará en la participación activa, una presentación y una reflexión escrita sobre lo aprendido durante el curso.
+  when_fr: Semestre d’hiver · trois week-ends en novembre
+  teaser_fr: >-
+    Ce cours **présente les fondements de l’inférence à l’échelle individuelle en santé mentale**, en mettant l’accent sur la modélisation normative. Il est organisé en trois parties.
+  details_fr: >-
+    Dans la **partie I**, les étudiants lisent *An Unquiet Mind* de Kay Redfield Jamison, les mémoires d’une scientifique vivant avec un trouble bipolaire. Ils discutent de l’expérience vécue, de la représentation et de la diversité des formes que prennent les troubles de santé mentale, ce qui invite à dépasser une approche cas-témoins fondée sur les moyennes. La **partie II** présente des cadres conceptuels pour l’étude des différences individuelles, dont HiTOP, RDoC et la modélisation normative. À travers des cours magistraux et des discussions d’articles animées par les étudiants, ceux-ci examinent la cartographie des écarts, l’hétérogénéité, ainsi que les promesses et les limites de ces approches. Dans la **partie III**, les étudiants apprennent ce que sont les biomarqueurs et comment on les construit, écrivent des scripts Python pour extraire des biomarqueurs de données d’IRM fonctionnelle et estiment des modèles normatifs. Ils comprennent ainsi concrètement comment les scores d’écart individuels sont calculés et pourquoi ils sont devenus une mesure d’analyse centrale de la recherche actuelle en santé mentale. Pour les étudiants qui souhaitent obtenir une note, l’évaluation repose sur la participation active, un exposé et une réflexion écrite sur ce qu’ils ont appris pendant le cours.
 
 - id: fifty-ideas
   title: "The 50 Most Influential Ideas in Neuroscience, Psychology & Machine Learning"
@@ -78,6 +98,29 @@
     davon, wie Neurowissenschaft, Psychologie und maschinelles Lernen gemeinsam das heutige Denken
     geprägt haben. Wer für den Kurs eine Note erhalten möchte, wird auf Grundlage aktiver Teilnahme und
     einer gründlichen kritischen Bewertung eines Forschungsartikels bewertet.
+  when_zh: >-
+    夏季学期 · 大多数周四，12:15–13:45
+  teaser_zh: >-
+    本课程**梳理塑造现代神经科学的重要思想，并追溯它们与心理学和机器学习之间的联系**。
+  details_zh: >-
+    每年从精心挑选的50个开创性概念中选出14个有影响力的思想，其中约8个来自神经科学，3个来自心理学，3个来自机器学习。课程以神经科学为核心，同时突出那些最深刻地改变了这一领域的思想。每年的选题随机产生，以保证思想的多样性和内容的更新，也带来发现的乐趣。每次讲座介绍一个核心思想，以及确立其起源、影响和跨领域作用的关键论文。部分课次由学生报告开创性论文，以鼓励批判性评价和积极参与。课程结束时，学生将对这些基础思想形成广泛而连贯的整体认识，理解它们如何相互影响，并清楚地看到神经科学、心理学和机器学习如何共同塑造了当代思想。如需获得本课程成绩，考核将依据课堂参与情况，以及对一篇研究论文的深入批判性评价。
+  when_hi: >-
+    ग्रीष्मकालीन सत्र · अधिकांश गुरुवार, 12:15–13:45
+  teaser_hi: >-
+    यह पाठ्यक्रम **उन विचारों का परिचय देता है जिन्होंने आधुनिक तंत्रिका विज्ञान को आकार दिया है, और मनोविज्ञान तथा मशीन लर्निंग से उनके संबंधों को सामने लाता है**।
+  details_hi: >-
+    हर वर्ष 50 मौलिक अवधारणाओं के एक चुने हुए संग्रह से 14 प्रभावशाली विचार चुने जाते हैं, जिनमें लगभग आठ तंत्रिका विज्ञान से, तीन मनोविज्ञान से और तीन मशीन लर्निंग से होते हैं। इस तरह पाठ्यक्रम का केंद्र तंत्रिका विज्ञान रहता है, और साथ ही उन विचारों पर ज़ोर दिया जाता है जिन्होंने इसे सबसे गहराई से बदला है। चयन हर वर्ष यादृच्छिक रूप से होता है, जिससे बौद्धिक विविधता, नयापन और खोज का भाव बना रहता है। हर व्याख्यान एक केंद्रीय विचार को उन प्रमुख शोध-पत्रों के साथ प्रस्तुत करता है जिन्होंने उसकी उत्पत्ति, उसके प्रभाव और विभिन्न क्षेत्रों पर उसके असर को परिभाषित किया। कुछ चुने हुए सत्रों में विद्यार्थी मौलिक शोध-पत्रों की प्रस्तुति देते हैं, जिससे आलोचनात्मक मूल्यांकन और सक्रिय भागीदारी को बढ़ावा मिलता है। पाठ्यक्रम के अंत तक विद्यार्थियों को बुनियादी विचारों का एक व्यापक और सुसंगत अवलोकन मिलेगा, यह समझ मिलेगी कि इन विचारों ने एक-दूसरे को कैसे प्रभावित किया, और यह स्पष्ट दृष्टि मिलेगी कि तंत्रिका विज्ञान, मनोविज्ञान और मशीन लर्निंग ने मिलकर समकालीन सोच को कैसे आकार दिया है। यदि विद्यार्थी इस पाठ्यक्रम के लिए ग्रेड पाना चाहते हैं, तो मूल्यांकन सक्रिय भागीदारी और किसी एक शोध-पत्र के गहन आलोचनात्मक मूल्यांकन के आधार पर होगा।
+  when_es: >-
+    Semestre de verano · la mayoría de los jueves, 12:15–13:45
+  teaser_es: >-
+    Este curso **repasa las ideas que han dado forma a la neurociencia moderna y traza sus conexiones con la psicología y el aprendizaje automático**.
+  details_es: >-
+    Cada año se seleccionan 14 ideas influyentes de un conjunto cuidadosamente elaborado de 50 conceptos fundamentales: unas ocho de la neurociencia, tres de la psicología y tres del aprendizaje automático. Así, el curso se ancla en la neurociencia y destaca a la vez las ideas que más profundamente la han transformado. La selección se hace al azar cada año, lo que garantiza diversidad intelectual, renovación y espíritu de descubrimiento. Cada clase presenta una idea central junto con los artículos clave que definieron su origen, su impacto y su influencia en distintos campos. Algunas sesiones incluyen presentaciones de artículos fundamentales a cargo de los estudiantes, lo que fomenta la evaluación crítica y la participación activa. Al final del curso, los estudiantes tendrán una visión amplia y coherente de las ideas fundamentales, entenderán cómo se influyeron mutuamente y tendrán una perspectiva clara de cómo la neurociencia, la psicología y el aprendizaje automático han dado forma conjuntamente al pensamiento actual. Si se desea obtener una calificación en este curso, la evaluación se basará en la participación activa y en una evaluación crítica en profundidad de un artículo de investigación.
+  when_fr: Semestre d’été · la plupart des jeudis, de 12 h 15 à 13 h 45
+  teaser_fr: >-
+    Ce cours **passe en revue les idées qui ont façonné les neurosciences modernes et retrace leurs liens avec la psychologie et l’apprentissage automatique**.
+  details_fr: >-
+    Chaque année, 14 idées marquantes sont choisies dans un ensemble de 50 concepts fondateurs, dont environ huit en neurosciences, trois en psychologie et trois en apprentissage automatique. Le cours reste ainsi ancré dans les neurosciences tout en mettant en avant les idées qui les ont le plus profondément transformées. La sélection est tirée au sort chaque année, ce qui garantit la diversité intellectuelle, le renouvellement et le plaisir de la découverte. Chaque séance présente une idée centrale ainsi que les articles clés qui en ont défini l’origine, la portée et l’influence dans différents domaines. Certaines séances comprennent des présentations d’articles fondateurs par les étudiants, afin d’encourager l’analyse critique et la participation active. À la fin du cours, les étudiants disposeront d’une vue d’ensemble large et cohérente des idées fondatrices, comprendront comment elles se sont influencées mutuellement et verront clairement comment les neurosciences, la psychologie et l’apprentissage automatique ont façonné ensemble la pensée contemporaine. Pour les étudiants qui souhaitent obtenir une note, l’évaluation repose sur la participation active et sur l’analyse critique approfondie d’un article de recherche.
 
 - id: seminar
   title: "Seminar: Neuroscience and Machine Learning"
@@ -106,3 +149,27 @@
     Zeit entweder ein grundlegendes Paper oder eine eigene Forschungsidee bzw. einen eigenen
     Projektvorschlag vorstellen. Interessierte senden bitte ein kurzes Motivationsschreiben und einen
     Lebenslauf per [E-Mail](mailto:dr.thomas.wolfers@gmail.com).
+  when_zh: >-
+    夏季与冬季学期 · 择优录取，最多五名学生 · 每周五，14:15–15:30
+  teaser_zh: >-
+    本**研讨课面向积极性很高的学生**，适合正在考虑来我们实验室完成硕士论文或相关研究项目的同学。
+  details_zh: >-
+    小班规模便于进行细致的指导。录取依据一封简短的动机信以及与实验室研究方向的契合程度。研讨课上，博士后、博士研究生和外部合作者将深入介绍各自的研究，让学生直接了解实验室当前的研究工作。参与者需要积极参与讨论，并在适当阶段报告一篇经典论文，或介绍自己的研究想法或研究计划。有意参加的学生请通过[电子邮件](mailto:dr.thomas.wolfers@gmail.com)提交简短的动机信和简历。
+  when_hi: >-
+    ग्रीष्मकालीन और शीतकालीन सत्र · चयन-आधारित, अधिकतम पाँच विद्यार्थी · शुक्रवार, 14:15–15:30
+  teaser_hi: >-
+    यह **सेमिनार बहुत लगनशील विद्यार्थियों के लिए है**, जो मास्टर्स थीसिस या किसी संबंधित शोध परियोजना के लिए हमारी प्रयोगशाला से जुड़ने पर विचार कर रहे हैं।
+  details_hi: >-
+    छोटे समूह के कारण निकट मार्गदर्शन संभव होता है। प्रवेश एक संक्षिप्त प्रेरणा-पत्र और प्रयोगशाला के शोध विषयों के साथ समग्र तालमेल के आधार पर होता है। सेमिनार में पोस्टडॉक्टरल शोधकर्ताओं, पीएचडी शोधार्थियों और बाहरी सहयोगियों की विस्तृत प्रस्तुतियाँ होती हैं, जिनसे विद्यार्थियों को प्रयोगशाला में चल रहे शोध की प्रत्यक्ष जानकारी मिलती है। प्रतिभागियों से चर्चाओं में भाग लेने और उचित समय पर किसी मौलिक शोध-पत्र या अपने शोध विचार अथवा प्रस्ताव को प्रस्तुत करने की अपेक्षा की जाती है। भाग लेने के इच्छुक विद्यार्थी एक संक्षिप्त प्रेरणा-पत्र और अपना सीवी [ईमेल](mailto:dr.thomas.wolfers@gmail.com) से भेजें।
+  when_es: >-
+    Semestres de verano e invierno · con selección previa, máx. cinco estudiantes · viernes, 14:15–15:30
+  teaser_es: >-
+    Este **seminario está pensado para estudiantes con gran motivación** que estén considerando incorporarse a nuestro laboratorio para realizar su tesis de máster o un proyecto de investigación relacionado.
+  details_es: >-
+    El grupo reducido permite una mentoría cercana. La admisión se basa en una breve carta de motivación y en la afinidad general con el enfoque de investigación del laboratorio. El seminario incluye presentaciones en profundidad a cargo de investigadores posdoctorales, doctorandos y colaboradores externos, que ofrecen a los estudiantes una visión directa de la investigación actual del laboratorio. Se espera que quienes participen intervengan en los debates y, en el momento oportuno, presenten un artículo fundamental o su propia idea o propuesta de investigación. Quienes deseen participar deben enviar una breve carta de motivación y su CV por [correo electrónico](mailto:dr.thomas.wolfers@gmail.com).
+  when_fr: >-
+    Semestres d’été et d’hiver · sur sélection, cinq étudiants au maximum · le vendredi, de 14 h 15 à 15 h 30
+  teaser_fr: >-
+    Ce **séminaire s’adresse à des étudiants très motivés** qui envisagent de rejoindre notre laboratoire pour un mémoire de master ou un projet de recherche similaire.
+  details_fr: >-
+    Le petit effectif permet un encadrement de proximité. L’admission se fait sur la base d’une courte lettre de motivation et de l’adéquation avec les thématiques de recherche du laboratoire. Le séminaire comprend des présentations approfondies par des postdocs, des doctorants et des collaborateurs externes, qui donnent aux étudiants un aperçu direct des recherches en cours au laboratoire. Les participants sont invités à prendre part aux discussions et, le moment venu, à présenter un article fondateur ou leur propre idée ou projet de recherche. Les étudiants intéressés peuvent envoyer une courte lettre de motivation et leur CV par [e-mail](mailto:dr.thomas.wolfers@gmail.com).

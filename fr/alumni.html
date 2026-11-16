@@ -1,0 +1,21 @@
+---
+title: Anciens membres
+permalink: /fr/alumni/
+lang: fr
+sitemap: false
+noindex: true
+sections: collapsible
+---
+<!-- Les anciens membres figurent dans _data/alumni.yml. Les expressions courantes du champ "next" sont traduites ici automatiquement (les plus longues en premier). -->
+
+<p>Merci à toutes celles et tous ceux qui ont contribué à nos travaux et à la réussite de l’équipe. Voici nos anciens membres et la suite de leur parcours.</p>
+
+{% for group in site.data.alumni %}
+<h2>{{ group.group_fr | default: group.group }}</h2>
+<ul>
+{% for p in group.people %}
+{% assign next = p.next | replace: "Continued with lab rotation", "Puis rotation en laboratoire" | replace: "Continued as postdoc", "Puis postdoc" | replace: "Continued with PhD", "Puis doctorat" | replace: "Continued with MSc", "Puis master" | replace: "Continued with BSc", "Puis licence" | replace: "Now in industry (startup)", "Désormais en start-up" | replace: "Now in industry", "Désormais dans l’industrie" | replace: "(startup)", "(start-up)" | replace: ", and startup founder", ", et création d’une start-up" | replace: "and startup founder", "et création d’une start-up" | replace: "Travel and exploration year", "Année de voyage et de découverte" | replace: "(with Thomas)", "(avec Thomas)" | replace: "Research Scientist", "Chercheur·se" | replace: "PhD Candidate", "Doctorant·e" | replace: "University Medical Center Groningen", "Centre médical universitaire de Groningue" | replace: "Friedrich Schiller University Jena", "Université Friedrich-Schiller d’Iéna" | replace: "University of Duisburg-Essen", "Université de Duisbourg-Essen" | replace: "Max Planck Institute Leipzig", "Institut Max-Planck de Leipzig" | replace: "Radboud University Nijmegen", "Université Radboud de Nimègue" | replace: "University of Tübingen", "Université de Tübingen" | replace: "Columbia University", "Université Columbia" | replace: "Shandong University", "Université du Shandong" | replace: "University of Oslo", "Université d’Oslo" %}
+<li><strong>{{ p.name }}</strong> ({{ p.years }}){% if p.next %} → {{ next }}{% endif %}</li>
+{% endfor %}
+</ul>
+{% endfor %}

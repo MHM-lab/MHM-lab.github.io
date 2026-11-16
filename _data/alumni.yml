@@ -4,6 +4,10 @@
 
 - group: Postdoctoral researchers
   group_de: Postdocs
+  group_zh: 博士后研究人员
+  group_hi: पोस्टडॉक्टरल शोधकर्ता
+  group_es: Investigadores posdoctorales
+  group_fr: Postdocs
   people:
   - name: Philipp Seidel
     years: 2023–2025
@@ -13,6 +17,10 @@
     next: Now in industry (Aptiv)
 - group: PhD graduates
   group_de: Abgeschlossene Promotionen
+  group_zh: 已毕业博士
+  group_hi: पीएचडी पूरी कर चुके शोधार्थी
+  group_es: Doctorados finalizados
+  group_fr: Doctorats soutenus
   people:
   - name: Milin Kim
     years: 2021–2026
@@ -25,6 +33,10 @@
     next: Postdoc, University of Oslo
 - group: MSc students / research assistants
   group_de: MSc-Studierende / wissenschaftliche Hilfskräfte
+  group_zh: 硕士研究生与科研助理
+  group_hi: एमएससी विद्यार्थी / शोध सहायक
+  group_es: Estudiantes de máster / asistentes de investigación
+  group_fr: Étudiants en master / assistants de recherche
   people:
   - name: Nikolaos Pahakis
     years: 2024–2026
@@ -70,6 +82,10 @@
     next: Continued with PhD, Radboud University Nijmegen
 - group: BSc / Honors / DAAD
   group_de: BSc / Honors / DAAD
+  group_zh: 本科生 / 荣誉项目 / DAAD
+  group_hi: बीएससी / ऑनर्स / DAAD
+  group_es: Grado / Honors / DAAD
+  group_fr: Licence / Honors / DAAD
   people:
   - name: Xinyun Yuan
     years: '2025'
@@ -82,6 +98,10 @@
     next: Continued with MSc, Radboud University Nijmegen
 - group: Research scientists / data scientists
   group_de: Research Scientists / Data Scientists
+  group_zh: 研究科学家与数据科学家
+  group_hi: रिसर्च साइंटिस्ट / डेटा साइंटिस्ट
+  group_es: Investigadores / científicos de datos
+  group_fr: Chercheurs / data scientists
   people:
   - name: Nitin Sharma
     years: 2025–2026
@@ -97,6 +117,10 @@
     next: Continued with PhD, University of Tübingen
 - group: Lab rotations / internships
   group_de: Laborrotationen / Praktika
+  group_zh: 实验室轮转与实习
+  group_hi: लैब रोटेशन / इंटर्नशिप
+  group_es: Rotaciones de laboratorio / prácticas
+  group_fr: Rotations en laboratoire / stages
   people:
   - name: Samira Hajizadeh
     years: 2024–2025

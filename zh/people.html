@@ -1,0 +1,26 @@
+---
+title: 团队
+permalink: /zh/people/
+lang: zh
+description: "耶拿大学（弗里德里希·席勒大学）Mental Health Mapping 实验室成员。"
+---
+<!-- 团队成员信息在 _data/people.yml 中（中文简介在字段 bio_zh 中）。职位名称在此自动翻译，较长的短语先替换。 -->
+
+<p>实验室成员，按姓氏字母顺序排列。</p>
+
+{% for person in site.data.people %}
+{% assign role = person.role | replace: "PostDoc & Humboldt Fellow", "博士后，洪堡学者" | replace: "PostDoc & Boehringer Ingelheim Fellow", "博士后，勃林格殷格翰（Boehringer Ingelheim）学者" | replace: "Data Scientist & IT Infrastructure", "数据科学家，负责 IT 基础设施" | replace: "HiWi & Research Assistant", "学生助研（HiWi），科研助理" | replace: "MSc Student & HiWi", "硕士研究生，学生助研（HiWi）" | replace: "Principal Investigator", "课题组负责人（PI）" | replace: "PhD Candidate", "博士研究生" | replace: "MSc Student", "硕士研究生" | replace: "BSc Student", "本科生" | replace: "PostDoc", "博士后" %}
+<div class="person">
+<img src="/images/{{ person.photo }}" alt="{{ person.first }} {{ person.last }} 的照片" width="130" height="130" loading="lazy" decoding="async">
+<div>
+<h2 class="name"><span class="first">{{ person.first }}</span> <span class="last">{{ person.last }}</span></h2>
+<p class="role">{{ role }}</p>
+{{ person.bio_zh | default: person.bio | markdownify }}
+</div>
+</div>
+{% endfor %}
+
+<p class="alumni-note">我们的往届成员已在欧洲及其他地区担任博士后，进入数据科学、机器学习和医疗健康领域的企业工作，或加入了初创企业。</p>
+<div class="buttons compact">
+<a class="button secondary" href="/zh/alumni/" rel="nofollow">查看全部往届成员</a>
+</div>

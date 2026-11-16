@@ -1,0 +1,32 @@
+---
+permalink: /fr/teaching/
+lang: fr
+title: "Enseignement et séminaires"
+description: "Cours et séminaires sur les neurosciences, l’imagerie cérébrale, l’apprentissage automatique et les troubles mentaux et neurologiques à l’Université Friedrich-Schiller d’Iéna."
+---
+<!-- Les cours figurent dans _data/courses.yml (champs *_fr) -->
+
+<p class="lead">À l’Université Friedrich-Schiller d’Iéna, nous enseignons là où les neurosciences, l’imagerie cérébrale et l’apprentissage automatique rencontrent les troubles mentaux et neurologiques. Nos cours sont ouverts aux étudiants d’Iéna ainsi qu’aux participants venus d’Allemagne et de l’étranger.</p>
+
+{% for course in site.data.courses %}
+<section class="course" id="{{ course.id }}">
+<h2>{{ course.title }}</h2>
+<p class="meta">{{ course.when_fr | default: course.when }}</p>
+{{ course.teaser_fr | default: course.teaser | markdownify }}
+<details class="course-details">
+<summary>Détails du cours</summary>
+{{ course.details_fr | default: course.details | markdownify }}
+</details>
+</section>
+{% endfor %}
+
+<script>
+// A link to a course (e.g. /teaching/#seminar) opens its details.
+(function () {
+  function openTarget() {
+    var el = location.hash && document.getElementById(location.hash.slice(1));
+    if (el && el.classList.contains('course')) el.querySelector('details').open = true;
+  }
+  openTarget(); window.addEventListener('hashchange', openTarget);
+})();
+</script>

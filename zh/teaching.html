@@ -1,0 +1,32 @@
+---
+permalink: /zh/teaching/
+lang: zh
+title: "教学与研讨课"
+description: "耶拿大学（弗里德里希·席勒大学）开设的神经科学、脑成像、机器学习以及精神与神经系统疾病相关课程与研讨课。"
+---
+<!-- 课程信息在 _data/courses.yml 中（字段 *_zh） -->
+
+<p class="lead">在耶拿大学（弗里德里希·席勒大学），我们的教学处在神经科学、脑成像、机器学习和精神与神经系统疾病的交汇点上。课程面向耶拿的学生开放，也欢迎来自德国各地和其他国家的参与者。</p>
+
+{% for course in site.data.courses %}
+<section class="course" id="{{ course.id }}">
+<h2>{{ course.title }}</h2>
+<p class="meta">{{ course.when_zh | default: course.when }}</p>
+{{ course.teaser_zh | default: course.teaser | markdownify }}
+<details class="course-details">
+<summary>课程详情</summary>
+{{ course.details_zh | default: course.details | markdownify }}
+</details>
+</section>
+{% endfor %}
+
+<script>
+// A link to a course (e.g. /teaching/#seminar) opens its details.
+(function () {
+  function openTarget() {
+    var el = location.hash && document.getElementById(location.hash.slice(1));
+    if (el && el.classList.contains('course')) el.querySelector('details').open = true;
+  }
+  openTarget(); window.addEventListener('hashchange', openTarget);
+})();
+</script>

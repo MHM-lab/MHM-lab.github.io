@@ -1,0 +1,37 @@
+---
+permalink: /es/
+lang: es
+show_title: false
+description: "El laboratorio Mental Health Mapping (MHM Lab), dirigido por Thomas Wolfers en la Universidad Friedrich Schiller de Jena, utiliza conjuntos de datos amplios y diversos y aprendizaje automático para comprender los trastornos mentales y neurológicos en cada persona, y trabaja con pacientes y profesionales clínicos para llevar esta investigación a la atención clínica."
+---
+<!-- PÁGINA DE INICIO (español). Las cuatro tarjetas de investigación proceden de _data/research.yml (campos *_es) -->
+
+<h1>Mental Health Mapping</h1>
+<p class="subtitle">Aprendizaje automático para trastornos mentales y neurológicos</p>
+
+<p class="lead">
+Le damos la bienvenida y le agradecemos su visita. Los iconos de abajo ofrecen una breve introducción a nuestra investigación. Nuestras <a href="#highlights">novedades recientes</a> y nuestras <a href="/es/research/">publicaciones seleccionadas</a> muestran algunos ejemplos de nuestro trabajo.
+</p>
+
+
+<div class="cards">
+{% for theme in site.data.research %}
+<a class="card" href="/es/research/#{{ theme.name | downcase }}">
+<img src="/images/{{ theme.image }}" alt="{{ theme.title_es | default: theme.title }}" width="400" height="400" decoding="async">
+<strong>{{ theme.name_es | default: theme.name }}</strong>
+<span>{{ theme.short_es | default: theme.short }}</span>
+</a>
+{% endfor %}
+</div>
+
+<div class="buttons home-buttons">
+<a class="button" href="/es/research/">Publicaciones</a>
+<a class="button secondary" href="/es/people/">Equipo</a>
+<a class="button secondary" href="/es/join_us/">Únase a nosotros</a>
+</div>
+
+{% include news.html %}
+
+<p class="note">
+Dirigido por <a href="https://thomaswolfers.github.io/en/">Thomas Wolfers</a> en la <a href="https://www.uni-jena.de/en/">Universidad Friedrich Schiller de Jena</a>.
+</p>

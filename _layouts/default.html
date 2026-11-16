@@ -1,16 +1,19 @@
 <!doctype html>
-{% comment %} German pages live under /de/ and mirror the English URLs, e.g. /people/ and /de/people/. {% endcomment %}
-{% assign de = false %}{% if page.lang == "de" %}{% assign de = true %}{% endif %}
+{% comment %} English lives at the root; every other language under /<code>/ with the same paths, e.g. /people/,
+  /de/people/, /zh/people/. Interface texts per language: _data/ui.yml (its order = order in the language menu). {% endcomment %}
+{% assign L = page.lang | default: "en" %}{% assign ui = site.data.ui[L] %}{% assign de = false %}{% if L == "de" %}{% assign de = true %}{% endif %}
+{% if L == "en" %}{% assign base = "" %}{% else %}{% assign base = "/" | append: L %}{% endif %}
 {% assign url = page.url | replace: 'index.html', '' %}
-{% if de %}{% assign en_url = url | remove_first: '/de' %}{% assign de_url = url %}{% else %}{% assign en_url = url %}{% assign de_url = url | prepend: '/de' %}{% endif %}
-{% if url == "/404.html" %}{% assign de_url = "/de/" %}{% endif %}
-<html lang="{% if de %}de{% else %}en{% endif %}">
+{% if L == "en" %}{% assign path = url %}{% else %}{% assign path = url | remove_first: base %}{% endif %}
+{% if url == "/404.html" %}{% assign path = "/" %}{% endif %}
+{% assign en_url = path %}{% assign de_url = path | prepend: '/de' %}
+<html lang="{{ ui.html_lang }}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% assign page_title = page.title | default: "Mental Health Mapping Lab" %}
   {% comment %} The homepage title names the PI, so searches for "Thomas Wolfers" also find the lab {% endcomment %}
-  <title>{% if page.title %}{{ page.title }} · {% endif %}Mental Health Mapping Lab · {% unless page.title %}Thomas Wolfers · {% endunless %}{% if de %}Friedrich-Schiller-Universität Jena{% else %}Friedrich Schiller University Jena{% endif %}</title>
+  <title>{% if page.title %}{{ page.title }} · {% endif %}Mental Health Mapping Lab · {% unless page.title %}Thomas Wolfers · {% endunless %}{{ ui.university }}</title>
   {% assign page_desc = page.description | default: site.description | strip_newlines | escape %}
   <meta name="description" content="{{ page_desc }}">
   <meta name="author" content="Laboratory for Mental Health Mapping">
@@ -18,9 +21,8 @@
   {% if page.noindex %}<meta name="robots" content="noindex">{% else %}<meta name="robots" content="index, follow, max-image-preview:large">{% endif %}
   <link rel="canonical" href="{{ site.url }}{{ url }}">
   {% unless page.noindex or url == "/404.html" %}
-  <link rel="alternate" hreflang="en" href="{{ site.url }}{{ en_url }}">
-  <link rel="alternate" hreflang="de" href="{{ site.url }}{{ de_url }}">
-  <link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ en_url }}">
+  {% for lang in site.data.ui %}{% if lang[0] == "en" %}{% assign lurl = path %}{% else %}{% assign lurl = "/" | append: lang[0] | append: path %}{% endif %}<link rel="alternate" hreflang="{{ lang[1].html_lang }}" href="{{ site.url }}{{ lurl }}">
+  {% endfor %}<link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ en_url }}">
   {% endunless %}
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Mental Health Mapping Lab">
@@ -28,8 +30,9 @@
   <meta property="og:description" content="{{ page_desc }}">
   <meta property="og:url" content="{{ site.url }}{{ url }}">
   <meta property="og:image" content="{{ site.url }}/images/og-image.png">
-  <meta property="og:locale" content="{% if de %}de_DE{% else %}en_US{% endif %}">
-  <meta property="og:locale:alternate" content="{% if de %}en_US{% else %}de_DE{% endif %}">
+  <meta property="og:locale" content="{{ ui.og_locale }}">
+  {% for lang in site.data.ui %}{% unless lang[0] == L %}<meta property="og:locale:alternate" content="{{ lang[1].og_locale }}">
+  {% endunless %}{% endfor %}
   <meta name="twitter:card" content="summary_large_image">
   <link rel="sitemap" type="application/xml" href="/sitemap.xml">
   {% unless page.noindex %}{% include structured-data.html %}{% endunless %}
@@ -43,18 +46,18 @@
 
 <div class="header-bar">
 <header class="site-header">
-  <a class="site-logo" href="{% if de %}/de/{% else %}/{% endif %}">
+  <a class="site-logo" href="{{ base }}/">
     <img src="/images/logo.png" alt="" width="40" height="33">
     <span>{{ site.title }}</span>
   </a>
-  {% if de %}<a class="lang lang-mobile" href="{{ en_url }}" hreflang="en" lang="en">English</a>{% else %}<a class="lang lang-mobile" href="{{ de_url }}" hreflang="de" lang="de">Deutsch</a>{% endif %}
-  <nav class="site-nav" aria-label="{% if de %}Hauptmenü{% else %}Main{% endif %}">
+  {% capture langmenu %}<details class="lang-menu"><summary aria-label="{{ ui.language }}"><svg class="lang-globe" aria-hidden="true" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="9.5"/><path d="M2.5 12h19M12 2.5c2.6 2.8 3.9 6 3.9 9.5s-1.3 6.7-3.9 9.5c-2.6-2.8-3.9-6-3.9-9.5s1.3-6.7 3.9-9.5z"/></svg> {{ ui.lang_name }}</summary><ul>{% for lang in site.data.ui %}{% if lang[0] == "en" %}{% assign lurl = path %}{% else %}{% assign lurl = "/" | append: lang[0] | append: path %}{% endif %}<li><a href="{{ lurl }}" hreflang="{{ lang[1].html_lang }}" lang="{{ lang[1].html_lang }}"{% if lang[0] == L %} aria-current="true"{% endif %}>{{ lang[1].lang_name }}</a></li>{% endfor %}</ul></details>{% endcapture %}
+  <div class="lang-mobile">{{ langmenu }}</div>
+  <nav class="site-nav" aria-label="{{ ui.nav_aria }}">
     {% for item in site.nav %}
-      {% if de %}{% assign item_url = item.url | prepend: '/de' %}{% assign item_title = item.title_de %}{% else %}{% assign item_url = item.url %}{% assign item_title = item.title %}{% endif %}
+      {% assign item_url = item.url | prepend: base %}{% assign item_title = ui.nav[item.title] | default: item.title %}
       <a href="{{ item_url }}"{% if url == item_url %} aria-current="page"{% elsif page.nav_parent == item.url %} aria-current="true"{% endif %}>{{ item_title }}</a>
     {% endfor %}
-    {% comment %} Language switch (same style as thomaswolfers.github.io) {% endcomment %}
-    {% if de %}<a class="lang" href="{{ en_url }}" hreflang="en" lang="en">English</a>{% else %}<a class="lang" href="{{ de_url }}" hreflang="de" lang="de">Deutsch</a>{% endif %}
+    <div class="lang-desktop">{{ langmenu }}</div>
   </nav>
 </header>
 </div>
@@ -71,15 +74,9 @@
     {% for link in site.social %}<a href="{{ link.url }}">{{ link.title }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}
   </p>
   <p>
-    {% if de %}
-    © {{ site.time | date: '%Y' }} Labor für Mental Health Mapping ·
-    <a href="/de/values/">Werte</a> · <a href="/de/community/">Community</a> ·
-    <a href="/de/impressum/">Impressum</a> · <a href="/de/privacy_policy/">Datenschutz</a> · <a href="{{ en_url }}" hreflang="en" lang="en">English</a>
-    {% else %}
-    © {{ site.time | date: '%Y' }} Laboratory for Mental Health Mapping ·
-    <a href="/values/">Values</a> · <a href="/community/">Community</a> ·
-    <a href="/impressum/">Impressum</a> · <a href="/privacy_policy/">Privacy Policy</a> · <a href="{{ de_url }}" hreflang="de" lang="de">Deutsch</a>
-    {% endif %}
+    © {{ site.time | date: '%Y' }} {{ ui.lab_full }} ·
+    <a href="{{ base }}/values/">{{ ui.values }}</a> · <a href="{{ base }}/community/">{{ ui.community }}</a> ·
+    <a href="{{ base }}/impressum/">{{ ui.impressum }}</a> · <a href="{{ base }}/privacy_policy/">{{ ui.privacy }}</a>
   </p>
 </footer>
 
@@ -108,6 +105,8 @@
     var d = el.closest('details'); if (d) d.open = true;
   }
   fromHash(); window.addEventListener('hashchange', fromHash);
+  // The language menu closes when you click anywhere else.
+  document.addEventListener('click', function (e) { document.querySelectorAll('.lang-menu[open]').forEach(function (d) { if (!d.contains(e.target)) d.open = false; }); });
   window.addEventListener('pageshow', function (e) { if (e.persisted) fromHash(); });  // Back/Forward cache
 })();
 </script>

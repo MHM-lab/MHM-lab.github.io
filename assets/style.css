@@ -77,15 +77,27 @@ html { scroll-padding-top: 5.5rem; }
 }
 .site-nav a:hover, .site-nav a:focus-visible { background: #dfecd6; color: var(--green); }
 .site-nav a[aria-current] { background: var(--green); color: #fff; }
-/* Language switch (English / Deutsch), last item in the menu, same style as thomaswolfers.github.io */
-.site-nav .lang { margin-left: 0.4rem; background: transparent; border: 1px solid var(--line); color: var(--muted); }
-.site-nav .lang:hover, .site-nav .lang:focus-visible { border-color: var(--green-light); background: transparent; color: var(--green); }
-/* On phones the language switch sits next to the logo, so it is always visible */
+/* Language menu (one button with the current language; opens a short list). Desktop: last item in the menu.
+   Phones: next to the logo, so it is always visible. */
+.lang-menu { position: relative; }
+.lang-menu summary { display: flex; align-items: center; gap: 0.35em; padding: 0.4em 0.85em; border: 1px solid var(--line); border-radius: 999px;
+  color: var(--muted); font-size: 0.9rem; font-weight: 500; cursor: pointer; list-style: none; white-space: nowrap; }
+.lang-menu summary::-webkit-details-marker { display: none; }
+.lang-menu summary::after { content: "▾"; font-size: 0.75em; }
+.lang-menu summary:hover, .lang-menu[open] summary { border-color: var(--green-light); color: var(--green); }
+.lang-menu ul { position: absolute; right: 0; top: calc(100% + 6px); z-index: 20; min-width: 9.5rem; margin: 0; padding: 0.35rem; list-style: none;
+  background: #fff; border: 1px solid var(--line); border-radius: 12px; box-shadow: 0 8px 24px rgba(29, 29, 31, 0.12); }
+.lang-menu li a { display: block; padding: 0.45em 0.8em; border-radius: 8px; background: transparent; color: var(--ink); font-size: 0.92rem; text-decoration: none; }
+.lang-menu li a:hover { background: #f2f6ef; color: var(--green); }
+.lang-menu li a[aria-current] { background: transparent; color: var(--green); font-weight: 700; }
+.site-nav .lang-desktop { margin-left: 0.4rem; }
 .lang-mobile { display: none; }
-.site-header .lang-mobile { padding: 0.35em 0.85em; border: 1px solid var(--line); border-radius: 999px; color: var(--muted); font-size: 0.85rem; font-weight: 500; text-decoration: none; }
+/* Chinese and Hindi text: system fonts with good coverage */
+:lang(zh) body, body:lang(zh) { font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", "Noto Sans SC", "Microsoft YaHei", sans-serif; }
+:lang(hi) body, body:lang(hi) { font-family: -apple-system, BlinkMacSystemFont, "Kohinoor Devanagari", "Noto Sans Devanagari", "Nirmala UI", "Mangal", sans-serif; line-height: 1.7; }
 @media (max-width: 700px) {
-  .site-header .lang-mobile { display: inline-block; margin-left: auto; }
-  .site-nav .lang { display: none; }
+  .site-header .lang-mobile { display: block; margin-left: auto; }
+  .site-nav .lang-desktop { display: none; }
   .site-nav { gap: 0.25rem; }
   .site-nav a { padding: 0.4em 0.75em; font-size: 0.88rem; }
   html { scroll-padding-top: 7.5rem; }

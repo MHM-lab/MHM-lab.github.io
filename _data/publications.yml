@@ -30,6 +30,21 @@
     Wiederkehrende Hirnzustände verankern diese Dynamik in Lebensspannennormen, zeigen Entwicklungs- und
     Alterungstrends sowie heterogene Veränderungen bei psychischen Erkrankungen und ermöglichen eine
     individuelle Beurteilung der Hirndynamik.
+  summary_zh: >-
+    我们利用全生命周期中来自91个成像站点、一万余人的静息态 fMRI 数据，构建了人群规模的内在脑动力学常模参照。反复出现的脑状态将这些动力学与全生命周期常模联系起来，揭示了发育和老化趋势以及不同心理健康问题中的异质性改变，并使对个体脑动力学的评估成为可能。
+  highlight_zh: 已接收：Yanwu Yang 构建的全生命周期人类脑动力学常模参照。
+  summary_hi: >-
+    हम 91 इमेजिंग केंद्रों पर जीवनकाल के विभिन्न चरणों के 10,000 से अधिक लोगों के रेस्टिंग-स्टेट fMRI डेटा से मस्तिष्क की आंतरिक गतिशीलता के लिए जनसंख्या-स्तर का एक नॉर्मेटिव संदर्भ तैयार करते हैं। बार-बार उभरने वाली मस्तिष्क-अवस्थाएँ इस गतिशीलता को जीवनकाल के मानदंडों से जोड़ती हैं। इससे विकास और बढ़ती उम्र से जुड़े रुझान तथा मानसिक स्वास्थ्य संबंधी स्थितियों में विषम बदलाव सामने आते हैं, और मस्तिष्क की गतिशीलता का व्यक्तिगत आकलन संभव होता है।
+  highlight_hi: >-
+    स्वीकृत: जीवनकाल में मानव मस्तिष्क की गतिशीलता के लिए Yanwu Yang का नॉर्मेटिव संदर्भ।
+  summary_es: >-
+    Construimos una referencia normativa a escala poblacional de la dinámica cerebral intrínseca a partir de resonancias magnéticas funcionales en reposo de más de 10 000 personas de todas las edades, obtenidas en 91 centros. Los estados cerebrales recurrentes vinculan esta dinámica con normas a lo largo de la vida, lo que revela tendencias de desarrollo y envejecimiento y alteraciones heterogéneas en distintos problemas de salud mental, y permite evaluar la dinámica cerebral de cada persona.
+  highlight_es: >-
+    Aceptado: la referencia normativa de Yanwu Yang para la dinámica cerebral humana a lo largo de la vida.
+  summary_fr: >-
+    Nous construisons une référence normative à l’échelle de la population pour la dynamique cérébrale intrinsèque, à partir d’IRMf de repos de plus de 10 000 personnes de tous âges, issues de 91 sites d’imagerie. Des états cérébraux récurrents rattachent cette dynamique à des normes établies sur toute la durée de vie. Ils révèlent des tendances liées au développement et au vieillissement ainsi que des altérations hétérogènes selon les troubles de santé mentale, et permettent d’évaluer la dynamique cérébrale de chaque personne.
+  highlight_fr: >-
+    Accepté : la référence normative de Yanwu Yang pour la dynamique du cerveau humain tout au long de la vie.
 - year: 2026
   title: 'Deep Unsupervised Anomaly Detection in Brain Imaging: Large-Scale Benchmarking and Bias Analysis'
   id: anomaly-detection
@@ -51,6 +66,21 @@
     Learning in der Bildgebung des Gehirns, trainiert auf rund 460.000 Schichtbildern gesunder Gehirne.
     Die Leistung schwankt erheblich zwischen Scannern, Läsionstypen und demografischen Gruppen und zeigt
     systematische Verzerrungen und methodische Grenzen, die künftige Algorithmen überwinden müssen.
+  summary_zh: >-
+    我们构建了一个大型多中心基准，用于评估脑成像中的深度无监督异常检测，训练数据为约46万张健康大脑切片。不同扫描仪、病灶类型和人口学特征之间的性能差异很大，揭示了未来算法必须克服的系统性偏差和方法学局限。
+  highlight_zh: 已接收：Alexander Frotscher 关于脑成像异常检测的大规模基准研究。
+  summary_hi: >-
+    हम ब्रेन इमेजिंग में डीप अनसुपरवाइज़्ड एनॉमली डिटेक्शन के लिए एक बड़ा बहु-केंद्रीय बेंचमार्क बनाते हैं, जिसमें मॉडल स्वस्थ मस्तिष्कों की लगभग 4,60,000 स्लाइस पर प्रशिक्षित किए गए हैं। प्रदर्शन स्कैनर, घाव (लीज़न) के प्रकार और जनसांख्यिकी के अनुसार काफ़ी बदलता है। इससे व्यवस्थित पूर्वाग्रह और ऐसी पद्धतिगत सीमाएँ सामने आती हैं जिन्हें भविष्य के एल्गोरिदम को पार करना होगा।
+  highlight_hi: >-
+    स्वीकृत: ब्रेन इमेजिंग में एनॉमली डिटेक्शन पर Alexander Frotscher का बड़े पैमाने का बेंचमार्क।
+  summary_es: >-
+    Construimos un amplio banco de pruebas multicéntrico para la detección profunda no supervisada de anomalías en imagen cerebral, entrenado con unos 460 000 cortes de cerebros sanos. El rendimiento varía considerablemente según el escáner, el tipo de lesión y las características demográficas, lo que revela sesgos sistemáticos y límites metodológicos que los futuros algoritmos deberán superar.
+  highlight_es: >-
+    Aceptado: el banco de pruebas a gran escala de Alexander Frotscher para la detección de anomalías en imagen cerebral.
+  summary_fr: >-
+    Nous construisons un vaste banc d’essai multicentrique pour la détection profonde et non supervisée d’anomalies en imagerie cérébrale, entraîné sur environ 460 000 coupes de cerveaux sains. Les performances varient fortement selon les scanners, les types de lésions et les caractéristiques démographiques, ce qui révèle des biais systématiques et des limites méthodologiques que les futurs algorithmes devront surmonter.
+  highlight_fr: >-
+    Accepté : le banc d’essai à grande échelle d’Alexander Frotscher pour la détection d’anomalies en imagerie cérébrale.
 - year: 2026
   title: 'SIGMA-VAE: Sketched Isotropic Gaussian Multi-view Autoencoder for Normative Modeling'
   id: sigma-vae
@@ -70,6 +100,14 @@
     erkennt er individuelle Anomalien empfindlicher, generalisiert auf unbekannte Scanner und
     unterscheidet die Alzheimer-Krankheit mit einer AUC von 0,91 auf zurückgehaltenen und 0,87 auf
     externen Daten.
+  summary_zh: >-
+    我们提出 SIGMA-VAE，一种用于常模建模的多视图自编码器，具有良好的潜空间几何结构、稀疏且可解释的表征，以及按不确定性加权的偏离分数。该模型基于来自328台扫描仪的四万多份脑扫描数据训练，能够更灵敏地检测个体异常，可泛化到训练中未见过的扫描仪，在区分阿尔茨海默病时，在留出数据上的 AUC 为0.91，在外部数据上为0.87。
+  summary_hi: >-
+    हम SIGMA-VAE प्रस्तुत करते हैं, जो नॉर्मेटिव मॉडलिंग के लिए एक मल्टी-व्यू ऑटोएनकोडर है। इसकी लेटेंट ज्यामिति सुव्यवस्थित है, इसके रिप्रेज़ेंटेशन विरल (स्पार्स) और व्याख्येय हैं, और यह अनिश्चितता के अनुसार भारित विचलन देता है। 328 स्कैनरों से लिए गए 40,000 से अधिक ब्रेन स्कैन पर प्रशिक्षित यह मॉडल व्यक्तिगत असामान्यताओं को अधिक संवेदनशीलता से पहचानता है, पहले न देखे गए स्कैनरों के डेटा पर भी अच्छा काम करता है, और अल्ज़ाइमर रोग की पहचान में होल्ड-आउट डेटा पर 0.91 और बाहरी डेटा पर 0.87 का AUC प्राप्त करता है।
+  summary_es: >-
+    Presentamos SIGMA-VAE, un autocodificador multivista para el modelado normativo con una geometría latente regular, representaciones dispersas e interpretables y desviaciones ponderadas por la incertidumbre. Entrenado con más de 40 000 imágenes cerebrales de 328 escáneres, detecta anomalías individuales con mayor sensibilidad, generaliza a escáneres no vistos durante el entrenamiento y discrimina la enfermedad de Alzheimer con un AUC de 0,91 en datos reservados y de 0,87 en datos externos.
+  summary_fr: >-
+    Nous présentons SIGMA-VAE, un autoencodeur multivue pour la modélisation normative, doté d’une géométrie latente bien maîtrisée, de représentations parcimonieuses et interprétables, et d’écarts pondérés par l’incertitude. Entraîné sur plus de 40 000 examens cérébraux provenant de 328 scanners, il détecte les anomalies individuelles avec une plus grande sensibilité, se généralise à des scanners inconnus et distingue la maladie d’Alzheimer avec une AUC de 0,91 sur un jeu de test réservé et de 0,87 sur des données externes.
 - year: 2026
   title: 'MedSAMix: A Training-Free Model Merging Approach for Medical Image Segmentation'
   venue: AAAI (Main Track)
@@ -84,6 +122,14 @@
     (MedSAM) Segmentierungsmodelle automatisch zusammenführt. Über 25 medizinische
     Segmentierungsaufgaben hinweg verringert sie Verzerrungen und verbessert Generalisierung und
     domänenspezifische Genauigkeit um bis zu 6,7 %.
+  summary_zh: >-
+    我们提出 MedSAMix，一种无需训练的方法，可自动融合通用型（SAM）和专用型（MedSAM）分割模型。在25项医学图像分割任务中，它降低了偏差，并将泛化能力和特定领域的准确率最多提升6.7%。
+  summary_hi: >-
+    हम MedSAMix प्रस्तुत करते हैं, जो सामान्य-उद्देश्य (SAM) और विशेषज्ञ (MedSAM) सेगमेंटेशन मॉडलों को बिना अतिरिक्त प्रशिक्षण के अपने-आप मिलाने की एक पद्धति है। 25 चिकित्सा सेगमेंटेशन कार्यों में यह पूर्वाग्रह को कम करती है और सामान्यीकरण तथा क्षेत्र-विशेष सटीकता, दोनों में 6.7% तक सुधार करती है।
+  summary_es: >-
+    Presentamos MedSAMix, un método sin entrenamiento que fusiona automáticamente modelos de segmentación generalistas (SAM) y especializados (MedSAM). En 25 tareas de segmentación médica, reduce el sesgo y mejora tanto la generalización como la precisión específica del dominio, hasta en un 6,7 %.
+  summary_fr: >-
+    Nous présentons MedSAMix, une méthode sans entraînement qui fusionne automatiquement des modèles de segmentation généralistes (SAM) et spécialisés (MedSAM). Sur 25 tâches de segmentation médicale, elle réduit les biais et améliore à la fois la généralisation et la précision propre à chaque domaine, jusqu’à 6,7 %.
 - year: 2026
   title: 'From early to contemporary normative modeling: Mapping individual differences in neurophysiological
     signals'
@@ -101,6 +147,14 @@
     kleinen, altersbasierten Modellen zu harmonisierten, komplexeren Ansätzen entwickelt. Wir
     argumentieren, dass internationale Zusammenarbeit, standardisierte Pipelines und neue Merkmale nötig
     sind, um vom Proof of Concept zu individuellen klinischen Anwendungen zu gelangen.
+  summary_zh: >-
+    我们综述了在机器学习和大型数据集推动下，常模建模在脑电生理学领域的复兴：该领域正从基于年龄的小型模型走向经过数据协调、更加复杂的方法。我们认为，要从概念验证走向个体化的临床应用，需要国际合作、标准化的分析流程和新的特征。
+  summary_hi: >-
+    मशीन लर्निंग और बड़े डेटासेट के कारण ब्रेन इलेक्ट्रोफ़िज़ियोलॉजी में नॉर्मेटिव मॉडलिंग फिर से उभर रही है, और यह क्षेत्र आयु पर आधारित छोटे मॉडलों से हार्मोनाइज़्ड और अधिक जटिल दृष्टिकोणों की ओर बढ़ रहा है। हम इस विकास की समीक्षा करते हैं। हमारा तर्क है कि प्रूफ़ ऑफ़ कॉन्सेप्ट से आगे बढ़कर व्यक्तिगत नैदानिक अनुप्रयोगों तक पहुँचने के लिए अंतरराष्ट्रीय सहयोग, मानकीकृत पाइपलाइन और नए फ़ीचर की ज़रूरत है।
+  summary_es: >-
+    Revisamos el resurgimiento del modelado normativo en la electrofisiología cerebral, impulsado por el aprendizaje automático y los grandes conjuntos de datos, a medida que el campo pasa de modelos pequeños basados en la edad a enfoques armonizados y más complejos. Sostenemos que hacen falta colaboración internacional, flujos de procesamiento estandarizados y nuevas características para pasar de la prueba de concepto a aplicaciones clínicas individualizadas.
+  summary_fr: >-
+    Nous passons en revue le renouveau de la modélisation normative en électrophysiologie cérébrale, porté par l’apprentissage automatique et les grands jeux de données, alors que le domaine passe de petits modèles fondés sur l’âge à des approches harmonisées et plus complexes. Nous soutenons que la collaboration internationale, des chaînes de traitement standardisées et de nouvelles caractéristiques sont nécessaires pour passer de la preuve de concept à des applications cliniques individualisées.
 - year: 2025
   title: Hierarchical Characterization of Brain Dynamics via State Space-based Vector Quantization
   venue: MICCAI (Main Track)
@@ -114,6 +168,13 @@
     Wir stellen HST vor, ein hierarchisches State-Space-Tokenisierungsnetzwerk, das Hirnaktivität in
     stabile "Tokens" zerlegt und verfolgt, wie das Gehirn zwischen ihnen wechselt. In zwei unabhängigen
     Datensätzen erfasst es diese Dynamik deutlicher als bestehende Ansätze.
+  summary_zh: 我们提出 HST，一种层级式状态空间分词网络，它将脑活动分解为稳定的“词元”，并追踪大脑在这些词元之间的转换。在两个独立数据集中，它比现有方法更清晰地刻画了这些动态变化。
+  summary_hi: >-
+    हम HST प्रस्तुत करते हैं, जो एक हायरार्किकल स्टेट-स्पेस टोकनाइज़ेशन नेटवर्क है। यह मस्तिष्क की गतिविधि को स्थिर "टोकन" में बाँटता है और यह ट्रैक करता है कि मस्तिष्क उनके बीच कैसे आता-जाता है। दो स्वतंत्र डेटासेट में यह इस गतिशीलता को मौजूदा तरीक़ों की तुलना में अधिक स्पष्ट रूप से दर्शाता है।
+  summary_es: >-
+    Presentamos HST, una red jerárquica de tokenización en el espacio de estados que descompone la actividad cerebral en “tokens” estables y sigue cómo el cerebro pasa de uno a otro. En dos conjuntos de datos independientes, capta esta dinámica con mayor claridad que los enfoques existentes.
+  summary_fr: >-
+    Nous présentons HST, un réseau hiérarchique de tokenisation fondé sur des modèles espace-état, qui décompose l’activité cérébrale en « tokens » stables et suit la manière dont le cerveau passe de l’un à l’autre. Dans deux jeux de données indépendants, il rend compte de cette dynamique plus clairement que les approches existantes.
 - year: 2025
   title: A 10-year longitudinal study of brain cortical thickness in people with first-episode psychosis
     using normative models
@@ -130,6 +191,14 @@
     psychotischer Episode über zehn Jahre Anzeichen einer Normalisierung zeigen. Zudem zeigen wir, dass
     die Modellierung standortspezifischer Variabilität in Längsschnittstudien unverzichtbar ist, da
     Wechsel von Scannern und Protokollen die Ergebnisse sonst verzerren können.
+  summary_zh: >-
+    我们利用常模模型发现，在部分首发精神病患者中，脑异常在十年间出现了趋于正常化的迹象。我们还发现，在纵向研究中对站点特异性变异进行建模至关重要，否则扫描仪和采集方案的变化可能会干扰结果。
+  summary_hi: >-
+    नॉर्मेटिव मॉडल की मदद से हम दिखाते हैं कि पहली बार साइकोसिस से प्रभावित (फ़र्स्ट-एपिसोड साइकोसिस) कुछ लोगों में मस्तिष्क की असामान्यताएँ दस वर्षों में सामान्य होने के संकेत दिखाती हैं। हम यह भी दिखाते हैं कि अनुदैर्ध्य अध्ययनों में केंद्र-विशेष भिन्नता की मॉडलिंग ज़रूरी है, क्योंकि अन्यथा स्कैनरों और प्रोटोकॉल में बदलाव परिणामों को भ्रामक बना सकते हैं।
+  summary_es: >-
+    Mediante modelos normativos, observamos que en algunas personas con un primer episodio psicótico las alteraciones cerebrales presentan signos de normalización a lo largo de diez años. También mostramos que modelar la variabilidad propia de cada centro es esencial en los estudios longitudinales, donde los cambios de escáner y de protocolo podrían, de lo contrario, distorsionar los resultados.
+  summary_fr: >-
+    À l’aide de modèles normatifs, nous montrons que chez certaines personnes ayant connu un premier épisode psychotique, les anomalies cérébrales présentent des signes de normalisation sur dix ans. Nous montrons aussi qu’il est essentiel de modéliser la variabilité propre à chaque site dans les études longitudinales, où les changements de scanners et de protocoles peuvent sinon fausser les résultats.
 - year: 2024
   title: Characterising personalized neuropathology in dementia and mild cognitive impairment with explainable
     artificial intelligence
@@ -144,6 +213,13 @@
     Wir haben ein tiefes neuronales Netz zur Vorhersage von Demenz trainiert und individuelle
     Unterschiede mit erklärbarer KI charakterisiert. Es sagt bis zu sieben Jahre im Voraus mit guter
     Zuverlässigkeit vorher, ob eine Person eine Demenz entwickelt.
+  summary_zh: 我们训练了一个深度神经网络来预测痴呆，并利用可解释人工智能刻画个体差异。该模型能够提前多达七年，较为可靠地预测一个人是否会发展为痴呆。
+  summary_hi: >-
+    हमने डिमेंशिया का पूर्वानुमान लगाने के लिए एक डीप न्यूरल नेटवर्क को प्रशिक्षित किया और व्यक्तिगत अंतरों को समझने के लिए एक्सप्लेनेबल एआई का उपयोग किया। यह अच्छी विश्वसनीयता के साथ सात वर्ष पहले तक बता सकता है कि किसी व्यक्ति को डिमेंशिया होगा या नहीं।
+  summary_es: >-
+    Entrenamos una red neuronal profunda para predecir la demencia y utilizamos IA explicable para caracterizar las diferencias individuales. La red predice con buena fiabilidad si una persona desarrollará demencia hasta siete años antes.
+  summary_fr: >-
+    Nous avons entraîné un réseau de neurones profond à prédire la démence et utilisé l’IA explicable pour caractériser les différences individuelles. Le modèle prédit avec une bonne fiabilité, jusqu’à sept ans à l’avance, si une personne développera une démence.
 - year: 2024
   title: Computational psychiatry and the evolving concept of a mental disorder
   venue: Synthese
@@ -159,6 +235,14 @@
     einem kohärenten Rahmen für psychiatrische Forschung und Behandlung angestoßen. Wir vergleichen
     computationale Paradigmen wie normative Modellierung, Netzwerktheorie und lerntheoretische Ansätze
     und untersuchen ihre Gemeinsamkeiten, Unterschiede und möglichen konzeptuellen Konflikte.
+  summary_zh: >-
+    人们对传统精神障碍概念的不满日益增加，促使学界寻求一个连贯的精神病学研究与治疗框架。我们比较了常模建模、网络理论和学习理论方法等计算范式，并考察它们之间的相似之处、差异和潜在的概念冲突。
+  summary_hi: >-
+    मानसिक विकार की पारंपरिक अवधारणाओं से बढ़ते असंतोष के कारण मनोरोग संबंधी शोध और उपचार के लिए एक सुसंगत ढाँचे की खोज शुरू हुई है। हम नॉर्मेटिव मॉडलिंग, नेटवर्क सिद्धांत और लर्निंग-थ्योरी पर आधारित दृष्टिकोणों जैसे कम्प्यूटेशनल प्रतिमानों की तुलना करते हैं, और उनकी समानताओं, अंतरों और संभावित वैचारिक टकरावों की पड़ताल करते हैं।
+  summary_es: >-
+    La creciente insatisfacción con los conceptos tradicionales de trastorno mental ha impulsado la búsqueda de un marco coherente para la investigación y el tratamiento psiquiátricos. Comparamos paradigmas computacionales como el modelado normativo, la teoría de redes y los enfoques basados en la teoría del aprendizaje, y examinamos sus similitudes, sus diferencias y sus posibles conflictos conceptuales.
+  summary_fr: >-
+    L’insatisfaction croissante à l’égard des conceptions traditionnelles du trouble mental a conduit à rechercher un cadre cohérent pour la recherche et le traitement en psychiatrie. Nous comparons des paradigmes computationnels tels que la modélisation normative, la théorie des réseaux et les approches issues des théories de l’apprentissage, et nous examinons leurs points communs, leurs différences et leurs éventuels conflits conceptuels.
 - year: 2024
   title: Mapping Cerebellar Anatomical Heterogeneity in Mental and Neurological Illnesses
   venue: Nature Mental Health
@@ -172,6 +256,13 @@
     Wir haben normative Modelle an mehr als 50.000 Menschen trainiert, um die Entwicklung des Kleinhirns
     über die Lebensspanne zu kartieren. Die Modelle zeigen individuelle Unterschiede bei Menschen mit
     psychischen und neurologischen Erkrankungen.
+  summary_zh: 我们基于五万多人的数据训练常模模型，描绘了小脑在整个生命周期中的发育轨迹。这些模型揭示了精神与神经系统疾病患者之间的个体差异。
+  summary_hi: >-
+    हमने जीवनकाल में सेरिबैलम (अनुमस्तिष्क) के विकास का चार्ट बनाने के लिए 50,000 से अधिक लोगों के डेटा पर नॉर्मेटिव मॉडल प्रशिक्षित किए। ये मॉडल मानसिक और तंत्रिका संबंधी बीमारियों वाले लोगों में व्यक्तिगत अंतरों को सामने लाते हैं।
+  summary_es: >-
+    Entrenamos modelos normativos con datos de más de 50 000 personas para trazar el desarrollo del cerebelo a lo largo de la vida. Estos modelos revelan diferencias individuales en personas con enfermedades mentales y neurológicas.
+  summary_fr: >-
+    Nous avons entraîné des modèles normatifs sur plus de 50 000 personnes pour cartographier le développement du cervelet tout au long de la vie. Ces modèles révèlent des différences individuelles chez les personnes atteintes de maladies mentales et neurologiques.
 - year: 2023
   title: Regional, circuit and network heterogeneity of brain abnormalities in psychiatric disorders
   venue: Nature Neuroscience
@@ -185,6 +276,13 @@
     Wir haben normative Modelle auf mehrere psychische Störungen angewendet und individuelle
     Abweichungen auf Voxel-, Regions- und Netzwerkebene des Gehirns charakterisiert. Auf Netzwerkebene
     überschneiden sich die Abweichungen zwischen Personen stärker.
+  summary_zh: 我们将常模模型应用于多种精神障碍，在体素、脑区和网络层面刻画个体偏离。在网络层面，不同个体之间的偏离重叠程度更高。
+  summary_hi: >-
+    हमने कई मानसिक विकारों में नॉर्मेटिव मॉडल लागू किए और मस्तिष्क के वॉक्सेल, क्षेत्र और नेटवर्क स्तरों पर व्यक्तिगत विचलनों का विश्लेषण किया। नेटवर्क स्तर पर अलग-अलग व्यक्तियों के विचलन आपस में अधिक मेल खाते हैं।
+  summary_es: >-
+    Aplicamos modelos normativos a varios trastornos mentales y caracterizamos las desviaciones individuales en el cerebro a nivel de vóxel, de región y de red. Las desviaciones se solapan más entre individuos a nivel de red.
+  summary_fr: >-
+    Nous avons appliqué des modèles normatifs à plusieurs troubles mentaux et caractérisé les écarts individuels à l’échelle du voxel, de la région et du réseau cérébral. Les écarts se recoupent davantage d’une personne à l’autre à l’échelle des réseaux.
 - year: 2022
   title: Deep neural networks learn general and clinically relevant representations of the ageing brain
   venue: NeuroImage
@@ -201,6 +299,14 @@
     Learning in der Bildgebung zählt. In einem unabhängigen Benchmark erwies es sich als
     State-of-the-Art-Modell für das Hirnalter. Es ist robust gegenüber Domänenverschiebungen, zeigt aber
     den bekannten Zielkonflikt zwischen Genauigkeit des Hirnalters und Erkennung von Erkrankungen.
+  summary_zh: >-
+    我们基于五万多人的数据训练深度神经网络来预测脑龄，并将其迁移到临床预测任务中，表明数据规模对神经影像中的深度学习至关重要。该模型经独立评测被列为最先进的脑龄模型之一，对领域偏移具有稳健性，但也表现出脑龄预测准确性与疾病检测能力之间已知的权衡。
+  summary_hi: >-
+    हमने मस्तिष्क-आयु (ब्रेन एज) का अनुमान लगाने के लिए 50,000 से अधिक लोगों के डेटा पर एक डीप न्यूरल नेटवर्क प्रशिक्षित किया और उसे नैदानिक पूर्वानुमान के कार्यों में स्थानांतरित किया। इससे पता चलता है कि न्यूरोइमेजिंग में डीप लर्निंग के लिए डेटा का पैमाना मायने रखता है। स्वतंत्र बेंचमार्क में अत्याधुनिक मस्तिष्क-आयु मॉडल के रूप में आँका गया यह मॉडल डोमेन शिफ़्ट के प्रति मज़बूत है, लेकिन मस्तिष्क-आयु की सटीकता और रोग की पहचान के बीच पहले से ज्ञात संतुलन (ट्रेड-ऑफ़) को भी दर्शाता है।
+  summary_es: >-
+    Entrenamos una red neuronal profunda con datos de más de 50 000 personas para predecir la edad cerebral y la transferimos a tareas de predicción clínica, lo que demuestra que la escala importa en el aprendizaje profundo aplicado a la neuroimagen. Una evaluación independiente la sitúa entre los modelos de edad cerebral más avanzados. Es robusta frente a los cambios de dominio, pero muestra el conocido compromiso entre la precisión en la edad cerebral y la detección de enfermedades.
+  summary_fr: >-
+    Nous avons entraîné un réseau de neurones profond sur plus de 50 000 personnes pour prédire l’âge cérébral, puis nous l’avons transféré à des tâches de prédiction clinique, montrant que l’échelle compte pour l’apprentissage profond en neuro-imagerie. Évalué de manière indépendante comme un modèle d’âge cérébral de pointe, il résiste bien aux changements de domaine, mais présente le compromis connu entre précision de l’âge cérébral et détection des maladies.
 - year: 2022
   title: Charting brain growth and aging at high spatial precision
   venue: eLife
@@ -213,6 +319,13 @@
     Wir haben normative Modelle des menschlichen Gehirns mit hoher räumlicher Präzision aus Daten von
     mehr als 50.000 Menschen erstellt. Die Modelle lassen sich auf neue Stichproben übertragen und
     stehen anderen Forschenden frei online zur Verfügung.
+  summary_zh: 我们基于五万多人的数据，以高空间精度绘制了人脑的常模模型。这些模型可迁移到新样本，并已在线免费开放，供其他研究者使用。
+  summary_hi: >-
+    हमने 50,000 से अधिक लोगों के डेटा से उच्च स्थानिक सटीकता के साथ मानव मस्तिष्क के नॉर्मेटिव मॉडल तैयार किए। ये मॉडल नए नमूनों पर भी लागू होते हैं और अन्य शोधकर्ताओं के लिए ऑनलाइन निःशुल्क उपलब्ध हैं।
+  summary_es: >-
+    Trazamos modelos normativos del cerebro humano con alta precisión espacial a partir de datos de más de 50 000 personas. Los modelos se pueden transferir a nuevas muestras y están disponibles en línea de forma gratuita para otros investigadores.
+  summary_fr: >-
+    Nous avons établi des modèles normatifs du cerveau humain à haute précision spatiale à partir de plus de 50 000 personnes. Ces modèles se transfèrent à de nouveaux échantillons et sont librement accessibles en ligne pour d’autres chercheurs.
 - year: 2022
   title: The normative modeling framework for computational psychiatry
   venue: Nature Protocols
@@ -224,6 +337,13 @@
   summary_de: >-
     Wir beschreiben die Prinzipien der normativen Modellierung für die computationale Psychiatrie und
     stellen zugängliche Werkzeuge zur Datenanalyse in diesem Rahmen bereit.
+  summary_zh: 我们阐述了面向计算精神病学的常模建模原理，并提供了易于使用的工具，用于在这一框架下分析数据。
+  summary_hi: >-
+    हम कम्प्यूटेशनल साइकियाट्री के लिए नॉर्मेटिव मॉडलिंग के सिद्धांतों का वर्णन करते हैं और इस ढाँचे में डेटा का विश्लेषण करने के लिए सुलभ टूल उपलब्ध कराते हैं।
+  summary_es: >-
+    Describimos los principios del modelado normativo para la psiquiatría computacional y ofrecemos herramientas accesibles para analizar datos dentro de este marco.
+  summary_fr: >-
+    Nous décrivons les principes de la modélisation normative pour la psychiatrie computationnelle et proposons des outils accessibles pour analyser des données dans ce cadre.
 - year: 2021
   title: Replicating extensive brain structural heterogeneity in individuals with schizophrenia and bipolar
     disorder
@@ -238,6 +358,13 @@
     Wir haben unseren früheren Befund repliziert, dass Menschen mit Schizophrenie und bipolarer Störung
     individuelle Profile von Abweichungen vom normativen Gehirn zeigen. Andere Gruppen haben dies
     bestätigt, und der Befund gilt auch für weitere psychische und neurologische Erkrankungen.
+  summary_zh: 我们重复验证了此前的发现：精神分裂症和双相障碍患者各自表现出偏离常模大脑的个体化模式。此后其他研究团队也重复了这一发现，而且它同样适用于其他精神与神经系统疾病。
+  summary_hi: >-
+    हमने अपने पहले के इस निष्कर्ष की फिर से पुष्टि की कि स्किज़ोफ़्रेनिया और बाइपोलर डिसऑर्डर वाले लोग नॉर्मेटिव मस्तिष्क से विचलन के व्यक्तिगत प्रोफ़ाइल दिखाते हैं। तब से अन्य समूहों ने भी इसकी पुष्टि की है, और यह निष्कर्ष अन्य मानसिक और तंत्रिका संबंधी स्थितियों पर भी लागू होता है।
+  summary_es: >-
+    Replicamos nuestro hallazgo anterior de que las personas con esquizofrenia y trastorno bipolar presentan perfiles individuales de desviación respecto al cerebro normativo. Desde entonces, otros grupos lo han replicado, y el hallazgo se extiende a otros trastornos mentales y neurológicos.
+  summary_fr: >-
+    Nous avons reproduit notre résultat antérieur selon lequel les personnes atteintes de schizophrénie ou de trouble bipolaire présentent des profils individuels d’écart par rapport au cerveau normatif. D’autres groupes l’ont depuis confirmé, et ce résultat s’étend à d’autres troubles mentaux et neurologiques.
 - year: 2019
   title: Inter-individual differences in human brain structure and morphology link to variation in demographics
     and behavior
@@ -250,6 +377,13 @@
   summary_de: >-
     Wir zeigen, dass die Hirnstruktur einen großen Teil der funktionellen Interaktionen zwischen
     Regionen im gesunden menschlichen Gehirn erklärt.
+  summary_zh: 我们发现，在健康人脑中，脑结构可以解释脑区之间功能交互的很大一部分。
+  summary_hi: >-
+    हम दिखाते हैं कि स्वस्थ मानव मस्तिष्क में क्षेत्रों के बीच होने वाली कार्यात्मक अंतःक्रियाओं के एक बड़े हिस्से की व्याख्या मस्तिष्क की संरचना से होती है।
+  summary_es: >-
+    Mostramos que la estructura cerebral explica una gran parte de las interacciones funcionales entre regiones en el cerebro humano sano.
+  summary_fr: >-
+    Nous montrons que la structure cérébrale explique une grande part des interactions fonctionnelles entre régions dans le cerveau humain sain.
 - year: 2019
   title: 'Individual differences v. the average patient: mapping the heterogeneity in ADHD using normative
     models'
@@ -263,6 +397,13 @@
     Wir haben die Heterogenität der ADHS auf der Ebene einzelner Patientinnen und Patienten kartiert:
     Jede Person zeigte ein eigenes Profil von Abweichungen vom normativen Gehirn. Damit erweitern wir
     unseren Befund zur Schizophrenie.
+  summary_zh: 我们在单个患者层面描绘了注意缺陷多动障碍（ADHD）的异质性：每位患者都表现出偏离常模大脑的独特模式，这扩展了我们在精神分裂症中的发现。
+  summary_hi: >-
+    हमने व्यक्तिगत मरीज़ के स्तर पर ADHD की विषमता का मानचित्रण किया: हर मरीज़ ने नॉर्मेटिव मस्तिष्क से विचलनों का एक अलग प्रोफ़ाइल दिखाया, जिससे स्किज़ोफ़्रेनिया पर हमारा निष्कर्ष और व्यापक हुआ।
+  summary_es: >-
+    Mapeamos la heterogeneidad del TDAH a nivel de cada paciente: cada paciente mostró un perfil distinto de desviaciones respecto al cerebro normativo, lo que amplía nuestro hallazgo en la esquizofrenia.
+  summary_fr: >-
+    Nous avons cartographié l’hétérogénéité du TDAH à l’échelle de chaque patient : chaque patient présentait un profil distinct d’écarts par rapport au cerveau normatif, ce qui prolonge notre résultat obtenu dans la schizophrénie.
 - year: 2018
   title: Mapping the heterogeneous phenotype of schizophrenia and bipolar disorder using normative models
   venue: JAMA Psychiatry
@@ -279,6 +420,14 @@
     Hirnstruktur aufweist. Die Medien griffen den Befund unter der Frage "Wer ist der durchschnittliche
     Patient in der Psychiatrie?" auf. Er wurde seither vielfach mit unterschiedlichen Datenmodalitäten,
     Algorithmen und Stichproben repliziert.
+  summary_zh: >-
+    我们描绘了精神分裂症和双相障碍的异质性，发现每位患者都表现出偏离常模脑结构的个体化模式。媒体以“谁是精神病学中的平均患者？”为题报道了这一发现。此后，这一发现已在不同的数据模态、算法和样本中被多次重复验证。
+  summary_hi: >-
+    हमने स्किज़ोफ़्रेनिया और बाइपोलर डिसऑर्डर की विषमता का मानचित्रण किया और पाया कि हर मरीज़ नॉर्मेटिव मस्तिष्क-संरचना से विचलनों का एक व्यक्तिगत प्रोफ़ाइल दिखाता है। मीडिया ने इस निष्कर्ष को "मनोचिकित्सा में औसत मरीज़ कौन है?" के रूप में प्रस्तुत किया, और तब से विभिन्न डेटा मोडैलिटी, एल्गोरिदम और नमूनों में कई बार इसकी पुष्टि हो चुकी है।
+  summary_es: >-
+    Mapeamos la heterogeneidad de la esquizofrenia y el trastorno bipolar y observamos que cada paciente presenta un perfil individual de desviaciones respecto a la estructura cerebral normativa. Los medios de comunicación presentaron el hallazgo con la pregunta “¿Quién es el paciente promedio en psiquiatría?”, y desde entonces se ha replicado muchas veces con distintas modalidades de datos, algoritmos y muestras.
+  summary_fr: >-
+    Nous avons cartographié l’hétérogénéité de la schizophrénie et du trouble bipolaire et constaté que chaque patient présente un profil individuel d’écarts par rapport à la structure cérébrale normative. Les médias ont résumé ce résultat par la question « Qui est le patient moyen en psychiatrie ? », et il a depuis été reproduit à de nombreuses reprises, avec diverses modalités de données, divers algorithmes et divers échantillons.
 - year: 2015
   title: 'From estimating activation locality to predicting disorder: a review of pattern recognition
     for neuroimaging-based psychiatric diagnostics'
@@ -298,3 +447,11 @@
     und auf einen Publikationsbias zugunsten leistungsstarker, aber nicht repräsentativer Modelle
     zurück. Die Arbeit trug zu einer Debatte über Fehler bei der Kreuzvalidierung bei und motivierte
     Methoden, die diese Heterogenität abbilden.
+  summary_zh: >-
+    我们发现，利用模式分类预测精神障碍时，准确率随样本量增大而下降，这与机器学习中通常观察到的情况相反。我们认为，这部分源于精神障碍的异质性，也源于发表偏倚，即表现良好但缺乏代表性的模型更容易得到发表。这项工作推动了关于交叉验证失效的讨论，并促使人们开发能够刻画这种异质性的方法。
+  summary_hi: >-
+    हमने दिखाया कि मानसिक विकारों के पूर्वानुमान के लिए पैटर्न क्लासिफ़िकेशन की सटीकता नमूने का आकार बढ़ने के साथ घटती है, जो मशीन लर्निंग में आमतौर पर दिखने वाले रुझान के विपरीत है। हम इसका कारण आंशिक रूप से मानसिक विकारों की विषमता को, और आंशिक रूप से अच्छे प्रदर्शन वाले पर प्रतिनिधित्व न करने वाले मॉडलों के पक्ष में प्रकाशन पूर्वाग्रह को मानते हैं। इस काम ने क्रॉस-वैलिडेशन की विफलताओं पर चल रही बहस में योगदान दिया और ऐसी पद्धतियों को प्रेरित किया जो इस विषमता का मानचित्रण करती हैं।
+  summary_es: >-
+    Mostramos que la precisión de la clasificación de patrones para predecir trastornos mentales disminuye a medida que aumenta el tamaño de la muestra, lo contrario de lo que suele observarse en el aprendizaje automático. Lo atribuimos en parte a la heterogeneidad de los trastornos mentales y a un sesgo de publicación a favor de modelos con buen rendimiento pero poco representativos. El trabajo contribuyó a un debate sobre los fallos de la validación cruzada y motivó métodos que mapean esta heterogeneidad.
+  summary_fr: >-
+    Nous avons montré que la précision de la classification de motifs pour prédire les troubles mentaux diminue lorsque la taille de l’échantillon augmente, contrairement à ce que l’on observe habituellement en apprentissage automatique. Nous l’attribuons en partie à l’hétérogénéité des troubles mentaux et à un biais de publication en faveur de modèles performants mais peu représentatifs. Ce travail a nourri un débat sur les échecs de la validation croisée et a motivé le développement de méthodes qui cartographient cette hétérogénéité.

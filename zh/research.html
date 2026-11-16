@@ -1,0 +1,106 @@
+---
+title: "研究与代表性论文"
+permalink: /zh/research/
+lang: zh
+description: "Mental Health Mapping 实验室的研究：四个研究主题（精神与神经系统疾病的基础、结构、标志物和模型）以及代表性论文。"
+---
+<!-- 研究页面（中文）：主题来自 _data/research.yml（字段 *_zh），论文来自 _data/publications.yml（summary_zh） -->
+
+<p class="lead research-lead">Mental Health Mapping 融合了机器学习、神经科学、精神病学、神经病学和哲学。自2022年实验室成立以来，我们有幸与众多合作者一起，在这些领域的一流期刊和会议上发表论文。以下是实验室成员参与的部分代表性论文，每篇都附有简短摘要。论文标题保留英文原文，完整列表请见 <a href="https://scholar.google.com/citations?hl=zh-CN&user=4f2rdMcAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>。</p>
+
+<div class="theme-icons" id="themes">
+{% for theme in site.data.research %}
+<a class="theme-icon" href="#{{ theme.name | downcase }}">
+<img src="/images/{{ theme.image }}" alt="{{ theme.title_zh | default: theme.title }}" width="400" height="400" decoding="async">
+<span>{{ theme.name_zh | default: theme.name }}</span>
+</a>
+{% endfor %}
+</div>
+<p class="hint">点击主题，了解更多。</p>
+{% for theme in site.data.research %}
+<section class="theme-panel" id="{{ theme.name | downcase }}">
+<h3>{{ theme.title_zh | default: theme.title }}</h3>
+{{ theme.text_zh | default: theme.text | markdownify }}
+<p><a href="#themes">收起</a></p>
+</section>
+{% endfor %}
+
+<script>
+// Open a theme's text in place (no jump), mark the active icon, click again to close.
+// Without JavaScript the links still work and open the text via the #anchor.
+(function () {
+  var icons = document.querySelectorAll('.theme-icon'), panels = document.querySelectorAll('.theme-panel');
+  function show(id) {
+    // Inline display wins over any (cached) stylesheet, so a panel can never get stuck open or closed.
+    panels.forEach(function (p) { var on = p.id === id; p.classList.toggle('open', on); p.style.display = on ? 'block' : 'none'; });
+    icons.forEach(function (a) { a.setAttribute('aria-expanded', a.getAttribute('href') === '#' + id ? 'true' : 'false'); });
+  }
+  icons.forEach(function (a) {
+    a.setAttribute('aria-expanded', 'false');
+    a.addEventListener('click', function (e) {
+      e.preventDefault();
+      var id = a.getAttribute('href').slice(1);
+      var open = a.getAttribute('aria-expanded') === 'true';
+      show(open ? '' : id);
+      history.replaceState(null, '', open ? location.pathname : '#' + id);
+    });
+  });
+  document.querySelectorAll('.theme-panel a[href="#themes"]').forEach(function (a) {
+    a.addEventListener('click', function (e) { e.preventDefault(); show(''); history.replaceState(null, '', location.pathname); });
+  });
+  // Follow the address bar: on load, on in-page links (#markers), and on Back/Forward.
+  function fromHash() {
+    var id = decodeURIComponent(location.hash.slice(1)), el = id && document.getElementById(id);
+    show(el && el.classList.contains('theme-panel') ? id : '');
+  }
+  fromHash();
+  window.addEventListener('hashchange', fromHash);
+  window.addEventListener('pageshow', fromHash);
+})();
+</script>
+
+<div id="publications"></div>
+
+{% assign years = site.data.publications | group_by: "year" %}
+{% for year in years %}
+<h2 class="year">{{ year.name }}</h2>
+{% for pub in year.items %}
+<div class="pub" id="{{ pub.id | default: pub.title | slugify }}">
+<p class="pub-title" lang="en"><a href="{{ pub.link }}">{{ pub.title }}</a></p>
+<div class="pub-meta"><span class="venue">{{ pub.venue | replace: " (accepted)", "（已接收）" | replace: "(accepted)", "（已接收）" }}</span> · <a href="{{ pub.link }}">{% if pub.link_text == "Paper" %}论文{% elsif pub.link_text == "Preprint" %}预印本{% else %}{{ pub.link_text }}{% endif %}</a> ·
+<details class="pub-summary"><summary>摘要</summary><p class="summary">{{ pub.summary_zh | default: pub.summary }}</p></details></div>
+</div>
+{% endfor %}
+{% endfor %}
+
+<script>
+// When a paper is linked directly (e.g. from the homepage highlights), open its summary.
+(function () {
+  function openTarget() {
+    document.querySelectorAll('.pub.linked').forEach(function (p) { p.classList.remove('linked'); });
+    var el = location.hash && document.getElementById(decodeURIComponent(location.hash.slice(1)));
+    if (el && el.classList.contains('pub')) { el.classList.add('linked'); var d = el.querySelector('details'); if (d) d.open = true; }
+  }
+  // Closing the summary of the linked paper removes the green shading (and the #link).
+  document.querySelectorAll('.pub details').forEach(function (d) {
+    d.addEventListener('toggle', function () {
+      var pub = d.closest('.pub');
+      if (!d.open && pub.classList.contains('linked')) { pub.classList.remove('linked'); history.replaceState(null, '', location.pathname); }
+    });
+  });
+  openTarget(); window.addEventListener('hashchange', openTarget);
+})();
+</script>
+
+<script>
+// The Research page always opens at the top, also from old links with #publications or a theme (the theme
+// still opens). Only a link to one specific paper (e.g. from a homepage highlight) jumps to that paper.
+(function () {
+  var id = decodeURIComponent(location.hash.slice(1)), el = id && document.getElementById(id);
+  if (!id || (el && el.classList.contains('pub'))) return;
+  if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
+  function top() { window.scrollTo(0, 0); }
+  top(); requestAnimationFrame(top);
+  window.addEventListener('load', function () { top(); setTimeout(top, 60); });
+})();
+</script>

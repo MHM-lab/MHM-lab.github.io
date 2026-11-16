@@ -1,0 +1,26 @@
+---
+title: टीम
+permalink: /hi/people/
+lang: hi
+description: "फ्रेडरिक शिलर विश्वविद्यालय, येना की Mental Health Mapping प्रयोगशाला के सदस्य।"
+---
+<!-- Team members are listed in _data/people.yml (Hindi text in the field bio_hi). Roles are translated below. -->
+
+<p>प्रयोगशाला के सदस्य, उपनाम के अंग्रेज़ी वर्णक्रम में।</p>
+
+{% for person in site.data.people %}
+{% assign role = person.role | replace: "PostDoc & Humboldt Fellow", "पोस्टडॉक एवं हम्बोल्ट फ़ेलो" | replace: "PostDoc & Boehringer Ingelheim Fellow", "पोस्टडॉक एवं बोह्रिंगर इंगेलहाइम फ़ेलो" | replace: "PostDoc", "पोस्टडॉक" | replace: "Principal Investigator", "प्रधान अन्वेषक" | replace: "PhD Candidate", "पीएचडी शोधार्थी" | replace: "MSc Student & HiWi", "एमएससी विद्यार्थी एवं छात्र सहायक (HiWi)" | replace: "MSc Student", "एमएससी विद्यार्थी" | replace: "BSc Student", "बीएससी विद्यार्थी" | replace: "HiWi & Research Assistant", "छात्र सहायक (HiWi) एवं शोध सहायक" | replace: "Data Scientist & IT Infrastructure", "डेटा साइंटिस्ट एवं आईटी इन्फ्रास्ट्रक्चर" %}
+<div class="person">
+<img src="/images/{{ person.photo }}" alt="{{ person.first }} {{ person.last }} की तस्वीर" width="130" height="130" loading="lazy" decoding="async">
+<div>
+<h2 class="name"><span class="first">{{ person.first }}</span> <span class="last">{{ person.last }}</span></h2>
+<p class="role">{{ role }}</p>
+{{ person.bio_hi | default: person.bio | markdownify }}
+</div>
+</div>
+{% endfor %}
+
+<p class="alumni-note">हमारे पूर्व सदस्य यूरोप और उससे आगे पोस्टडॉक्टरल पदों पर, डेटा साइंस, मशीन लर्निंग और स्वास्थ्य सेवा से जुड़ी उद्योग की भूमिकाओं में, और स्टार्टअप्स में गए हैं।</p>
+<div class="buttons compact">
+<a class="button secondary" href="/hi/alumni/" rel="nofollow">सभी पूर्व सदस्य देखें</a>
+</div>
