@@ -10,17 +10,25 @@
   photo: dai.jpg
   bio: >-
     I model brain networks in health and disease by combining network science and machine learning. I
-    hold a PhD in Computer Science from ENS Lyon.
+    hold a PhD in Computer Science from ENS Lyon. Outside the lab, I love nature and animals.
   bio_de: >-
     Ich modelliere Gehirnnetzwerke in Gesundheit und Krankheit und verbinde dabei Netzwerkwissenschaft
-    mit maschinellem Lernen. Ich habe an der ENS Lyon in Informatik promoviert.
-  bio_zh: 我结合网络科学与机器学习，对健康和疾病状态下的脑网络进行建模。我在里昂高等师范学校（ENS Lyon）获得计算机科学博士学位。
+    mit maschinellem Lernen. Ich habe an der ENS Lyon in Informatik promoviert. In meiner Freizeit bin
+    ich gern in der Natur und liebe Tiere.
+  bio_zh: >-
+    我结合网络科学与机器学习，对健康和疾病状态下的脑网络进行建模。我在里昂高等师范学校（ENS Lyon）获得计算机科学博士学位。工作之余，我热爱大自然，也很喜欢动物。
   bio_hi: >-
-    मेरा शोध नेटवर्क साइंस और मशीन लर्निंग को जोड़कर स्वास्थ्य और रोग की स्थिति में मस्तिष्क नेटवर्क की मॉडलिंग पर केंद्रित है। मैंने ENS Lyon से कंप्यूटर साइंस में पीएचडी की है।
+    मेरा शोध नेटवर्क साइंस और मशीन लर्निंग को जोड़कर स्वास्थ्य और रोग की स्थिति में मस्तिष्क नेटवर्क की
+    मॉडलिंग पर केंद्रित है। मैंने ENS Lyon से कंप्यूटर साइंस में पीएचडी की है। लैब के बाहर मुझे प्रकृति
+    और जानवरों से बहुत लगाव है।
   bio_es: >-
-    Modelo redes cerebrales en la salud y en la enfermedad combinando la ciencia de redes y el aprendizaje automático. Me doctoré en Informática en la ENS Lyon.
+    Modelo redes cerebrales en la salud y en la enfermedad combinando la ciencia de redes y el
+    aprendizaje automático. Me doctoré en Informática en la ENS Lyon. Fuera del laboratorio, me encantan
+    la naturaleza y los animales.
   bio_fr: >-
-    Je modélise les réseaux cérébraux, chez les personnes en bonne santé comme dans la maladie, en associant science des réseaux et apprentissage automatique. Je suis titulaire d’un doctorat en informatique de l’ENS de Lyon.
+    Je modélise les réseaux cérébraux, chez les personnes en bonne santé comme dans la maladie, en
+    associant science des réseaux et apprentissage automatique. Je suis titulaire d’un doctorat en
+    informatique de l’ENS de Lyon. En dehors du laboratoire, j’aime la nature et les animaux.
 - first: Alexander
   last: Frotscher
   role: PhD Candidate
@@ -28,322 +36,510 @@
   bio: >-
     I develop unsupervised anomaly detection methods for neuroimaging, with a focus on methodological
     rigor in clinical applications. I hold a master's in Bioinformatics from the University of Tübingen.
+    In my spare time, I enjoy all kinds of sports.
   bio_de: >-
     Ich entwickle unüberwachte Methoden zur Anomalieerkennung in der Neurobildgebung, mit einem Fokus
     auf methodischer Strenge in klinischen Anwendungen. Ich habe einen Master in Bioinformatik an der
-    Universität Tübingen abgeschlossen.
-  bio_zh: 我开发用于神经影像的无监督异常检测方法，注重临床应用中的方法学严谨性。我在图宾根大学获得生物信息学硕士学位。
+    Universität Tübingen abgeschlossen. In meiner Freizeit treibe ich gern verschiedene Sportarten.
+  bio_zh: >-
+    我开发用于神经影像的无监督异常检测方法，注重临床应用中的方法学严谨性。我在图宾根大学获得生物信息学硕士学位。业余时间，我喜欢各种运动。
   bio_hi: >-
-    मेरा काम न्यूरोइमेजिंग के लिए अनसुपरवाइज़्ड एनॉमली डिटेक्शन (असामान्यता की स्वचालित पहचान) की विधियाँ विकसित करना है, जिसमें नैदानिक अनुप्रयोगों में पद्धतिगत सटीकता पर विशेष ध्यान रहता है। मैंने ट्यूबिंगन विश्वविद्यालय से बायोइन्फ़ॉर्मेटिक्स में मास्टर्स किया है।
+    मेरा काम न्यूरोइमेजिंग के लिए अनसुपरवाइज़्ड एनॉमली डिटेक्शन (असामान्यता की स्वचालित पहचान) की
+    विधियाँ विकसित करना है, जिसमें नैदानिक अनुप्रयोगों में पद्धतिगत सटीकता पर विशेष ध्यान रहता है। मैंने
+    ट्यूबिंगन विश्वविद्यालय से बायोइन्फ़ॉर्मेटिक्स में मास्टर्स किया है। खाली समय में मुझे तरह-तरह के
+    खेल पसंद हैं।
   bio_es: >-
-    Desarrollo métodos no supervisados de detección de anomalías para neuroimagen, con especial atención al rigor metodológico en las aplicaciones clínicas. Tengo un máster en Bioinformática por la Universidad de Tubinga.
+    Desarrollo métodos no supervisados de detección de anomalías para neuroimagen, con especial atención
+    al rigor metodológico en las aplicaciones clínicas. Tengo un máster en Bioinformática por la
+    Universidad de Tubinga. En mi tiempo libre, disfruto de todo tipo de deportes.
   bio_fr: >-
-    Je développe des méthodes non supervisées de détection d’anomalies pour la neuro-imagerie, en mettant l’accent sur la rigueur méthodologique dans les applications cliniques. Je suis titulaire d’un master en bio-informatique de l’Université de Tübingen.
+    Je développe des méthodes non supervisées de détection d’anomalies pour la neuro-imagerie, en
+    mettant l’accent sur la rigueur méthodologique dans les applications cliniques. Je suis titulaire
+    d’un master en bio-informatique de l’Université de Tübingen. Pendant mon temps libre, je pratique
+    toutes sortes de sports.
 - first: Mebin Muhammed
   last: Hamzakoya Sulaikha
   role: PhD Candidate
   photo: mebin.jpg
   bio: >-
     I develop longitudinal normative models for neuroimaging and other modalities, drawing on dynamic
-    modeling. I hold an M.Tech from IIT Ropar.
+    modeling. I hold an M.Tech from IIT Ropar. Outside the lab, I enjoy traveling, social work, and
+    public speaking.
   bio_de: >-
     Ich entwickle longitudinale normative Modelle für die Neurobildgebung und weitere Modalitäten und
-    stütze mich dabei auf dynamische Modellierung. Ich habe einen M.Tech am IIT Ropar abgeschlossen.
-  bio_zh: 我借鉴动态建模方法，为神经影像及其他模态的数据开发纵向常模模型。我在印度理工学院罗帕尔分校（IIT Ropar）获得工学硕士（M.Tech）学位。
+    stütze mich dabei auf dynamische Modellierung. Ich habe einen M.Tech am IIT Ropar abgeschlossen. In
+    meiner Freizeit reise ich gern, engagiere mich sozial und halte gern Vorträge.
+  bio_zh: >-
+    我借鉴动态建模方法，为神经影像及其他模态的数据开发纵向常模模型。我在印度理工学院罗帕尔分校（IIT Ropar）获得工学硕士（M.Tech）学位。工作之余，我喜欢旅行、参与社会公益，也喜欢公开演讲。
   bio_hi: >-
-    मेरा काम डायनेमिक मॉडलिंग की मदद से न्यूरोइमेजिंग और अन्य डेटा मोडैलिटी के लिए अनुदैर्ध्य (लॉन्गिट्यूडिनल) नॉर्मेटिव मॉडल विकसित करना है। मैंने आईआईटी रोपड़ से एम.टेक किया है।
+    मेरा काम डायनेमिक मॉडलिंग की मदद से न्यूरोइमेजिंग और अन्य डेटा मोडैलिटी के लिए अनुदैर्ध्य
+    (लॉन्गिट्यूडिनल) नॉर्मेटिव मॉडल विकसित करना है। मैंने आईआईटी रोपड़ से एम.टेक किया है। लैब के बाहर
+    मुझे यात्रा करना, सामाजिक कार्य और सार्वजनिक भाषण देना पसंद है।
   bio_es: >-
-    Desarrollo modelos normativos longitudinales para neuroimagen y otras modalidades, apoyándome en el modelado dinámico. Tengo un M.Tech por el IIT Ropar.
+    Desarrollo modelos normativos longitudinales para neuroimagen y otras modalidades, apoyándome en el
+    modelado dinámico. Tengo un M.Tech por el IIT Ropar. Fuera del laboratorio, me gusta viajar, el
+    trabajo social y hablar en público.
   bio_fr: >-
-    Je développe des modèles normatifs longitudinaux pour la neuro-imagerie et d’autres modalités, en m’appuyant sur la modélisation dynamique. Je suis titulaire d’un M.Tech de l’IIT Ropar.
+    Je développe des modèles normatifs longitudinaux pour la neuro-imagerie et d’autres modalités, en
+    m’appuyant sur la modélisation dynamique. Je suis titulaire d’un M.Tech de l’IIT Ropar. En dehors du
+    laboratoire, j’aime voyager, m’engager dans le travail social et prendre la parole en public.
 - first: Atharva (Athu)
   last: Kand
   role: PhD Candidate
   photo: athu.jpg
   bio: >-
-    I model how individual brain structure and function diverge over time, using stochastic, biologically
-    informed models to capture uncertainty in psychiatric conditions. I hold a master's in Cognitive Neuroscience from the Donders Institute, Radboud University.
+    I model how individual brain structure and function diverge over time, using stochastic,
+    biologically informed models to capture uncertainty in psychiatric conditions. I hold a master's in
+    Cognitive Neuroscience from the Donders Institute, Radboud University. Outside the lab, I enjoy long
+    walks, racquet sports, and contemplative art.
   bio_de: >-
     Ich modelliere, wie sich individuelle Hirnstruktur und -funktion im Zeitverlauf
     auseinanderentwickeln, und nutze stochastische, biologisch fundierte Modelle, um Unsicherheit bei
     psychiatrischen Erkrankungen abzubilden. Ich habe einen Master in Kognitiver Neurowissenschaft am
-    Donders Institute der Radboud University abgeschlossen.
-  bio_zh: 我研究个体的脑结构与脑功能如何随时间推移而逐渐偏离，并利用具有生物学依据的随机模型来刻画精神疾病中的不确定性。我在拉德堡德大学 Donders 研究所获得认知神经科学硕士学位。
+    Donders Institute der Radboud University abgeschlossen. In meiner Freizeit mag ich lange
+    Spaziergänge, Rückschlagsportarten und kontemplative Kunst.
+  bio_zh: >-
+    我研究个体的脑结构与脑功能如何随时间推移而逐渐偏离，并利用具有生物学依据的随机模型来刻画精神疾病中的不确定性。我在拉德堡德大学 Donders 研究所获得认知神经科学硕士学位。工作之余，我喜欢长距离散步、球拍类运动和沉思类艺术。
   bio_hi: >-
-    मेरा शोध इस बात की मॉडलिंग पर है कि समय के साथ व्यक्तियों के मस्तिष्क की संरचना और कार्य किस तरह एक-दूसरे से अलग होते जाते हैं। मनोरोग संबंधी स्थितियों में अनिश्चितता को समझने के लिए इसमें स्टोकेस्टिक और जैविक जानकारी पर आधारित मॉडल का उपयोग होता है। मैंने रैडबाउड विश्वविद्यालय के डॉन्डर्स इंस्टीट्यूट से कॉग्निटिव न्यूरोसाइंस में मास्टर्स किया है।
+    मेरा शोध इस बात की मॉडलिंग पर है कि समय के साथ व्यक्तियों के मस्तिष्क की संरचना और कार्य किस तरह
+    एक-दूसरे से अलग होते जाते हैं। मनोरोग संबंधी स्थितियों में अनिश्चितता को समझने के लिए इसमें
+    स्टोकेस्टिक और जैविक जानकारी पर आधारित मॉडल का उपयोग होता है। मैंने रैडबाउड विश्वविद्यालय के
+    डॉन्डर्स इंस्टीट्यूट से कॉग्निटिव न्यूरोसाइंस में मास्टर्स किया है। लैब के बाहर मुझे लंबी सैर, रैकेट
+    वाले खेल और चिंतनशील कला पसंद है।
   bio_es: >-
-    Modelo cómo divergen con el tiempo la estructura y la función cerebrales de cada persona, con modelos estocásticos y de base biológica que captan la incertidumbre en los trastornos psiquiátricos. Tengo un máster en Neurociencia Cognitiva por el Donders Institute de la Universidad Radboud.
+    Modelo cómo divergen con el tiempo la estructura y la función cerebrales de cada persona, con
+    modelos estocásticos y de base biológica que captan la incertidumbre en los trastornos
+    psiquiátricos. Tengo un máster en Neurociencia Cognitiva por el Donders Institute de la Universidad
+    Radboud. Fuera del laboratorio, disfruto de los paseos largos, los deportes de raqueta y el arte
+    contemplativo.
   bio_fr: >-
-    Je modélise la manière dont la structure et le fonctionnement du cerveau de chaque personne divergent au fil du temps, à l’aide de modèles stochastiques fondés sur la biologie qui rendent compte de l’incertitude dans les troubles psychiatriques. Je suis titulaire d’un master en neurosciences cognitives du Donders Institute, Université Radboud.
+    Je modélise la manière dont la structure et le fonctionnement du cerveau de chaque personne
+    divergent au fil du temps, à l’aide de modèles stochastiques fondés sur la biologie qui rendent
+    compte de l’incertitude dans les troubles psychiatriques. Je suis titulaire d’un master en
+    neurosciences cognitives du Donders Institute, Université Radboud. En dehors du laboratoire, j’aime
+    les longues promenades, les sports de raquette et l’art contemplatif.
 - first: Lina (Evangelia Sofia)
   last: Kornaraki
   role: MSc Student
   photo: lina.jpg
   bio: >-
-    I am a master's student in Psychology at Friedrich Schiller University Jena, studying how structural and functional brain connectivity
-    are coupled and whether this coupling can serve as a marker for psychiatric disorders.
+    I am a master's student in Psychology at Friedrich Schiller University Jena, studying how structural
+    and functional brain connectivity are coupled and whether this coupling can serve as a marker for
+    psychiatric disorders.
   bio_de: >-
     Ich studiere Psychologie im Master an der Friedrich-Schiller-Universität Jena und untersuche, wie
     strukturelle und funktionelle Konnektivität des Gehirns gekoppelt sind und ob sich diese Kopplung
     als Marker für psychiatrische Erkrankungen eignet.
-  bio_zh: 我是耶拿大学心理学专业的硕士研究生，研究大脑的结构连接与功能连接如何耦合，以及这种耦合能否作为精神疾病的标志物。
+  bio_zh: >-
+    我是耶拿大学心理学专业的硕士研究生，研究大脑的结构连接与功能连接如何耦合，以及这种耦合能否作为精神疾病的标志物。
   bio_hi: >-
-    मैं फ्रेडरिक शिलर विश्वविद्यालय, येना में मनोविज्ञान में मास्टर्स विद्यार्थी हूँ। मेरा शोध इस बात पर है कि मस्तिष्क की संरचनात्मक और कार्यात्मक कनेक्टिविटी आपस में कैसे जुड़ी होती हैं, और क्या यह जुड़ाव मनोरोग संबंधी विकारों के लिए एक मार्कर का काम कर सकता है।
+    मैं फ्रेडरिक शिलर विश्वविद्यालय, येना में मनोविज्ञान में मास्टर्स विद्यार्थी हूँ। मेरा शोध इस बात पर
+    है कि मस्तिष्क की संरचनात्मक और कार्यात्मक कनेक्टिविटी आपस में कैसे जुड़ी होती हैं, और क्या यह
+    जुड़ाव मनोरोग संबंधी विकारों के लिए एक मार्कर का काम कर सकता है।
   bio_es: >-
-    Soy estudiante de máster en Psicología en la Universidad Friedrich Schiller de Jena. Estudio cómo se acoplan la conectividad cerebral estructural y la funcional, y si este acoplamiento puede servir como marcador de trastornos psiquiátricos.
+    Soy estudiante de máster en Psicología en la Universidad Friedrich Schiller de Jena. Estudio cómo se
+    acoplan la conectividad cerebral estructural y la funcional, y si este acoplamiento puede servir
+    como marcador de trastornos psiquiátricos.
   bio_fr: >-
-    Je suis étudiante en master de psychologie à l’Université Friedrich-Schiller d’Iéna. J’étudie le couplage entre la connectivité cérébrale structurelle et fonctionnelle, et la possibilité que ce couplage serve de marqueur des troubles psychiatriques.
+    Je suis étudiante en master de psychologie à l’Université Friedrich-Schiller d’Iéna. J’étudie le
+    couplage entre la connectivité cérébrale structurelle et fonctionnelle, et la possibilité que ce
+    couplage serve de marqueur des troubles psychiatriques.
 - first: Marc
   last: Lemnitzer
   role: MSc Student & HiWi
   photo: marc.jpg
   bio: >-
-    I am a master's student in Bioinformatics at the University of Tübingen and help develop and validate a machine learning package for
-    mapping complex biomarker configurations.
+    I am a master's student in Bioinformatics at the University of Tübingen and help develop and
+    validate a machine learning package for mapping complex biomarker configurations.
   bio_de: >-
     Ich studiere Bioinformatik im Master an der Universität Tübingen und helfe bei der Entwicklung und
     Validierung eines Machine-Learning-Pakets zur Abbildung komplexer Biomarker-Konfigurationen.
-  bio_zh: 我是图宾根大学生物信息学专业的硕士研究生，参与开发和验证一个用于刻画复杂生物标志物组合的机器学习软件包。
+  bio_zh: >-
+    我是图宾根大学生物信息学专业的硕士研究生，参与开发和验证一个用于刻画复杂生物标志物组合的机器学习软件包。
   bio_hi: >-
-    मैं ट्यूबिंगन विश्वविद्यालय में बायोइन्फ़ॉर्मेटिक्स में मास्टर्स विद्यार्थी हूँ। जटिल बायोमार्कर विन्यासों की मैपिंग के लिए एक मशीन लर्निंग पैकेज के विकास और सत्यापन में सहयोग देना मेरी भूमिका है।
+    मैं ट्यूबिंगन विश्वविद्यालय में बायोइन्फ़ॉर्मेटिक्स में मास्टर्स विद्यार्थी हूँ। जटिल बायोमार्कर
+    विन्यासों की मैपिंग के लिए एक मशीन लर्निंग पैकेज के विकास और सत्यापन में सहयोग देना मेरी भूमिका है।
   bio_es: >-
-    Soy estudiante de máster en Bioinformática en la Universidad de Tubinga y colaboro en el desarrollo y la validación de un paquete de aprendizaje automático para mapear configuraciones complejas de biomarcadores.
+    Soy estudiante de máster en Bioinformática en la Universidad de Tubinga y colaboro en el desarrollo
+    y la validación de un paquete de aprendizaje automático para mapear configuraciones complejas de
+    biomarcadores.
   bio_fr: >-
-    Je suis étudiant en master de bio-informatique à l’Université de Tübingen et je participe au développement et à la validation d’une bibliothèque d’apprentissage automatique destinée à cartographier des configurations complexes de biomarqueurs.
+    Je suis étudiant en master de bio-informatique à l’Université de Tübingen et je participe au
+    développement et à la validation d’une bibliothèque d’apprentissage automatique destinée à
+    cartographier des configurations complexes de biomarqueurs.
 - first: Francesco
   last: Mallus
   role: PhD Candidate
   photo: mallus.jpg
   bio: >-
     I study brain function and its changes across the lifespan, with the aim of developing reference
-    frameworks for neuropsychiatry. I hold a master's degree in Biomedical Engineering from the Polytechnic
-    University of Turin.
+    frameworks for neuropsychiatry. I hold a master's degree in Biomedical Engineering from the
+    Polytechnic University of Turin. In my free time, I enjoy photography, tinkering, and sailing.
   bio_de: >-
     Ich untersuche die Hirnfunktion und ihre Veränderungen über die Lebensspanne, mit dem Ziel,
-    Referenzrahmen für die Neuropsychiatrie zu entwickeln. Ich habe einen Master in Biomedizintechnik an der
-    Polytechnic University of Turin abgeschlossen.
-  bio_zh: 我研究脑功能及其在整个生命周期中的变化，目标是为神经精神病学建立参照框架。我在都灵理工大学获得生物医学工程硕士学位。
+    Referenzrahmen für die Neuropsychiatrie zu entwickeln. Ich habe einen Master in Biomedizintechnik an
+    der Polytechnic University of Turin abgeschlossen. In meiner Freizeit fotografiere ich, bastle gern
+    und segle.
+  bio_zh: >-
+    我研究脑功能及其在整个生命周期中的变化，目标是为神经精神病学建立参照框架。我在都灵理工大学获得生物医学工程硕士学位。业余时间，我喜欢摄影、动手做些小制作，还有帆船。
   bio_hi: >-
-    मेरा शोध मस्तिष्क के कार्य और जीवनकाल में उसमें होने वाले बदलावों पर है, जिसका उद्देश्य न्यूरोसाइकियाट्री के लिए संदर्भ ढाँचे विकसित करना है। मैंने ट्यूरिन पॉलिटेक्निक विश्वविद्यालय से बायोमेडिकल इंजीनियरिंग में मास्टर्स किया है।
+    मेरा शोध मस्तिष्क के कार्य और जीवनकाल में उसमें होने वाले बदलावों पर है, जिसका उद्देश्य
+    न्यूरोसाइकियाट्री के लिए संदर्भ ढाँचे विकसित करना है। मैंने ट्यूरिन पॉलिटेक्निक विश्वविद्यालय से
+    बायोमेडिकल इंजीनियरिंग में मास्टर्स किया है। खाली समय में मुझे फ़ोटोग्राफ़ी, चीज़ें खुद बनाना-जोड़ना
+    और नौकायन पसंद है।
   bio_es: >-
-    Estudio la función cerebral y sus cambios a lo largo de la vida, con el objetivo de desarrollar marcos de referencia para la neuropsiquiatría. Tengo un máster en Ingeniería Biomédica por el Politécnico de Turín.
+    Estudio la función cerebral y sus cambios a lo largo de la vida, con el objetivo de desarrollar
+    marcos de referencia para la neuropsiquiatría. Tengo un máster en Ingeniería Biomédica por el
+    Politécnico de Turín. En mi tiempo libre, disfruto de la fotografía, del bricolaje y de la vela.
   bio_fr: >-
-    J’étudie le fonctionnement du cerveau et son évolution au cours de la vie, dans le but de développer des cadres de référence pour la neuropsychiatrie. Je suis titulaire d’un master en génie biomédical de l’École polytechnique de Turin.
+    J’étudie le fonctionnement du cerveau et son évolution au cours de la vie, dans le but de développer
+    des cadres de référence pour la neuropsychiatrie. Je suis titulaire d’un master en génie biomédical
+    de l’École polytechnique de Turin. Pendant mon temps libre, j’aime la photographie, le bricolage et
+    la voile.
 - first: Minh-Hieu
   last: Nguyen
   role: PhD Candidate
   photo: mh_pic.jpg
   bio: >-
-    I develop computational models of learning and decision-making in people with mental health conditions.
-    I hold a master's in Neural Information Processing from the University of Tübingen.
+    I develop computational models of learning and decision-making in people with mental health
+    conditions. I hold a master's in Neural Information Processing from the University of Tübingen.
+    Outside the lab, I enjoy cooking, music, and reading.
   bio_de: >-
     Ich entwickle computationale Modelle des Lernens und Entscheidens bei Menschen mit psychischen
     Erkrankungen. Ich habe einen Master in Neural Information Processing an der Universität Tübingen
-    abgeschlossen.
-  bio_zh: 我为有心理健康问题的人的学习与决策过程构建计算模型。我在图宾根大学获得神经信息处理（Neural Information Processing）硕士学位。
+    abgeschlossen. In meiner Freizeit koche ich gern, höre Musik und lese.
+  bio_zh: >-
+    我为有心理健康问题的人的学习与决策过程构建计算模型。我在图宾根大学获得神经信息处理（Neural Information Processing）硕士学位。工作之余，我喜欢烹饪、音乐和阅读。
   bio_hi: >-
-    मेरा काम मानसिक स्वास्थ्य संबंधी स्थितियों वाले लोगों में सीखने और निर्णय लेने की प्रक्रियाओं के कम्प्यूटेशनल मॉडल विकसित करना है। मैंने ट्यूबिंगन विश्वविद्यालय से न्यूरल इन्फ़ॉर्मेशन प्रोसेसिंग में मास्टर्स किया है।
+    मेरा काम मानसिक स्वास्थ्य संबंधी स्थितियों वाले लोगों में सीखने और निर्णय लेने की प्रक्रियाओं के
+    कम्प्यूटेशनल मॉडल विकसित करना है। मैंने ट्यूबिंगन विश्वविद्यालय से न्यूरल इन्फ़ॉर्मेशन प्रोसेसिंग
+    में मास्टर्स किया है। लैब के बाहर मुझे खाना बनाना, संगीत और पढ़ना पसंद है।
   bio_es: >-
-    Desarrollo modelos computacionales del aprendizaje y la toma de decisiones en personas con problemas de salud mental. Tengo un máster en Procesamiento de Información Neural por la Universidad de Tubinga.
+    Desarrollo modelos computacionales del aprendizaje y la toma de decisiones en personas con problemas
+    de salud mental. Tengo un máster en Procesamiento de Información Neural por la Universidad de
+    Tubinga. Fuera del laboratorio, me gusta cocinar, la música y la lectura.
   bio_fr: >-
-    Je développe des modèles computationnels de l’apprentissage et de la prise de décision chez les personnes vivant avec des troubles de santé mentale. Je suis titulaire d’un master en Neural Information Processing de l’Université de Tübingen.
+    Je développe des modèles computationnels de l’apprentissage et de la prise de décision chez les
+    personnes vivant avec des troubles de santé mentale. Je suis titulaire d’un master en Neural
+    Information Processing de l’Université de Tübingen. En dehors du laboratoire, j’aime cuisiner, la
+    musique et la lecture.
 - first: Gokul
   last: Perumbayil Vijayakrishnan
   role: MSc Student & HiWi
   photo: gokul.jpg
   bio: >-
-    I am a master's student in Artificial Intelligence at the Technical University of Applied Sciences Würzburg-Schweinfurt, writing my thesis on self-supervised learning of
-    EEG representations for mental health. I bring several years of industry experience in embedded systems
-    and the automotive sector.
+    I am a master's student in Artificial Intelligence at the Technical University of Applied Sciences
+    Würzburg-Schweinfurt, writing my thesis on self-supervised learning of EEG representations for
+    mental health. I bring several years of industry experience in embedded systems and the automotive
+    sector. Outside research, I enjoy traveling, exploring new technologies, and time with my family.
   bio_de: >-
     Ich studiere Künstliche Intelligenz im Master an der Technischen Hochschule Würzburg-Schweinfurt und
     schreibe meine Abschlussarbeit über selbstüberwachtes Lernen von EEG-Repräsentationen für die
     psychische Gesundheit. Ich bringe mehrere Jahre Industrieerfahrung in eingebetteten Systemen und im
-    Automobilbereich mit.
-  bio_zh: 我是维尔茨堡-施韦因富特应用技术大学人工智能专业的硕士研究生，毕业论文研究面向心理健康的 EEG 表征自监督学习。我拥有多年嵌入式系统和汽车行业的工作经验。
+    Automobilbereich mit. Neben der Forschung reise ich gern, probiere neue Technologien aus und
+    verbringe Zeit mit meiner Familie.
+  bio_zh: >-
+    我是维尔茨堡-施韦因富特应用技术大学人工智能专业的硕士研究生，毕业论文研究面向心理健康的 EEG 表征自监督学习。我拥有多年嵌入式系统和汽车行业的工作经验。科研之外，我喜欢旅行、探索新技术，以及陪伴家人。
   bio_hi: >-
-    मैं वुर्ज़बर्ग-श्वाइनफ़ुर्ट तकनीकी अनुप्रयुक्त विज्ञान विश्वविद्यालय (THWS) में कृत्रिम बुद्धिमत्ता में मास्टर्स विद्यार्थी हूँ। मेरी थीसिस मानसिक स्वास्थ्य के लिए EEG रिप्रेज़ेंटेशन की सेल्फ़-सुपरवाइज़्ड लर्निंग पर है। मेरे पास एम्बेडेड सिस्टम और ऑटोमोटिव क्षेत्र में उद्योग का कई वर्षों का अनुभव है।
+    मैं वुर्ज़बर्ग-श्वाइनफ़ुर्ट तकनीकी अनुप्रयुक्त विज्ञान विश्वविद्यालय (THWS) में कृत्रिम बुद्धिमत्ता
+    में मास्टर्स विद्यार्थी हूँ। मेरी थीसिस मानसिक स्वास्थ्य के लिए EEG रिप्रेज़ेंटेशन की
+    सेल्फ़-सुपरवाइज़्ड लर्निंग पर है। मेरे पास एम्बेडेड सिस्टम और ऑटोमोटिव क्षेत्र में उद्योग का कई
+    वर्षों का अनुभव है। शोध के अलावा मुझे यात्रा करना, नई तकनीकों को जानना और परिवार के साथ समय बिताना
+    पसंद है।
   bio_es: >-
-    Soy estudiante de máster en Inteligencia Artificial en la Universidad Técnica de Ciencias Aplicadas de Würzburg-Schweinfurt y escribo mi tesis sobre el aprendizaje autosupervisado de representaciones de EEG para la salud mental. Aporto varios años de experiencia en la industria, en sistemas embebidos y en el sector de la automoción.
+    Soy estudiante de máster en Inteligencia Artificial en la Universidad Técnica de Ciencias Aplicadas
+    de Würzburg-Schweinfurt y escribo mi tesis sobre el aprendizaje autosupervisado de representaciones
+    de EEG para la salud mental. Aporto varios años de experiencia en la industria, en sistemas
+    embebidos y en el sector de la automoción. Fuera de la investigación, me gusta viajar, explorar
+    nuevas tecnologías y pasar tiempo con mi familia.
   bio_fr: >-
-    Je suis étudiant en master d’intelligence artificielle à l’Université technique des sciences appliquées de Wurtzbourg-Schweinfurt et je consacre mon mémoire à l’apprentissage auto-supervisé de représentations EEG pour la santé mentale. J’apporte plusieurs années d’expérience dans l’industrie, dans les systèmes embarqués et le secteur automobile.
+    Je suis étudiant en master d’intelligence artificielle à l’Université technique des sciences
+    appliquées de Wurtzbourg-Schweinfurt et je consacre mon mémoire à l’apprentissage auto-supervisé de
+    représentations EEG pour la santé mentale. J’apporte plusieurs années d’expérience dans l’industrie,
+    dans les systèmes embarqués et le secteur automobile. En dehors de la recherche, j’aime voyager,
+    découvrir de nouvelles technologies et passer du temps en famille.
 - first: Tanishka
   last: Randive
   role: BSc Student
   photo: tanishka.jpg
   bio: >-
-    I am an undergraduate student in AI and Data Engineering at IIT Ropar, applying machine learning and computer vision
-    to neuroimaging data.
+    I am an undergraduate student in AI and Data Engineering at IIT Ropar, applying machine learning and
+    computer vision to neuroimaging data.
   bio_de: >-
     Ich studiere AI and Data Engineering im Bachelor am IIT Ropar und wende maschinelles Lernen und
     Computer Vision auf Daten der Neurobildgebung an.
-  bio_zh: 我是印度理工学院罗帕尔分校（IIT Ropar）人工智能与数据工程专业的本科生，将机器学习和计算机视觉应用于神经影像数据。
+  bio_zh: >-
+    我是印度理工学院罗帕尔分校（IIT Ropar）人工智能与数据工程专业的本科生，将机器学习和计算机视觉应用于神经影像数据。
   bio_hi: >-
-    मैं आईआईटी रोपड़ में एआई और डेटा इंजीनियरिंग में स्नातक (अंडरग्रेजुएट) विद्यार्थी हूँ। मेरा काम न्यूरोइमेजिंग डेटा पर मशीन लर्निंग और कंप्यूटर विज़न का उपयोग करना है।
+    मैं आईआईटी रोपड़ में एआई और डेटा इंजीनियरिंग में स्नातक (अंडरग्रेजुएट) विद्यार्थी हूँ। मेरा काम
+    न्यूरोइमेजिंग डेटा पर मशीन लर्निंग और कंप्यूटर विज़न का उपयोग करना है।
   bio_es: >-
-    Soy estudiante de grado en IA e Ingeniería de Datos en el IIT Ropar y aplico el aprendizaje automático y la visión artificial a datos de neuroimagen.
+    Soy estudiante de grado en IA e Ingeniería de Datos en el IIT Ropar y aplico el aprendizaje
+    automático y la visión artificial a datos de neuroimagen.
   bio_fr: >-
-    Je suis étudiante en licence d’intelligence artificielle et d’ingénierie des données à l’IIT Ropar et j’applique l’apprentissage automatique et la vision par ordinateur aux données de neuro-imagerie.
+    Je suis étudiante en licence d’intelligence artificielle et d’ingénierie des données à l’IIT Ropar
+    et j’applique l’apprentissage automatique et la vision par ordinateur aux données de neuro-imagerie.
 - first: David
   last: Redmer
   role: MSc Student
   photo: david.jpg
   bio: >-
-    I am a master's student in Psychology and Cognitive Neuroscience at Friedrich Schiller University Jena, interested in the mechanisms
-    of neurodegenerative and psychiatric disorders and their translation into clinical practice.
+    I am a master's student in Psychology and Cognitive Neuroscience at Friedrich Schiller University
+    Jena, interested in the mechanisms of neurodegenerative and psychiatric disorders and their
+    translation into clinical practice.
   bio_de: >-
     Ich studiere Psychologie und Kognitive Neurowissenschaften im Master an der
     Friedrich-Schiller-Universität Jena und interessiere mich für die Mechanismen neurodegenerativer und
     psychiatrischer Erkrankungen und ihre Übertragung in die klinische Praxis.
-  bio_zh: 我是耶拿大学心理学与认知神经科学专业的硕士研究生，关注神经退行性疾病和精神疾病的发病机制，以及如何将相关研究转化到临床实践中。
+  bio_zh: >-
+    我是耶拿大学心理学与认知神经科学专业的硕士研究生，关注神经退行性疾病和精神疾病的发病机制，以及如何将相关研究转化到临床实践中。
   bio_hi: >-
-    मैं फ्रेडरिक शिलर विश्वविद्यालय, येना में मनोविज्ञान और कॉग्निटिव न्यूरोसाइंस में मास्टर्स विद्यार्थी हूँ। मेरी रुचि न्यूरोडीजेनेरेटिव और मनोरोग संबंधी विकारों की क्रियाविधियों में, और इस ज्ञान को नैदानिक अभ्यास तक पहुँचाने में है।
+    मैं फ्रेडरिक शिलर विश्वविद्यालय, येना में मनोविज्ञान और कॉग्निटिव न्यूरोसाइंस में मास्टर्स
+    विद्यार्थी हूँ। मेरी रुचि न्यूरोडीजेनेरेटिव और मनोरोग संबंधी विकारों की क्रियाविधियों में, और इस
+    ज्ञान को नैदानिक अभ्यास तक पहुँचाने में है।
   bio_es: >-
-    Soy estudiante de máster en Psicología y Neurociencia Cognitiva en la Universidad Friedrich Schiller de Jena. Me interesan los mecanismos de los trastornos neurodegenerativos y psiquiátricos y su traslación a la práctica clínica.
+    Soy estudiante de máster en Psicología y Neurociencia Cognitiva en la Universidad Friedrich Schiller
+    de Jena. Me interesan los mecanismos de los trastornos neurodegenerativos y psiquiátricos y su
+    traslación a la práctica clínica.
   bio_fr: >-
-    Je suis étudiant en master de psychologie et de neurosciences cognitives à l’Université Friedrich-Schiller d’Iéna. Je m’intéresse aux mécanismes des troubles neurodégénératifs et psychiatriques et à leur application dans la pratique clinique.
+    Je suis étudiant en master de psychologie et de neurosciences cognitives à l’Université
+    Friedrich-Schiller d’Iéna. Je m’intéresse aux mécanismes des troubles neurodégénératifs et
+    psychiatriques et à leur application dans la pratique clinique.
 - first: Elias
   last: Schreiner
   role: Data Scientist & IT Infrastructure
   photo: elias.jpg
   bio: >-
     I run the lab's IT infrastructure and apply deep learning to biological data on neurodegenerative
-    conditions and comorbid mental disorders. I hold a master's in Bioinformatics from the University of Tübingen.
+    conditions and comorbid mental disorders. I hold a master's in Bioinformatics from the University of
+    Tübingen.
   bio_de: >-
     Ich betreue die IT-Infrastruktur des Labors und wende Deep Learning auf biologische Daten zu
     neurodegenerativen Erkrankungen und komorbiden psychischen Störungen an. Ich habe einen Master in
     Bioinformatik an der Universität Tübingen abgeschlossen.
-  bio_zh: 我负责实验室的 IT 基础设施，并将深度学习应用于神经退行性疾病及共病精神障碍的生物学数据。我在图宾根大学获得生物信息学硕士学位。
+  bio_zh: >-
+    我负责实验室的 IT 基础设施，并将深度学习应用于神经退行性疾病及共病精神障碍的生物学数据。我在图宾根大学获得生物信息学硕士学位。
   bio_hi: >-
-    प्रयोगशाला के आईटी इन्फ्रास्ट्रक्चर की ज़िम्मेदारी मेरी है। मेरा शोध न्यूरोडीजेनेरेटिव स्थितियों और उनके साथ होने वाले (कोमॉर्बिड) मानसिक विकारों से जुड़े जैविक डेटा पर डीप लर्निंग के उपयोग पर है। मैंने ट्यूबिंगन विश्वविद्यालय से बायोइन्फ़ॉर्मेटिक्स में मास्टर्स किया है।
+    प्रयोगशाला के आईटी इन्फ्रास्ट्रक्चर की ज़िम्मेदारी मेरी है। मेरा शोध न्यूरोडीजेनेरेटिव स्थितियों और
+    उनके साथ होने वाले (कोमॉर्बिड) मानसिक विकारों से जुड़े जैविक डेटा पर डीप लर्निंग के उपयोग पर है।
+    मैंने ट्यूबिंगन विश्वविद्यालय से बायोइन्फ़ॉर्मेटिक्स में मास्टर्स किया है।
   bio_es: >-
-    Gestiono la infraestructura informática del laboratorio y aplico el aprendizaje profundo a datos biológicos sobre enfermedades neurodegenerativas y trastornos mentales comórbidos. Tengo un máster en Bioinformática por la Universidad de Tubinga.
+    Gestiono la infraestructura informática del laboratorio y aplico el aprendizaje profundo a datos
+    biológicos sobre enfermedades neurodegenerativas y trastornos mentales comórbidos. Tengo un máster
+    en Bioinformática por la Universidad de Tubinga.
   bio_fr: >-
-    Je gère l’infrastructure informatique du laboratoire et j’applique l’apprentissage profond à des données biologiques sur les maladies neurodégénératives et les troubles mentaux qui leur sont associés. Je suis titulaire d’un master en bio-informatique de l’Université de Tübingen.
+    Je gère l’infrastructure informatique du laboratoire et j’applique l’apprentissage profond à des
+    données biologiques sur les maladies neurodégénératives et les troubles mentaux qui leur sont
+    associés. Je suis titulaire d’un master en bio-informatique de l’Université de Tübingen.
 - first: Nitin
   last: Sharma
   role: PhD Candidate
   photo: nit_pic.jpg
   bio: >-
-    I work with multimodal data in mental health, including domain adaptation for multi-site depression
-    datasets, normative modeling, and mechanistic interpretability of large language models. I hold a master's in Neural Information Processing from the University of Tübingen.
+    I develop transferable conditional brain charts that link brain structure to the progression of
+    Alzheimer's disease. I also work with multimodal data in mental health, including domain adaptation
+    for multi-site depression datasets and mechanistic interpretability of large language models. I hold
+    a master's in Neural Information Processing from the University of Tübingen. Outside the lab, I
+    enjoy music, hiking, and time with friends.
   bio_de: >-
-    Ich arbeite mit multimodalen Daten zur psychischen Gesundheit, unter anderem zu Domain Adaptation
-    für multizentrische Depressionsdatensätze, normativer Modellierung und mechanistischer
-    Interpretierbarkeit großer Sprachmodelle. Ich habe einen Master in Neural Information Processing an
-    der Universität Tübingen abgeschlossen.
+    Ich entwickle übertragbare konditionale Brain Charts, die Hirnstruktur mit dem Verlauf der
+    Alzheimer-Krankheit verknüpfen. Außerdem arbeite ich mit multimodalen Daten zur psychischen
+    Gesundheit, unter anderem zu Domain Adaptation für multizentrische Depressionsdatensätze und zur
+    mechanistischen Interpretierbarkeit großer Sprachmodelle. Ich habe einen Master in Neural
+    Information Processing an der Universität Tübingen abgeschlossen. In meiner Freizeit mag ich Musik,
+    Wandern und Zeit mit Freunden.
   bio_zh: >-
-    我从事心理健康领域的多模态数据研究，包括多中心抑郁症数据集的领域自适应、常模建模，以及大语言模型的机制可解释性。我在图宾根大学获得神经信息处理（Neural Information Processing）硕士学位。
+    我开发可迁移的条件脑图谱（brain charts），将脑结构与阿尔茨海默病的进展联系起来。我还从事心理健康领域的多模态数据研究，包括多中心抑郁症数据集的领域自适应，以及大语言模型的机制可解释性。我在图宾根大学获得神经信息处理（Neural Information Processing）硕士学位。工作之余，我喜欢音乐、徒步，以及和朋友们相聚。
   bio_hi: >-
-    मेरा काम मानसिक स्वास्थ्य से जुड़े मल्टीमोडल डेटा पर है, जिसमें कई केंद्रों से जुटाए गए अवसाद (डिप्रेशन) डेटासेट के लिए डोमेन एडैप्टेशन, नॉर्मेटिव मॉडलिंग और बड़े भाषा मॉडल की मैकेनिस्टिक इंटरप्रिटेबिलिटी शामिल हैं। मैंने ट्यूबिंगन विश्वविद्यालय से न्यूरल इन्फ़ॉर्मेशन प्रोसेसिंग में मास्टर्स किया है।
+    मैं ट्रांसफ़रेबल कंडीशनल ब्रेन चार्ट विकसित करता हूँ, जो मस्तिष्क की संरचना को अल्ज़ाइमर रोग की
+    प्रगति से जोड़ते हैं। इसके अलावा मेरा काम मानसिक स्वास्थ्य से जुड़े मल्टीमोडल डेटा पर है, जिसमें कई
+    केंद्रों से जुटाए गए अवसाद (डिप्रेशन) डेटासेट के लिए डोमेन एडैप्टेशन और बड़े भाषा मॉडल की
+    मैकेनिस्टिक इंटरप्रिटेबिलिटी शामिल हैं। मैंने ट्यूबिंगन विश्वविद्यालय से न्यूरल इन्फ़ॉर्मेशन
+    प्रोसेसिंग में मास्टर्स किया है। लैब के बाहर मुझे संगीत, हाइकिंग और दोस्तों के साथ समय बिताना पसंद
+    है।
   bio_es: >-
-    Trabajo con datos multimodales en salud mental, en temas como la adaptación de dominio para conjuntos de datos multicéntricos sobre depresión, el modelado normativo y la interpretabilidad mecanicista de los grandes modelos de lenguaje. Tengo un máster en Procesamiento de Información Neural por la Universidad de Tubinga.
+    Desarrollo gráficas cerebrales condicionales transferibles (brain charts) que relacionan la
+    estructura cerebral con la progresión de la enfermedad de Alzheimer. También trabajo con datos
+    multimodales en salud mental, en temas como la adaptación de dominio para conjuntos de datos
+    multicéntricos sobre depresión y la interpretabilidad mecanicista de los grandes modelos de
+    lenguaje. Tengo un máster en Procesamiento de Información Neural por la Universidad de Tubinga.
+    Fuera del laboratorio, disfruto de la música, del senderismo y del tiempo con amigos.
   bio_fr: >-
-    Je travaille sur des données multimodales en santé mentale, notamment l’adaptation de domaine pour des jeux de données multisites sur la dépression, la modélisation normative et l’interprétabilité mécaniste des grands modèles de langage. Je suis titulaire d’un master en Neural Information Processing de l’Université de Tübingen.
+    Je développe des courbes de référence cérébrales conditionnelles transférables (brain charts) qui
+    relient la structure du cerveau à la progression de la maladie d’Alzheimer. Je travaille aussi sur
+    des données multimodales en santé mentale, notamment l’adaptation de domaine pour des jeux de
+    données multisites sur la dépression et l’interprétabilité mécaniste des grands modèles de langage.
+    Je suis titulaire d’un master en Neural Information Processing de l’Université de Tübingen. En
+    dehors du laboratoire, j’aime la musique, la randonnée et les moments entre amis.
 - first: Madhumitha
   last: Sivakumar Punitha
   role: HiWi & Research Assistant
   photo: mad.jpg
   bio: >-
-    I am a master's student in Photonics at Friedrich Schiller University Jena and support the lab's teaching and research activities.
+    I am a master's student in Photonics at Friedrich Schiller University Jena and support the lab's
+    teaching and research activities. In my free time, I enjoy cinema, exploring cities and cafés, and
+    mystery novels.
   bio_de: >-
     Ich studiere Photonik im Master an der Friedrich-Schiller-Universität Jena und unterstütze das Labor
-    in Lehre und Forschung.
-  bio_zh: 我是耶拿大学光子学专业的硕士研究生，协助实验室开展教学与科研工作。
+    in Lehre und Forschung. In meiner Freizeit gehe ich gern ins Kino, erkunde Städte und Cafés und lese
+    Krimis.
+  bio_zh: >-
+    我是耶拿大学光子学专业的硕士研究生，协助实验室开展教学与科研工作。业余时间，我喜欢看电影、探索城市和咖啡馆，也爱读推理小说。
   bio_hi: >-
-    मैं फ्रेडरिक शिलर विश्वविद्यालय, येना में फ़ोटोनिक्स में मास्टर्स विद्यार्थी हूँ। प्रयोगशाला की शिक्षण और शोध गतिविधियों में सहयोग देना मेरी भूमिका है।
+    मैं फ्रेडरिक शिलर विश्वविद्यालय, येना में फ़ोटोनिक्स में मास्टर्स विद्यार्थी हूँ। प्रयोगशाला की
+    शिक्षण और शोध गतिविधियों में सहयोग देना मेरी भूमिका है। खाली समय में मुझे सिनेमा, शहरों और कैफ़े को
+    घूमना और रहस्य उपन्यास पढ़ना पसंद है।
   bio_es: >-
-    Soy estudiante de máster en Fotónica en la Universidad Friedrich Schiller de Jena y apoyo las actividades docentes y de investigación del laboratorio.
+    Soy estudiante de máster en Fotónica en la Universidad Friedrich Schiller de Jena y apoyo las
+    actividades docentes y de investigación del laboratorio. En mi tiempo libre, disfruto del cine, de
+    descubrir ciudades y cafés y de las novelas de misterio.
   bio_fr: >-
-    Je suis étudiante en master de photonique à l’Université Friedrich-Schiller d’Iéna et je contribue aux activités d’enseignement et de recherche du laboratoire.
+    Je suis étudiante en master de photonique à l’Université Friedrich-Schiller d’Iéna et je contribue
+    aux activités d’enseignement et de recherche du laboratoire. Pendant mon temps libre, j’aime le
+    cinéma, découvrir des villes et des cafés, et les romans policiers.
 - first: Thomas
   last: Wolfers
   role: Principal Investigator
   photo: thomas_pic.jpg
   bio: >-
     I lead the MHM Lab and develop machine learning approaches to identify individual-level factors in
-    mental and neurological disorders. I hold a PhD from Radboud University and held research
-    positions in the Netherlands, Norway, and the UK.
+    mental and neurological disorders. I hold a PhD from Radboud University and held research positions
+    in the Netherlands, Norway, and the UK. Outside of work, I enjoy yoga, meditation, music, and time
+    with friends.
   bio_de: >-
     Ich leite das MHM Lab und entwickle Ansätze des maschinellen Lernens, um individuelle Faktoren
-    psychischer und neurologischer Erkrankungen zu identifizieren. Ich habe an der Radboud
-    University promoviert und war als Forscher in den Niederlanden, in Norwegen und im Vereinigten
-    Königreich tätig.
-  bio_zh: 我领导 MHM Lab，开发机器学习方法，以识别精神与神经系统疾病中的个体层面因素。我在拉德堡德大学获得博士学位，曾在荷兰、挪威和英国从事研究工作。
+    psychischer und neurologischer Erkrankungen zu identifizieren. Ich habe an der Radboud University
+    promoviert und war als Forscher in den Niederlanden, in Norwegen und im Vereinigten Königreich
+    tätig. In meiner Freizeit mag ich Yoga, Meditation, Musik und Zeit mit Freunden.
+  bio_zh: >-
+    我领导 MHM Lab，开发机器学习方法，以识别精神与神经系统疾病中的个体层面因素。我在拉德堡德大学获得博士学位，曾在荷兰、挪威和英国从事研究工作。工作之余，我喜欢瑜伽、冥想、音乐，以及和朋友们相聚。
   bio_hi: >-
-    मैं MHM Lab का नेतृत्व करता हूँ और मशीन लर्निंग की ऐसी पद्धतियाँ विकसित करता हूँ जिनसे मानसिक और तंत्रिका संबंधी विकारों में व्यक्ति-स्तर के कारकों की पहचान की जा सके। मैंने रैडबाउड विश्वविद्यालय से पीएचडी की है और नीदरलैंड, नॉर्वे और ब्रिटेन में शोध पदों पर काम किया है।
+    मैं MHM Lab का नेतृत्व करता हूँ और मशीन लर्निंग की ऐसी पद्धतियाँ विकसित करता हूँ जिनसे मानसिक और
+    तंत्रिका संबंधी विकारों में व्यक्ति-स्तर के कारकों की पहचान की जा सके। मैंने रैडबाउड विश्वविद्यालय
+    से पीएचडी की है और नीदरलैंड, नॉर्वे और ब्रिटेन में शोध पदों पर काम किया है। काम के बाहर मुझे योग,
+    ध्यान, संगीत और दोस्तों के साथ समय बिताना पसंद है।
   bio_es: >-
-    Dirijo el MHM Lab y desarrollo enfoques de aprendizaje automático para identificar factores individuales en los trastornos mentales y neurológicos. Me doctoré en la Universidad Radboud y he ocupado puestos de investigación en los Países Bajos, Noruega y el Reino Unido.
+    Dirijo el MHM Lab y desarrollo enfoques de aprendizaje automático para identificar factores
+    individuales en los trastornos mentales y neurológicos. Me doctoré en la Universidad Radboud y he
+    ocupado puestos de investigación en los Países Bajos, Noruega y el Reino Unido. Fuera del trabajo,
+    disfruto del yoga, la meditación, la música y el tiempo con amigos.
   bio_fr: >-
-    Je dirige le MHM Lab et je développe des approches d’apprentissage automatique pour identifier, à l’échelle de chaque personne, les facteurs en jeu dans les troubles mentaux et neurologiques. Je suis titulaire d’un doctorat de l’Université Radboud et j’ai occupé des postes de recherche aux Pays-Bas, en Norvège et au Royaume-Uni.
+    Je dirige le MHM Lab et je développe des approches d’apprentissage automatique pour identifier, à
+    l’échelle de chaque personne, les facteurs en jeu dans les troubles mentaux et neurologiques. Je
+    suis titulaire d’un doctorat de l’Université Radboud et j’ai occupé des postes de recherche aux
+    Pays-Bas, en Norvège et au Royaume-Uni. En dehors du travail, j’aime le yoga, la méditation, la
+    musique et les moments entre amis.
 - first: Jijia
   last: Xing
   role: PhD Candidate
   photo: jijia.jpg
   bio: >-
     I study how large language models encode clinical and psychological knowledge, and their longer-term
-    risks, such as emotional dependence on sycophantic conversational AI. I hold a master's in Mathematics from Imperial College London.
+    risks, such as emotional dependence on sycophantic conversational AI. I hold a master's in
+    Mathematics from Imperial College London. In my free time, I enjoy brewing coffee, bouldering, and
+    photography.
   bio_de: >-
     Ich untersuche, wie große Sprachmodelle klinisches und psychologisches Wissen repräsentieren und
     welche längerfristigen Risiken sie bergen, etwa emotionale Abhängigkeit von sykophantischer
-    Konversations-KI. Ich habe einen Master in Mathematik am Imperial College London abgeschlossen.
-  bio_zh: 我研究大语言模型如何编码临床和心理学知识，以及它们的长期风险，例如对迎合用户的对话式人工智能产生情感依赖。我在伦敦帝国理工学院获得数学硕士学位。
+    Konversations-KI. Ich habe einen Master in Mathematik am Imperial College London abgeschlossen. In
+    meiner Freizeit brühe ich gern Kaffee, gehe bouldern und fotografiere.
+  bio_zh: >-
+    我研究大语言模型如何编码临床和心理学知识，以及它们的长期风险，例如对迎合用户的对话式人工智能产生情感依赖。我在伦敦帝国理工学院获得数学硕士学位。业余时间，我喜欢手冲咖啡、抱石和摄影。
   bio_hi: >-
-    मेरा शोध इस बात पर है कि बड़े भाषा मॉडल नैदानिक और मनोवैज्ञानिक ज्ञान को कैसे एन्कोड करते हैं, और उनके दीर्घकालिक जोखिम क्या हैं, जैसे हर बात में हाँ में हाँ मिलाने वाले संवादात्मक एआई पर भावनात्मक निर्भरता। मैंने इंपीरियल कॉलेज लंदन से गणित में मास्टर्स किया है।
+    मेरा शोध इस बात पर है कि बड़े भाषा मॉडल नैदानिक और मनोवैज्ञानिक ज्ञान को कैसे एन्कोड करते हैं, और
+    उनके दीर्घकालिक जोखिम क्या हैं, जैसे हर बात में हाँ में हाँ मिलाने वाले संवादात्मक एआई पर भावनात्मक
+    निर्भरता। मैंने इंपीरियल कॉलेज लंदन से गणित में मास्टर्स किया है। खाली समय में मुझे कॉफ़ी बनाना,
+    बोल्डरिंग और फ़ोटोग्राफ़ी पसंद है।
   bio_es: >-
-    Estudio cómo codifican los grandes modelos de lenguaje el conocimiento clínico y psicológico, así como sus riesgos a largo plazo, por ejemplo la dependencia emocional de una IA conversacional complaciente. Tengo un máster en Matemáticas por el Imperial College London.
+    Estudio cómo codifican los grandes modelos de lenguaje el conocimiento clínico y psicológico, así
+    como sus riesgos a largo plazo, por ejemplo la dependencia emocional de una IA conversacional
+    complaciente. Tengo un máster en Matemáticas por el Imperial College London. En mi tiempo libre, me
+    gusta preparar café, hacer búlder y la fotografía.
   bio_fr: >-
-    J’étudie la manière dont les grands modèles de langage encodent les connaissances cliniques et psychologiques, ainsi que leurs risques à plus long terme, comme la dépendance émotionnelle envers des IA conversationnelles complaisantes. Je suis titulaire d’un master en mathématiques de l’Imperial College London.
+    J’étudie la manière dont les grands modèles de langage encodent les connaissances cliniques et
+    psychologiques, ainsi que leurs risques à plus long terme, comme la dépendance émotionnelle envers
+    des IA conversationnelles complaisantes. Je suis titulaire d’un master en mathématiques de
+    l’Imperial College London. Pendant mon temps libre, j’aime préparer du café, faire du bloc et la
+    photographie.
 - first: Yanwu
   last: Yang
   role: PostDoc & Humboldt Fellow
   photo: yanwu.jpg
   bio: >-
-    I study brain development and aging at scale, using deep learning for clinical applications and examining
-    the behavior of foundation models. I hold a PhD from Harbin Institute of Technology.
+    I study brain development and aging at scale, using deep learning for clinical applications and
+    examining the behavior of foundation models. I hold a PhD from Harbin Institute of Technology. In my
+    free time, I enjoy gaming, travel, and coffee culture.
   bio_de: >-
     Ich untersuche Hirnentwicklung und -alterung in großem Maßstab, nutze Deep Learning für klinische
     Anwendungen und analysiere das Verhalten von Foundation Models. Ich habe am Harbin Institute of
-    Technology promoviert.
-  bio_zh: 我开展大规模的脑发育与脑老化研究，将深度学习用于临床应用，并考察基础模型的行为。我在哈尔滨工业大学获得博士学位。
+    Technology promoviert. In meiner Freizeit mag ich Videospiele, Reisen und Kaffeekultur.
+  bio_zh: >-
+    我开展大规模的脑发育与脑老化研究，将深度学习用于临床应用，并考察基础模型的行为。我在哈尔滨工业大学获得博士学位。业余时间，我喜欢玩游戏、旅行和咖啡文化。
   bio_hi: >-
-    मेरा शोध बड़े पैमाने पर मस्तिष्क के विकास और बढ़ती उम्र के साथ उसमें होने वाले बदलावों पर है, जिसमें नैदानिक अनुप्रयोगों के लिए डीप लर्निंग का उपयोग और फ़ाउंडेशन मॉडल के व्यवहार की पड़ताल शामिल है। मैंने हार्बिन इंस्टीट्यूट ऑफ़ टेक्नोलॉजी से पीएचडी की है।
+    मेरा शोध बड़े पैमाने पर मस्तिष्क के विकास और बढ़ती उम्र के साथ उसमें होने वाले बदलावों पर है, जिसमें
+    नैदानिक अनुप्रयोगों के लिए डीप लर्निंग का उपयोग और फ़ाउंडेशन मॉडल के व्यवहार की पड़ताल शामिल है।
+    मैंने हार्बिन इंस्टीट्यूट ऑफ़ टेक्नोलॉजी से पीएचडी की है। खाली समय में मुझे गेमिंग, यात्रा और कॉफ़ी
+    संस्कृति पसंद है।
   bio_es: >-
-    Estudio el desarrollo y el envejecimiento del cerebro a gran escala, con aprendizaje profundo para aplicaciones clínicas, y analizo el comportamiento de los modelos fundacionales. Me doctoré en el Instituto de Tecnología de Harbin.
+    Estudio el desarrollo y el envejecimiento del cerebro a gran escala, con aprendizaje profundo para
+    aplicaciones clínicas, y analizo el comportamiento de los modelos fundacionales. Me doctoré en el
+    Instituto de Tecnología de Harbin. En mi tiempo libre, disfruto de los videojuegos, los viajes y la
+    cultura del café.
   bio_fr: >-
-    J’étudie le développement et le vieillissement du cerveau à grande échelle, en utilisant l’apprentissage profond pour des applications cliniques et en examinant le comportement des modèles de fondation. Je suis titulaire d’un doctorat de l’Institut de technologie de Harbin.
+    J’étudie le développement et le vieillissement du cerveau à grande échelle, en utilisant
+    l’apprentissage profond pour des applications cliniques et en examinant le comportement des modèles
+    de fondation. Je suis titulaire d’un doctorat de l’Institut de technologie de Harbin. Pendant mon
+    temps libre, j’aime les jeux vidéo, les voyages et la culture du café.
 - first: Çağatay
   last: Yıldız
   role: PostDoc
   photo: cagatay.jpg
   bio: >-
-    I study how large language models acquire new knowledge after pretraining without forgetting existing
-    knowledge, combining continued pretraining with mechanistic interpretability. I hold a PhD from Aalto University and was previously a postdoc in Tübingen.
+    I study how large language models acquire new knowledge after pretraining without forgetting
+    existing knowledge, combining continued pretraining with mechanistic interpretability. I hold a PhD
+    from Aalto University and was previously a postdoc in Tübingen.
   bio_de: >-
     Ich untersuche, wie große Sprachmodelle nach dem Pretraining neues Wissen erwerben, ohne vorhandenes
     Wissen zu vergessen, und verbinde dazu Continued Pretraining mit mechanistischer
     Interpretierbarkeit. Ich habe an der Aalto University promoviert und war zuvor Postdoc in Tübingen.
-  bio_zh: 我研究大语言模型如何在预训练之后获取新知识而不遗忘已有知识，将持续预训练与机制可解释性相结合。我在阿尔托大学获得博士学位，此前在图宾根从事博士后研究。
+  bio_zh: >-
+    我研究大语言模型如何在预训练之后获取新知识而不遗忘已有知识，将持续预训练与机制可解释性相结合。我在阿尔托大学获得博士学位，此前在图宾根从事博士后研究。
   bio_hi: >-
-    मेरा शोध इस बात पर है कि बड़े भाषा मॉडल प्रीट्रेनिंग के बाद, पहले से मौजूद ज्ञान को भूले बिना, नया ज्ञान कैसे हासिल करते हैं। इसमें कंटिन्यूड प्रीट्रेनिंग और मैकेनिस्टिक इंटरप्रिटेबिलिटी, दोनों का उपयोग होता है। मैंने आल्टो विश्वविद्यालय से पीएचडी की है और इससे पहले ट्यूबिंगन में पोस्टडॉक के रूप में काम किया है।
+    मेरा शोध इस बात पर है कि बड़े भाषा मॉडल प्रीट्रेनिंग के बाद, पहले से मौजूद ज्ञान को भूले बिना, नया
+    ज्ञान कैसे हासिल करते हैं। इसमें कंटिन्यूड प्रीट्रेनिंग और मैकेनिस्टिक इंटरप्रिटेबिलिटी, दोनों का
+    उपयोग होता है। मैंने आल्टो विश्वविद्यालय से पीएचडी की है और इससे पहले ट्यूबिंगन में पोस्टडॉक के रूप
+    में काम किया है।
   bio_es: >-
-    Estudio cómo los grandes modelos de lenguaje adquieren conocimientos nuevos después del preentrenamiento sin olvidar los que ya tienen, combinando el preentrenamiento continuado con la interpretabilidad mecanicista. Me doctoré en la Universidad Aalto y anteriormente fui posdoc en Tubinga.
+    Estudio cómo los grandes modelos de lenguaje adquieren conocimientos nuevos después del
+    preentrenamiento sin olvidar los que ya tienen, combinando el preentrenamiento continuado con la
+    interpretabilidad mecanicista. Me doctoré en la Universidad Aalto y anteriormente fui posdoc en
+    Tubinga.
   bio_fr: >-
-    J’étudie la manière dont les grands modèles de langage acquièrent de nouvelles connaissances après le préentraînement sans oublier celles qu’ils possèdent déjà, en combinant préentraînement continu et interprétabilité mécaniste. Je suis titulaire d’un doctorat de l’Université Aalto et j’ai auparavant été postdoc à Tübingen.
+    J’étudie la manière dont les grands modèles de langage acquièrent de nouvelles connaissances après
+    le préentraînement sans oublier celles qu’ils possèdent déjà, en combinant préentraînement continu
+    et interprétabilité mécaniste. Je suis titulaire d’un doctorat de l’Université Aalto et j’ai
+    auparavant été postdoc à Tübingen.
 - first: Mariam
   last: Zabihi
   role: PostDoc & Boehringer Ingelheim Fellow
   photo: mariam.jpg
   bio: >-
-    I develop generative normative models to address heterogeneity in psychiatric disorders. I hold a PhD in Statistical Neuroimaging from Radboud University Medical Center.
+    I develop generative normative models to address heterogeneity in psychiatric disorders. I hold a
+    PhD in Statistical Neuroimaging from Radboud University Medical Center.
   bio_de: >-
     Ich entwickle generative normative Modelle, um der Heterogenität psychiatrischer Erkrankungen
     gerecht zu werden. Ich habe am Radboud University Medical Center in statistischer Neurobildgebung
     promoviert.
-  bio_zh: 我开发生成式常模模型，以应对精神疾病的异质性。我在拉德堡德大学医学中心获得统计神经影像博士学位。
+  bio_zh: >-
+    我开发生成式常模模型，以应对精神疾病的异质性。我在拉德堡德大学医学中心获得统计神经影像博士学位。
   bio_hi: >-
-    मेरा काम मनोरोग संबंधी विकारों की विषमता (हेटेरोजेनिटी) को समझने के लिए जनरेटिव नॉर्मेटिव मॉडल विकसित करना है। मैंने रैडबाउड विश्वविद्यालय मेडिकल सेंटर से स्टैटिस्टिकल न्यूरोइमेजिंग में पीएचडी की है।
+    मेरा काम मनोरोग संबंधी विकारों की विषमता (हेटेरोजेनिटी) को समझने के लिए जनरेटिव नॉर्मेटिव मॉडल
+    विकसित करना है। मैंने रैडबाउड विश्वविद्यालय मेडिकल सेंटर से स्टैटिस्टिकल न्यूरोइमेजिंग में पीएचडी की
+    है।
   bio_es: >-
-    Desarrollo modelos normativos generativos para abordar la heterogeneidad de los trastornos psiquiátricos. Me doctoré en Neuroimagen Estadística en el Centro Médico Universitario Radboud.
+    Desarrollo modelos normativos generativos para abordar la heterogeneidad de los trastornos
+    psiquiátricos. Me doctoré en Neuroimagen Estadística en el Centro Médico Universitario Radboud.
   bio_fr: >-
-    Je développe des modèles normatifs génératifs pour rendre compte de l’hétérogénéité des troubles psychiatriques. Je suis titulaire d’un doctorat en neuro-imagerie statistique du centre médical universitaire Radboud.
+    Je développe des modèles normatifs génératifs pour rendre compte de l’hétérogénéité des troubles
+    psychiatriques. Je suis titulaire d’un doctorat en neuro-imagerie statistique du centre médical
+    universitaire Radboud.
