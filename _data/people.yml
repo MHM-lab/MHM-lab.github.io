@@ -335,37 +335,34 @@
   bio: >-
     I develop transferable conditional brain charts that link brain structure to the progression of
     Alzheimer's disease. I also work with multimodal data in mental health, including domain adaptation
-    for multi-site depression datasets and mechanistic interpretability of large language models. I hold
+    for multi-site datasets and mechanistic interpretability of large language models. I hold
     a master's in Neural Information Processing from the University of Tübingen. Outside the lab, I
     enjoy music, hiking, and time with friends.
   bio_de: >-
     Ich entwickle übertragbare konditionale Brain Charts, die Hirnstruktur mit dem Verlauf der
     Alzheimer-Krankheit verknüpfen. Außerdem arbeite ich mit multimodalen Daten zur psychischen
-    Gesundheit, unter anderem zu Domain Adaptation für multizentrische Depressionsdatensätze und zur
+    Gesundheit, unter anderem zu Domain Adaptation für multizentrische Datensätze und zur
     mechanistischen Interpretierbarkeit großer Sprachmodelle. Ich habe einen Master in Neural
     Information Processing an der Universität Tübingen abgeschlossen. In meiner Freizeit mag ich Musik,
     Wandern und Zeit mit Freunden.
   bio_zh: >-
-    我开发可迁移的条件脑图谱（brain charts），将脑结构与阿尔茨海默病的进展联系起来。我还从事心理健康领域的多模态数据研究，包括多中心抑郁症数据集的领域自适应，以及大语言模型的机制可解释性。我在图宾根大学获得神经信息处理（Neural Information Processing）硕士学位。工作之余，我喜欢音乐、徒步，以及和朋友们相聚。
+    我开发可迁移的条件脑图谱（brain charts），将脑结构与阿尔茨海默病的进展联系起来。我还从事心理健康领域的多模态数据研究，包括多中心数据集的领域自适应，以及大语言模型的机制可解释性。我在图宾根大学获得神经信息处理（Neural Information Processing）硕士学位。工作之余，我喜欢音乐、徒步，以及和朋友们相聚。
   bio_hi: >-
     मैं ट्रांसफ़रेबल कंडीशनल ब्रेन चार्ट विकसित करता हूँ, जो मस्तिष्क की संरचना को अल्ज़ाइमर रोग की
-    प्रगति से जोड़ते हैं। इसके अलावा मेरा काम मानसिक स्वास्थ्य से जुड़े मल्टीमोडल डेटा पर है, जिसमें कई
-    केंद्रों से जुटाए गए अवसाद (डिप्रेशन) डेटासेट के लिए डोमेन एडैप्टेशन और बड़े भाषा मॉडल की
+    प्रगति से जोड़ते हैं। इसके अलावा मेरा काम मानसिक स्वास्थ्य से जुड़े मल्टीमोडल डेटा पर है, जिसमें कई केंद्रों से जुटाए गए डेटासेट के लिए डोमेन एडैप्टेशन और बड़े भाषा मॉडल की
     मैकेनिस्टिक इंटरप्रिटेबिलिटी शामिल हैं। मैंने ट्यूबिंगन विश्वविद्यालय से न्यूरल इन्फ़ॉर्मेशन
     प्रोसेसिंग में मास्टर्स किया है। लैब के बाहर मुझे संगीत, हाइकिंग और दोस्तों के साथ समय बिताना पसंद
     है।
   bio_es: >-
     Desarrollo gráficas cerebrales condicionales transferibles (brain charts) que relacionan la
     estructura cerebral con la progresión de la enfermedad de Alzheimer. También trabajo con datos
-    multimodales en salud mental, en temas como la adaptación de dominio para conjuntos de datos
-    multicéntricos sobre depresión y la interpretabilidad mecanicista de los grandes modelos de
+    multimodales en salud mental, en temas como la adaptación de dominio para conjuntos de datos multicéntricos y la interpretabilidad mecanicista de los grandes modelos de
     lenguaje. Tengo un máster en Procesamiento de Información Neural por la Universidad de Tubinga.
     Fuera del laboratorio, disfruto de la música, del senderismo y del tiempo con amigos.
   bio_fr: >-
     Je développe des courbes de référence cérébrales conditionnelles transférables (brain charts) qui
     relient la structure du cerveau à la progression de la maladie d’Alzheimer. Je travaille aussi sur
-    des données multimodales en santé mentale, notamment l’adaptation de domaine pour des jeux de
-    données multisites sur la dépression et l’interprétabilité mécaniste des grands modèles de langage.
+    des données multimodales en santé mentale, notamment l’adaptation de domaine pour des jeux de données multisites et l’interprétabilité mécaniste des grands modèles de langage.
     Je suis titulaire d’un master en Neural Information Processing de l’Université de Tübingen. En
     dehors du laboratoire, j’aime la musique, la randonnée et les moments entre amis.
 - first: Madhumitha
