@@ -1,6 +1,7 @@
 # SELECTED PUBLICATIONS (newest first; grouped by year automatically)
 # link_text: "Paper" for the published version, "Preprint" for arXiv/bioRxiv.
 # summary_de: German summary for the German page (titles stay in English).
+# first_author: surname of the first author (shown as "Surname et al., year").
 # id: optional short name, so other pages can link to the paper (e.g. /research/#brain-dynamics).
 # date: "YYYY-MM" when the paper was accepted or published. A paper with a date automatically appears
 #   in the homepage Highlights for 6 months (no extra entry in news.yml needed).
@@ -9,6 +10,7 @@
 #   without a highlight sentence the card shows the paper title.
 
 - year: 2026
+  first_author: Yang
   title: A normative reference for large-scale human brain dynamics across the lifespan
   id: brain-dynamics
   date: "2026-08"
@@ -46,6 +48,7 @@
   highlight_fr: >-
     Accepté : la référence normative de Yanwu Yang pour la dynamique du cerveau humain tout au long de la vie.
 - year: 2026
+  first_author: Frotscher
   title: 'Deep Unsupervised Anomaly Detection in Brain Imaging: Large-Scale Benchmarking and Bias Analysis'
   id: anomaly-detection
   date: "2026-10"
@@ -82,6 +85,7 @@
   highlight_fr: >-
     Accepté : le banc d’essai à grande échelle d’Alexander Frotscher pour la détection d’anomalies en imagerie cérébrale.
 - year: 2026
+  first_author: Zabihi
   title: 'SIGMA-VAE: Sketched Isotropic Gaussian Multi-view Autoencoder for Normative Modeling'
   id: sigma-vae
   venue: MICCAI (Main Track)
@@ -109,6 +113,7 @@
   summary_fr: >-
     Nous présentons SIGMA-VAE, un autoencodeur multivue pour la modélisation normative, doté d’une géométrie latente bien maîtrisée, de représentations parcimonieuses et interprétables, et d’écarts pondérés par l’incertitude. Entraîné sur plus de 40 000 examens cérébraux provenant de 328 scanners, il détecte les anomalies individuelles avec une plus grande sensibilité, se généralise à des scanners inconnus et distingue la maladie d’Alzheimer avec une AUC de 0,91 sur un jeu de test réservé et de 0,87 sur des données externes.
 - year: 2026
+  first_author: Yang
   title: 'MedSAMix: A Training-Free Model Merging Approach for Medical Image Segmentation'
   venue: AAAI (Main Track)
   link: https://ojs.aaai.org/index.php/AAAI/article/view/38161
@@ -131,6 +136,7 @@
   summary_fr: >-
     Nous présentons MedSAMix, une méthode sans entraînement qui fusionne automatiquement des modèles de segmentation généralistes (SAM) et spécialisés (MedSAM). Sur 25 tâches de segmentation médicale, elle réduit les biais et améliore à la fois la généralisation et la précision propre à chaque domaine, jusqu’à 6,7 %.
 - year: 2026
+  first_author: Mallus
   title: 'From early to contemporary normative modeling: Mapping individual differences in neurophysiological
     signals'
   venue: Imaging Neuroscience
@@ -156,6 +162,7 @@
   summary_fr: >-
     Nous passons en revue le renouveau de la modélisation normative en électrophysiologie cérébrale, porté par l’apprentissage automatique et les grands jeux de données, alors que le domaine passe de petits modèles fondés sur l’âge à des approches harmonisées et plus complexes. Nous soutenons que la collaboration internationale, des chaînes de traitement standardisées et de nouvelles caractéristiques sont nécessaires pour passer de la preuve de concept à des applications cliniques individualisées.
 - year: 2025
+  first_author: Yang
   title: Hierarchical Characterization of Brain Dynamics via State Space-based Vector Quantization
   venue: MICCAI (Main Track)
   link: https://papers.miccai.org/miccai-2025/0405-Paper0118.html
@@ -176,6 +183,7 @@
   summary_fr: >-
     Nous présentons HST, un réseau hiérarchique de tokenisation fondé sur des modèles espace-état, qui décompose l’activité cérébrale en « tokens » stables et suit la manière dont le cerveau passe de l’un à l’autre. Dans deux jeux de données indépendants, il rend compte de cette dynamique plus clairement que les approches existantes.
 - year: 2025
+  first_author: Berthet
   title: A 10-year longitudinal study of brain cortical thickness in people with first-episode psychosis
     using normative models
   venue: Schizophrenia Bulletin
@@ -200,6 +208,7 @@
   summary_fr: >-
     À l’aide de modèles normatifs, nous montrons que chez certaines personnes ayant connu un premier épisode psychotique, les anomalies cérébrales présentent des signes de normalisation sur dix ans. Nous montrons aussi qu’il est essentiel de modéliser la variabilité propre à chaque site dans les études longitudinales, où les changements de scanners et de protocoles peuvent sinon fausser les résultats.
 - year: 2024
+  first_author: Leonardsen
   title: Characterising personalized neuropathology in dementia and mild cognitive impairment with explainable
     artificial intelligence
   venue: npj Digital Medicine
@@ -221,6 +230,7 @@
   summary_fr: >-
     Nous avons entraîné un réseau de neurones profond à prédire la démence et utilisé l’IA explicable pour caractériser les différences individuelles. Le modèle prédit avec une bonne fiabilité, jusqu’à sept ans à l’avance, si une personne développera une démence.
 - year: 2024
+  first_author: Genin
   title: Computational psychiatry and the evolving concept of a mental disorder
   venue: Synthese
   link: https://doi.org/10.1007/s11229-024-04741-6
@@ -244,6 +254,7 @@
   summary_fr: >-
     L’insatisfaction croissante à l’égard des conceptions traditionnelles du trouble mental a conduit à rechercher un cadre cohérent pour la recherche et le traitement en psychiatrie. Nous comparons des paradigmes computationnels tels que la modélisation normative, la théorie des réseaux et les approches issues des théories de l’apprentissage, et nous examinons leurs points communs, leurs différences et leurs éventuels conflits conceptuels.
 - year: 2024
+  first_author: Kim
   title: Mapping Cerebellar Anatomical Heterogeneity in Mental and Neurological Illnesses
   venue: Nature Mental Health
   link: https://doi.org/10.1038/s44220-024-00297-z
@@ -264,6 +275,7 @@
   summary_fr: >-
     Nous avons entraîné des modèles normatifs sur plus de 50 000 personnes pour cartographier le développement du cervelet tout au long de la vie. Ces modèles révèlent des différences individuelles chez les personnes atteintes de maladies mentales et neurologiques.
 - year: 2023
+  first_author: Segal
   title: Regional, circuit and network heterogeneity of brain abnormalities in psychiatric disorders
   venue: Nature Neuroscience
   link: https://www.nature.com/articles/s41593-023-01404-6
@@ -284,6 +296,7 @@
   summary_fr: >-
     Nous avons appliqué des modèles normatifs à plusieurs troubles mentaux et caractérisé les écarts individuels à l’échelle du voxel, de la région et du réseau cérébral. Les écarts se recoupent davantage d’une personne à l’autre à l’échelle des réseaux.
 - year: 2022
+  first_author: Leonardsen
   title: Deep neural networks learn general and clinically relevant representations of the ageing brain
   venue: NeuroImage
   link: https://doi.org/10.1016/j.neuroimage.2022.119210
@@ -308,6 +321,7 @@
   summary_fr: >-
     Nous avons entraîné un réseau de neurones profond sur plus de 50 000 personnes pour prédire l’âge cérébral, puis nous l’avons transféré à des tâches de prédiction clinique, montrant que l’échelle compte pour l’apprentissage profond en neuro-imagerie. Évalué de manière indépendante comme un modèle d’âge cérébral de pointe, il résiste bien aux changements de domaine, mais présente le compromis connu entre précision de l’âge cérébral et détection des maladies.
 - year: 2022
+  first_author: Rutherford
   title: Charting brain growth and aging at high spatial precision
   venue: eLife
   link: https://doi.org/10.7554/eLife.72904
@@ -327,6 +341,7 @@
   summary_fr: >-
     Nous avons établi des modèles normatifs du cerveau humain à haute précision spatiale à partir de plus de 50 000 personnes. Ces modèles se transfèrent à de nouveaux échantillons et sont librement accessibles en ligne pour d’autres chercheurs.
 - year: 2022
+  first_author: Rutherford
   title: The normative modeling framework for computational psychiatry
   venue: Nature Protocols
   link: https://doi.org/10.1038/s41596-022-00696-5
@@ -345,6 +360,7 @@
   summary_fr: >-
     Nous décrivons les principes de la modélisation normative pour la psychiatrie computationnelle et proposons des outils accessibles pour analyser des données dans ce cadre.
 - year: 2021
+  first_author: Wolfers
   title: Replicating extensive brain structural heterogeneity in individuals with schizophrenia and bipolar
     disorder
   venue: Human Brain Mapping
@@ -366,6 +382,7 @@
   summary_fr: >-
     Nous avons reproduit notre résultat antérieur selon lequel les personnes atteintes de schizophrénie ou de trouble bipolaire présentent des profils individuels d’écart par rapport au cerveau normatif. D’autres groupes l’ont depuis confirmé, et ce résultat s’étend à d’autres troubles mentaux et neurologiques.
 - year: 2019
+  first_author: Llera
   title: Inter-individual differences in human brain structure and morphology link to variation in demographics
     and behavior
   venue: eLife
@@ -385,6 +402,7 @@
   summary_fr: >-
     Nous montrons que la structure cérébrale explique une grande part des interactions fonctionnelles entre régions dans le cerveau humain sain.
 - year: 2019
+  first_author: Wolfers
   title: 'Individual differences v. the average patient: mapping the heterogeneity in ADHD using normative
     models'
   venue: Psychological Medicine
@@ -405,6 +423,7 @@
   summary_fr: >-
     Nous avons cartographié l’hétérogénéité du TDAH à l’échelle de chaque patient : chaque patient présentait un profil distinct d’écarts par rapport au cerveau normatif, ce qui prolonge notre résultat obtenu dans la schizophrénie.
 - year: 2018
+  first_author: Wolfers
   title: Mapping the heterogeneous phenotype of schizophrenia and bipolar disorder using normative models
   venue: JAMA Psychiatry
   link: https://doi.org/10.1001/jamapsychiatry.2018.2467
@@ -429,6 +448,7 @@
   summary_fr: >-
     Nous avons cartographié l’hétérogénéité de la schizophrénie et du trouble bipolaire et constaté que chaque patient présente un profil individuel d’écarts par rapport à la structure cérébrale normative. Les médias ont résumé ce résultat par la question « Qui est le patient moyen en psychiatrie ? », et il a depuis été reproduit à de nombreuses reprises, avec diverses modalités de données, divers algorithmes et divers échantillons.
 - year: 2015
+  first_author: Wolfers
   title: 'From estimating activation locality to predicting disorder: a review of pattern recognition
     for neuroimaging-based psychiatric diagnostics'
   venue: Neuroscience & Biobehavioral Reviews

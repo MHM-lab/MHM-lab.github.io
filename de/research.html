@@ -67,7 +67,7 @@ description: "Forschung des Labors für Mental Health Mapping: vier Forschungsth
 {% for pub in year.items %}
 <div class="pub" id="{{ pub.id | default: pub.title | slugify }}">
 <p class="pub-title" lang="en"><a href="{{ pub.link }}">{{ pub.title }}</a></p>
-<div class="pub-meta"><span class="venue">{{ pub.venue | replace: "(accepted)", "(angenommen)" }}</span> · <a href="{{ pub.link }}">{% if pub.link_text == "Paper" %}Artikel{% else %}{{ pub.link_text }}{% endif %}</a> ·
+<div class="pub-meta">{% if pub.first_author %}<span class="pub-author">{{ pub.first_author }} et al., {{ pub.year }}</span> · {% endif %}<span class="venue">{{ pub.venue | replace: "(accepted)", "(angenommen)" }}</span> · <a href="{{ pub.link }}">{% if pub.link_text == "Paper" %}Artikel{% else %}{{ pub.link_text }}{% endif %}</a> ·
 <details class="pub-summary"><summary>Zusammenfassung</summary><p class="summary">{{ pub.summary_de | default: pub.summary }}</p></details></div>
 </div>
 {% endfor %}
