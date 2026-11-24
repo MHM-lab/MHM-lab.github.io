@@ -67,7 +67,8 @@ description: "Mental Health Mapping 实验室的研究：四个研究主题（�
 {% for pub in year.items %}
 <div class="pub" id="{{ pub.id | default: pub.title | slugify }}">
 <p class="pub-title" lang="en"><a href="{{ pub.link }}">{{ pub.title }}</a></p>
-<div class="pub-meta">{% if pub.first_author %}<span class="pub-author">{{ pub.first_author }} et al., {{ pub.year }}</span> · {% endif %}<span class="venue">{{ pub.venue | replace: " (accepted)", "（已接收）" | replace: "(accepted)", "（已接收）" }}</span> · <a href="{{ pub.link }}">{% if pub.link_text == "Paper" %}论文{% elsif pub.link_text == "Preprint" %}预印本{% else %}{{ pub.link_text }}{% endif %}</a> ·
+{% if pub.first_author %}<p class="pub-author">{{ pub.first_author }} et al.</p>{% endif %}
+<div class="pub-meta"><span class="venue">{{ pub.venue | replace: " (accepted)", "（已接收）" | replace: "(accepted)", "（已接收）" }}</span> · <a href="{{ pub.link }}">{% if pub.link_text == "Paper" %}论文{% elsif pub.link_text == "Preprint" %}预印本{% else %}{{ pub.link_text }}{% endif %}</a> ·
 <details class="pub-summary"><summary>摘要</summary><p class="summary">{{ pub.summary_zh | default: pub.summary }}</p></details></div>
 </div>
 {% endfor %}

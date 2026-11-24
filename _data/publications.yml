@@ -1,7 +1,7 @@
 # SELECTED PUBLICATIONS (newest first; grouped by year automatically)
 # link_text: "Paper" for the published version, "Preprint" for arXiv/bioRxiv.
 # summary_de: German summary for the German page (titles stay in English).
-# first_author: surname of the first author (shown as "Surname et al., year").
+# first_author: surname of the first author (shown as "Surname et al." under the title).
 # id: optional short name, so other pages can link to the paper (e.g. /research/#brain-dynamics).
 # date: "YYYY-MM" when the paper was accepted or published. A paper with a date automatically appears
 #   in the homepage Highlights for 6 months (no extra entry in news.yml needed).

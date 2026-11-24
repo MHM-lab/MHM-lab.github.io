@@ -67,7 +67,8 @@ description: "Mental Health Mapping प्रयोगशाला का शो
 {% for pub in year.items %}
 <div class="pub" id="{{ pub.id | default: pub.title | slugify }}">
 <p class="pub-title" lang="en"><a href="{{ pub.link }}">{{ pub.title }}</a></p>
-<div class="pub-meta">{% if pub.first_author %}<span class="pub-author">{{ pub.first_author }} et al., {{ pub.year }}</span> · {% endif %}<span class="venue">{{ pub.venue | replace: "(accepted)", "(स्वीकृत)" }}</span> · <a href="{{ pub.link }}">{% if pub.link_text == "Paper" %}शोध-पत्र{% elsif pub.link_text == "Preprint" %}प्रीप्रिंट{% else %}{{ pub.link_text }}{% endif %}</a> ·
+{% if pub.first_author %}<p class="pub-author">{{ pub.first_author }} et al.</p>{% endif %}
+<div class="pub-meta"><span class="venue">{{ pub.venue | replace: "(accepted)", "(स्वीकृत)" }}</span> · <a href="{{ pub.link }}">{% if pub.link_text == "Paper" %}शोध-पत्र{% elsif pub.link_text == "Preprint" %}प्रीप्रिंट{% else %}{{ pub.link_text }}{% endif %}</a> ·
 <details class="pub-summary"><summary>सारांश</summary><p class="summary">{{ pub.summary_hi | default: pub.summary }}</p></details></div>
 </div>
 {% endfor %}

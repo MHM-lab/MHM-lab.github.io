@@ -311,5 +311,6 @@ details.section-card { padding-bottom: 1.1rem; }
 .news-more { margin-top: 1rem; padding: 0.55rem 1.1rem; border: 1px solid var(--green-light); border-radius: 999px; background: #fff; color: var(--green); font: inherit; font-size: 0.9rem; font-weight: 600; cursor: pointer; }
 .news-more:hover { background: #f4f8f1; }
 
-/* First author and year in front of the venue in the publication list */
-.pub-author { color: var(--ink); font-size: 0.9rem; font-weight: 600; }
+/* First author under the paper title in the publication list */
+.pub-author { color: var(--muted); font-size: 0.92rem; margin: 0.1rem 0 0.35rem; }
+.pub .pub-title:has(+ .pub-author) { margin-bottom: 0; }
