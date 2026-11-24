@@ -11,7 +11,7 @@ Wir sind an der Friedrich-Schiller-Universität Jena. Für eine Bewerbung senden
 
 ## Offene Stellen
 
-Ausschreibungen für Postdoc-, Promotions-, Data-Scientist- und HiWi-Stellen veröffentlichen wir hier.
+Ausschreibungen für Postdoc-, Promotions-, Data-Scientist- und HiWi-Stellen veröffentlichen wir hier. Initiativbewerbungen sind jederzeit willkommen.
 
 <!-- Buttons with class "toggle" open the <section class="toggle-panel"> with the same id, in place. -->
 <h2>Arbeiten bei uns</h2>

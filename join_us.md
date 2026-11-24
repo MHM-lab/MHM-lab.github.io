@@ -10,7 +10,7 @@ We are based at Friedrich Schiller University Jena. To apply, email [Thomas Wolf
 
 ## Open positions
 
-Open calls for postdoc, PhD, data scientist, and HiWi positions will be posted here.
+Open calls for postdoc, PhD, data scientist, and HiWi positions will be posted here. Unsolicited applications are always welcome.
 
 <!-- Buttons with class "toggle" open the <section class="toggle-panel"> with the same id, in place. -->
 <h2>Working with us</h2>

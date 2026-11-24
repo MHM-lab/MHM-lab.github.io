@@ -11,7 +11,7 @@ Nous sommes basés à l’Université Friedrich-Schiller d’Iéna. Pour postule
 
 ## Postes ouverts
 
-Les offres de postes de postdoc, de doctorat, de data scientist et d’assistant de recherche (HiWi) seront publiées ici.
+Les offres de postes de postdoc, de doctorat, de data scientist et d’assistant de recherche (HiWi) seront publiées ici. Les candidatures spontanées sont toujours les bienvenues.
 
 <!-- Buttons with class "toggle" open the <section class="toggle-panel"> with the same id, in place. -->
 <h2>Travailler avec nous</h2>

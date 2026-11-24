@@ -11,7 +11,7 @@ Estamos en la Universidad Friedrich Schiller de Jena. Para presentar su candidat
 
 ## Puestos vacantes
 
-Aquí publicaremos las convocatorias de puestos de posdoc, doctorado, ciencia de datos y asistente estudiantil (HiWi).
+Aquí publicaremos las convocatorias de puestos de posdoc, doctorado, ciencia de datos y asistente estudiantil (HiWi). Las candidaturas espontáneas son siempre bienvenidas.
 
 <!-- Buttons with class "toggle" open the <section class="toggle-panel"> with the same id, in place. -->
 <h2>Trabajar con nosotros</h2>

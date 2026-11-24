@@ -283,25 +283,30 @@
   bio: >-
     I am a master's student in Psychology and Cognitive Neuroscience at Friedrich Schiller University
     Jena, interested in the mechanisms of neurodegenerative and psychiatric disorders and their
-    translation into clinical practice.
+    translation into clinical practice. I enjoy reading single-case reports, going to the gym, and
+    deliberately stepping out of my comfort zone.
   bio_de: >-
-    Ich studiere Psychologie und Kognitive Neurowissenschaften im Master an der
+    Ich studiere im Master Psychologie und Kognitive Neurowissenschaften an der
     Friedrich-Schiller-Universität Jena und interessiere mich für die Mechanismen neurodegenerativer und
-    psychiatrischer Erkrankungen und ihre Übertragung in die klinische Praxis.
+    psychiatrischer Erkrankungen und ihre Übertragung in die klinische Praxis. Ich lese gern
+    Einzelfallberichte, gehe ins Fitnessstudio und verlasse bewusst meine Komfortzone.
   bio_zh: >-
-    我是耶拿大学心理学与认知神经科学专业的硕士研究生，关注神经退行性疾病和精神疾病的发病机制，以及如何将相关研究转化到临床实践中。
+    我是耶拿大学心理学与认知神经科学专业的硕士研究生，关注神经退行性疾病和精神疾病的发病机制及其向临床实践的转化。我喜欢阅读单病例报告、去健身房锻炼，也会有意识地走出自己的舒适区。
   bio_hi: >-
-    मैं फ्रेडरिक शिलर विश्वविद्यालय, येना में मनोविज्ञान और कॉग्निटिव न्यूरोसाइंस में मास्टर्स
-    विद्यार्थी हूँ। मेरी रुचि न्यूरोडीजेनेरेटिव और मनोरोग संबंधी विकारों की क्रियाविधियों में, और इस
-    ज्ञान को नैदानिक अभ्यास तक पहुँचाने में है।
+    मैं फ्रेडरिक शिलर विश्वविद्यालय, येना में मनोविज्ञान और संज्ञानात्मक तंत्रिका विज्ञान (कॉग्निटिव
+    न्यूरोसाइंस) में मास्टर्स का विद्यार्थी हूँ। मेरी रुचि न्यूरोडीजेनेरेटिव और मनोरोग संबंधी विकारों की
+    क्रियाविधि और उन्हें नैदानिक व्यवहार में लागू करने में है। मुझे एकल-केस रिपोर्ट पढ़ना, जिम जाना और
+    जान-बूझकर अपने कम्फ़र्ट ज़ोन से बाहर निकलना पसंद है।
   bio_es: >-
     Soy estudiante de máster en Psicología y Neurociencia Cognitiva en la Universidad Friedrich Schiller
-    de Jena. Me interesan los mecanismos de los trastornos neurodegenerativos y psiquiátricos y su
-    traslación a la práctica clínica.
+    de Jena y me interesan los mecanismos de los trastornos neurodegenerativos y psiquiátricos y su
+    traslación a la práctica clínica. Disfruto leyendo informes de casos clínicos, yendo al gimnasio y
+    saliendo deliberadamente de mi zona de confort.
   bio_fr: >-
     Je suis étudiant en master de psychologie et de neurosciences cognitives à l’Université
     Friedrich-Schiller d’Iéna. Je m’intéresse aux mécanismes des troubles neurodégénératifs et
-    psychiatriques et à leur application dans la pratique clinique.
+    psychiatriques et à leur application en pratique clinique. J’aime lire des études de cas cliniques,
+    aller à la salle de sport et sortir délibérément de ma zone de confort.
 - first: Elias
   last: Schreiner
   role: Data Scientist & IT Infrastructure
