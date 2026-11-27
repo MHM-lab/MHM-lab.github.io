@@ -5,7 +5,6 @@ title: "法律声明"
 description: "Mental Health Mapping 实验室网站的法律声明（Impressum）。"
 sections: cards
 ---
-*本页为非官方中文译文，仅供参考。具有法律约束力的是[德文版本](/de/impressum/)。*
 
 本网站为非商业性网站，用于介绍 Mental Health Mapping 实验室的科研工作。
 

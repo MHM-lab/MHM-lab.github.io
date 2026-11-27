@@ -6,8 +6,6 @@ description: "Mental Health Mapping 实验室网站的隐私政策。"
 sections: collapsible
 ---
 
-*本页为非官方中文译文，仅供参考。具有法律约束力的是[德文版本](/de/privacy_policy/)。*
-
 本页说明您访问本网站时，您的数据会如何处理。
 
 ## 我们收集的数据

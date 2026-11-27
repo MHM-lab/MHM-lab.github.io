@@ -6,8 +6,6 @@ description: "Politique de confidentialité du site web du laboratoire Mental He
 sections: collapsible
 ---
 
-*Cette page est une traduction non officielle, fournie à titre indicatif. Seule la [version allemande](/de/privacy_policy/) fait foi juridiquement.*
-
 Cette page explique ce qu’il advient de vos données lorsque vous consultez ce site web.
 
 ## Données collectées

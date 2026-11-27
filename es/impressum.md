@@ -5,7 +5,6 @@ title: "Aviso legal"
 description: "Aviso legal (Impressum) del sitio web del laboratorio Mental Health Mapping."
 sections: cards
 ---
-*Esta es una traducción no oficial, ofrecida solo a título informativo. La versión legalmente vinculante es la [versión en alemán](/de/impressum/).*
 
 Este es un sitio web sin fines comerciales que presenta el trabajo científico del laboratorio Mental Health Mapping.
 

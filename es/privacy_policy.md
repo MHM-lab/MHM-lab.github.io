@@ -6,8 +6,6 @@ description: "Política de privacidad del sitio web del laboratorio Mental Healt
 sections: collapsible
 ---
 
-*Esta es una traducción no oficial, ofrecida solo a título informativo. La versión legalmente vinculante es la [versión en alemán](/de/privacy_policy/).*
-
 En esta página se explica qué ocurre con sus datos cuando visita este sitio web.
 
 ## Datos que recopilamos
