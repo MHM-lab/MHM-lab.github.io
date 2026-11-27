@@ -12,8 +12,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% assign page_title = page.title | default: "Mental Health Mapping Lab" %}
-  {% comment %} The homepage title names the PI, so searches for "Thomas Wolfers" also find the lab {% endcomment %}
-  <title>{% if page.title %}{{ page.title }} · {% endif %}Mental Health Mapping Lab · {% unless page.title %}Thomas Wolfers · {% endunless %}{{ ui.university }}</title>
+  {% comment %} The homepage title (ui.home_title) starts with the PI's name and names the topics and cities people search for {% endcomment %}
+  <title>{% if page.title %}{{ page.title }} · Mental Health Mapping Lab · {{ ui.university }}{% else %}{{ ui.home_title | default: "Thomas Wolfers · Mental Health Mapping Lab" }}{% endif %}</title>
   {% assign page_desc = page.description | default: site.description | strip_newlines | escape %}
   <meta name="description" content="{{ page_desc }}">
   <meta name="author" content="Laboratory for Mental Health Mapping">

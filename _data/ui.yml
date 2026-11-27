@@ -2,6 +2,7 @@
 # Pages for a language live under /<code>/ (English at the root). Data texts use fields like bio_zh, text_fr.
 en:
   lang_name: English
+  home_title: "Thomas Wolfers · Mental Health Mapping Lab · NeuroAI and Brain Health · Jena and Tübingen"
   html_lang: en
   og_locale: en_US
   nav:
@@ -35,6 +36,7 @@ en:
   - Dec
 de:
   lang_name: Deutsch
+  home_title: "Thomas Wolfers · Labor für Mental Health Mapping · NeuroAI und Gehirngesundheit · Jena und Tübingen"
   html_lang: de
   og_locale: de_DE
   nav:
@@ -68,6 +70,7 @@ de:
   - Dez.
 zh:
   lang_name: 中文
+  home_title: "Thomas Wolfers · Mental Health Mapping 实验室 · 神经人工智能与脑健康 · 耶拿与图宾根"
   html_lang: zh-Hans
   og_locale: zh_CN
   nav:
@@ -101,6 +104,7 @@ zh:
   - 12月
 hi:
   lang_name: हिन्दी
+  home_title: "Thomas Wolfers · Mental Health Mapping प्रयोगशाला · NeuroAI और मस्तिष्क स्वास्थ्य · येना और ट्यूबिंगन"
   html_lang: hi
   og_locale: hi_IN
   nav:
@@ -134,6 +138,7 @@ hi:
   - दिसंबर
 es:
   lang_name: Español
+  home_title: "Thomas Wolfers · Laboratorio Mental Health Mapping · NeuroAI y salud cerebral · Jena y Tubinga"
   html_lang: es
   og_locale: es_ES
   nav:
@@ -167,6 +172,7 @@ es:
   - diciembre
 fr:
   lang_name: Français
+  home_title: "Thomas Wolfers · Laboratoire Mental Health Mapping · NeuroAI et santé cérébrale · Iéna et Tübingen"
   html_lang: fr
   og_locale: fr_FR
   nav:

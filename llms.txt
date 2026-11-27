@@ -5,7 +5,7 @@ sitemap: false
 ---
 # Laboratory for Mental Health Mapping (MHM Lab)
 
-> {{ site.description | strip_newlines }} Led by Thomas Wolfers (Principal Investigator), Friedrich Schiller University Jena, Germany.
+> {{ site.description | strip_newlines }} Led by Thomas Wolfers (Principal Investigator), Friedrich Schiller University Jena, and part of the Department of Psychiatry at the University of Tübingen, Germany. Topics: NeuroAI, brain health, mental health, machine learning, normative modeling, computational psychiatry, neuroimaging.
 
 ## Pages
 - [Home]({{ site.url }}/): overview of the lab, its four research themes, and recent highlights
