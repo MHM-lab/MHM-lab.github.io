@@ -25,6 +25,6 @@ Adoptamos una postura equilibrada. Los LLM ayudan a editar textos, esbozar ideas
 
 - **Permitido:** edición lingüística de las revisiones.
 - **No permitido:** compartir manuscritos inéditos con herramientas externas o usar la IA para generar valoraciones.
-- **Cumplimiento de normas:** la revisión debe seguir las normas de la revista o del congreso correspondiente, tal como (con suerte) se indican en la invitación a revisar.
+- **Cumplimiento de normas:** la revisión debe seguir las normas de la revista o del congreso correspondiente, tal como se indican en la invitación a revisar.
 
 *Esta política puede cambiar a medida que evolucionen el campo y su normativa.*

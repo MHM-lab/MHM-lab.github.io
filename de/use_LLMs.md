@@ -25,6 +25,6 @@ Wir vertreten eine ausgewogene Haltung. LLMs helfen beim Redigieren, beim Skizzi
 
 - **Erlaubt:** Sprachliche Überarbeitung von Gutachten.
 - **Nicht erlaubt:** Unveröffentlichte Manuskripte mit externen Tools zu teilen oder KI zur Erstellung von Urteilen zu nutzen.
-- **Regelkonformität:** Die Begutachtung muss den Regeln der jeweiligen Zeitschrift oder Konferenz folgen, wie sie (hoffentlich) mit der Einladung zur Begutachtung mitgeteilt werden.
+- **Regelkonformität:** Die Begutachtung muss den Regeln der jeweiligen Zeitschrift oder Konferenz folgen, wie sie mit der Einladung zur Begutachtung mitgeteilt werden.
 
 *Diese Richtlinie kann sich ändern, wenn sich das Feld und seine Regelungen weiterentwickeln.*

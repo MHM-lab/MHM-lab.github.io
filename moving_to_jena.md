@@ -35,7 +35,7 @@ Carl Zeiss is everywhere in Jena. The largest [Carl Zeiss research campus worldw
 
 Housing can be competitive but manageable, and the daycare infrastructure is excellent. Our children enjoy attending *Kita* until late afternoon, which makes balancing work and family life much easier.
 
-Jena is a lively city that supports its residents. We managed all city-related paperwork **online**, received an appointment the same day, and completed everything within hours, almost unheard of in Germany.
+Jena is a lively city that supports its residents. We managed all city-related paperwork **online**, received an appointment the same day, and completed everything within hours, faster than we expected.
 
 **Useful links**
 
@@ -89,7 +89,7 @@ Academic life is highly international, and English is widely spoken in research.
 - [TV-L salary calculator](https://oeffentlicher-dienst.info/c/t/rechner/tv-l/west?id=tv-l-2025)
 - [Numbeo: Cost of living](https://www.numbeo.com/cost-of-living)
 
-**Living costs in Jena are easy to compare online**. What matters are living costs, median salaries, and returns on capital: figures that reflect conditions for most people, not just top earners. By this measure, Jena stands out: costs are noticeably lower than in most large German cities ([compare yourself](https://livingcost.org/cost)) while average salaries are comparable or higher. Add reliable daycare, strong social services, healthcare, efficient local government, and affordable public spaces, and you get a city that thrives on balance, especially attractive for young professionals and families. Disclaimer: the tool reports average salaries, which are only rough estimates and likely based on skewed data.
+**Living costs in Jena are easy to compare online**. What matters are living costs and median salaries: figures that reflect conditions for most people, not just top earners. By this measure, Jena stands out: costs are noticeably lower than in most large German cities ([compare yourself](https://livingcost.org/cost)) while average salaries are comparable or higher. Add reliable daycare, strong social services, healthcare, efficient local government, and affordable public spaces, and you get a well-balanced city, especially attractive for young professionals and families. Disclaimer: the tool reports average salaries, which are only rough estimates and likely based on skewed data.
 
 ## Social support
 
@@ -107,7 +107,7 @@ Germany provides comprehensive social protection: health insurance, unemployment
 
 - Parental allowance (*Elterngeld*): 65–67% of net income for up to 14 months when both parents take leave (12 months for one parent).
 - Kindergarten and childcare: affordable, high quality (most with gardens and well-trained staff).
-- Public schools: free and good. International schools exist in nearby cities but are usually unnecessary.
+- Public schools: free and good. International schools exist in nearby cities, but most families find the public schools a good choice.
 
 ## Vacation
 

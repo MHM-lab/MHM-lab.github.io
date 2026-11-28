@@ -25,6 +25,6 @@ Nous adoptons une position équilibrée. Les LLM aident à relire et corriger de
 
 - **Autorisé :** amélioration de la langue des rapports d’évaluation.
 - **Non autorisé :** partager des manuscrits non publiés avec des outils externes ou utiliser l’IA pour formuler des jugements.
-- **Conformité :** les pratiques d’évaluation doivent respecter les règles de la revue ou de la conférence concernée, telles qu’elles sont (espérons-le) fournies avec l’invitation à évaluer.
+- **Conformité :** les pratiques d’évaluation doivent respecter les règles de la revue ou de la conférence concernée, telles qu’elles sont fournies avec l’invitation à évaluer.
 
 *Cette politique pourra évoluer avec le domaine et sa réglementation.*

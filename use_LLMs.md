@@ -24,6 +24,6 @@ We take a balanced view. LLMs help with editing, sketching ideas, coding, and mo
 
 - **Permitted:** Language editing of reviews.
 - **Not permitted:** Sharing unpublished manuscripts with external tools or using AI to generate judgments.
-- **Compliance:** Review practices must follow the rules of the respective journal or conference, as (hopefully) provided with the review invitation.
+- **Compliance:** Review practices must follow the rules of the respective journal or conference, as provided with the review invitation.
 
 *This policy may change as the field and its regulations evolve.*

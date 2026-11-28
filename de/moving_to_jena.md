@@ -36,7 +36,7 @@ Carl Zeiss ist in Jena überall präsent. Derzeit entsteht der weltweit größte
 
 Die Wohnungssuche kann umkämpft, ist aber machbar, und die Kinderbetreuung ist hervorragend. Unsere Kinder gehen gern bis zum späten Nachmittag in die *Kita*, was die Vereinbarkeit von Beruf und Familie sehr erleichtert.
 
-Jena ist eine lebendige Stadt, die ihre Bürgerinnen und Bürger unterstützt. Wir haben alle Behördengänge **online** erledigt, noch am selben Tag einen Termin bekommen und alles innerhalb weniger Stunden abgeschlossen, in Deutschland fast unerhört.
+Jena ist eine lebendige Stadt, die ihre Bürgerinnen und Bürger unterstützt. Wir haben alle Behördengänge **online** erledigt, noch am selben Tag einen Termin bekommen und alles innerhalb weniger Stunden abgeschlossen, schneller als erwartet.
 
 **Nützliche Links**
 
@@ -90,7 +90,7 @@ Das akademische Leben ist sehr international, und in der Forschung wird viel Eng
 - [TV-L-Gehaltsrechner](https://oeffentlicher-dienst.info/c/t/rechner/tv-l/west?id=tv-l-2025)
 - [Numbeo: Lebenshaltungskosten](https://www.numbeo.com/cost-of-living)
 
-**Die Lebenshaltungskosten in Jena lassen sich online leicht vergleichen**. Entscheidend sind Lebenshaltungskosten, mittlere Gehälter und Kapitalrenditen: Kennzahlen, die die Bedingungen für die meisten Menschen widerspiegeln, nicht nur für Spitzenverdiener. Gemessen daran sticht Jena hervor: Die Kosten liegen spürbar unter denen der meisten deutschen Großstädte ([selbst vergleichen](https://livingcost.org/cost)), während die Durchschnittsgehälter vergleichbar oder höher sind. Hinzu kommen verlässliche Kinderbetreuung, starke soziale Dienste, Gesundheitsversorgung, eine effiziente Stadtverwaltung und bezahlbare öffentliche Räume. Das Ergebnis ist eine Stadt, die von Ausgewogenheit lebt und besonders für junge Berufstätige und Familien attraktiv ist. Hinweis: Das Tool gibt Durchschnittsgehälter an, die nur grobe Schätzungen sind und vermutlich auf verzerrten Daten beruhen.
+**Die Lebenshaltungskosten in Jena lassen sich online leicht vergleichen**. Entscheidend sind Lebenshaltungskosten und mittlere Gehälter: Kennzahlen, die die Bedingungen für die meisten Menschen widerspiegeln, nicht nur für Spitzenverdiener. Gemessen daran sticht Jena hervor: Die Kosten liegen spürbar unter denen der meisten deutschen Großstädte ([selbst vergleichen](https://livingcost.org/cost)), während die Durchschnittsgehälter vergleichbar oder höher sind. Hinzu kommen verlässliche Kinderbetreuung, starke soziale Dienste, Gesundheitsversorgung, eine effiziente Stadtverwaltung und bezahlbare öffentliche Räume. Das Ergebnis ist eine Stadt, die von Ausgewogenheit lebt und besonders für junge Berufstätige und Familien attraktiv ist. Hinweis: Das Tool gibt Durchschnittsgehälter an, die nur grobe Schätzungen sind und vermutlich auf verzerrten Daten beruhen.
 
 ## Soziale Absicherung
 
@@ -108,7 +108,7 @@ Deutschland bietet umfassenden sozialen Schutz: Kranken-, Arbeitslosen- und Rent
 
 - Elterngeld: 65–67 % des Nettoeinkommens für bis zu 14 Monate, wenn beide Eltern Elternzeit nehmen (12 Monate für einen Elternteil).
 - Kindergarten und Kinderbetreuung: bezahlbar und von hoher Qualität (meist mit Garten und gut ausgebildetem Personal).
-- Öffentliche Schulen: kostenlos und gut. Internationale Schulen gibt es in nahe gelegenen Städten, sie sind aber meist nicht nötig.
+- Öffentliche Schulen: kostenlos und gut. Internationale Schulen gibt es in nahe gelegenen Städten, die meisten Familien finden die öffentlichen Schulen aber eine gute Wahl.
 
 ## Urlaub
 

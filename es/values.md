@@ -7,14 +7,14 @@ description: "Los valores que guían al laboratorio Mental Health Mapping: comun
 sections: collapsible
 ---
 
-Todos somos distintos e imperfectos: fallamos, juzgamos mal el contexto y, a veces, incumplimos nuestras propias normas. Esto forma parte de ser humanos. Por eso, la falibilidad humana es a la vez la razón por la que los valores fallan y la razón por la que los necesitamos. Nuestros valores son principios orientativos ante la incertidumbre, no reglas rígidas ni muestras de virtud.
+Todos somos distintos e imperfectos: fallamos, juzgamos mal el contexto y, a veces, incumplimos nuestras propias normas. Esto forma parte de ser humanos. Por eso, la falibilidad humana es a la vez la razón por la que los valores fallan y la razón por la que los necesitamos. Nuestros valores son principios orientativos ante la incertidumbre, no reglas rígidas.
 
 ## Comunicación atenta, amable y honesta
 
 La comunicación es una de las habilidades interpersonales más difíciles y, a la vez, una de las más importantes. Una buena comunicación se puede cultivar. Intentamos construir un laboratorio basado en una comunicación atenta, amable y honesta. Nos tomamos tiempo para pensar qué significa esto para cada uno de nosotros y para el grupo, y nos apoyamos mutuamente para comunicarnos mejor con nosotros mismos y con los demás.
 
 ## Celebrarnos y apoyarnos mutuamente
-Hoy la ciencia recompensa al individuo más que al grupo, pero nosotros nos alegramos del éxito de los demás. Nuestra influencia sobre los sistemas de recompensa actuales es limitada, por eso es importante reconocer que formamos parte de un colectivo que persigue un objetivo mayor. Nada de nuestro trabajo sería posible sin las personas que nos rodean.
+La ciencia suele recompensar más a las personas individuales que a los grupos. Aun así, celebramos los éxitos de los demás, porque nada de nuestro trabajo sería posible sin las personas que nos rodean.
 
 ## Valorar la diversidad
 
@@ -22,7 +22,7 @@ Valoramos la diversidad e intentamos reducir al mínimo los sesgos. No siempre e
 
 ## Aprender del fracaso
 
-Nos ayudamos mutuamente a aprender de los fracasos para avanzar hacia nuestros objetivos, y reconocemos que todo camino nuevo requiere ensayo y error. Esta es la base del aprendizaje.
+Nos ayudamos a aprender de los contratiempos y aceptamos que todo camino nuevo implica ensayo y error. Así es como se aprende.
 
 ## Nuestra postura sobre la inteligencia artificial
 
@@ -32,4 +32,4 @@ Consideramos los grandes modelos de lenguaje herramientas útiles con límites c
 
 ## Dónde publicamos y por qué
 
-Publicamos en revistas y congresos de referencia en aprendizaje automático, psiquiatría, psicología y neurociencia, porque el Mental Health Mapping es interdisciplinario por naturaleza y se beneficia de ser visible en todas estas comunidades. Los congresos de aprendizaje automático de alto impacto y las revistas médicas o de neurociencia permiten que nuestro trabajo llegue tanto a quienes innovan en los métodos como a quienes investigan en el ámbito clínico. Al mismo tiempo, buscamos un equilibrio entre impacto y accesibilidad. Apoyamos la ciencia abierta y creemos que las tasas de publicación deberían corresponderse con un valor real, pero también reconocemos que el prestigio de revistas y congresos sigue siendo importante, sobre todo para quienes están al inicio de su carrera investigadora. Por ello, nuestra estrategia de publicación da prioridad al alcance científico y al apoyo a la carrera profesional, y a la vez fomenta una cultura que desvincule estos objetivos de las tasas elevadas y del favoritismo dentro de determinados círculos.
+Publicamos en aprendizaje automático, psiquiatría, psicología y neurociencia, porque el Mental Health Mapping se apoya en todos estos campos. Los congresos llegan a quienes desarrollan métodos, y las revistas a profesionales clínicos y a quienes investigan en neurociencia. Apoyamos la ciencia abierta e intentamos equilibrar alcance, acceso y coste. También sabemos que el lugar donde se publica un artículo sigue importando para quienes están al inicio de su carrera, y lo tenemos en cuenta.

@@ -36,7 +36,7 @@ Carl Zeiss está presente en toda Jena. Actualmente se está construyendo el [ma
 
 Encontrar vivienda puede ser competitivo, pero es factible, y la oferta de guarderías es excelente. A nuestros hijos les encanta ir a la *Kita* (guardería) hasta última hora de la tarde, lo que facilita mucho conciliar el trabajo y la vida familiar.
 
-Jena es una ciudad dinámica que apoya a sus habitantes. Hicimos todos los trámites municipales **en línea**, obtuvimos cita el mismo día y lo completamos todo en pocas horas, algo casi inaudito en Alemania.
+Jena es una ciudad dinámica que apoya a sus habitantes. Hicimos todos los trámites municipales **en línea**, obtuvimos cita el mismo día y lo completamos todo en pocas horas, más rápido de lo que esperábamos.
 
 **Enlaces útiles**
 
@@ -90,7 +90,7 @@ La vida académica es muy internacional, y en la investigación se habla mucho i
 - [Calculadora salarial TV-L](https://oeffentlicher-dienst.info/c/t/rechner/tv-l/west?id=tv-l-2025)
 - [Numbeo: coste de vida](https://www.numbeo.com/cost-of-living)
 
-**El coste de vida en Jena es fácil de comparar en línea**. Lo que importa es el coste de vida, los salarios medianos y la rentabilidad del capital: cifras que reflejan las condiciones de la mayoría de las personas, no solo de quienes más ganan. Con este criterio, Jena destaca: los costes son claramente más bajos que en la mayoría de las grandes ciudades alemanas ([haga su propia comparación](https://livingcost.org/cost)), mientras que los salarios medios son similares o superiores. Si a esto se suman guarderías fiables, buenos servicios sociales, atención sanitaria, una administración local eficiente y espacios públicos asequibles, el resultado es una ciudad que vive del equilibrio y resulta especialmente atractiva para jóvenes profesionales y familias. Advertencia: la herramienta indica salarios medios, que son solo estimaciones aproximadas y probablemente se basan en datos sesgados.
+**El coste de vida en Jena es fácil de comparar en línea**. Lo que importa es el coste de vida y los salarios medianos: cifras que reflejan las condiciones de la mayoría de las personas, no solo de quienes más ganan. Con este criterio, Jena destaca: los costes son claramente más bajos que en la mayoría de las grandes ciudades alemanas ([haga su propia comparación](https://livingcost.org/cost)), mientras que los salarios medios son similares o superiores. Si a esto se suman guarderías fiables, buenos servicios sociales, atención sanitaria, una administración local eficiente y espacios públicos asequibles, el resultado es una ciudad que vive del equilibrio y resulta especialmente atractiva para jóvenes profesionales y familias. Advertencia: la herramienta indica salarios medios, que son solo estimaciones aproximadas y probablemente se basan en datos sesgados.
 
 ## Protección social
 
@@ -108,7 +108,7 @@ Alemania ofrece una protección social amplia: seguro médico, seguro de desempl
 
 - Prestación parental (*Elterngeld*): entre el 65 y el 67 % de los ingresos netos durante un máximo de 14 meses si ambos progenitores toman el permiso (12 meses si lo toma solo uno).
 - Guarderías y cuidado infantil: asequibles y de alta calidad (la mayoría con jardín y personal bien formado).
-- Escuelas públicas: gratuitas y de buena calidad. Hay escuelas internacionales en ciudades cercanas, aunque normalmente no son necesarias.
+- Escuelas públicas: gratuitas y de buena calidad. Hay escuelas internacionales en ciudades cercanas, aunque la mayoría de las familias consideran que las escuelas públicas son una buena opción.
 
 ## Vacaciones
 

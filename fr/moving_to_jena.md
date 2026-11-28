@@ -36,7 +36,7 @@ Carl Zeiss est omniprésent à Iéna. Le plus grand [campus de recherche Carl Ze
 
 Trouver un logement peut demander des efforts, mais reste faisable, et l’offre de garde d’enfants est excellente. Nos enfants aiment aller à la *Kita* (crèche) jusqu’en fin d’après-midi, ce qui facilite beaucoup l’équilibre entre vie professionnelle et vie familiale.
 
-Iéna est une ville vivante qui soutient ses habitants. Nous avons effectué toutes les démarches administratives auprès de la ville **en ligne**, obtenu un rendez-vous le jour même et tout réglé en quelques heures, ce qui est presque inédit en Allemagne.
+Iéna est une ville vivante qui soutient ses habitants. Nous avons effectué toutes les démarches administratives auprès de la ville **en ligne**, obtenu un rendez-vous le jour même et tout réglé en quelques heures, plus vite que nous ne l’avions prévu.
 
 **Liens utiles**
 
@@ -90,7 +90,7 @@ La vie académique est très internationale, et l’anglais est largement utilis
 - [Calculateur de salaire TV-L](https://oeffentlicher-dienst.info/c/t/rechner/tv-l/west?id=tv-l-2025)
 - [Numbeo : coût de la vie](https://www.numbeo.com/cost-of-living)
 
-**Le coût de la vie à Iéna se compare facilement en ligne**. Ce qui compte, ce sont le coût de la vie, les salaires médians et les revenus du capital : des chiffres qui reflètent la situation de la plupart des gens, et pas seulement celle des plus hauts revenus. À cette aune, Iéna se distingue : le coût de la vie y est nettement plus bas que dans la plupart des grandes villes allemandes ([comparez par vous-même](https://livingcost.org/cost)), alors que les salaires moyens sont comparables ou plus élevés. Ajoutez à cela une garde d’enfants fiable, des services sociaux solides, un bon système de santé, une administration locale efficace et des espaces publics accessibles, et vous obtenez une ville qui repose sur l’équilibre, particulièrement attrayante pour les jeunes actifs et les familles. Avertissement : l’outil indique des salaires moyens, qui ne sont que des estimations approximatives et reposent probablement sur des données biaisées.
+**Le coût de la vie à Iéna se compare facilement en ligne**. Ce qui compte, ce sont le coût de la vie et les salaires médians : des chiffres qui reflètent la situation de la plupart des gens, et pas seulement celle des plus hauts revenus. À cette aune, Iéna se distingue : le coût de la vie y est nettement plus bas que dans la plupart des grandes villes allemandes ([comparez par vous-même](https://livingcost.org/cost)), alors que les salaires moyens sont comparables ou plus élevés. Ajoutez à cela une garde d’enfants fiable, des services sociaux solides, un bon système de santé, une administration locale efficace et des espaces publics accessibles, et vous obtenez une ville qui repose sur l’équilibre, particulièrement attrayante pour les jeunes actifs et les familles. Avertissement : l’outil indique des salaires moyens, qui ne sont que des estimations approximatives et reposent probablement sur des données biaisées.
 
 ## Protection sociale
 
@@ -108,7 +108,7 @@ L’Allemagne offre une protection sociale étendue : assurance maladie, assuran
 
 - Allocation parentale (*Elterngeld*) : 65 à 67 % du revenu net pendant 14 mois au maximum lorsque les deux parents prennent un congé (12 mois pour un seul parent).
 - Crèches et garde d’enfants : abordables et de grande qualité (la plupart avec un jardin et un personnel bien formé).
-- Écoles publiques : gratuites et de bonne qualité. Il existe des écoles internationales dans les villes voisines, mais elles sont rarement nécessaires.
+- Écoles publiques : gratuites et de bonne qualité. Il existe des écoles internationales dans les villes voisines, mais la plupart des familles trouvent que les écoles publiques sont un bon choix.
 
 ## Congés
 
